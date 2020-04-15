@@ -1,0 +1,97 @@
+<!--pages/turnip-prices/turnip-prices.wxml-->
+<view class="first-time-radios-group">
+    <text class="">是否第一次购买</text>
+    <radio-group bindchange="onSetFirstBuy">
+        <view class="radios"><radio value="false" checked="{{true}}">否</radio></view>
+        <view class="radios"><radio value="true">是</radio></view>
+    </radio-group>
+</view>
+<text class="tips">是否第一次购买会影响预测结果</text>
+
+<view class="previous-pattern">
+    <text >上一次的价格走势：</text>
+    <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
+        <view class="picker"> {{patternArray[previousPartternIndex]}} </view>
+    </picker>
+</view>
+
+<view class="sunday-price">
+    <input placeholder="周日的价格" type="number" bindinput="onInputSunday"></input>
+</view>
+
+<view class="tips">
+    <i>AM - 8:00 am to 11:59 am</i>
+    <i>PM - 12:00 pm to 10:00 pm</i>
+</view>
+
+<view class="week-day-price-record">
+    <text class="week-day">周一</text>
+    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="0"></input>
+    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="1"></input>
+</view>
+<view class="week-day-price-record">
+    <text class="week-day">周二</text>
+    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="1" data-type="0"></input>
+    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="1" data-type="1"></input>
+</view>
+<view class="week-day-price-record">
+    <text class="week-day">周三</text>
+    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="2" data-type="0"></input>
+    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="2" data-type="1"></input>
+</view>
+<view class="week-day-price-record">
+    <text class="week-day">周四</text>
+    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="3" data-type="0"></input>
+    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="3" data-type="1"></input>
+</view>
+<view class="week-day-price-record">
+    <text class="week-day">周五</text>
+    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="4" data-type="0"></input>
+    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="4" data-type="1"></input>
+</view>
+<view class="week-day-price-record">
+    <text class="week-day">周六</text>
+    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="0"></input>
+    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="1"></input>
+</view>
+
+<view class="results-output">
+    <scroll-view scroll-x="true">
+        <view class="table">
+            <view class="tr bg-w">
+                <view class="th">走势</view>
+                <view class="th">概率</view>
+                <view class="th">周一上午</view>
+                <view class="th">周一下午</view>
+                <view class="th">周二上午</view>
+                <view class="th">周二下午</view>
+                <view class="th">周三上午</view>
+                <view class="th">周三下午</view>
+                <view class="th">周四上午</view>
+                <view class="th">周四下午</view>
+                <view class="th">周五上午</view>
+                <view class="th">周五下午</view>
+                <view class="th">周六上午</view>
+                <view class="th">周六下午</view>
+                <view class="th">保底</view>
+                <view class="th">可能高点</view>
+            </view>
+            <view wx:for="{{listData}}" wx:key="{{code}}">
+                <view class="tr bg-g" wx:if="{{index % 2 == 0}}">
+                    <view class="td">{{item.code}}</view>
+                    <view class="td">{{item.text}}</view>
+                    <view class="td">{{item.type}}</view>
+                </view>
+                <view class="tr" wx:else>
+                    <view class="td">{{item.code}}</view>
+                    <view class="td">{{item.text}}</view>
+                    <view class="td">{{item.type}}</view>
+                </view>
+            </view>
+        </view>
+    </scroll-view>
+</view>
+
+<view >
+    <text >预测模型来源</text>
+</view>

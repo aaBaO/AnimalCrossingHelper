@@ -1,0 +1,61 @@
+<!--pages/dexDetailInfo/dexDetailInfo.wxml-->
+<view class="detail-img">
+    <image class="detail-img" mode="aspectFit" src="{{inspetData.imgFile}}"></image>
+</view>
+<view class="detail">
+    <p class="info">{{hemisphere == 'nh'?'北半球':'南半球'}}</p>
+    <p class="info">{{inspetData.name}}</p>
+    <p class="info">价格:{{inspetData.price}}</p>
+    <p class="info" wx:if="{{inspetData.shadowSize}}">体型:{{inspetData.shadowSize}}</p>
+    <p class="info">出现地点:{{inspetData.location}}</p>
+    <view class="month-list">
+        <view class="item">
+            <p class="month">一月</p>
+            <p class="enable">{{inspetData.Jan}}</p>
+        </view>
+        <view class="item">
+            <p class="month">二月</p>
+            <p class="enable">{{inspetData.Feb}}</p>
+        </view>
+        <view class="item">
+            <p class="month">三月</p>
+            <p class="enable">{{inspetData.Mar}}</p>
+        </view>
+        <view class="item">
+            <p class="month">四月</p>
+            <p class="enable">{{inspetData.Apr}}</p>
+        </view>
+        <view class="item">
+            <p class="month">五月</p>
+            <p class="enable">{{inspetData.May}}</p>
+        </view>
+        <view class="item">
+            <p class="month">六月</p>
+            <p class="enable">{{inspetData.Jun}}</p>
+        </view>
+        <view class="item">
+            <p class="month">七月</p>
+            <p class="enable">{{inspetData.Jul}}</p>
+        </view>
+        <view class="item">
+            <p class="month">八月</p>
+            <p class="enable">{{inspetData.Aug}}</p>
+        </view>
+        <view class="item">
+            <p class="month">九月</p>
+            <p class="enable">{{inspetData.Sep}}</p>
+        </view>
+        <view class="item">
+            <p class="month">十月</p>
+            <p class="enable">{{inspetData.Oct}}</p>
+        </view>
+        <view class="item">
+            <p class="month">十一月</p>
+            <p class="enable">{{inspetData.Nov}}</p>
+        </view>
+        <view class="item">
+            <p class="month">十二月</p>
+            <p class="enable">{{inspetData.Dec}}</p>
+        </view>
+    </view>
+</view>

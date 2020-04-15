@@ -1,0 +1,39 @@
+/* pages/dexDetailInfo/dexDetailInfo.wxss */
+view.detail-img{
+  display: flex;
+  height: 33%;
+  justify-content: center;
+}
+image.detail-img{
+  width: 128px;
+  height: 128px;
+  padding: 2em 4em 2em 4em;
+}
+
+view.detail{
+  margin: 2em 1em 2em 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+view.month-list{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin: 2em 0 0 0;
+}
+
+view.month-list .item{
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  flex: 1 1 15%;
+  margin: 0.1em;
+}
+
+p.detail{
+  font-weight: 10px;
+  padding: 0 0 0 1em;
+}

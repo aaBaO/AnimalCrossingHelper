@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/fishdex/fishdex",
+    "pages/bugdex/bugdex",
+    "pages/dexDetailInfo/dexDetailInfo",
+    "pages/turnip-prices/turnip-prices"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "动物之森小助手",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

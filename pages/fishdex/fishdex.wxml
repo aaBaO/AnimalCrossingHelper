@@ -1,0 +1,26 @@
+<!--pages/fishdex.wxml-->
+<view class="search-bar">
+    <input placeholder="输入名称/全拼/简拼查询" type="text" 
+        confirm-type="search"
+        bindinput="onInputSearch" focus="true"></input>
+    <!-- <button class="searchbtn" type="primary" bindtap="onConfirmSearch">
+        <icon type="search" color="white" size="{{25}}"></icon>
+    </button> -->
+</view>
+
+<radio-group bindchange="onHemisphereChange">
+    <view class="radios"><radio value='sh' checked="{{true}}">北半球</radio></view>
+    <view class="radios"><radio value='nh'>南半球</radio></view>
+</radio-group>
+
+<view class="list">
+    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
+        <view id="item-{{index}}" class="item" 
+            bindtap="onTapMoreInfo" data-index="{{index}}">
+            <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgFile}}" lazy-load="{{true}}"></image>
+            <p class="name">{{dataList[index].name}} </p>
+            <p class="price">{{dataList[index].price}} </p>
+            <!-- <icon type="info" color="black" size="{{25}}" bindtap="onTapMoreInfo" data-index="{{index}}"></icon> -->
+        </view>
+    </block>
+</view>
