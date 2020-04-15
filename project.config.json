@@ -27,7 +27,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.10.4",
 	"appid": "wx3e6d5847f514535d",
-	"projectname": "CrossingAnimalHelper",
+	"projectname": "AnimalCrossingHelper",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

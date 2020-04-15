@@ -118,6 +118,8 @@ Page({
     var first_buy = this.data.firstBuy
     var previous_pattern = this.data.previousPartternIndex
 
+    prices = [this.data.sundayPrice, this.data.sundayPrice, ...prices]
+
     let output_possibilities = [];
     for (let poss of predictions.analyze_possibilities(prices, first_buy, previous_pattern)) {
       var result = {}

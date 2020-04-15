@@ -1,17 +1,15 @@
 <!--index.wxml-->
-<view class="category">鱼类图鉴</view>
-<view class="category">昆虫图鉴</view>
+<view class="navi-button" bindtap="onclick_fishdex">鱼类图鉴</view>
+<view class="navi-button" bindtap="onclick_bugdex">昆虫图鉴</view>
+<!-- <view class="navi-button" bindtap="onclick_turnip_price">大头菜预测</view> -->
 
-<view class="navi-button-container">
-    <button bindtap="onclick_fishdex" class="navi-button">鱼类图鉴</button>
-    <button bindtap="onclick_bugdex" class="navi-button">昆虫图鉴</button>
-    <button bindtap="onclick_turnip_price" class="navi-button">大头菜预测</button>
-</view>
 <view class="desc" style="text-align:center">
-    <button open-type='feedback'>意见反馈</button>
+    <button open-type='feedback'>反馈建议</button>
+    <text style="font-size: 20px; font-weight: 200">大头菜预测正在加速开发!!
+    </text>
     <text style="font-size: 14px; font-weight: 200">目前小程序还在不断更新，欢迎反馈。
     </text>
 </view>
-<!-- <view class="mad">
-  <ad unit-id="adunit-44c37700377b3faf" ad-type="video" ad-theme="white"></ad>
-</view> -->
+<view class="mad">
+  <ad unit-id="adunit-d4d8b6881caf61c7"></ad>
+</view>

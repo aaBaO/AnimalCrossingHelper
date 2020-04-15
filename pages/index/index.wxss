@@ -1,6 +1,6 @@
 /**index.wxss**/
 
-.category{
+.navi-button{
   margin:1.2em 2em;
   padding:1em;
   background-color:#f4f4f4;
@@ -11,18 +11,6 @@
   border-style: solid;
   border-width: 0.1em;
   border-color:#dddddd;
-}
-
-.navi-button-container{
-  display: flex;
-  flex-direction: column;
-}
-
-.navi-button{
-  position: relative;
-  margin: 0.5em;
-  border-radius: 5px;
-  flex: 1 1 100%;
 }
 
 .text{

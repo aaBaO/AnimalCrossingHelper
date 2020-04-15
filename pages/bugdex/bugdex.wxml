@@ -1,24 +1,16 @@
 <!--pages/bugdex.wxml-->
 <view class="search-bar">
-    <input class="cinput" placeholder="名称/全拼/简拼首字母" type="text" bindinput="onInputSearch" focus="true"></input>
-    <button class="searchbtn" type="primary" bindtap="onConfirmSearch">
-        <icon type="search" color="white" size="{{25}}"></icon>
-        <text >搜索</text>
-    </button>
+    <input placeholder="输入名称/全拼/简拼查询" type="text" confirm-type="search"
+        bindinput="onInputSearch" bindconfirm="onConfirmSearch"></input>
 </view>
-<view class="radios">
-    <radio-group bindchange="onHemisphereChange">
-        <radio value='sh' checked="{{true}}">北半球</radio>
-        <radio value='nh'>南半球</radio>
-    </radio-group>
-</view>
+
 <view class="list">
     <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
-        <view id="item-{{index}}" class="item">
+        <view id="item-{{index}}" class="item" 
+            bindtap="onTapMoreInfo" data-index="{{dataList[index].name}}">
             <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgFile}}" lazy-load="{{true}}"></image>
             <p class="name">{{dataList[index].name}} </p>
             <p class="price">{{dataList[index].price}} </p>
-            <icon type="info" color="black" size="{{25}}" bindtap="onTapMoreInfo" data-index="{{index}}"></icon>
         </view>
     </block>
 </view>

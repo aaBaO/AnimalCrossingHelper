@@ -261,7 +261,7 @@ var json=[
       "hongjingfengdie",
       "hjfd"
     ],
-    "imgFile": "../../assets/bug/NH_Icon_Rajah_Brooke's_birdwing.png"
+    "imgFile": "../../assets/bug/NH_Icon_Rajah_Brookes_birdwing.png"
   },
   {
     "name": "亚历山大凤蝶",
@@ -285,7 +285,7 @@ var json=[
       "yalishandafengdie",
       "ylsdfd"
     ],
-    "imgFile": "../../assets/bug/NH_Icon_Queen_Alexandra's_birdwing.png"
+    "imgFile": "../../assets/bug/NH_Icon_Queen_Alexandras_birdwing.png"
   },
   {
     "name": "飞蛾",
@@ -842,7 +842,7 @@ var json=[
   {
     "name": "萤火虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH_Icon_Firefly.png/revision/latest/scale-to-width-down/128?cb=20200407021720&path-prefix=zh",
-    "price": "?",
+    "price": "300",
     "location": "飞在空中",
     "time": "7PM-4AM",
     "Jan": "-",
@@ -1418,7 +1418,7 @@ var json=[
   {
     "name": "黄金鬼锹形虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH_Icon_Golden_stag.png/revision/latest/scale-to-width-down/128?cb=20200407024754&path-prefix=zh",
-    "price": "?",
+    "price": "12000",
     "location": "树上",
     "time": "5PM-8AM",
     "Jan": "-",
@@ -1442,7 +1442,7 @@ var json=[
   {
     "name": "长颈鹿锯锹形虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH_Icon_Giraffe_stag.png/revision/latest/scale-to-width-down/128?cb=20200407024800&path-prefix=zh",
-    "price": "?",
+    "price": "12000",
     "location": "树上",
     "time": "5PM-8AM",
     "Jan": "-",
@@ -1538,7 +1538,7 @@ var json=[
   {
     "name": "长戟大兜虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH_Icon_Horned_hercules.png/revision/latest/scale-to-width-down/128?cb=20200407024843&path-prefix=zh",
-    "price": "?",
+    "price": "12000",
     "location": "树上",
     "time": "5PM-8AM",
     "Jan": "-",

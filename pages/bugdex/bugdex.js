@@ -1,6 +1,5 @@
 // pages/bugdex.js
 var bug_nh_data = require('../../database/bug_nh.js')
-var bug_sh_data = require('../../database/bug_sh.js')
 const utils = require('../../utils/utils')
 
 Page({
@@ -9,13 +8,15 @@ Page({
    * 页面的初始数据
    */
   data: {
-    hemisphere:'nh'
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+    bug_nh_data.data.sort(function(a, b){
+      return parseInt(a.price) - parseInt(b.price)
+    })
     this.setData({
       dataList: bug_nh_data.data
     });
@@ -103,7 +104,6 @@ Page({
     var tapIndex = e.currentTarget.dataset.index
     var detailInfo = {
       type:'bug',
-      hemisphere:this.data.hemisphere,
       index:tapIndex,
     }
     var params = utils.urlEncode(detailInfo, 1) 
@@ -111,14 +111,4 @@ Page({
       url: '../dexDetailInfo/dexDetailInfo' + params,
     })
   },
-
-  onHemisphereChange:function(e){
-    var h = e.detail.value
-    this.onSearch('')
-    this.setData({
-      hemisphere: h,
-      dataList: h === 'nh'? bug_nh_data.data : bug_sh_data.data,
-      searchInput: ''
-    })
-  }
 })

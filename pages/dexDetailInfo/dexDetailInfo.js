@@ -1,12 +1,21 @@
 // pages/dexDetailInfo/dexDetailInfo.js
 const utils = require('../../utils/utils')
+
+var fish_nh_data = require('../../database/fish_nh.js')
+var fish_sh_data = require('../../database/fish_sh.js')
+var bug_sh_data = require('../../database/bug_nh.js')
+var bug_sh_data = require('../../database/bug_sh.js')
+
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    dexType:'undefined',
+    hemisphere:'sh',
+    index:0,
+    inspectData:'undefined',
   },
 
   /**
@@ -14,19 +23,42 @@ Page({
    */
   onLoad: function (options) {
     var dexType = options.type
-    var hemisphere = options.hemisphere
+    var hemisphere = this.data.hemisphere
     var index = options.index
-    var dataList = require('../../database/{type}_{hemisphere}.js'.format({
-      type:dexType,
-      hemisphere:hemisphere
-    }))
-    var inspetData = dataList.data[index]
-    console.log(inspetData)
+
+    var inspectData = this.getInspectData(dexType, hemisphere, index)
+
+    console.log(inspectData)
     this.setData({
-      inspetData:inspetData,
+      inspectData:inspectData,
       dexType:dexType,
-      hemisphere:hemisphere,
+      index:index,
     })
+  },
+
+  getInspectData: function(type, hemisphere, index){
+    var dataList = 'undefined'
+    if(type == 'fish'){
+      if(hemisphere == 'nh'){
+        dataList = fish_nh_data.data
+      } else{
+        dataList = fish_sh_data.data
+      }
+    }
+    if(type == 'bug'){
+      if(hemisphere == 'nh'){
+        dataList = bug_nh_data.data
+      } else{
+        dataList = bug_sh_data.data
+      }
+    }
+    index = decodeURI(index)
+    for(var item of dataList){
+      console.log(item)
+      if(item.name == index)
+        return item
+    }
+    return {}
   },
 
   /**
@@ -76,10 +108,22 @@ Page({
    */
   onShareAppMessage: function () {
     var paramsURL = utils.urlEncode(this.options, 1) 
-    var hemisphere = hemisphere == 'nh' ? '北半球':'南半球'
     return {
-      title: "图鉴详情:" + hemisphere + "的" + this.data.inspetData.name,
+      title: "图鉴详情:" + this.data.inspectData.name,
       path: this.route + paramsURL
     }
+  },
+
+  onHemisphereChange:function(e){
+    var h = e.detail.value
+    var dexType = this.data.dexType
+    var index = this.data.index
+
+    var inspectData = this.getInspectData(dexType, h, index)
+
+    this.setData({
+      hemisphere: h,
+      inspectData: inspectData
+    })
   }
 })

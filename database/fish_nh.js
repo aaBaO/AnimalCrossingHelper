@@ -127,7 +127,7 @@ var json=[
   {
     "name": "锦鲤",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH_Icon_Koi.png/revision/latest/scale-to-width-down/128?cb=20200406064913&path-prefix=zh",
-    "price": "4,000",
+    "price": "4000",
     "location": "池塘",
     "shadowSize": "4",
     "time": "4PM-9AM",
@@ -152,7 +152,7 @@ var json=[
   {
     "name": "金鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH_Icon_Goldfish.png/revision/latest/scale-to-width-down/128?cb=20200406064816&path-prefix=zh",
-    "price": "1,300",
+    "price": "1300",
     "location": "池塘",
     "shadowSize": "1",
     "time": "全天",
@@ -177,7 +177,7 @@ var json=[
   {
     "name": "龙睛金鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH_Icon_Pop-eyed_goldfish.png/revision/latest/scale-to-width-down/128?cb=20200406070001&path-prefix=zh",
-    "price": "1,300",
+    "price": "1300",
     "location": "池塘",
     "shadowSize": "1",
     "time": "9AM-4PM",
@@ -202,7 +202,7 @@ var json=[
   {
     "name": "兰寿金鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH_Icon_Ranchu_goldfish.png/revision/latest/scale-to-width-down/128?cb=20200406070021&path-prefix=zh",
-    "price": "4,500",
+    "price": "4500",
     "location": "池塘",
     "shadowSize": "2",
     "time": "9AM-4PM",
@@ -277,7 +277,7 @@ var json=[
   {
     "name": "鳖",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH_Icon_Soft-shelled_turtle.png/revision/latest/scale-to-width-down/128?cb=20200406070024&path-prefix=zh",
-    "price": "3,750",
+    "price": "3750",
     "location": "河流",
     "shadowSize": "4",
     "time": "4PM-9AM",
@@ -302,7 +302,7 @@ var json=[
   {
     "name": "拟鳄龟",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH_Icon_Snapping_Turtle.png/revision/latest/scale-to-width-down/128?cb=20200406070104&path-prefix=zh",
-    "price": "5,000",
+    "price": "5000",
     "location": "河流",
     "shadowSize": "4",
     "time": "9PM-4AM",
@@ -577,7 +577,7 @@ var json=[
   {
     "name": "白斑狗鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH_Icon_Pike.png/revision/latest/scale-to-width-down/128?cb=20200406065125&path-prefix=zh",
-    "price": "1,800",
+    "price": "1800",
     "location": "河流",
     "shadowSize": "5",
     "time": "全天",
@@ -652,7 +652,7 @@ var json=[
   {
     "name": "樱花钩吻鲑",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH_Icon_Cherry_salmon.png/revision/latest/scale-to-width-down/128?cb=20200406070310&path-prefix=zh",
-    "price": "1,000",
+    "price": "1000",
     "location": "河流(悬崖顶部)",
     "shadowSize": "3",
     "time": "4PM-9AM",
@@ -677,7 +677,7 @@ var json=[
   {
     "name": "花羔红点鲑",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH_Icon_Char.png/revision/latest/scale-to-width-down/128?cb=20200406064539&path-prefix=zh",
-    "price": "3,800",
+    "price": "3800",
     "location": "河流(悬崖顶部)池塘",
     "shadowSize": "3",
     "time": "4PM-9AM",
@@ -702,7 +702,7 @@ var json=[
   {
     "name": "金鳟",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH_Icon_Golden_trout.png/revision/latest/scale-to-width-down/128?cb=20200406070314&path-prefix=zh",
-    "price": "15,000",
+    "price": "15000",
     "location": "河流(悬崖顶部)",
     "shadowSize": "3",
     "time": "4PM-9AM",
@@ -727,7 +727,7 @@ var json=[
   {
     "name": "远东哲罗鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH_Icon_Stringfish.png/revision/latest/scale-to-width-down/128?cb=20200406065451&path-prefix=zh",
-    "price": "15,000",
+    "price": "15000",
     "location": "河流(悬崖顶部)",
     "shadowSize": "5",
     "time": "4PM-9AM",
@@ -777,7 +777,7 @@ var json=[
   {
     "name": "帝王鲑",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH_Icon_King_salmon.png/revision/latest/scale-to-width-down/128?cb=20200406070315&path-prefix=zh",
-    "price": "1,800",
+    "price": "1800",
     "location": "河流(入海口)",
     "shadowSize": "6",
     "time": "全天",
@@ -802,7 +802,7 @@ var json=[
   {
     "name": "中华绒螯蟹",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH_Icon_Mitten_crab.png/revision/latest/scale-to-width-down/128?cb=20200406070317&path-prefix=zh",
-    "price": "2,000",
+    "price": "2000",
     "location": "河流",
     "shadowSize": "2",
     "time": "4PM-9AM",
@@ -827,7 +827,7 @@ var json=[
   {
     "name": "孔雀鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH_Icon_Guppy.png/revision/latest/scale-to-width-down/128?cb=20200406064846&path-prefix=zh",
-    "price": "1,300",
+    "price": "1300",
     "location": "河流",
     "shadowSize": "1",
     "time": "9AM-4PM",
@@ -852,7 +852,7 @@ var json=[
   {
     "name": "温泉医生鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH_Icon_Nibble_fish.png/revision/latest/scale-to-width-down/128?cb=20200406070439&path-prefix=zh",
-    "price": "1,500",
+    "price": "1500",
     "location": "河流",
     "shadowSize": "2",
     "time": "9AM-4PM",
@@ -877,7 +877,7 @@ var json=[
   {
     "name": "神仙鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH_Icon_Angelfish.png/revision/latest/scale-to-width-down/128?cb=20200406063605&path-prefix=zh",
-    "price": "3,000",
+    "price": "3000",
     "location": "河流",
     "shadowSize": "2",
     "time": "4PM-9AM",
@@ -902,7 +902,7 @@ var json=[
   {
     "name": "斗鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH_Icon_Betta.png/revision/latest/scale-to-width-down/128?cb=20200406063643&path-prefix=zh",
-    "price": "2,500",
+    "price": "2500",
     "location": "河流",
     "shadowSize": "2",
     "time": "9AM-4PM",
@@ -977,7 +977,7 @@ var json=[
   {
     "name": "食人鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH_Icon_Piranha.png/revision/latest/scale-to-width-down/128?cb=20200406065132&path-prefix=zh",
-    "price": "2,500",
+    "price": "2500",
     "location": "河流",
     "shadowSize": "2",
     "time": "9AM-4PM&9PM-4AM",
@@ -1002,7 +1002,7 @@ var json=[
   {
     "name": "骨舌鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH_Icon_Arowana.png/revision/latest/scale-to-width-down/128?cb=20200406063618&path-prefix=zh",
-    "price": "10,000",
+    "price": "10000",
     "location": "河流",
     "shadowSize": "4",
     "time": "4PM-9AM",
@@ -1027,7 +1027,7 @@ var json=[
   {
     "name": "黄金河虎",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH_Icon_Dorado.png/revision/latest/scale-to-width-down/128?cb=20200406064630&path-prefix=zh",
-    "price": "15,000",
+    "price": "15000",
     "location": "河流",
     "shadowSize": "5",
     "time": "4AM-9PM",
@@ -1052,7 +1052,7 @@ var json=[
   {
     "name": "雀鳝",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH_Icon_Gar.png/revision/latest/scale-to-width-down/128?cb=20200406064751&path-prefix=zh",
-    "price": "6,000",
+    "price": "6000",
     "location": "池塘",
     "shadowSize": "6",
     "time": "4PM-9AM",
@@ -1077,7 +1077,7 @@ var json=[
   {
     "name": "巨骨舌鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH_Icon_Arapaima.png/revision/latest/scale-to-width-down/128?cb=20200406063611&path-prefix=zh",
-    "price": "10,000",
+    "price": "10000",
     "location": "河流",
     "shadowSize": "6",
     "time": "4PM-9AM",
@@ -1102,7 +1102,7 @@ var json=[
   {
     "name": "恩氏多鳍鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH_Icon_Saddled_bichir.png/revision/latest/scale-to-width-down/128?cb=20200406070443&path-prefix=zh",
-    "price": "4,000",
+    "price": "4000",
     "location": "河流",
     "shadowSize": "4",
     "time": "9PM-4AM",
@@ -1127,7 +1127,7 @@ var json=[
   {
     "name": "鲟鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH_Icon_Sturgeon.png/revision/latest/scale-to-width-down/128?cb=20200406065457&path-prefix=zh",
-    "price": "10,000",
+    "price": "10000",
     "location": "河流(入海口)",
     "shadowSize": "6",
     "time": "全天",
@@ -1152,7 +1152,7 @@ var json=[
   {
     "name": "海天使",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH_Icon_Sea_butterfly.png/revision/latest/scale-to-width-down/128?cb=20200406065806&path-prefix=zh",
-    "price": "1,000",
+    "price": "1000",
     "location": "海洋",
     "shadowSize": "1",
     "time": "全天",
@@ -1177,7 +1177,7 @@ var json=[
   {
     "name": "海马",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH_Icon_Sea_horse.png/revision/latest/scale-to-width-down/128?cb=20200406070445&path-prefix=zh",
-    "price": "1,100",
+    "price": "1100",
     "location": "海洋",
     "shadowSize": "1",
     "time": "全天",
@@ -1227,7 +1227,7 @@ var json=[
   {
     "name": "拟刺尾鲷",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH_Icon_Surgeonfish.png/revision/latest/scale-to-width-down/128?cb=20200406065511&path-prefix=zh",
-    "price": "1,000",
+    "price": "1000",
     "location": "海洋",
     "shadowSize": "2",
     "time": "全天",
@@ -1252,7 +1252,7 @@ var json=[
   {
     "name": "耳带蝴蝶鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH_Icon_Butterfly_fish.png/revision/latest/scale-to-width-down/128?cb=20200406070449&path-prefix=zh",
-    "price": "1,000",
+    "price": "1000",
     "location": "海洋",
     "shadowSize": "2",
     "time": "全天",
@@ -1277,7 +1277,7 @@ var json=[
   {
     "name": "苏眉鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH_Icon_Napoleonfish.png/revision/latest/scale-to-width-down/128?cb=20200406065039&path-prefix=zh",
-    "price": "10,000",
+    "price": "10000",
     "location": "海洋",
     "shadowSize": "6",
     "time": "4AM-9PM",
@@ -1427,7 +1427,7 @@ var json=[
   {
     "name": "条石鲷",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH_Icon_Barred_knifejaw.png/revision/latest/scale-to-width-down/128?cb=20200406070613&path-prefix=zh",
-    "price": "5,000",
+    "price": "5000",
     "location": "海洋",
     "shadowSize": "3",
     "time": "全天",
@@ -1477,7 +1477,7 @@ var json=[
   {
     "name": "鲷鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH_Icon_Red_snapper.png/revision/latest/scale-to-width-down/128?cb=20200406070617&path-prefix=zh",
-    "price": "3,000",
+    "price": "3000",
     "location": "海洋",
     "shadowSize": "4",
     "time": "全天",
@@ -1577,7 +1577,7 @@ var json=[
   {
     "name": "裸胸鳝",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH_Icon_Moray_eel.png/revision/latest/scale-to-width-down/128?cb=20200406070620&path-prefix=zh",
-    "price": "2,000",
+    "price": "2000",
     "location": "海洋",
     "shadowSize": "细长",
     "time": "全天",
@@ -1627,7 +1627,7 @@ var json=[
   {
     "name": "鲔鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH_Icon_Tuna.png/revision/latest/scale-to-width-down/128?cb=20200406065541&path-prefix=zh",
-    "price": "7,000",
+    "price": "7000",
     "location": "码头",
     "shadowSize": "6",
     "time": "全天",
@@ -1652,7 +1652,7 @@ var json=[
   {
     "name": "旗鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH_Icon_Blue_marlin.png/revision/latest/scale-to-width-down/128?cb=20200406070756&path-prefix=zh",
-    "price": "10,000",
+    "price": "10000",
     "location": "码头",
     "shadowSize": "6",
     "time": "全天",
@@ -1677,7 +1677,7 @@ var json=[
   {
     "name": "浪人鲹",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH_Icon_Giant_trevally.png/revision/latest/scale-to-width-down/128?cb=20200406070758&path-prefix=zh",
-    "price": "4,500",
+    "price": "4500",
     "location": "码头",
     "shadowSize": "5",
     "time": "全天",
@@ -1702,7 +1702,7 @@ var json=[
   {
     "name": "鬼头刀",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH_Icon_Mahi-mahi.png/revision/latest/scale-to-width-down/128?cb=20200406070800&path-prefix=zh",
-    "price": "6,000",
+    "price": "6000",
     "location": "码头",
     "shadowSize": "5",
     "time": "全天",
@@ -1727,7 +1727,7 @@ var json=[
   {
     "name": "翻车鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH_Icon_Ocean_sunfish.png/revision/latest/scale-to-width-down/128?cb=20200406070801&path-prefix=zh",
-    "price": "4,000",
+    "price": "4000",
     "location": "海洋",
     "shadowSize": "有鳍",
     "time": "4AM-9PM",
@@ -1752,7 +1752,7 @@ var json=[
   {
     "name": "𫚉鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH_Icon_Ray.png/revision/latest/scale-to-width-down/128?cb=20200406065253&path-prefix=zh",
-    "price": "3,000",
+    "price": "3000",
     "location": "海洋",
     "shadowSize": "5",
     "time": "4AM-9PM",
@@ -1777,7 +1777,7 @@ var json=[
   {
     "name": "锯鲨",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH_Icon_Saw_shark.png/revision/latest/scale-to-width-down/128?cb=20200406070803&path-prefix=zh",
-    "price": "12,000",
+    "price": "12000",
     "location": "海洋",
     "shadowSize": "有鳍",
     "time": "4PM-9AM",
@@ -1802,7 +1802,7 @@ var json=[
   {
     "name": "双髻鲨",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH_Icon_Hammerhead_shark.png/revision/latest/scale-to-width-down/128?cb=20200406070805&path-prefix=zh",
-    "price": "8,000",
+    "price": "8000",
     "location": "海洋",
     "shadowSize": "有鳍",
     "time": "4PM-9AM",
@@ -1827,7 +1827,7 @@ var json=[
   {
     "name": "鲨鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH_Icon_Great_white_shark.png/revision/latest/scale-to-width-down/128?cb=20200406070807&path-prefix=zh",
-    "price": "15,000",
+    "price": "15000",
     "location": "海洋",
     "shadowSize": "有鳍",
     "time": "4PM-9AM",
@@ -1852,7 +1852,7 @@ var json=[
   {
     "name": "鲸鲨",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH_Icon_Whale_shark.png/revision/latest/scale-to-width-down/128?cb=20200406070831&path-prefix=zh",
-    "price": "13,000",
+    "price": "13000",
     "location": "海洋",
     "shadowSize": "有鳍",
     "time": "全天",
@@ -1877,7 +1877,7 @@ var json=[
   {
     "name": "吸盘鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH_Icon_Suckerfish.png/revision/latest/scale-to-width-down/128?cb=20200406065504&path-prefix=zh",
-    "price": "1,500",
+    "price": "1500",
     "location": "海洋",
     "shadowSize": "有鳍",
     "time": "全天",
@@ -1902,7 +1902,7 @@ var json=[
   {
     "name": "灯笼鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH_Icon_Football_fish.png/revision/latest/scale-to-width-down/128?cb=20200406070833&path-prefix=zh",
-    "price": "2,500",
+    "price": "2500",
     "location": "海洋",
     "shadowSize": "4",
     "time": "4PM-9AM",
@@ -1927,7 +1927,7 @@ var json=[
   {
     "name": "皇带鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH_Icon_Oarfish.png/revision/latest/scale-to-width-down/128?cb=20200406065059&path-prefix=zh",
-    "price": "9,000",
+    "price": "9000",
     "location": "海洋",
     "shadowSize": "6",
     "time": "全天",
@@ -1952,7 +1952,7 @@ var json=[
   {
     "name": "太平洋桶眼鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH_Icon_Barreleye.png/revision/latest/scale-to-width-down/128?cb=20200406063636&path-prefix=zh",
-    "price": "15,000",
+    "price": "15000",
     "location": "海洋",
     "shadowSize": "2",
     "time": "9PM-4AM",
@@ -1977,7 +1977,7 @@ var json=[
   {
     "name": "矛尾鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH_Icon_Coelacanth.png/revision/latest/scale-to-width-down/128?cb=20200406064556&path-prefix=zh",
-    "price": "15,000",
+    "price": "15000",
     "location": "海洋(雨天)",
     "shadowSize": "6",
     "time": "全天",

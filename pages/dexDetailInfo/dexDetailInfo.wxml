@@ -1,61 +1,68 @@
 <!--pages/dexDetailInfo/dexDetailInfo.wxml-->
 <view class="detail-img">
-    <image class="detail-img" mode="aspectFit" src="{{inspetData.imgFile}}"></image>
+    <image class="detail-img" mode="aspectFit" src="{{inspectData.imgFile}}"></image>
 </view>
+
+<view >
+    <radio-group bindchange="onHemisphereChange">
+        <view class="radios"><radio value='sh' checked="{{true}}">南半球</radio></view>
+        <view class="radios"><radio value='nh'>北半球</radio></view>
+    </radio-group>
+</view>
+
 <view class="detail">
-    <p class="info">{{hemisphere == 'nh'?'北半球':'南半球'}}</p>
-    <p class="info">{{inspetData.name}}</p>
-    <p class="info">价格:{{inspetData.price}}</p>
-    <p class="info" wx:if="{{inspetData.shadowSize}}">体型:{{inspetData.shadowSize}}</p>
-    <p class="info">出现地点:{{inspetData.location}}</p>
+    <p class="info">{{inspectData.name}}</p>
+    <p class="info">价格:{{inspectData.price}}</p>
+    <p class="info" wx:if="{{inspectData.shadowSize}}">体型:{{inspectData.shadowSize}}</p>
+    <p class="info">出现地点:{{inspectData.location}}</p>
     <view class="month-list">
         <view class="item">
             <p class="month">一月</p>
-            <p class="enable">{{inspetData.Jan}}</p>
+            <p class="enable">{{inspectData.Jan}}</p>
         </view>
         <view class="item">
             <p class="month">二月</p>
-            <p class="enable">{{inspetData.Feb}}</p>
+            <p class="enable">{{inspectData.Feb}}</p>
         </view>
         <view class="item">
             <p class="month">三月</p>
-            <p class="enable">{{inspetData.Mar}}</p>
+            <p class="enable">{{inspectData.Mar}}</p>
         </view>
         <view class="item">
             <p class="month">四月</p>
-            <p class="enable">{{inspetData.Apr}}</p>
+            <p class="enable">{{inspectData.Apr}}</p>
         </view>
         <view class="item">
             <p class="month">五月</p>
-            <p class="enable">{{inspetData.May}}</p>
+            <p class="enable">{{inspectData.May}}</p>
         </view>
         <view class="item">
             <p class="month">六月</p>
-            <p class="enable">{{inspetData.Jun}}</p>
+            <p class="enable">{{inspectData.Jun}}</p>
         </view>
         <view class="item">
             <p class="month">七月</p>
-            <p class="enable">{{inspetData.Jul}}</p>
+            <p class="enable">{{inspectData.Jul}}</p>
         </view>
         <view class="item">
             <p class="month">八月</p>
-            <p class="enable">{{inspetData.Aug}}</p>
+            <p class="enable">{{inspectData.Aug}}</p>
         </view>
         <view class="item">
             <p class="month">九月</p>
-            <p class="enable">{{inspetData.Sep}}</p>
+            <p class="enable">{{inspectData.Sep}}</p>
         </view>
         <view class="item">
             <p class="month">十月</p>
-            <p class="enable">{{inspetData.Oct}}</p>
+            <p class="enable">{{inspectData.Oct}}</p>
         </view>
         <view class="item">
             <p class="month">十一月</p>
-            <p class="enable">{{inspetData.Nov}}</p>
+            <p class="enable">{{inspectData.Nov}}</p>
         </view>
         <view class="item">
             <p class="month">十二月</p>
-            <p class="enable">{{inspetData.Dec}}</p>
+            <p class="enable">{{inspectData.Dec}}</p>
         </view>
     </view>
 </view>

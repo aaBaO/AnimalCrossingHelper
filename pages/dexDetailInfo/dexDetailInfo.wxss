@@ -37,3 +37,10 @@ p.detail{
   font-weight: 10px;
   padding: 0 0 0 1em;
 }
+
+.radios{
+  float:left;
+  padding: 0.2em 1em;
+  background: white;
+  font-size: small;
+}

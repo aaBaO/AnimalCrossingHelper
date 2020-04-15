@@ -1,41 +1,30 @@
 /* pages/fishdex.wxss */
 
 /* 搜索框 */
-/* .search-bar{
+
+.search-bar{
+  box-sizing: border-box;
   position: fixed;
-  width: calc(100% - 2em);
+  width: 100%;
   top: 0;
   background: white;
   z-index: 9999;
-  height: 40px;
-  display: flex;
-  flex-direction: row;
-  padding: 0 1em 0 1em;
-  justify-content: center;
-} */
+  height: 2em;
+}
 
-.search-bar{
-  margin: 0.5em 1em;
-  position: relative;
+.search-bar input{
   border: #dddddd;
   border-style: solid;
   border-width: 1px;
   border-radius: 5px;
-  padding: 0.3em;
-  flex: 2 1 100em;
   font-size: small;
-}
-
-.radios{
-  float:left;
-  padding: 0.2em 1em;
-  background: white;
-  font-size: small;
+  padding: 0 1em;
+  margin: 0 1em;
 }
 
 .list{
   /* position: relative; */
-  margin-top: 3em; 
+  margin-top: 2em; 
 }
 
 .item{
