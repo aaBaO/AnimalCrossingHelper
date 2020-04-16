@@ -212,7 +212,8 @@ function* generate_pattern_0_with_lengths(given_prices, high_phase_1_len, dec_ph
     });
   }
   yield {
-    pattern_description: "Fluctuating",
+    // pattern_description: "Fluctuating",
+    pattern_description: "波动型",
     pattern_number: 0,
     prices: predicted_prices
   };
@@ -319,7 +320,8 @@ function* generate_pattern_1_with_peak(given_prices, peak_start) {
     });
   }
   yield {
-    pattern_description: "Large spike",
+    // pattern_description: "Large spike",
+    pattern_description: "大涨型",
     pattern_number: 1,
     prices: predicted_prices
   };
@@ -385,7 +387,8 @@ function* generate_pattern_2(given_prices) {
     max_rate -= 300;
   }
   yield {
-    pattern_description: "Decreasing",
+    // pattern_description: "Decreasing",
+    pattern_description: "递减型",
     pattern_number: 2,
     prices: predicted_prices
   };
@@ -536,8 +539,8 @@ function* generate_pattern_3_with_peak(given_prices, peak_start) {
     var max_rate = 9000;
 
     for (var i = peak_start + 5; i < 14; i++) {
-      min_pred = Math.floor(min_rate * buy_price / 10000);
-      max_pred = Math.ceil(max_rate * buy_price / 10000);
+      var min_pred = Math.floor(min_rate * buy_price / 10000);
+      var max_pred = Math.ceil(max_rate * buy_price / 10000);
 
 
       if (!isNaN(given_prices[i])) {
@@ -562,7 +565,8 @@ function* generate_pattern_3_with_peak(given_prices, peak_start) {
   }
 
   yield {
-    pattern_description: "Small spike",
+    // pattern_description: "Small spike",
+    pattern_description: "小涨型",
     pattern_number: 3,
     prices: predicted_prices
   };
@@ -618,6 +622,7 @@ function get_probabilities(possibilities, previous_pattern) {
 
 function analyze_possibilities(sell_prices, first_buy, previous_pattern) {
   var generated_possibilities = Array.from(generate_possibilities(sell_prices, first_buy));
+  console.log(generated_possibilities)
   generated_possibilities = get_probabilities(generated_possibilities, previous_pattern);
 
   var global_min_max = [];
@@ -638,7 +643,7 @@ function analyze_possibilities(sell_prices, first_buy, previous_pattern) {
   }
 
   generated_possibilities.push({
-    pattern_description: "All patterns",
+    pattern_description: "汇总",
     pattern_number: 4,
     prices: global_min_max,
   });

@@ -8,10 +8,10 @@ Page({
    */
   data: {
     firstBuy:false,
-    previousPartternIndex:0,
-    patternArray:['不知道', '随机型', '小涨型', '大涨型', '暴跌型', ],
+    previousPartternIndex:4,
+    patternArray:['波动型', '大涨型', '递减型', '小涨型', '未知类型', ],
     sundayPrice:0,
-    weekdayRecords:[0,0,0,0,0,0,0,0,0,0,0,0,],
+    weekdayRecords:[NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,],
     possibilities:0,
     listData:[
       {"code":"01","text":"text1","type":"type1"},
@@ -116,7 +116,7 @@ Page({
   calculateOutput:function (){
     var prices = this.data.weekdayRecords
     var first_buy = this.data.firstBuy
-    var previous_pattern = this.data.previousPartternIndex
+    var previous_pattern = first_buy? -1 : this.data.previousPartternIndex
 
     prices = [this.data.sundayPrice, this.data.sundayPrice, ...prices]
 
@@ -125,17 +125,22 @@ Page({
       var result = {}
       result.partten = poss.pattern_description
       result.probability = Number.isFinite(poss.probability) ? ((poss.probability * 100).toPrecision(3) + '%') : "-"
+      var days = []
       for (let day of poss.prices.slice(1)) {
         if (day.min !== day.max) {
-          result.day = day.min + '~' + day.max
+          days.push(day.min + '~' + day.max)
         } else {
-          result.day = day.min
+          days.push(day.min)
         }
       }
+      result.days = days
       result.weekMin = poss.weekGuaranteedMinimum
       result.weekMax = poss.weekMax
-      console.log(result)
       output_possibilities.push(result);
     }
+
+    this.setData({
+      possibilities:output_possibilities
+    })
   }
 })

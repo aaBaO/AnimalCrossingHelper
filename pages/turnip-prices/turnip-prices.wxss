@@ -81,17 +81,19 @@
   align-items: center;
 }
 .th {
-  width: 40%;
   justify-content: center;
   background: rgba(250, 220, 225, 0.918);
   display: flex;
   height: 2rem;
   align-items: center;
+  text-align: center;
+  flex: 1 1 3em;
 }
 .td {
-  width:40%;
   justify-content: center;
+  border: 1px solid black;
   text-align: center;
+  flex: 1 1 3em;
 }
 .bg-w{
   background: snow;
