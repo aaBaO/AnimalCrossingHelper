@@ -1,19 +1,33 @@
 /* pages/turnip-prices/turnip-prices.wxss */
 .tips{
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     margin: 0.1em 1em;
-    font-size: 20px;
-    font-weight: 400;
+    padding: 0.1em 0.1em;
+    font-size: medium;
+    flex: 1 1 100%;
+    color: gray;
 }
 
-.first-time-radios-group{
+.property{
+    box-sizing: border-box;
+    border: 2px gainsboro solid;
+    border-radius: 20px;
     position: relative;
     display: flex;
     margin: 0.1em 1em;
+    flex-wrap: wrap;
 }
 
-.radios{
+.property-name{
+    box-sizing: border-box;
+    margin: 0.1em 1em;
+    padding: 0.1em 0.1em;
+    font-size: medium;
+}
+
+.radio{
     float:left;
     padding: 0.2em 1em;
     background: white;
@@ -26,20 +40,19 @@
 }
 
 .picker{
+    box-sizing: border-box;
     font-size: 20px;
-    background-color: ivory;
+    font-weight: 400;
 }
 
-.sunday-price{
-    display: flex;
-    margin: 0.1em 1em;
-}
-
-.sunday-price input{
-    border: #dddddd;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 5px;
+.input{
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 0.1em 0;
+    padding: 0.1em 0.1em;
+    background-color: navajowhite;
+    color: black;
+    text-align: center;
 }
 
 .week-day-price-record{
@@ -62,6 +75,22 @@
     border-style: solid;
     border-width: 1px;
     border-radius: 5px;
+}
+
+.btn-calc{
+    box-sizing: border-box;
+    margin:0.1em 5em;
+    padding:0.5em;
+    background-color: navajowhite;
+    border-radius: 10px;
+    text-align: center;
+    color:#333333;
+    font-weight: bold;
+    font-size: large;
+    border-style: solid;
+    border-width: 0.1em;
+    border-color:#dddddd;
+    flex: 1 1 100%;
 }
 
 .results-output{

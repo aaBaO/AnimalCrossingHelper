@@ -1,6 +1,8 @@
 // pages/turnip-prices/turnip-prices.js
 var predictions = require('./predictions')
 
+const SelfDataKey = 'self-turnip-prices'
+
 Page({
 
   /**
@@ -13,35 +15,37 @@ Page({
     sundayPrice:0,
     weekdayRecords:[NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,],
     possibilities:0,
-    listData:[
-      {"code":"01","text":"text1","type":"type1"},
-      {"code":"02","text":"text2","type":"type2"},
-      {"code":"03","text":"text3","type":"type3"},
-      {"code":"04","text":"text4","type":"type4"},
-      {"code":"05","text":"text5","type":"type5"},
-      {"code":"06","text":"text6","type":"type6"},
-      {"code":"07","text":"text7","type":"type7"}
-    ]
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+    try {
+      var value = wx.getStorageSync(SelfDataKey)
+      if (value) {
+        this.setData({
+          firstBuy: value.firstBuy,
+          previousPartternIndex: value.previousPartternIndex,
+          sundayPrice: value.sundayPrice,
+          weekdayRecords: value.weekdayRecords,
+        })
+      }
+    }
+    catch (e) {
+    }
   },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-
   },
 
   /**
@@ -80,23 +84,26 @@ Page({
   },
 
   onSetFirstBuy:function(e){
-    this.calculateOutput()
+    this.data.firstBuy = e.detail.value === 'true'
+    this.saveSelfData()
     this.setData({
-      firstBuy: e.detail.value
+      firstBuy: this.data.firstBuy
     })
   },
 
   onPatternPickerChange:function(e){
-    this.calculateOutput()
+    this.data.previousPartternIndex = parseInt(e.detail.value)
+    this.saveSelfData()
     this.setData({
-      previousPartternIndex: e.detail.value
+      previousPartternIndex: this.data.previousPartternIndex
     })
   },
 
   onInputSunday:function(e){
-    this.calculateOutput()
+    this.data.sundayPrice = parseInt(e.detail.value)
+    this.saveSelfData()
     this.setData({
-      sundayPrice: parseInt(e.detail.value)
+      sundayPrice: this.data.sundayPrice
     })
   },
 
@@ -104,13 +111,34 @@ Page({
     var tmpArray = this.data.weekdayRecords
     var day = parseInt(e.currentTarget.dataset.day) 
     var type = parseInt(e.currentTarget.dataset.type)
-    var price = parseInt(e.detail.value)
+    var price = e.detail.value === 'null'? NaN:parseInt(e.detail.value)
     tmpArray[2*day+type] = price
 
-    this.calculateOutput()
+    this.saveSelfData()
     this.setData({
       weekdayRecords:tmpArray
     })
+  },
+
+  saveSelfData:function(){
+    var selfdata = {
+      firstBuy: this.data.firstBuy,
+      previousPartternIndex: this.data.previousPartternIndex,
+      sundayPrice: this.data.sundayPrice,
+      weekdayRecords: this.data.weekdayRecords,
+    }
+    wx.setStorage({
+      key:'self-turnip-prices', 
+      data: selfdata,
+    })
+  },
+
+  getSelfData:function(){
+  },
+
+  onCalculate:function(e){
+    console.log("onCalculate")
+    this.calculateOutput()
   },
 
   calculateOutput:function (){
@@ -129,7 +157,8 @@ Page({
       for (let day of poss.prices.slice(1)) {
         if (day.min !== day.max) {
           days.push(day.min + '~' + day.max)
-        } else {
+        } 
+        else {
           days.push(day.min)
         }
       }
@@ -139,8 +168,26 @@ Page({
       output_possibilities.push(result);
     }
 
+    var getValidResult = true
+    if(output_possibilities.length == 1){
+      getValidResult = false
+    }
+
+    if(getValidResult){
+      wx.showToast({
+        title:'预测成功',
+        icon:'success'
+      })
+    }
+    else{
+      wx.showToast({
+        title:'预测失败',
+      })
+    }
+
     this.setData({
-      possibilities:output_possibilities
+      possibilities:output_possibilities,
+      getValidResult: getValidResult
     })
   }
 })

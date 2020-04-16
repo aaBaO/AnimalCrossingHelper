@@ -1,12 +1,10 @@
 <!--index.wxml-->
+<view class="navi-button" bindtap="onclick_turnip_price">大头菜预测</view>
 <view class="navi-button" bindtap="onclick_fishdex">鱼类图鉴</view>
 <view class="navi-button" bindtap="onclick_bugdex">昆虫图鉴</view>
-<view class="navi-button" bindtap="onclick_turnip_price">大头菜预测</view>
 
 <view class="desc" style="text-align:center">
     <button open-type='feedback'>反馈建议</button>
-    <text style="font-size: 20px; font-weight: 200">大头菜预测正在加速开发!!
-    </text>
     <text style="font-size: 14px; font-weight: 200">目前小程序还在不断更新，欢迎反馈。
     </text>
 </view>

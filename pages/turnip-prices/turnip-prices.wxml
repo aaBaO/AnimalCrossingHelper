@@ -1,66 +1,74 @@
 <!--pages/turnip-prices/turnip-prices.wxml-->
-<view class="first-time-radios-group">
-    <text class="">是否第一次购买</text>
+<view class="property">
+    <text class="property-name">第一次购买</text>
     <radio-group bindchange="onSetFirstBuy">
-        <view class="radios"><radio value="false" checked="{{true}}">否</radio></view>
-        <view class="radios"><radio value="true">是</radio></view>
+        <view class="radio"><radio value="false" checked="{{!firstBuy}}">否</radio></view>
+        <view class="radio"><radio value="true" checked="{{firstBuy}}">是</radio></view>
     </radio-group>
+    <text class="tips">第一次在自己的岛上购买</text>
 </view>
-<text class="tips">是否第一次购买会影响预测结果</text>
 
-<view class="previous-pattern">
-    <text >上一次的价格走势：</text>
+<view class="property" hidden="{{firstBuy}}">
+    <text class="property-name">上一次的价格走势</text>
     <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
         <view class="picker"> {{patternArray[previousPartternIndex]}} </view>
     </picker>
 </view>
 
-<view class="sunday-price">
-    <input placeholder="周日的价格" type="number" bindinput="onInputSunday"></input>
+<view class="property" hidden="{{firstBuy}}">
+    <text class="property-name">周日的价格</text>
+    <input class="input" placeholder="..." type="number" bindinput="onInputSunday" value="{{sundayPrice}}"></input>
 </view>
 
-<view class="tips">
-    <i>AM - 8:00 am to 11:59 am</i>
-    <i>PM - 12:00 pm to 10:00 pm</i>
+
+<view class="property">
+    <view class="tips">
+        <i>上午: 8:00 ~ 11:59</i>
+        <i>下午- 12:00 ~ 22:00</i>
+    </view>
+
+    <view class="week-day-price-record">
+        <text class="week-day">周一</text>
+        <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="0" value="{{weekdayRecords[0]}}"></input>
+        <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="1" value="{{weekdayRecords[1]}}"></input>
+    </view>
+    <view class="week-day-price-record">
+        <text class="week-day">周二</text>
+        <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="1" data-type="0" value="{{weekdayRecords[2]}}"></input>
+        <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="1" data-type="1" value="{{weekdayRecords[3]}}"></input>
+    </view>
+    <view class="week-day-price-record">
+        <text class="week-day">周三</text>
+        <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="2" data-type="0" value="{{weekdayRecords[4]}}"></input>
+        <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="2" data-type="1" value="{{weekdayRecords[5]}}"></input>
+    </view>
+    <view class="week-day-price-record">
+        <text class="week-day">周四</text>
+        <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="3" data-type="0" value="{{weekdayRecords[6]}}"></input>
+        <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="3" data-type="1" value="{{weekdayRecords[7]}}"></input>
+    </view>
+    <view class="week-day-price-record">
+        <text class="week-day">周五</text>
+        <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="4" data-type="0" value="{{weekdayRecords[8]}}"></input>
+        <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="4" data-type="1" value="{{weekdayRecords[9]}}"></input>
+    </view>
+    <view class="week-day-price-record">
+        <text class="week-day">周六</text>
+        <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="0" value="{{weekdayRecords[10]}}"></input>
+        <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="1" value="{{weekdayRecords[11]}}"></input>
+    </view>
+
+    <view class="btn-calc" bindtap="onCalculate">预测</view>
 </view>
 
-<view class="week-day-price-record">
-    <text class="week-day">周一</text>
-    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="0"></input>
-    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="1"></input>
-</view>
-<view class="week-day-price-record">
-    <text class="week-day">周二</text>
-    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="1" data-type="0"></input>
-    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="1" data-type="1"></input>
-</view>
-<view class="week-day-price-record">
-    <text class="week-day">周三</text>
-    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="2" data-type="0"></input>
-    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="2" data-type="1"></input>
-</view>
-<view class="week-day-price-record">
-    <text class="week-day">周四</text>
-    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="3" data-type="0"></input>
-    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="3" data-type="1"></input>
-</view>
-<view class="week-day-price-record">
-    <text class="week-day">周五</text>
-    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="4" data-type="0"></input>
-    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="4" data-type="1"></input>
-</view>
-<view class="week-day-price-record">
-    <text class="week-day">周六</text>
-    <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="0"></input>
-    <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="1"></input>
-</view>
-
-<view class="results-output">
+<view class="results-output" hidden="{{!getValidResult}}">
     <scroll-view scroll-x="true">
         <view class="table">
             <view class="tr bg-w">
                 <view class="th">走势</view>
                 <view class="th">概率</view>
+                <view class="th">最低价</view>
+                <view class="th">最高价</view>
                 <view class="th">周日价格</view>
                 <view class="th">周一上午</view>
                 <view class="th">周一下午</view>
@@ -74,13 +82,13 @@
                 <view class="th">周五下午</view>
                 <view class="th">周六上午</view>
                 <view class="th">周六下午</view>
-                <view class="th">保底</view>
-                <view class="th">可能高点</view>
             </view>
             <view wx:for="{{possibilities}}" wx:key="{{partten}}">
                 <view class="{{index % 2 == 0? 'tr bg-g':'tr'}}" >
                     <view class="td">{{item.partten}}</view>
                     <view class="td">{{item.probability}}</view>
+                    <view class="td">{{item.weekMin}}</view>
+                    <view class="td">{{item.weekMax}}</view>
                     <view class="td">{{item.days[0]}}</view>
                     <view class="td">{{item.days[1]}}</view>
                     <view class="td">{{item.days[2]}}</view>
@@ -94,14 +102,13 @@
                     <view class="td">{{item.days[10]}}</view>
                     <view class="td">{{item.days[11]}}</view>
                     <view class="td">{{item.days[12]}}</view>
-                    <view class="td">{{item.weekMin}}</view>
-                    <view class="td">{{item.weekMax}}</view>
                 </view>
             </view>
         </view>
     </scroll-view>
 </view>
 
-<view >
-    <text >预测模型来源</text>
+<view class="property">
+    <text class="tips">预测模型来源</text>
+    <text class="tips">https://github.com/mikebryant/ac-nh-turnip-prices</text>
 </view>
