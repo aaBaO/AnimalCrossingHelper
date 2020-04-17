@@ -100,7 +100,6 @@ Page({
   },
   
   onTapMoreInfo:function(e){
-    console.log(e)
     var tapIndex = e.currentTarget.dataset.index
     var detailInfo = {
       type:'fish',

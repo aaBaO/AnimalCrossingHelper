@@ -22,8 +22,14 @@ Page({
    */
   onLoad: function (options) {
     try {
+      // 获取本地存储的数据
       var value = wx.getStorageSync(SelfDataKey)
       if (value) {
+        // 将每日售价进行转换
+        for(var i = 0; i < value.weekdayRecords.length; i++){
+          var price = parseInt(value.weekdayRecords[i])
+          value.weekdayRecords[i] = price
+        }
         this.setData({
           firstBuy: value.firstBuy,
           previousPartternIndex: value.previousPartternIndex,
@@ -80,7 +86,10 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    return{
+        title:"大头菜预测！发财致富不求人!",
+        path:"/pages/turnip-prices/turnip-prices",
+    }
   },
 
   onSetFirstBuy:function(e){
@@ -121,6 +130,11 @@ Page({
   },
 
   saveSelfData:function(){
+    // 将每日售价进行转换
+    for(var i = 0; i < this.data.weekdayRecords.length; i++){
+      var price = parseInt(this.data.weekdayRecords[i])
+      this.data.weekdayRecords[i] = price
+    }
     var selfdata = {
       firstBuy: this.data.firstBuy,
       previousPartternIndex: this.data.previousPartternIndex,
@@ -133,11 +147,7 @@ Page({
     })
   },
 
-  getSelfData:function(){
-  },
-
   onCalculate:function(e){
-    console.log("onCalculate")
     this.calculateOutput()
   },
 
@@ -181,7 +191,7 @@ Page({
     }
     else{
       wx.showToast({
-        title:'预测失败',
+        title:'预测失败,数据存在问题',
       })
     }
 

@@ -19,7 +19,15 @@
   font-weight: 700;
 }
 
-view.mad{
+.adContainer{
   position: relative;
-  top: 5em;
+  top: 1em;
+}
+
+.bd{
+  border: 1px solid gainsboro;
+}
+
+.mg0101{
+  margin: 0.1em 0.1em;
 }

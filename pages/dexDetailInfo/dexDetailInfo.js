@@ -3,7 +3,7 @@ const utils = require('../../utils/utils')
 
 var fish_nh_data = require('../../database/fish_nh.js')
 var fish_sh_data = require('../../database/fish_sh.js')
-var bug_sh_data = require('../../database/bug_nh.js')
+var bug_nh_data = require('../../database/bug_nh.js')
 var bug_sh_data = require('../../database/bug_sh.js')
 
 Page({
@@ -28,7 +28,6 @@ Page({
 
     var inspectData = this.getInspectData(dexType, hemisphere, index)
 
-    console.log(inspectData)
     this.setData({
       inspectData:inspectData,
       dexType:dexType,
@@ -54,7 +53,6 @@ Page({
     }
     index = decodeURI(index)
     for(var item of dataList){
-      console.log(item)
       if(item.name == index)
         return item
     }

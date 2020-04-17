@@ -4,10 +4,12 @@
 <view class="navi-button" bindtap="onclick_bugdex">昆虫图鉴</view>
 
 <view class="desc" style="text-align:center">
-    <button open-type='feedback'>反馈建议</button>
+    <button class="bd mg0101" open-type='feedback'>反馈建议</button>
+    <button class="bd mg0101" bindtap="onTapEncourageAd">激励开发者</button>
     <text style="font-size: 14px; font-weight: 200">目前小程序还在不断更新，欢迎反馈。
     </text>
 </view>
-<view class="mad">
-  <ad unit-id="adunit-d4d8b6881caf61c7"></ad>
+
+<view class="adContainer">
+  <ad unit-id="adunit-d4d8b6881caf61c7" ad-intervals="30"></ad>
 </view>

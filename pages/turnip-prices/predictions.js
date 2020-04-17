@@ -622,7 +622,6 @@ function get_probabilities(possibilities, previous_pattern) {
 
 function analyze_possibilities(sell_prices, first_buy, previous_pattern) {
   var generated_possibilities = Array.from(generate_possibilities(sell_prices, first_buy));
-  console.log(generated_possibilities)
   generated_possibilities = get_probabilities(generated_possibilities, previous_pattern);
 
   var global_min_max = [];

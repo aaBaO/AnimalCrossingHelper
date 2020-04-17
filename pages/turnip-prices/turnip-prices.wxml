@@ -24,7 +24,7 @@
 <view class="property">
     <view class="tips">
         <i>上午: 8:00 ~ 11:59</i>
-        <i>下午- 12:00 ~ 22:00</i>
+        <i>下午: 12:00 ~ 22:00</i>
     </view>
 
     <view class="week-day-price-record">
@@ -83,7 +83,7 @@
                 <view class="th">周六上午</view>
                 <view class="th">周六下午</view>
             </view>
-            <view wx:for="{{possibilities}}" wx:key="{{partten}}">
+            <view wx:for="{{possibilities}}" wx:key="partten">
                 <view class="{{index % 2 == 0? 'tr bg-g':'tr'}}" >
                     <view class="td">{{item.partten}}</view>
                     <view class="td">{{item.probability}}</view>
@@ -111,4 +111,8 @@
 <view class="property">
     <text class="tips">预测模型来源</text>
     <text class="tips">https://github.com/mikebryant/ac-nh-turnip-prices</text>
+</view>
+
+<view class="adContainer">
+    <ad unit-id="adunit-44c37700377b3faf" ad-type="video" ad-theme="white"></ad>
 </view>

@@ -120,7 +120,6 @@
 }
 .td {
   justify-content: center;
-  border: 1px solid black;
   text-align: center;
   flex: 1 1 3em;
 }
@@ -129,4 +128,8 @@
 }
 .bg-g{
   background: #E6F3F9;
+}
+
+.adContainer {
+  width: 100%;
 }
