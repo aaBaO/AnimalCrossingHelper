@@ -27,7 +27,7 @@ var json=[
   {
     "name": "溪哥",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH_Icon_Pale_chub.png/revision/latest/scale-to-width-down/128?cb=20200406065902&path-prefix=zh",
-    "price": "160",
+    "price": "200",
     "location": "河流",
     "shadowSize": "1",
     "time": "9AM-4PM",
@@ -75,7 +75,7 @@ var json=[
     "imgFile": "../../assets/fish/NH_Icon_Crucian_carp.png"
   },
   {
-    "name": "珠星三块鱼",
+    "name": "雅罗鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH_Icon_Dace.png/revision/latest/scale-to-width-down/128?cb=20200406064624&path-prefix=zh",
     "price": "240",
     "location": "河流",
@@ -94,8 +94,8 @@ var json=[
     "Nov": "✓",
     "Dec": "✓",
     "pinyin": [
-      "zhuxingsankuaiyu",
-      "zxsky"
+      "yaluoyu",
+      "yly"
     ],
     "imgFile": "../../assets/fish/NH_Icon_Dace.png"
   },
@@ -1675,7 +1675,7 @@ var json=[
     "imgFile": "../../assets/fish/NH_Icon_Blue_marlin.png"
   },
   {
-    "name": "浪人鲹",
+    "name": "白面弄鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH_Icon_Giant_trevally.png/revision/latest/scale-to-width-down/128?cb=20200406070758&path-prefix=zh",
     "price": "4500",
     "location": "码头",
@@ -1694,8 +1694,8 @@ var json=[
     "Nov": "-",
     "Dec": "-",
     "pinyin": [
-      "langrenshen",
-      "lrs"
+      "baimiannongyu",
+      "bmny"
     ],
     "imgFile": "../../assets/fish/NH_Icon_Giant_trevally.png"
   },
@@ -1750,7 +1750,7 @@ var json=[
     "imgFile": "../../assets/fish/NH_Icon_Ocean_sunfish.png"
   },
   {
-    "name": "𫚉鱼",
+    "name": "鳐鱼",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH_Icon_Ray.png/revision/latest/scale-to-width-down/128?cb=20200406065253&path-prefix=zh",
     "price": "3000",
     "location": "海洋",
@@ -1769,8 +1769,8 @@ var json=[
     "Nov": "✓",
     "Dec": "-",
     "pinyin": [
-      "hongyu",
-      "hy"
+      "yaoyu",
+      "yy"
     ],
     "imgFile": "../../assets/fish/NH_Icon_Ray.png"
   },

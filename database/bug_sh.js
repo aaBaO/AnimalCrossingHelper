@@ -1538,7 +1538,7 @@ var json=[
   {
     "name": "长戟大兜虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH_Icon_Horned_hercules.png/revision/latest/scale-to-width-down/128?cb=20200407024843&path-prefix=zh",
-    "price": "?",
+    "price": "12000",
     "location": "树上",
     "time": "5PM-8AM",
     "Jan": "-",
