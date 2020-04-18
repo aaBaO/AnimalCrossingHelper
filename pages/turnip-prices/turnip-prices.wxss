@@ -5,15 +5,15 @@
     flex-direction: column;
     margin: 0.1em 1em;
     padding: 0.1em 0.1em;
-    font-size: medium;
+    font-size: small;
     flex: 1 1 100%;
     color: gray;
 }
 
 .property{
     box-sizing: border-box;
-    border: 2px gainsboro solid;
-    border-radius: 20px;
+    border: 1px gainsboro solid;
+    border-radius: 10px;
     position: relative;
     display: flex;
     margin: 0.1em 1em;
@@ -24,14 +24,52 @@
     box-sizing: border-box;
     margin: 0.1em 1em;
     padding: 0.1em 0.1em;
-    font-size: medium;
+    font-size: small;
+    line-height: 2em;
+}
+
+.flex-line{
+    flex: 1 1 100%;
+}
+
+.dp-flex{
+    display: flex;
+}
+
+.radio-container{
+    height: 100%;
+    display: flex;
+}
+
+.radio-container radio{
+    display: none;
 }
 
 .radio{
-    float:left;
-    padding: 0.2em 1em;
+    margin: 0.2em 0.2em;
+    padding: 0.2em 1.5em;
     background: white;
     font-size: small;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.radio.checked{
+    margin: 0.2em 0.2em;
+    padding: 0.2em 1.5em;
+    background: #7687DB;
+    font-size: small;
+    border-radius: 10px;
+    border: 0;
+}
+
+.radio text{
+    line-height: 100%;
+}
+
+.radio.checked text{
+    line-height: 100%;
+    color: white;
 }
 
 .previous-pattern{
@@ -48,10 +86,10 @@
 .input{
     box-sizing: border-box;
     border-radius: 10px;
-    margin: 0.1em 0;
+    margin: 0.2em 0.2em;
     padding: 0.1em 0.1em;
-    background-color: navajowhite;
     color: black;
+    border: 1px solid #dddddd;
     text-align: center;
 }
 
@@ -64,37 +102,29 @@
 .week-day-price-record .week-day{
     flex: 1 1 20%;
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 200;
 }
 
 .week-day-price-record input{
     flex: 1 1 30%;
-    margin: 0.1em 0.1em;
-    padding: 0.2em 0.2em;
-    border: #dddddd;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 5px;
+    margin: 0.1em 0.2em;
+    padding: 0.3em 0.3em;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    text-align: center;
 }
 
-.btn-calc{
+.btn{
     box-sizing: border-box;
-    margin:0.1em 5em;
+    margin:0.1em 1em;
     padding:0.5em;
-    background-color: navajowhite;
     border-radius: 10px;
     text-align: center;
     color:#333333;
     font-weight: bold;
     font-size: large;
-    border-style: solid;
-    border-width: 0.1em;
-    border-color:#dddddd;
-    flex: 1 1 100%;
-}
-
-.results-output{
-    background-color: ivory;
+    border:  0.1em solid #dddddd;
+    flex: 1 1 1em;
 }
 
 .results-output scroll-view{
@@ -111,7 +141,6 @@
 }
 .th {
   justify-content: center;
-  background: rgba(250, 220, 225, 0.918);
   display: flex;
   height: 2rem;
   align-items: center;
@@ -124,10 +153,22 @@
   flex: 1 1 3em;
 }
 .bg-w{
-  background: snow;
+  background: white;
 }
-.bg-g{
-  background: #E6F3F9;
+.bg-lb{
+  background: #7687DB;
+}
+
+.color-gray{
+  color: gray;
+}
+
+.color-w{
+  color:white;
+}
+
+.color-lb{
+  color:#7687DB;
 }
 
 .adContainer {

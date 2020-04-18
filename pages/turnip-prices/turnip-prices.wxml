@@ -1,23 +1,31 @@
 <!--pages/turnip-prices/turnip-prices.wxml-->
 <view class="property">
-    <text class="property-name">第一次购买</text>
+    <text class="property-name">第一次在自己的岛上购买</text>
     <radio-group bindchange="onSetFirstBuy">
-        <view class="radio"><radio value="false" checked="{{!firstBuy}}">否</radio></view>
-        <view class="radio"><radio value="true" checked="{{firstBuy}}">是</radio></view>
+        <view class="radio-container">
+            <label class="radio {{firstBuy? '':'checked'}}">
+                <radio value="false" checked="{{!firstBuy}}"></radio>
+                <text>否</text>
+            </label>
+            <label class="radio {{firstBuy? 'checked':''}}">
+                <radio value="true" checked="{{firstBuy}}"></radio>
+                <text>是</text>
+            </label>
+        </view>
     </radio-group>
-    <text class="tips">第一次在自己的岛上购买</text>
 </view>
 
 <view class="property" hidden="{{firstBuy}}">
-    <text class="property-name">上一次的价格走势</text>
-    <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
-        <view class="picker"> {{patternArray[previousPartternIndex]}} </view>
-    </picker>
-</view>
-
-<view class="property" hidden="{{firstBuy}}">
-    <text class="property-name">周日的价格</text>
-    <input class="input" placeholder="..." type="number" bindinput="onInputSunday" value="{{sundayPrice}}"></input>
+    <view class="flex-line dp-flex">
+        <text class="property-name">上一次的价格走势</text>
+        <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
+            <view class="picker"> {{patternArray[previousPartternIndex]}} </view>
+        </picker>
+    </view>
+    <view class="flex-line dp-flex">
+        <text class="property-name">周日的价格</text>
+        <input class="input" placeholder="..." type="number" bindinput="onInputSunday" value="{{sundayPrice}}"></input>
+    </view>
 </view>
 
 
@@ -58,13 +66,14 @@
         <input placeholder="下午" type="number" bindinput="onInputDayPrice" data-day="5" data-type="1" value="{{weekdayRecords[11]}}"></input>
     </view>
 
-    <view class="btn-calc" bindtap="onCalculate">预测</view>
+    <view class="btn bg-w color-gray" bindtap="onResetSelfData">重置</view>
+    <view class="btn bg-w color-lb" bindtap="onCalculate">预测</view>
 </view>
 
-<view class="results-output" hidden="{{!getValidResult}}">
+<view id="results-output" hidden="{{!getValidResult}}">
     <scroll-view scroll-x="true">
         <view class="table">
-            <view class="tr bg-w">
+            <view class="tr bg-lb color-w">
                 <view class="th">走势</view>
                 <view class="th">概率</view>
                 <view class="th">最低价</view>
@@ -83,8 +92,8 @@
                 <view class="th">周六上午</view>
                 <view class="th">周六下午</view>
             </view>
-            <view wx:for="{{possibilities}}" wx:key="partten">
-                <view class="{{index % 2 == 0? 'tr bg-g':'tr'}}" >
+            <view wx:for="{{possibilities}}" wx:key="index">
+                <view class="{{index % 2 == 0? 'tr':'tr bg-lb color-w'}}" >
                     <view class="td">{{item.partten}}</view>
                     <view class="td">{{item.probability}}</view>
                     <view class="td">{{item.weekMin}}</view>

@@ -9,12 +9,12 @@ Page({
    * 页面的初始数据
    */
   data: {
-    firstBuy:false,
-    previousPartternIndex:4,
+    firstBuy: false,
+    previousPartternIndex: 4,
     patternArray:['波动型', '大涨型', '递减型', '小涨型', '未知类型', ],
-    sundayPrice:0,
+    sundayPrice: '',
     weekdayRecords:[NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,],
-    possibilities:0,
+    possibilities: [],
   },
 
   /**
@@ -36,6 +36,9 @@ Page({
           sundayPrice: value.sundayPrice,
           weekdayRecords: value.weekdayRecords,
         })
+      }
+      else{
+        this.setDefaultData()
       }
     }
     catch (e) {
@@ -151,6 +154,37 @@ Page({
     this.calculateOutput()
   },
 
+  setDefaultData:function(){
+    var defaultData = {
+      firstBuy: false,
+      previousPartternIndex: 4,
+      sundayPrice: NaN,
+      weekdayRecords:[NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,],
+      possibilities: [],
+    }
+    this.setData({
+      firstBuy: defaultData.firstBuy,
+      previousPartternIndex: defaultData.previousPartternIndex,
+      sundayPrice: defaultData.sundayPrice,
+      weekdayRecords: defaultData.weekdayRecords,
+      possibilities: defaultData.possibilities,
+    })
+  },
+
+  onResetSelfData:function(e){
+    var thisPage = this
+    wx.showModal({
+      title: '提示',
+      content: '确定重置吗',
+      success: function(res){
+        if(res.confirm){
+          thisPage.setDefaultData()
+          thisPage.saveSelfData()
+        }
+      }
+    })
+  },
+
   calculateOutput:function (){
     var prices = this.data.weekdayRecords
     var first_buy = this.data.firstBuy
@@ -191,7 +225,7 @@ Page({
     }
     else{
       wx.showToast({
-        title:'预测失败,数据存在问题',
+        title:'数据错误',
       })
     }
 
