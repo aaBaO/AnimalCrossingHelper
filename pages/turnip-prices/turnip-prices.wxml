@@ -5,11 +5,11 @@
         <view class="radio-container">
             <label class="radio {{firstBuy? '':'checked'}}">
                 <radio value="false" checked="{{!firstBuy}}"></radio>
-                <text>否</text>
+                <view class="text">否</view>
             </label>
             <label class="radio {{firstBuy? 'checked':''}}">
                 <radio value="true" checked="{{firstBuy}}"></radio>
-                <text>是</text>
+                <view class="text">是</view>
             </label>
         </view>
     </radio-group>
@@ -73,7 +73,7 @@
 <view id="results-output" hidden="{{!getValidResult}}">
     <scroll-view scroll-x="true">
         <view class="table">
-            <view class="tr bg-lb color-w">
+            <view class="tr bg-dlb color-w">
                 <view class="th">走势</view>
                 <view class="th">概率</view>
                 <view class="th">最低价</view>
