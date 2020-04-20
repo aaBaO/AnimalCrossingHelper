@@ -74,15 +74,19 @@
     color: white;
 }
 
-.previous-pattern{
-    display: flex;
-    margin: 0.1em 1em;
-}
-
 .picker{
     box-sizing: border-box;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
+    line-height: 30px;
+}
+
+.arrow{
+    box-sizing: border-box;
+    padding: 0.1em 0.1em;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 30px;
 }
 
 .input{
@@ -164,7 +168,12 @@
   background: rgb(98, 112, 182);
 }
 .bg-lb{
-  background: #7687DB;
+  background: rgb(151, 163, 223);
+}
+
+.pos-fixed{
+  position: fixed;
+  top: 0;
 }
 
 .color-gray{
@@ -176,7 +185,7 @@
 }
 
 .color-lb{
-  color:#7687DB;
+  color:rgb(151, 163, 223);
 }
 
 .adContainer {

@@ -5,10 +5,14 @@
   <image class="icon" mode="aspectFit" src="../../assets/turnip.png"></image>
 </view>
 <view class="navi-button" bindtap="onclick_fishdex">
+  <image class="icon" mode="aspectFit" src="../../assets/fish/NH_Icon_Sea_bass.png"></image>
   <text class="btn-text">鱼类图鉴</text>
+  <image class="icon" mode="aspectFit" src="../../assets/fish/NH_Icon_Sea_bass.png"></image>
 </view>
 <view class="navi-button" bindtap="onclick_bugdex">
+  <image class="icon" mode="aspectFit" src="../../assets/bug/NH_Icon_Emperor_butterfly.png"></image>
   <text class="btn-text">昆虫图鉴</text>
+  <image class="icon" mode="aspectFit" src="../../assets/bug/NH_Icon_Emperor_butterfly.png"></image>
 </view>
 
 <view class="desc" style="text-align:center">

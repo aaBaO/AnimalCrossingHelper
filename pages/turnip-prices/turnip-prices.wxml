@@ -19,8 +19,9 @@
     <view class="flex-line dp-flex">
         <text class="property-name">上一次的价格走势</text>
         <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
-            <view class="picker"> {{patternArray[previousPartternIndex]}} </view>
+            <view class="picker">{{patternArray[previousPartternIndex]}}</view>
         </picker>
+        <view class="arrow color-gray">▼</view>
     </view>
     <view class="flex-line dp-flex">
         <text class="property-name">周日的价格</text>
@@ -73,7 +74,7 @@
 <view id="results-output" hidden="{{!getValidResult}}">
     <scroll-view scroll-x="true">
         <view class="table">
-            <view class="tr bg-dlb color-w">
+            <view class="tr bg-dlb color-w" id="results-table">
                 <view class="th">走势</view>
                 <view class="th">概率</view>
                 <view class="th">最低价</view>
@@ -118,7 +119,13 @@
 </view>
 
 <view class="property">
-    <text class="tips">预测模型来源</text>
+    <text class="tips">帮助：</text>
+    <text class="tips">波动型：一周内出现多次的上涨和下跌。</text>
+    <text class="tips">大涨型：价格浮动最大的类型，一周只有一次大幅上涨。</text>
+    <text class="tips">小涨型：价格浮动较小，一周内会持续上涨多次。</text>
+    <text class="tips">递减型：价格一周内持续下跌。</text>
+    <text class="tips">如果选择了上一次的走势可以更好的预测概率。</text>
+    <text class="tips">预测模型来源：</text>
     <text class="tips">https://github.com/mikebryant/ac-nh-turnip-prices</text>
 </view>
 
