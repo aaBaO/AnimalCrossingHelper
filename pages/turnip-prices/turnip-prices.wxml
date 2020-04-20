@@ -120,11 +120,11 @@
 
 <view class="property">
     <text class="tips">帮助：</text>
+    <text class="tips">预测结果按最高价排序，通过分析可能的走势安排一周的计划。如果选择了上一次的走势可以更好的预测概率。</text>
     <text class="tips">波动型：一周内出现多次的上涨和下跌。</text>
     <text class="tips">大涨型：价格浮动最大的类型，一周只有一次大幅上涨。</text>
     <text class="tips">小涨型：价格浮动较小，一周内会持续上涨多次。</text>
     <text class="tips">递减型：价格一周内持续下跌。</text>
-    <text class="tips">如果选择了上一次的走势可以更好的预测概率。</text>
     <text class="tips">预测模型来源：</text>
     <text class="tips">https://github.com/mikebryant/ac-nh-turnip-prices</text>
 </view>
