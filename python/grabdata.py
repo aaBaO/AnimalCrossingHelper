@@ -90,6 +90,7 @@ def GrabFishData():
             f.write('\n')
             f.write('module.exports={data:json}')
             print("写入文件完成...")
+    browser.close()
 
 def GrabBugData():
     # https://animalcrossing.fandom.com/zh/wiki/Category:昆蟲(集合啦！動物森友會)?variant=zh-hans
@@ -168,8 +169,100 @@ def GrabBugData():
             f.write('\n')
             f.write('module.exports={data:json}')
             print("写入文件完成...")
+    browser.close()
+
+def GrabDIYRecipes():
+    # 'https://wiki.biligame.com/dongsen/DIY配方'
+    browser.get('https://wiki.biligame.com/dongsen/DIY%E9%85%8D%E6%96%B9')
+
+    recipesMap = []
+    # materialsMap = []
+    # recipe={
+    #     category,
+    #     name,
+    #     size,
+    #     thumbnail,
+    #     access,
+    #     materials:[{material, count}, {material, count}]
+    # }
+    # material={
+    #     name,
+    #     thumbnail,
+    # }
+    originalWindowHandle = browser.current_window_handle
+    datas = browser.find_elements(By.CSS_SELECTOR, '#CardSelectTr > tbody > tr')
+    for item in datas:
+        browser.execute_script('window.scrollTo(0,%s-100)' % item.location['y'])
+        time.sleep(0.5)
+        a = item.find_element(By.CSS_SELECTOR, 'td > div > div.floatnone > a')
+        detailURL = a.get_attribute('href')
+        # 打开详情
+        browser.execute_script('window.open("%s")' % detailURL)
+        browser.switch_to_window(browser.window_handles[1])
+        browser.find_element
+
+        recipe = {}
+
+        table = browser.find_element(By.CSS_SELECTOR, '#mw-content-text > div > table > tbody')
+        # 名称
+        title = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(1) > th')
+        recipe['name'] = title.text
+
+        # 图片
+        img = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(2) > td > div > div.floatnone > a > img')
+        imgURL = img.get_attribute('src')
+        # 下载图片
+        assetPath = '/assets/DIYRecipes'
+        imgFile = '%s/%s.png' %(assetPath, recipe['name'])
+        recipe['imgRef'] = imgFile
+        pyImgFile = '.%s' % imgFile
+        if not os.path.exists(pyImgFile):
+            imgResponse = requests.get(imgURL, stream=True)
+            if imgResponse.status_code == 200:
+                # 将内容写入图片
+                open(pyImgFile, 'wb').write(imgResponse.content) 
+                print("%s..图片下载完成" %(pyImgFile))
+            del imgResponse
+
+        # 类别
+        category = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(3) > td')
+        recipe['category'] = category.text
+
+        # 获取途径
+        access = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(4) > td')
+        recipe['access'] = access.text
+
+        # 尺寸
+        size = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(5) > td')
+        recipe['size'] = size.text
+
+        # 材料
+        trs = table.find_elements(By.CSS_SELECTOR, 'tr')
+        materials = []
+        for tr in trs[6:]:
+            trStyle = tr.get_attribute('style')
+            if not trStyle:
+                material = {}
+                material['name'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text
+                material['count'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+                materials.append(material)
+        recipe['materials'] = materials
+
+        recipesMap.append(recipe)
+        browser.close()
+        browser.switch_to_window(originalWindowHandle)
+
+    # 写入js文件
+    with open('./database/DIYRecipes.js', "w", encoding='utf-8') as f:
+        f.seek(0)
+        f.write('var json=')
+        json.dump(recipesMap, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+        f.write('module.exports={data:json}')
+        print("写入文件完成...")
+    browser.close()
 
 browser = webdriver.Chrome()
 # GrabFishData()
-GrabBugData()
-browser.close()
+# GrabBugData()
+GrabDIYRecipes()
