@@ -1,6 +1,6 @@
 <!--pages/dexDetailInfo/dexDetailInfo.wxml-->
 <view class="detail-img">
-    <image class="detail-img" mode="aspectFit" src="{{inspectData.imgFile}}"></image>
+    <image class="detail-img" mode="aspectFit" src="{{inspectData.imgSource}}"></image>
 </view>
 
 <view >

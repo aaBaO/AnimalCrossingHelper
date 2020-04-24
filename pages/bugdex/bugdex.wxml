@@ -8,7 +8,7 @@
     <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
         <view id="item-{{index}}" class="item" 
             bindtap="onTapMoreInfo" data-index="{{dataList[index].name}}">
-            <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgFile}}" lazy-load="{{true}}"></image>
+            <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgSource}}" lazy-load="{{true}}"></image>
             <p class="name">{{dataList[index].name}} </p>
             <p class="price">{{dataList[index].price}} </p>
         </view>

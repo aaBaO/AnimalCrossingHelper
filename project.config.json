@@ -1,7 +1,24 @@
 {
 	"description": "项目配置文件",
 	"packOptions": {
-		"ignore": []
+		"ignore": [
+			{
+				"type":"folder",
+				"value":"/assets/DIYRecipes"
+			},
+			{
+				"type":"folder",
+				"value":"/assets/DIYMaterials"
+			},
+			{
+				"type":"folder",
+				"value":"/assets/bug"
+			},
+			{
+				"type":"folder",
+				"value":"/assets/fish"
+			}
+		]
 	},
 	"setting": {
 		"urlCheck": true,

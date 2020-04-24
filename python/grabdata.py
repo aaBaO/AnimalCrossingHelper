@@ -218,7 +218,7 @@ def GrabDIYRecipes():
         # 下载图片
         assetPath = '/assets/DIYRecipes'
         imgFile = '%s/%s.png' %(assetPath, recipe['name'])
-        recipe['imgRef'] = imgFile
+        recipe['imgRef'] = imgURL
         pyImgFile = '.%s' % imgFile
         if not os.path.exists(pyImgFile):
             imgResponse = requests.get(imgURL, stream=True)
@@ -259,7 +259,7 @@ def GrabDIYRecipes():
                 # 材料图片
                 assetPath = '/assets/DIYMaterials'
                 imgFile = '%s/%s.png' %(assetPath, material['name'])
-                material['imgRef'] = imgFile
+                material['imgRef'] = img2xURL
                 pyImgFile = '.%s' % imgFile
                 if not os.path.exists(pyImgFile):
                     imgResponse = requests.get(img2xURL, stream=True)
@@ -279,7 +279,7 @@ def GrabDIYRecipes():
     with open('./database/DIYRecipes.js', "w", encoding='utf-8') as f:
         f.seek(0)
         f.write('var json=')
-        json.dump(recipesMap, f, ensure_ascii=False, indent=2)
+        json.dump(recipesMap, f, ensure_ascii=False)
         f.write('\n')
         f.write('module.exports={data:json}')
         print("写入文件完成...")

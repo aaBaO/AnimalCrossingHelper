@@ -5,7 +5,7 @@ var json=[
       "jianlouchanzi",
       "jlcz"
     ],
-    "imgRef": "/assets/DIYRecipes/简陋铲子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/24/38fcz40zd3l3r7v094jiv46ovhj6ypf.png",
     "category": "工具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -17,7 +17,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -27,7 +27,7 @@ var json=[
       "qingtaitingyuanshi",
       "qttys"
     ],
-    "imgRef": "/assets/DIYRecipes/青苔庭院石.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/db/cvkwb3lc1vc6dxwhl87ua8u2q7s49um.png",
     "category": "家具",
     "access": "罗迪欧赠送/商店购买",
     "size": "1.0×1.0",
@@ -39,7 +39,7 @@ var json=[
           "st"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "杂草",
@@ -48,7 +48,7 @@ var json=[
           "zc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -58,7 +58,7 @@ var json=[
       "yaoshiguagou",
       "ysgg"
     ],
-    "imgRef": "/assets/DIYRecipes/钥匙挂钩.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/50/tsx3y2wnj3zz91yfu64vrhz5l6uzhoo.png",
     "category": "壁挂物",
     "access": "然姐赠送/商店购买",
     "size": "1.0×1.0",
@@ -70,7 +70,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -79,7 +79,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -89,7 +89,7 @@ var json=[
       "kongguankalinbaqin",
       "kgklbq"
     ],
-    "imgRef": "/assets/DIYRecipes/空罐卡林巴琴.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f2/4ec8ca75hex1sxhufapfcm57elnk26b.png",
     "category": "小物件",
     "access": "灵感/商店购买",
     "size": "1.0×1.0",
@@ -101,7 +101,7 @@ var json=[
           "kg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/空罐.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e4/j7eu3r41wkfjmu2s18dad0dzb6tgihg.png/100px-TrashCan.png"
       },
       {
         "name": "木材",
@@ -110,7 +110,7 @@ var json=[
           "mc"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -119,7 +119,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -129,7 +129,7 @@ var json=[
       "lajidai",
       "ljd"
     ],
-    "imgRef": "/assets/DIYRecipes/垃圾袋.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f5/solfajmwnxv4qrdph5cwhvo27sm7jb0.png",
     "category": "小物件",
     "access": "灵感/商店购买",
     "size": "1.0×1.0",
@@ -141,7 +141,7 @@ var json=[
           "kg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/空罐.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e4/j7eu3r41wkfjmu2s18dad0dzb6tgihg.png/100px-TrashCan.png"
       },
       {
         "name": "长靴",
@@ -150,7 +150,7 @@ var json=[
           "zx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/长靴.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/31/3oj7aminqxqr20ijrkthga49z7d15jq.png/100px-TrashBoot.png"
       },
       {
         "name": "轮胎",
@@ -159,7 +159,7 @@ var json=[
           "lt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/轮胎.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/47jg94lusvs4fjbthgeg42hlj20ys1v.png/100px-TrashTire.png"
       }
     ]
   },
@@ -169,7 +169,7 @@ var json=[
       "duorouzhiwu",
       "drzw"
     ],
-    "imgRef": "/assets/DIYRecipes/多肉植物.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/36/05owrjugwp0vfm4b686p0t2y5b7atsp.png",
     "category": "小物件",
     "access": "灵感/商店购买",
     "size": "1.0×1.0",
@@ -181,7 +181,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "空罐",
@@ -190,7 +190,7 @@ var json=[
           "kg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/空罐.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e4/j7eu3r41wkfjmu2s18dad0dzb6tgihg.png/100px-TrashCan.png"
       }
     ]
   },
@@ -200,7 +200,7 @@ var json=[
       "lajiduiqiang",
       "ljdq"
     ],
-    "imgRef": "/assets/DIYRecipes/垃圾堆墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/07/mp1dr3b6s0wnifpm5rg8h7jye6lhkvp.png",
     "category": "墙壁·地板·地垫",
     "access": "灵感/商店购买",
     "size": "一个房间",
@@ -212,7 +212,7 @@ var json=[
           "kg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/空罐.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e4/j7eu3r41wkfjmu2s18dad0dzb6tgihg.png/100px-TrashCan.png"
       },
       {
         "name": "长靴",
@@ -221,7 +221,7 @@ var json=[
           "zx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/长靴.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/31/3oj7aminqxqr20ijrkthga49z7d15jq.png/100px-TrashBoot.png"
       },
       {
         "name": "轮胎",
@@ -230,7 +230,7 @@ var json=[
           "lt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/轮胎.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/47jg94lusvs4fjbthgeg42hlj20ys1v.png/100px-TrashTire.png"
       }
     ]
   },
@@ -240,7 +240,7 @@ var json=[
       "fangjiandiban",
       "fjdb"
     ],
-    "imgRef": "/assets/DIYRecipes/房间地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d8/4uihpahwrst6q1jo18u4x2z8z85wcuc.png",
     "category": "墙壁·地板·地垫",
     "access": "灵感/商店购买",
     "size": "一个房间",
@@ -252,7 +252,7 @@ var json=[
           "kg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/空罐.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e4/j7eu3r41wkfjmu2s18dad0dzb6tgihg.png/100px-TrashCan.png"
       },
       {
         "name": "长靴",
@@ -261,7 +261,7 @@ var json=[
           "zx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/长靴.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/31/3oj7aminqxqr20ijrkthga49z7d15jq.png/100px-TrashBoot.png"
       },
       {
         "name": "轮胎",
@@ -270,7 +270,7 @@ var json=[
           "lt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/轮胎.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/47jg94lusvs4fjbthgeg42hlj20ys1v.png/100px-TrashTire.png"
       }
     ]
   },
@@ -280,7 +280,7 @@ var json=[
       "zhuziqiang",
       "zzq"
     ],
-    "imgRef": "/assets/DIYRecipes/竹子墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ee/7k2vv79skg3af3ee3re6rtnywgcsr44.png",
     "category": "墙壁·地板·地垫",
     "access": "气球礼物/商店购买",
     "size": "一个房间",
@@ -292,7 +292,7 @@ var json=[
           "zzcl"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -302,7 +302,7 @@ var json=[
       "jianloubuchongwang",
       "jlbcw"
     ],
-    "imgRef": "/assets/DIYRecipes/简陋捕虫网.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cb/dwkpipa5d1h1ijh4h1rvh1yoq6j6ww7.png",
     "category": "工具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -314,7 +314,7 @@ var json=[
           "sz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -324,7 +324,7 @@ var json=[
       "huishouzhangxue",
       "hszx"
     ],
-    "imgRef": "/assets/DIYRecipes/回收长靴.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/30/loreos6xokjtpil5lq7x4biq4scob75.png",
     "category": "装备",
     "access": "灵感/商店购买",
     "size": "1.0×1.0",
@@ -336,7 +336,7 @@ var json=[
           "zx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/长靴.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/31/3oj7aminqxqr20ijrkthga49z7d15jq.png/100px-TrashBoot.png"
       }
     ]
   },
@@ -346,7 +346,7 @@ var json=[
       "shaiyisheng",
       "sys"
     ],
-    "imgRef": "/assets/DIYRecipes/晒衣绳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4b/d3ut870ucfo5wj92dmd0ihove9t1jny.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "2.0×0.5",
@@ -358,7 +358,7 @@ var json=[
           "sz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -368,7 +368,7 @@ var json=[
       "yuanmucanzhuo",
       "ymcz"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木餐桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e3/71lghb211vmt1zk8j4zua7wrsevstz1.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "2.0×2.0",
@@ -380,7 +380,7 @@ var json=[
           "ymc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -390,7 +390,7 @@ var json=[
       "yuanmuzhangdeng",
       "ymzd"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木长凳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0a/gouffz51qgjq2zxyx6afwyfcpg9exuc.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "2.0×1.0",
@@ -402,7 +402,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -412,7 +412,7 @@ var json=[
       "ziranfenghuayuanyi",
       "zrfhyy"
     ],
-    "imgRef": "/assets/DIYRecipes/自然风花园椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8e/4r3o8dg2o57an3oi77o0fb06cn3imxt.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -424,7 +424,7 @@ var json=[
           "ymc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -433,7 +433,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -443,7 +443,7 @@ var json=[
       "ziranfenghuayuanzhuo",
       "zrfhyz"
     ],
-    "imgRef": "/assets/DIYRecipes/自然风花园桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f2/r4hvsobju67chbgop7yish9ikwddhyp.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "2.0×2.0",
@@ -455,7 +455,7 @@ var json=[
           "ymc"
         ],
         "count": "9",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -464,7 +464,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -474,7 +474,7 @@ var json=[
       "muzhishuitong",
       "mzst"
     ],
-    "imgRef": "/assets/DIYRecipes/木制水桶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0a/ijlnd4hykcgnsminv1xhtvaoktzjgns.png",
     "category": "家具",
     "access": "狸克赠送/商店购买/向岛民学习配方",
     "size": "1.0×1.0",
@@ -486,7 +486,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -495,7 +495,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -505,7 +505,7 @@ var json=[
       "luntaiwanju",
       "ltwj"
     ],
-    "imgRef": "/assets/DIYRecipes/轮胎玩具.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/df/9o8jbzu6zz4twsf30mmp7y2moymftiv.png",
     "category": "家具",
     "access": "灵感/商店购买",
     "size": "1.0×1.0",
@@ -517,7 +517,7 @@ var json=[
           "lt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/轮胎.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/47jg94lusvs4fjbthgeg42hlj20ys1v.png/100px-TrashTire.png"
       }
     ]
   },
@@ -527,7 +527,7 @@ var json=[
       "luntaidui",
       "ltd"
     ],
-    "imgRef": "/assets/DIYRecipes/轮胎堆.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/01/4kdkm79r0ejhy0xyzn31q0k5wprs59h.png",
     "category": "家具",
     "access": "灵感/商店购买",
     "size": "1.0×1.0",
@@ -539,7 +539,7 @@ var json=[
           "lt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/轮胎.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/47jg94lusvs4fjbthgeg42hlj20ys1v.png/100px-TrashTire.png"
       }
     ]
   },
@@ -549,7 +549,7 @@ var json=[
       "shifutou",
       "sft"
     ],
-    "imgRef": "/assets/DIYRecipes/石斧头.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ae/0hzdyg78xp1f8xs2dw896yjwowe1rka.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -561,7 +561,7 @@ var json=[
           "jlft"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋斧头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a6/5aeowvl5snyqq4552g6y904tkxhq1iu.png/100px-ToolAxeStone.png"
       },
       {
         "name": "木材",
@@ -570,7 +570,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -580,7 +580,7 @@ var json=[
       "xingxingbang",
       "xxb"
     ],
-    "imgRef": "/assets/DIYRecipes/星星棒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9c/8t035fg7gxuxn43djb2hbabck90rdq5.png",
     "category": "工具",
     "access": "流星雨当天晚上与岛上的傅珂对话",
     "size": "1",
@@ -592,7 +592,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       },
       {
         "name": "星星碎片",
@@ -601,7 +601,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -611,7 +611,7 @@ var json=[
       "futou",
       "ft"
     ],
-    "imgRef": "/assets/DIYRecipes/斧头.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/61/mkps3iau1eknt424z7oh16jue53oikb.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -623,7 +623,7 @@ var json=[
           "jlft"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋斧头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a6/5aeowvl5snyqq4552g6y904tkxhq1iu.png/100px-ToolAxeStone.png"
       },
       {
         "name": "木材",
@@ -632,7 +632,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -641,7 +641,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -651,7 +651,7 @@ var json=[
       "yeziyusan",
       "yzys"
     ],
-    "imgRef": "/assets/DIYRecipes/叶子雨伞.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c0/jqai88h7rotrrt0fbxo85r0k4fwkfed.png",
     "category": "装备",
     "access": "动物赠送/商店购买",
     "size": "1.0×1.0",
@@ -663,7 +663,7 @@ var json=[
           "zc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -673,7 +673,7 @@ var json=[
       "chanzi",
       "cz"
     ],
-    "imgRef": "/assets/DIYRecipes/铲子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/eb/7gs9grd0iuwtqll21ig6stqen08ur9d.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -685,7 +685,7 @@ var json=[
           "jlcz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋铲子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/24/38fcz40zd3l3r7v094jiv46ovhj6ypf.png/100px-ToolShovelWood.png"
       },
       {
         "name": "铁矿石",
@@ -694,7 +694,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -704,7 +704,7 @@ var json=[
       "diaogan",
       "dg"
     ],
-    "imgRef": "/assets/DIYRecipes/钓竿.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fb/tm872zfmcko7odb6dxdk3dv22s5w0xb.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -716,7 +716,7 @@ var json=[
           "jldg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋钓竿.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8e/it6ush9yopg7vmymrwuax0huylokb5j.png/100px-ToolFishingrodWood.png"
       },
       {
         "name": "铁矿石",
@@ -725,7 +725,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -735,7 +735,7 @@ var json=[
       "buchongwang",
       "bcw"
     ],
-    "imgRef": "/assets/DIYRecipes/捕虫网.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3c/ehjxddabg2r4thg00w3eaz29jvi3a83.png",
     "category": "工具",
     "access": "狸端机兑换（平常就能用！道具手册）",
     "size": "1.0×1.0",
@@ -747,7 +747,7 @@ var json=[
           "jlbcw"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋捕虫网.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cb/dwkpipa5d1h1ijh4h1rvh1yoq6j6ww7.png/100px-ToolNet.png"
       },
       {
         "name": "铁矿石",
@@ -756,7 +756,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -766,7 +766,7 @@ var json=[
       "jianloujiaohuahu",
       "jljhh"
     ],
-    "imgRef": "/assets/DIYRecipes/简陋浇花壶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ac/kfbnczxgxt7ltmt5yrpl9cr4cpau67s.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -778,7 +778,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -788,7 +788,7 @@ var json=[
       "jiaohuahu",
       "jhh"
     ],
-    "imgRef": "/assets/DIYRecipes/浇花壶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/12/evx5w1y6z57avoqffvv8lude1oh4j0w.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -800,7 +800,7 @@ var json=[
           "jljhh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋浇花壶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ac/kfbnczxgxt7ltmt5yrpl9cr4cpau67s.png/100px-ToolWateringWood.png"
       },
       {
         "name": "铁矿石",
@@ -809,7 +809,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -819,7 +819,7 @@ var json=[
       "dangong",
       "dg"
     ],
-    "imgRef": "/assets/DIYRecipes/弹弓.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cd/sp94kfwl1el8584yku03jut2ojsdoi2.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -831,7 +831,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -841,7 +841,7 @@ var json=[
       "taodi",
       "td"
     ],
-    "imgRef": "/assets/DIYRecipes/陶笛.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9a/eqw8t40016wdazxk2jt7h35pb7bx556.png",
     "category": "小物件",
     "access": "商店购买（新手DIY手册）",
     "size": "1.0×1.0",
@@ -853,7 +853,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -863,7 +863,7 @@ var json=[
       "chenggantiaoganzi",
       "cgtgz"
     ],
-    "imgRef": "/assets/DIYRecipes/撑杆跳竿子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/64/ker1or3e1xpfufxy4arxe39j7camw8v.png",
     "category": "工具",
     "access": "博达赠送/商店购买",
     "size": "1.0×1.0",
@@ -875,7 +875,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -885,7 +885,7 @@ var json=[
       "tizi",
       "tz"
     ],
-    "imgRef": "/assets/DIYRecipes/梯子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a3/jkdji65gwozver7ioerqvi6dc0tqhkl.png",
     "category": "工具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -897,7 +897,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "硬木材",
@@ -906,7 +906,7 @@ var json=[
           "ymc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -915,7 +915,7 @@ var json=[
           "rmc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -925,7 +925,7 @@ var json=[
       "miniDIYzuoyetai",
       "mnDIYzyt"
     ],
-    "imgRef": "/assets/DIYRecipes/迷你DIY作业台.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/05/eseppeoew352scs549kj4l260jc1pf6.png",
     "category": "家具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -937,7 +937,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "硬木材",
@@ -946,7 +946,7 @@ var json=[
           "ymc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -955,7 +955,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "铁矿石",
@@ -964,7 +964,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -974,7 +974,7 @@ var json=[
       "gancaochuangpu",
       "gccp"
     ],
-    "imgRef": "/assets/DIYRecipes/干草床铺.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1f/kt8lihatqgwur5lu8c65c97weotdpw6.png",
     "category": "家具",
     "access": "商店购买（新手DIY手册）",
     "size": "2.0×1.0",
@@ -986,7 +986,7 @@ var json=[
           "zc"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -996,7 +996,7 @@ var json=[
       "gouhuo",
       "gh"
     ],
-    "imgRef": "/assets/DIYRecipes/篝火.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/54/1k48mzmkd2skl8mqaylxj62qziypzg3.png",
     "category": "家具",
     "access": "商店购买（新手DIY手册）",
     "size": "2.0×2.0",
@@ -1008,7 +1008,7 @@ var json=[
           "ch"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/炊火.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1e/mvh69fr1h878c231iv1ost652p9nad7.png/100px-FtrBonfire.png"
       },
       {
         "name": "木材",
@@ -1017,7 +1017,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1027,9 +1027,9 @@ var json=[
       "huoba",
       "hb"
     ],
-    "imgRef": "/assets/DIYRecipes/火把.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3e/iufzvy7r8r2r6wuo4x2bv6x9kj9e76a.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -1039,7 +1039,7 @@ var json=[
           "sz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "木材",
@@ -1048,7 +1048,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1058,9 +1058,9 @@ var json=[
       "muzhiyi",
       "mzy"
     ],
-    "imgRef": "/assets/DIYRecipes/木制椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a0/2zdp9ggff0odsngp63mj3odnrohehmx.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -1070,7 +1070,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1080,9 +1080,9 @@ var json=[
       "muzhibianzhuo",
       "mzbz"
     ],
-    "imgRef": "/assets/DIYRecipes/木制边桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/98/bj5fifexogvytwq471ulqz0fl97a4v2.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -1092,7 +1092,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1102,7 +1102,7 @@ var json=[
       "yuanmuzhuang",
       "ymz"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木桩.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e5/d4b35v1k8fla0ufe8z4fku2cp2oxp9k.png",
     "category": "家具",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -1114,7 +1114,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1124,7 +1124,7 @@ var json=[
       "jimuyi",
       "jmy"
     ],
-    "imgRef": "/assets/DIYRecipes/积木椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/ca/1ek3ge2nsf0ho9oxggash4ollmmpmug.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1136,7 +1136,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -1145,7 +1145,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1155,7 +1155,7 @@ var json=[
       "jimuzhuo",
       "jmz"
     ],
-    "imgRef": "/assets/DIYRecipes/积木桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/26/1gg5xv5l9imtir6pn5i64kzae1tijev.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "2.0×2.0",
@@ -1167,7 +1167,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -1176,7 +1176,7 @@ var json=[
           "rmc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1186,7 +1186,7 @@ var json=[
       "pusumuzhizhaopai",
       "psmzzp"
     ],
-    "imgRef": "/assets/DIYRecipes/朴素木制招牌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/76/cwzb4tx3sporcltnb492l2stq21p8t5.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1198,7 +1198,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1208,7 +1208,7 @@ var json=[
       "jimuyinxiang",
       "jmyx"
     ],
-    "imgRef": "/assets/DIYRecipes/积木音响.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c6/qnl6ycf7ohpl6dldoi7qrra6rnp5raz.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1220,7 +1220,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -1229,7 +1229,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "铁矿石",
@@ -1238,7 +1238,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -1248,7 +1248,7 @@ var json=[
       "shitoudengzi",
       "stdz"
     ],
-    "imgRef": "/assets/DIYRecipes/石头凳子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ef/tn5xjcd8mgzk6nq4cektaxq7j3pb5i0.png",
     "category": "家具",
     "access": "商店购买（新手DIY手册）",
     "size": "1.0×1.0",
@@ -1260,7 +1260,7 @@ var json=[
           "st"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -1270,7 +1270,7 @@ var json=[
       "jimushugui",
       "jmsg"
     ],
-    "imgRef": "/assets/DIYRecipes/积木书柜.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dd/he0okhmubujpfowwhpvyppygs20osy8.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1282,7 +1282,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -1291,7 +1291,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1301,7 +1301,7 @@ var json=[
       "yaoyi",
       "yy"
     ],
-    "imgRef": "/assets/DIYRecipes/摇椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3a/jz6g7o0c9qm0dbpheh935asp7w5qavh.png",
     "category": "家具",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -1313,7 +1313,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -1322,7 +1322,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1332,7 +1332,7 @@ var json=[
       "qiuqianyi",
       "qqy"
     ],
-    "imgRef": "/assets/DIYRecipes/秋千椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c2/4ts5tg5vdwcfca5wfenp44rs6zj4cgd.png",
     "category": "家具",
     "access": "狸克赠送",
     "size": "2.0×1.0",
@@ -1344,7 +1344,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -1353,7 +1353,7 @@ var json=[
           "rmc"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1363,7 +1363,7 @@ var json=[
       "chaji",
       "cj"
     ],
-    "imgRef": "/assets/DIYRecipes/茶几.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/24/idzp8jasu3hoyfyrx7bl09cv5uajg2m.png",
     "category": "家具",
     "access": "商店购买",
     "size": "2.0×2.0",
@@ -1375,7 +1375,7 @@ var json=[
           "ymc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -1385,7 +1385,7 @@ var json=[
       "gouwu",
       "gw"
     ],
-    "imgRef": "/assets/DIYRecipes/狗屋.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a4/mfuclczgqin5bmas7nmqmgmm366yhwc.png",
     "category": "家具",
     "access": "皮蛋赠送/商店购买",
     "size": "1.0×1.0",
@@ -1397,7 +1397,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "硬木材",
@@ -1406,7 +1406,7 @@ var json=[
           "ymc"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -1416,7 +1416,7 @@ var json=[
       "niaochaowu",
       "ncw"
     ],
-    "imgRef": "/assets/DIYRecipes/鸟巢屋.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8a/tc2wc9xy6mumliknkcewzotpas8fv9m.png",
     "category": "家具",
     "access": "商店购买",
     "size": "1.0×1.0",
@@ -1428,7 +1428,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -1437,7 +1437,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1447,7 +1447,7 @@ var json=[
       "pingdiguo",
       "pdg"
     ],
-    "imgRef": "/assets/DIYRecipes/平底锅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3c/o7uwqz9yq0s48f9xi9xu96rwg3gkl51.png",
     "category": "小物件",
     "access": "商店购买（新手DIY手册）",
     "size": "1.0×1.0",
@@ -1459,7 +1459,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -1469,7 +1469,7 @@ var json=[
       "xiaoniaoshuipen",
       "xnsp"
     ],
-    "imgRef": "/assets/DIYRecipes/小鸟水盆.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/74/bggttsk3ooxuzqtgmtq9zbn2u3fa9m5.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1481,7 +1481,7 @@ var json=[
           "st"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -1491,7 +1491,7 @@ var json=[
       "xiyipen",
       "xyp"
     ],
-    "imgRef": "/assets/DIYRecipes/洗衣盆.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/40/rspm9qurh1dd2wscijj53clspbc4eme.png",
     "category": "小物件",
     "access": "商店购买（新手DIY手册）",
     "size": "1.0×1.0",
@@ -1503,7 +1503,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1513,7 +1513,7 @@ var json=[
       "jimuwanju",
       "jmwj"
     ],
-    "imgRef": "/assets/DIYRecipes/积木玩具.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png",
     "category": "小物件",
     "access": "商店购买（新手DIY手册）",
     "size": "1.0×1.0",
@@ -1525,7 +1525,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1535,7 +1535,7 @@ var json=[
       "eluositaowa",
       "elstw"
     ],
-    "imgRef": "/assets/DIYRecipes/俄罗斯套娃.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2e/ftpwo93332ayq4j3ri2m8rtiv6uovrs.png",
     "category": "小物件",
     "access": "漂流瓶/村民教",
     "size": "1*1",
@@ -1547,7 +1547,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1557,7 +1557,7 @@ var json=[
       "huayuanzhutieyi",
       "hyzty"
     ],
-    "imgRef": "/assets/DIYRecipes/花园铸铁椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/96/j7fm83943wxf50d69zz5rks6fduourv.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1569,7 +1569,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -1579,7 +1579,7 @@ var json=[
       "huayuanzhutiezhuo",
       "hyztz"
     ],
-    "imgRef": "/assets/DIYRecipes/花园铸铁桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2f/4y5m5f8ywyj1noj2hrt9j4oaini93t8.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1591,7 +1591,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -1601,7 +1601,7 @@ var json=[
       "taoziyi",
       "tzy"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子椅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3c/rznvu7tyaj0iyk9fjardbddersgets1.png",
     "category": "家具",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1613,7 +1613,7 @@ var json=[
           "tz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       },
       {
         "name": "木材",
@@ -1622,7 +1622,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1632,7 +1632,7 @@ var json=[
       "taozijingxiaxiang",
       "tzjxx"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子惊吓箱.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0f/1trwrowlk6soot0l6payxext34wfs56.png",
     "category": "小物件",
     "access": "狸克赠送/商店购买",
     "size": "1.0×1.0",
@@ -1644,7 +1644,7 @@ var json=[
           "tz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       },
       {
         "name": "软木材",
@@ -1653,7 +1653,7 @@ var json=[
           "rmc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1663,7 +1663,7 @@ var json=[
       "lvseluoye",
       "lsly"
     ],
-    "imgRef": "/assets/DIYRecipes/绿色落叶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6d/mmciv1onk4137rq89533s0hy4jxi35x.png",
     "category": "季节手册",
     "access": "漂流瓶/气球礼物",
     "size": "1.5×1.5",
@@ -1675,7 +1675,7 @@ var json=[
           "cs"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       },
       {
         "name": "杂草",
@@ -1684,7 +1684,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -1694,7 +1694,7 @@ var json=[
       "liushuisumian",
       "lssm"
     ],
-    "imgRef": "/assets/DIYRecipes/流水素面.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/57/fc9o2zn17lej13z5olgqqyfbg7c6x1c.png",
     "category": "季节手册",
     "access": "漂流瓶/气球礼物",
     "size": "3.0×1.0",
@@ -1706,7 +1706,7 @@ var json=[
           "cs"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       },
       {
         "name": "木材",
@@ -1715,7 +1715,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -1725,7 +1725,7 @@ var json=[
       "qiansezhuzidedian",
       "qszzdd"
     ],
-    "imgRef": "/assets/DIYRecipes/浅色竹子地垫.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e5/1kjbkllmm99fzsjz5dwjof45rr6p0oj.png",
     "category": "季节手册",
     "access": "漂流瓶/气球礼物",
     "size": "3.0×2.0",
@@ -1737,7 +1737,7 @@ var json=[
           "cs"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       }
     ]
   },
@@ -1747,9 +1747,9 @@ var json=[
       "xuebutuiche",
       "xbtc"
     ],
-    "imgRef": "/assets/DIYRecipes/学步推车.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0f/rni6m7ejd5hq4bx8gaq8ex00lce5dhz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -1759,7 +1759,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -1768,7 +1768,7 @@ var json=[
           "rmc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1778,7 +1778,7 @@ var json=[
       "suoyi",
       "sy"
     ],
-    "imgRef": "/assets/DIYRecipes/蓑衣.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d2/b3ma3kokoaod9m49ynoxt9dxrltl97r.png",
     "category": "装备",
     "access": "漂流瓶",
     "size": "1.0*1.0",
@@ -1790,7 +1790,7 @@ var json=[
           "zc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -1800,7 +1800,7 @@ var json=[
       "caobianshuangjianbao",
       "cbsjb"
     ],
-    "imgRef": "/assets/DIYRecipes/草编双肩包.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f4/4qiqfrs2tply6d4alqsead629oxlyxf.png",
     "category": "装备",
     "access": "漂流瓶",
     "size": "1.0*1.0",
@@ -1812,7 +1812,7 @@ var json=[
           "zc"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -1822,7 +1822,7 @@ var json=[
       "beikezhuo",
       "bkz"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e1/8yjiaaw7zfiehiugcvjycoeiz2erfjf.png",
     "category": "家具",
     "access": "小动物赠送",
     "size": "2.0*2.0",
@@ -1834,7 +1834,7 @@ var json=[
           "sq"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/沙钱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d1/3yyq23qawfw333i2fl0v1kb2ydl6uhy.png/100px-Shell8.png"
       },
       {
         "name": "黏土",
@@ -1843,7 +1843,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -1853,7 +1853,7 @@ var json=[
       "shuhaiqiang",
       "shq"
     ],
-    "imgRef": "/assets/DIYRecipes/树海墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/31/kykx2zs14tze3fstfyrhvqfl0ts03yk.png",
     "category": "墙壁·地板·地垫",
     "access": "漂流瓶",
     "size": "一个房间",
@@ -1865,7 +1865,7 @@ var json=[
           "zc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "软木材",
@@ -1874,7 +1874,7 @@ var json=[
           "rmc"
         ],
         "count": "9",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -1884,7 +1884,7 @@ var json=[
       "fengmidiban",
       "fmdb"
     ],
-    "imgRef": "/assets/DIYRecipes/蜂蜜地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/31/8rqd4dxhdemceffaslyfgbtm28o5wae.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -1896,7 +1896,7 @@ var json=[
           "fc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/蜂巢.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7c/daqxxypmk8pyeahykyfuvtqn541n85i.png/100px-Honeycomb.png"
       }
     ]
   },
@@ -1906,7 +1906,7 @@ var json=[
       "shatandiban",
       "stdb"
     ],
-    "imgRef": "/assets/DIYRecipes/沙滩地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/ba/7r6geus5rcwjhdhk5go54xraer9lvra.png",
     "category": "地板",
     "access": "漂流瓶",
     "size": "一个房间",
@@ -1918,7 +1918,7 @@ var json=[
           "zlk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/钟螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/07/ia6zksdcznl5km18ekpfxvy0abi61s6.png/100px-Shell6.png"
       },
       {
         "name": "骨螺壳",
@@ -1927,7 +1927,7 @@ var json=[
           "glk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/骨螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6b/s222zhi60yehgzgabtydtayeeohunfe.png/100px-Shell4.png"
       },
       {
         "name": "沙钱",
@@ -1936,7 +1936,7 @@ var json=[
           "sq"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/沙钱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d1/3yyq23qawfw333i2fl0v1kb2ydl6uhy.png/100px-Shell8.png"
       },
       {
         "name": "珊瑚",
@@ -1945,7 +1945,7 @@ var json=[
           "sh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/珊瑚.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/llamnj24ldbpxulthxcnyadlgqq21n4.png/100px-Shell3.png"
       },
       {
         "name": "扇贝壳",
@@ -1954,7 +1954,7 @@ var json=[
           "sbk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "宝螺壳",
@@ -1963,7 +1963,7 @@ var json=[
           "blk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/宝螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/14/qu9wj13knn4t4atp1fjjsbearywvwbe.png/100px-Shell7.png"
       }
     ]
   },
@@ -1973,7 +1973,7 @@ var json=[
       "tiebandiban",
       "tbdb"
     ],
-    "imgRef": "/assets/DIYRecipes/铁板地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/04/886nim4knwwg6njfjw6aak3moqeyxt8.png",
     "category": "墙壁·地板·地垫",
     "access": "漂流瓶",
     "size": "一个房间",
@@ -1985,7 +1985,7 @@ var json=[
           "tks"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -1995,7 +1995,7 @@ var json=[
       "caopingdiban",
       "cpdb"
     ],
-    "imgRef": "/assets/DIYRecipes/草坪地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7b/kxdno6hnvvhn8wq6871ymecn7oqmmvm.png",
     "category": "墙壁·地板·地垫",
     "access": "漂流瓶",
     "size": "一个房间",
@@ -2007,7 +2007,7 @@ var json=[
           "zc"
         ],
         "count": "30",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -2017,7 +2017,7 @@ var json=[
       "gangling",
       "gl"
     ],
-    "imgRef": "/assets/DIYRecipes/杠铃.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/96/19nothpoikn27yp6ty1zp05ktza3mc3.png",
     "category": "家具",
     "access": "蓬蓬赠送",
     "size": "2.0*1.0",
@@ -2029,7 +2029,7 @@ var json=[
           "tks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -2039,9 +2039,9 @@ var json=[
       "shishuipen",
       "ssp"
     ],
-    "imgRef": "/assets/DIYRecipes/石水盆.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/roamw4oofldbr03xqov2zx81tqw2zpf.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2051,7 +2051,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -2061,7 +2061,7 @@ var json=[
       "pinmuqiang",
       "pmq"
     ],
-    "imgRef": "/assets/DIYRecipes/拼木墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3d/0plwr64z4ylj4w5ycog186nnivsmb6a.png",
     "category": "墙壁·地板·地垫",
     "access": "漂流瓶",
     "size": "一个房间",
@@ -2073,7 +2073,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -2082,7 +2082,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "硬木材",
@@ -2091,7 +2091,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -2101,8 +2101,8 @@ var json=[
       "xiaobokuai",
       "xbk"
     ],
-    "imgRef": "/assets/DIYRecipes/消波块.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3f/e2u8524kh48xg6m3zcbq76vuofhyyl1.png",
+    "category": "",
     "access": "里程兑换",
     "size": "",
     "materials": [
@@ -2113,7 +2113,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "黏土",
@@ -2122,7 +2122,7 @@ var json=[
           "nt"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -2132,7 +2132,7 @@ var json=[
       "caocongdaoju",
       "ccdj"
     ],
-    "imgRef": "/assets/DIYRecipes/草丛道具.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c3/9vi5xc4epe63p1ne276m6uoxh01dn1x.png",
     "category": "家具",
     "access": "漂流瓶",
     "size": "1.0×0.5",
@@ -2144,7 +2144,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -2153,7 +2153,7 @@ var json=[
           "rmc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -2163,7 +2163,7 @@ var json=[
       "wukelili",
       "wkll"
     ],
-    "imgRef": "/assets/DIYRecipes/乌克丽丽.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/37/l5cdregybv8feqr1y9hfd4aurivn54f.png",
     "category": "小物件",
     "access": "漂流瓶/气球礼物",
     "size": "1.0×1.0",
@@ -2175,7 +2175,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -2185,9 +2185,9 @@ var json=[
       "muma",
       "mm"
     ],
-    "imgRef": "/assets/DIYRecipes/木马.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e0/p5eukshk24wzb83stz2r15pu7ul4mmx.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2197,7 +2197,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -2207,9 +2207,9 @@ var json=[
       "shucongdaoju",
       "scdj"
     ],
-    "imgRef": "/assets/DIYRecipes/树丛道具.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/02/rc3xezjewc60un53vk6g8p9iod0emzr.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2219,7 +2219,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -2228,7 +2228,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -2238,7 +2238,7 @@ var json=[
       "taoquanquan",
       "tqq"
     ],
-    "imgRef": "/assets/DIYRecipes/套圈圈.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9a/1taoisc0xkyauci8rq0xk16n6ebl55h.png",
     "category": "小物件",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -2250,7 +2250,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -2259,7 +2259,7 @@ var json=[
           "rmc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -2269,9 +2269,9 @@ var json=[
       "jiashandaoju",
       "jsdj"
     ],
-    "imgRef": "/assets/DIYRecipes/假山道具.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/22/pj1rh291u7ow44ukdslvjbymyjuaygq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2281,7 +2281,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -2290,7 +2290,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -2300,7 +2300,7 @@ var json=[
       "renkonggai",
       "rkg"
     ],
-    "imgRef": "/assets/DIYRecipes/人孔盖.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9f/r60vx379hoprrgepj66t7td9cdwiy3e.png",
     "category": "小物件",
     "access": "里程兑换",
     "size": "1*1",
@@ -2312,7 +2312,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -2322,7 +2322,7 @@ var json=[
       "jiashudaoju",
       "jsdj"
     ],
-    "imgRef": "/assets/DIYRecipes/假树道具.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a8/0pj46lrouvggptocpbywxp2czqb7zrl.png",
     "category": "家具",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "2.0×1.0",
@@ -2334,7 +2334,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -2343,7 +2343,7 @@ var json=[
           "rmc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -2353,9 +2353,9 @@ var json=[
       "mujita",
       "mjt"
     ],
-    "imgRef": "/assets/DIYRecipes/木吉他.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1e/5tgalcq935g0nqtuloyajsxdaqdhwym.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2365,7 +2365,7 @@ var json=[
           "rmc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "铁矿石",
@@ -2374,7 +2374,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -2384,7 +2384,7 @@ var json=[
       "lutianchi",
       "ltc"
     ],
-    "imgRef": "/assets/DIYRecipes/露天池.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8f/cps56rqzmx796vfrahpto5u813p196g.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "3.0×3.0",
@@ -2396,7 +2396,7 @@ var json=[
           "st"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "铲子",
@@ -2405,7 +2405,7 @@ var json=[
           "cz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铲子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/eb/7gs9grd0iuwtqll21ig6stqen08ur9d.png/100px-ToolScoop.png"
       }
     ]
   },
@@ -2415,9 +2415,9 @@ var json=[
       "mogudeng",
       "mgd"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b9/3sf1hfg8ocls7oojmf38tqophuh6abu.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2427,7 +2427,7 @@ var json=[
           "sxmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "黏土",
@@ -2436,7 +2436,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -2446,9 +2446,9 @@ var json=[
       "luoye",
       "ly"
     ],
-    "imgRef": "/assets/DIYRecipes/落叶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0c/6l15keapv2kpy72v7rghjpcgmlc0gvf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2458,7 +2458,7 @@ var json=[
           "sg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "杂草",
@@ -2467,7 +2467,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -2477,9 +2477,9 @@ var json=[
       "zhuzhangdeng",
       "zzd"
     ],
-    "imgRef": "/assets/DIYRecipes/竹长凳.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/35/oacvvf431hk8vjlyjk4n8qgnem7104j.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2489,7 +2489,7 @@ var json=[
           "zzcl"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -2499,9 +2499,9 @@ var json=[
       "daocaoren",
       "dcr"
     ],
-    "imgRef": "/assets/DIYRecipes/稻草人.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b7/j3ng140y7emie67iifdieii63ceo4v9.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -2511,7 +2511,7 @@ var json=[
           "sz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "杂草",
@@ -2520,7 +2520,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -2530,9 +2530,9 @@ var json=[
       "moguzhuo",
       "mgz"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4d/bqxzzx6x9ac4j0ux1mq5a5r2a6zqy3p.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2542,7 +2542,7 @@ var json=[
           "bpmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       },
       {
         "name": "木材",
@@ -2551,7 +2551,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -2561,9 +2561,9 @@ var json=[
       "zazhijia",
       "zzj"
     ],
-    "imgRef": "/assets/DIYRecipes/杂志架.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/39/3ynjil7o0d3t0jtuyj753jrx6820b9e.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2573,7 +2573,7 @@ var json=[
           "zz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/杂志.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/1t1r8du4zq9lil20d3f16t3b070hkqc.png/100px-FtrMagagineOpened.png"
       },
       {
         "name": "木材",
@@ -2582,7 +2582,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -2592,9 +2592,9 @@ var json=[
       "delu",
       "dl"
     ],
-    "imgRef": "/assets/DIYRecipes/地炉.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b1/q07yb0qh2bl6edudc07028peomh0a29.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "2.0×2.0",
     "materials": [
       {
@@ -2604,7 +2604,7 @@ var json=[
           "zzcl"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       },
       {
         "name": "铁矿石",
@@ -2613,7 +2613,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "黏土",
@@ -2622,7 +2622,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "硬木材",
@@ -2631,7 +2631,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -2641,9 +2641,9 @@ var json=[
       "yaokaolu",
       "ykl"
     ],
-    "imgRef": "/assets/DIYRecipes/窑烤炉.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0b/4lyhlarwu7y8y1v3erp42fq2th6asiv.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.5×1.5",
     "materials": [
       {
@@ -2653,7 +2653,7 @@ var json=[
           "nt"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "铁矿石",
@@ -2662,7 +2662,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "木材",
@@ -2671,7 +2671,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -2681,8 +2681,8 @@ var json=[
       "niaolong",
       "nl"
     ],
-    "imgRef": "/assets/DIYRecipes/鸟笼.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/80/2p8d7k4y8biq6xdp35qbed9e2xbjepi.png",
+    "category": "",
     "access": "村民",
     "size": "",
     "materials": [
@@ -2693,7 +2693,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -2703,9 +2703,9 @@ var json=[
       "shidenglong",
       "sdl"
     ],
-    "imgRef": "/assets/DIYRecipes/石灯笼.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c6/c7u7533vxymrbols3in261fzlerpaqu.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2715,7 +2715,7 @@ var json=[
           "st"
         ],
         "count": "18",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -2725,8 +2725,8 @@ var json=[
       "yueliang",
       "yl"
     ],
-    "imgRef": "/assets/DIYRecipes/月亮.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e4/ob284jc5epa8z5imfypviylxxomqii5.png",
+    "category": "",
     "access": "流星雨当天晚上与岛上的傅珂对话",
     "size": "",
     "materials": [
@@ -2737,7 +2737,7 @@ var json=[
           "xxsp"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -2746,7 +2746,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -2756,9 +2756,9 @@ var json=[
       "changjiantingyuanshi",
       "cjtys"
     ],
-    "imgRef": "/assets/DIYRecipes/常见庭院石.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/66/opttrynbd3d2bxy8axgaarn9o7mifgg.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2768,7 +2768,7 @@ var json=[
           "st"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -2778,9 +2778,9 @@ var json=[
       "shengdanlazhu",
       "sdlz"
     ],
-    "imgRef": "/assets/DIYRecipes/圣诞蜡烛.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/03/b0bebdw21qqvf5lf5hwyczxkuabnisq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2790,7 +2790,7 @@ var json=[
           "hszsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "杂草",
@@ -2799,7 +2799,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -2809,9 +2809,9 @@ var json=[
       "zhuliushuizaojing",
       "zlszj"
     ],
-    "imgRef": "/assets/DIYRecipes/竹流水造景.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/74/keibadolfpbcydjh525vvzt464w5i4r.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -2821,7 +2821,7 @@ var json=[
           "zzcl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       },
       {
         "name": "石头",
@@ -2830,7 +2830,7 @@ var json=[
           "st"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "杂草",
@@ -2839,7 +2839,7 @@ var json=[
           "zc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -2849,7 +2849,7 @@ var json=[
       "yuepujia",
       "ypj"
     ],
-    "imgRef": "/assets/DIYRecipes/乐谱架.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8a/0xg4o1ll1fgietlzegwnp3z1n8rjntp.png",
     "category": "家具",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -2861,7 +2861,7 @@ var json=[
           "ymc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -2871,9 +2871,9 @@ var json=[
       "gaosongtingyuanshi",
       "gstys"
     ],
-    "imgRef": "/assets/DIYRecipes/高耸庭院石.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8b/ewsf3u088a56fq05qxage982cp63fl9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2883,7 +2883,7 @@ var json=[
           "st"
         ],
         "count": "60",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -2893,9 +2893,9 @@ var json=[
       "shuiguolan",
       "sgl"
     ],
-    "imgRef": "/assets/DIYRecipes/水果篮.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/96/lt3a40vbl202b15b94ruahyfk6yf22m.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2905,7 +2905,7 @@ var json=[
           "pg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       },
       {
         "name": "梨子",
@@ -2914,7 +2914,7 @@ var json=[
           "lz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       },
       {
         "name": "樱桃",
@@ -2923,7 +2923,7 @@ var json=[
           "yt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       },
       {
         "name": "橘子",
@@ -2932,7 +2932,7 @@ var json=[
           "jz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       },
       {
         "name": "桃子",
@@ -2941,7 +2941,7 @@ var json=[
           "tz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -2951,9 +2951,9 @@ var json=[
       "feixuanbiao",
       "fxb"
     ],
-    "imgRef": "/assets/DIYRecipes/飞旋镖.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/58/44toe6jphsmzz0lekzfcav7yuzsnm81.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2963,7 +2963,7 @@ var json=[
           "ymc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -2973,9 +2973,9 @@ var json=[
       "feidie",
       "fd"
     ],
-    "imgRef": "/assets/DIYRecipes/飞碟.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4c/qck2hxk17efvga2nr6je1bcur3oh396.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -2985,7 +2985,7 @@ var json=[
           "xxsp"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -2994,7 +2994,7 @@ var json=[
           "tks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3004,9 +3004,9 @@ var json=[
       "mutong",
       "mt"
     ],
-    "imgRef": "/assets/DIYRecipes/木桶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a8/kpah01bhgz9sljeibwrdd3rrnlp7bvn.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3016,7 +3016,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -3025,7 +3025,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3035,9 +3035,9 @@ var json=[
       "jimuaigui",
       "jmag"
     ],
-    "imgRef": "/assets/DIYRecipes/积木矮柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/ba/8sccb1h5c3b6fhlge5y7khq7j8hy69b.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3047,7 +3047,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -3056,7 +3056,7 @@ var json=[
           "rmc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -3066,9 +3066,9 @@ var json=[
       "yueqiuche",
       "yqc"
     ],
-    "imgRef": "/assets/DIYRecipes/月球车.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/aa/37iui8wlni3wxmjedhqt64c4vwpjmgv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3078,7 +3078,7 @@ var json=[
           "xxsp"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -3087,7 +3087,7 @@ var json=[
           "tks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "轮胎",
@@ -3096,7 +3096,7 @@ var json=[
           "lt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/轮胎.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/47jg94lusvs4fjbthgeg42hlj20ys1v.png/100px-TrashTire.png"
       }
     ]
   },
@@ -3106,9 +3106,9 @@ var json=[
       "tedaxiongxiong",
       "tdxx"
     ],
-    "imgRef": "/assets/DIYRecipes/特大熊熊.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/32/l3ss0ga4s27al8y0kyvt239q3it30u3.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "3.0×3.0",
     "materials": [
       {
@@ -3118,7 +3118,7 @@ var json=[
           "dxx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大熊熊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/ef8n7beiu1vgfn8er9c96tujecvnslf.png/100px-FtrBearL.png"
       },
       {
         "name": "中熊熊",
@@ -3127,7 +3127,7 @@ var json=[
           "zxx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/中熊熊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cd/4d2fuexca3lfbiofoy84jyatbwiuvsw.png/100px-FtrBearM.png"
       },
       {
         "name": "小熊熊",
@@ -3136,7 +3136,7 @@ var json=[
           "xxx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/小熊熊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ec/2xj0b19d5e5xwra3b5diz9ykpgevxcg.png/100px-FtrBearS.png"
       }
     ]
   },
@@ -3146,7 +3146,7 @@ var json=[
       "chuihuo",
       "ch"
     ],
-    "imgRef": "/assets/DIYRecipes/炊火.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1e/mvh69fr1h878c231iv1ost652p9nad7.png",
     "category": "家具",
     "access": "开场自带",
     "size": "1.0×1.0",
@@ -3158,7 +3158,7 @@ var json=[
           "sz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -3168,8 +3168,8 @@ var json=[
       "huayuanzhutiezhangyi",
       "hyztzy"
     ],
-    "imgRef": "/assets/DIYRecipes/花园铸铁长椅.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/36/akrj9gp970oxzz0ub28tods6mua74kp.png",
+    "category": "",
     "access": "村民",
     "size": "",
     "materials": [
@@ -3180,7 +3180,7 @@ var json=[
           "tks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3190,9 +3190,9 @@ var json=[
       "rengongweixing",
       "rgwx"
     ],
-    "imgRef": "/assets/DIYRecipes/人工卫星.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/44/fmf1sfg3i58bbsluhn6g4vwlkp505v3.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3202,7 +3202,7 @@ var json=[
           "xxsp"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -3211,7 +3211,7 @@ var json=[
           "tks"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3221,7 +3221,7 @@ var json=[
       "yingxiongjiqiren",
       "yxjqr"
     ],
-    "imgRef": "/assets/DIYRecipes/英雄机器人.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9c/78eydfuyvvwkk211of8umr5xqi3wi2q.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "3.0×3.0",
@@ -3233,7 +3233,7 @@ var json=[
           "hj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/火箭.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/16/dvgq3yu3jsnxvshz4qfk5lr5y507vg6.png/100px-FtrRocket.png"
       },
       {
         "name": "金盔甲",
@@ -3242,7 +3242,7 @@ var json=[
           "jkj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金盔甲.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/5u0x2gw9yrwkqn8lu9gcdylqzgsrao1.png/100px-TopsTexOnepieceOverallLPlatearmorGold.png"
       },
       {
         "name": "生锈零件",
@@ -3251,7 +3251,7 @@ var json=[
           "sxlj"
         ],
         "count": "30",
-        "imgRef": "/assets/DIYMaterials/生锈零件.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/96rmg201iqvn2js1dmsmwsovroxt57n.png/100px-JohnnyQuestDust1.png"
       },
       {
         "name": "铁矿石",
@@ -3260,7 +3260,7 @@ var json=[
           "tks"
         ],
         "count": "90",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "金矿石",
@@ -3269,7 +3269,7 @@ var json=[
           "jks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -3279,9 +3279,9 @@ var json=[
       "yunshi",
       "ys"
     ],
-    "imgRef": "/assets/DIYRecipes/陨石.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fc/00q1qojil7nbqwmbvapbusq7gz9f4x2.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3291,7 +3291,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "石头",
@@ -3300,7 +3300,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -3310,7 +3310,7 @@ var json=[
       "taikongsuo",
       "tks"
     ],
-    "imgRef": "/assets/DIYRecipes/太空梭.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3e/rk3ykawqr84hbq8fsdxq19h3w7kf8wz.png",
     "category": "家具",
     "access": "傅珂赠送",
     "size": "1.0x3.0",
@@ -3322,7 +3322,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -3331,7 +3331,7 @@ var json=[
           "tks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3341,9 +3341,9 @@ var json=[
       "DIYzuoyetai",
       "DIYzyt"
     ],
-    "imgRef": "/assets/DIYRecipes/DIY作业台.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9a/lnhihifw7qjlspmvroq63hpcp3gkwit.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3353,7 +3353,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "硬木材",
@@ -3362,7 +3362,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -3371,7 +3371,7 @@ var json=[
           "rmc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "铁矿石",
@@ -3380,7 +3380,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "迷你DIY作业台",
@@ -3389,7 +3389,7 @@ var json=[
           "mnDIYzyt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/迷你DIY作业台.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/05/eseppeoew352scs549kj4l260jc1pf6.png/100px-FtrWorkbenchS.png"
       }
     ]
   },
@@ -3399,7 +3399,7 @@ var json=[
       "jimuchuangpu",
       "jmcp"
     ],
-    "imgRef": "/assets/DIYRecipes/积木床铺.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/76/b0jv9v2ea5bqmbyct7xtwnre7ie26zg.png",
     "category": "家具",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "2.0×1.0",
@@ -3411,7 +3411,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -3420,7 +3420,7 @@ var json=[
           "rmc"
         ],
         "count": "17",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -3430,8 +3430,8 @@ var json=[
       "dengyuecang",
       "dyc"
     ],
-    "imgRef": "/assets/DIYRecipes/登月舱.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/06/epv38svo516z61jcaa6kr0ikplgrd88.png",
+    "category": "",
     "access": "流星雨当天晚上与岛上的傅珂对话",
     "size": "",
     "materials": [
@@ -3442,7 +3442,7 @@ var json=[
           "xxsp"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -3451,7 +3451,7 @@ var json=[
           "tks"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3461,9 +3461,9 @@ var json=[
       "taikongren",
       "tkr"
     ],
-    "imgRef": "/assets/DIYRecipes/太空人.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c3/c4ote41827ikay3flaj60q6qqujrw0h.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3473,7 +3473,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -3482,7 +3482,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3492,9 +3492,9 @@ var json=[
       "liziyigui",
       "lzyg"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子衣柜.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ad/gie0ime2nmpkcctpmj5cwxd2cy8i6cm.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -3504,7 +3504,7 @@ var json=[
           "lz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       },
       {
         "name": "木材",
@@ -3513,7 +3513,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -3523,7 +3523,7 @@ var json=[
       "jimuzhangdeng",
       "jmzd"
     ],
-    "imgRef": "/assets/DIYRecipes/积木长凳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bb/ihsyvyzacqkwn5lhea5kwhij94cd68w.png",
     "category": "家具",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "2.0×1.0",
@@ -3535,7 +3535,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -3544,7 +3544,7 @@ var json=[
           "rmc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -3554,7 +3554,7 @@ var json=[
       "huojian",
       "hj"
     ],
-    "imgRef": "/assets/DIYRecipes/火箭.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/16/dvgq3yu3jsnxvshz4qfk5lr5y507vg6.png",
     "category": "家具",
     "access": "流星雨当天晚上与岛上的傅珂对话",
     "size": "2.0×1.0",
@@ -3566,7 +3566,7 @@ var json=[
           "xxsp"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -3575,7 +3575,7 @@ var json=[
           "tks"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3585,9 +3585,9 @@ var json=[
       "shudui",
       "sd"
     ],
-    "imgRef": "/assets/DIYRecipes/书堆.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c9/gisec4g6qc7u03u4y9p035x5xhuce5h.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3597,7 +3597,7 @@ var json=[
           "s"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/书.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/93/7bxkpb164iio08b1lyhtfxgoa0gen4m.png/100px-FtrBookOpened.png"
       }
     ]
   },
@@ -3607,9 +3607,9 @@ var json=[
       "mudiaoya",
       "mdy"
     ],
-    "imgRef": "/assets/DIYRecipes/木雕鸭.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e2/nhsg0s80g0z2v40kokfoljcc0fuh52u.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3619,7 +3619,7 @@ var json=[
           "rmc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -3629,8 +3629,8 @@ var json=[
       "zazhidui",
       "zzd"
     ],
-    "imgRef": "/assets/DIYRecipes/杂志堆.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7a/tq00modi7nr09xu34djz89ka1zia8lu.png",
+    "category": "",
     "access": "村民赠送",
     "size": "1.0×1.0",
     "materials": [
@@ -3641,7 +3641,7 @@ var json=[
           "zz"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/杂志.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/1t1r8du4zq9lil20d3f16t3b070hkqc.png/100px-FtrMagagineOpened.png"
       }
     ]
   },
@@ -3651,9 +3651,9 @@ var json=[
       "wenjiandui",
       "wjd"
     ],
-    "imgRef": "/assets/DIYRecipes/文件堆.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d5/lg3psjvxslii5r5qeuo2lvbvk970kl9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3663,7 +3663,7 @@ var json=[
           "sldzz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/散乱的纸张.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/31/6be7ca50fvqsne4h1v1s8riwseb0ply.png/100px-FtrFloorpapers.png"
       }
     ]
   },
@@ -3673,7 +3673,7 @@ var json=[
       "yinshuichu",
       "ysc"
     ],
-    "imgRef": "/assets/DIYRecipes/饮水处.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/db/352c7e2eb6gh4houtrqx1v2owdn9sbv.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -3685,7 +3685,7 @@ var json=[
           "st"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "铁矿石",
@@ -3694,7 +3694,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3704,7 +3704,7 @@ var json=[
       "xunxiangtai",
       "xxt"
     ],
-    "imgRef": "/assets/DIYRecipes/熏香台.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9d/7zkvnufscjxscbnn8le0hw2bk6b0f5c.png",
     "category": "小物件",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "1.0×1.0",
@@ -3716,7 +3716,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -3726,7 +3726,7 @@ var json=[
       "shouyashijishuiqi",
       "sysjsq"
     ],
-    "imgRef": "/assets/DIYRecipes/手压式汲水器.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d2/578gug1t1nkl2iabv0f7fkj7fcd7fqi.png",
     "category": "家具",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "1.0×1.0",
@@ -3738,7 +3738,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "黏土",
@@ -3747,7 +3747,7 @@ var json=[
           "nt"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -3757,7 +3757,7 @@ var json=[
       "pingguodianshi",
       "pgds"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果电视.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1c/4wqmq1x41k95sv7l7a4s0b5rfv8kbuv.png",
     "category": "家具",
     "access": "狸克赠送",
     "size": "1.0x1.0",
@@ -3769,7 +3769,7 @@ var json=[
           "pg"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       },
       {
         "name": "铁矿石",
@@ -3778,7 +3778,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3788,7 +3788,7 @@ var json=[
       "jianloufutou",
       "jlft"
     ],
-    "imgRef": "/assets/DIYRecipes/简陋斧头.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a6/5aeowvl5snyqq4552g6y904tkxhq1iu.png",
     "category": "工具",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -3800,7 +3800,7 @@ var json=[
           "sz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "石头",
@@ -3809,7 +3809,7 @@ var json=[
           "st"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -3819,7 +3819,7 @@ var json=[
       "gangjia",
       "gj"
     ],
-    "imgRef": "/assets/DIYRecipes/钢架.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6c/q7sh8nitzf6imd9hofi2a1i6lrzrgv7.png",
     "category": "家具",
     "access": "漂流瓶/村民赠送",
     "size": "2.0x3.0",
@@ -3831,7 +3831,7 @@ var json=[
           "tks"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3841,9 +3841,9 @@ var json=[
       "zhutiemuaizhuo",
       "ztmaz"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木矮桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/ca/6efacnnuxrxt5w5yan38kam43a0xvk9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3853,7 +3853,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -3862,7 +3862,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3872,9 +3872,9 @@ var json=[
       "muzhidanrenchuang",
       "mzdrc"
     ],
-    "imgRef": "/assets/DIYRecipes/木制单人床.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8b/slammjq0hnd57vdpybym8ubblno3dyk.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "2.0×1.0",
     "materials": [
       {
@@ -3884,7 +3884,7 @@ var json=[
           "mc"
         ],
         "count": "18",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -3894,8 +3894,8 @@ var json=[
       "zhuankuaizhalan",
       "zkzl"
     ],
-    "imgRef": "/assets/DIYRecipes/砖块栅栏.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7d/8jd68csuogcfqg35vhqsmbmtjpjv7ua.png",
+    "category": "",
     "access": "里程兑换",
     "size": "",
     "materials": [
@@ -3906,7 +3906,7 @@ var json=[
           "nt"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -3916,7 +3916,7 @@ var json=[
       "waguan",
       "wg"
     ],
-    "imgRef": "/assets/DIYRecipes/瓦罐.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/47/0avxkevw7eeiiwiwcogkze3738wh9rz.png",
     "category": "小物件",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -3928,7 +3928,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -3938,9 +3938,9 @@ var json=[
       "zhutiemushounatuiche",
       "ztmsntc"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木收纳推车.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1e/jnk2cvt8yj8q4tm04kd4ue3xja85mh7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -3950,7 +3950,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -3959,7 +3959,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -3969,7 +3969,7 @@ var json=[
       "jianyueshuijing",
       "jysj"
     ],
-    "imgRef": "/assets/DIYRecipes/简约水井.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3e/2550jio2e2idwcw5jqgvr2w7ni5aeos.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "1.0x1.0",
@@ -3981,7 +3981,7 @@ var json=[
           "st"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "简陋铲子",
@@ -3990,7 +3990,7 @@ var json=[
           "jlcz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋铲子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/24/38fcz40zd3l3r7v094jiv46ovhj6ypf.png/100px-ToolShovelWood.png"
       }
     ]
   },
@@ -4000,7 +4000,7 @@ var json=[
       "jianloudiaogan",
       "jldg"
     ],
-    "imgRef": "/assets/DIYRecipes/简陋钓竿.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8e/it6ush9yopg7vmymrwuax0huylokb5j.png",
     "category": "工具",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -4012,7 +4012,7 @@ var json=[
           "sz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -4022,9 +4022,9 @@ var json=[
       "muzhiaigui",
       "mzag"
     ],
-    "imgRef": "/assets/DIYRecipes/木制矮柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d8/dw1dbtay058c4dwo9mhgv66jp5ohpyo.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4034,7 +4034,7 @@ var json=[
           "mc"
         ],
         "count": "16",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -4044,9 +4044,9 @@ var json=[
       "zhutiemuaigui",
       "ztmag"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木矮柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bc/4tdohp34wldozdrr8b7ku3psj9h0jvt.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4056,7 +4056,7 @@ var json=[
           "mc"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4065,7 +4065,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -4075,7 +4075,7 @@ var json=[
       "yao",
       "y"
     ],
-    "imgRef": "/assets/DIYRecipes/药.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f0/ifjcugqty80h9hwnql95oery01t2gg1.png",
     "category": "其他",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -4087,7 +4087,7 @@ var json=[
           "fc"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/蜂巢.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7c/daqxxypmk8pyeahykyfuvtqn541n85i.png/100px-Honeycomb.png"
       },
       {
         "name": "杂草",
@@ -4096,7 +4096,7 @@ var json=[
           "zc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -4106,9 +4106,9 @@ var json=[
       "zhutiemuzhuo",
       "ztmz"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/65/7nrhr402x4umpcgjq1nas653lszs4hv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4118,7 +4118,7 @@ var json=[
           "mc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4127,7 +4127,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -4137,7 +4137,7 @@ var json=[
       "xianjingzhongzi",
       "xjzz"
     ],
-    "imgRef": "/assets/DIYRecipes/陷阱种子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/76/l214qhucc7g5vf75bcu9dwsdjag2uy3.png",
     "category": "其他",
     "access": "小动物赠送",
     "size": "1*1",
@@ -4149,7 +4149,7 @@ var json=[
           "zc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "树枝",
@@ -4158,7 +4158,7 @@ var json=[
           "sz"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -4168,9 +4168,9 @@ var json=[
       "jintiao",
       "jt"
     ],
-    "imgRef": "/assets/DIYRecipes/金条.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/77/cwg657fi5cjlgt7rg2s6reophb1j38p.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4180,7 +4180,7 @@ var json=[
           "jks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -4190,9 +4190,9 @@ var json=[
       "zhutiemudeng",
       "ztmd"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木凳.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/57/hy12d2yuwkgmpe9hb3x0izopua9arzj.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4202,7 +4202,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4211,7 +4211,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -4221,7 +4221,7 @@ var json=[
       "zhuzhalan",
       "zzl"
     ],
-    "imgRef": "/assets/DIYRecipes/竹栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e6/s2ux6xfb255mjgjxfcnnw7f7dyd554s.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0x1.0",
@@ -4233,7 +4233,7 @@ var json=[
           "zzcl"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -4243,9 +4243,9 @@ var json=[
       "jimuguazhong",
       "jmgz"
     ],
-    "imgRef": "/assets/DIYRecipes/积木挂钟.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5c/r62sfmi3amcr42doqrdp3v3upqibebk.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4255,7 +4255,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -4264,7 +4264,7 @@ var json=[
           "rmc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "铁矿石",
@@ -4273,7 +4273,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -4283,9 +4283,9 @@ var json=[
       "muzhiyigui",
       "mzyg"
     ],
-    "imgRef": "/assets/DIYRecipes/木制衣柜.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/98/3wvujq515uietr7tu8mzp4hvg8ig4pu.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -4295,7 +4295,7 @@ var json=[
           "mc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -4305,9 +4305,9 @@ var json=[
       "xiaoluzhuangshipin",
       "xlzsp"
     ],
-    "imgRef": "/assets/DIYRecipes/小鹿装饰品.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/87/78uzsyjjgpsxmffow7vdsvevyx0o3xb.png",
     "category": "壁挂物",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.5",
     "materials": [
       {
@@ -4317,7 +4317,7 @@ var json=[
           "rmc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -4327,9 +4327,9 @@ var json=[
       "yangfengxiang",
       "yfx"
     ],
-    "imgRef": "/assets/DIYRecipes/养蜂箱.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/47/etdsc5748oblqvym7kw2pyoaaowcutq.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -4339,7 +4339,7 @@ var json=[
           "fc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蜂巢.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7c/daqxxypmk8pyeahykyfuvtqn541n85i.png/100px-Honeycomb.png"
       },
       {
         "name": "木材",
@@ -4348,7 +4348,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -4358,9 +4358,9 @@ var json=[
       "zhutiemuchufang",
       "ztmcf"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木厨房.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d3/2r5sbpbczsa7ccakeammffvyiklj0w2.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "2.0×1.0",
     "materials": [
       {
@@ -4370,7 +4370,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4379,7 +4379,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "铸铁木矮柜",
@@ -4388,7 +4388,7 @@ var json=[
           "ztmag"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铸铁木矮柜.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/4tdohp34wldozdrr8b7ku3psj9h0jvt.png/100px-FtrIronwoodChest.png"
       },
       {
         "name": "切菜板",
@@ -4397,7 +4397,7 @@ var json=[
           "qcb"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/切菜板.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/58/idznlqgvfbduohnnn70h664v6vv1331.png/100px-FtrCuttingboard.png"
       }
     ]
   },
@@ -4407,9 +4407,9 @@ var json=[
       "muzhizhuo",
       "mzz"
     ],
-    "imgRef": "/assets/DIYRecipes/木制桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/44/j2fqwmgfro2gvbur6i0pqatc5syi7ln.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4419,7 +4419,7 @@ var json=[
           "mc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -4429,7 +4429,7 @@ var json=[
       "zhenglong",
       "zl"
     ],
-    "imgRef": "/assets/DIYRecipes/蒸笼.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/ce/ksqezvkgoeoy2u7fiaa41p6qjn5t00g.png",
     "category": "小物件",
     "access": "漂流瓶/气球",
     "size": "1.0×1.0",
@@ -4441,7 +4441,7 @@ var json=[
           "cs"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       }
     ]
   },
@@ -4451,9 +4451,9 @@ var json=[
       "banjiazhixiangS",
       "bjzxS"
     ],
-    "imgRef": "/assets/DIYRecipes/搬家纸箱S.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7e/kkboe4vmf33ejs8bvea937rd9r94ipq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4463,7 +4463,7 @@ var json=[
           "zx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -4473,9 +4473,9 @@ var json=[
       "zhutiemuchugui",
       "ztmcg"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木橱柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/03/p62bt3a82v4r85htqfbcnch76kom29f.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4485,7 +4485,7 @@ var json=[
           "mc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4494,7 +4494,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "铸铁木矮柜",
@@ -4503,7 +4503,7 @@ var json=[
           "ztmag"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铸铁木矮柜.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/4tdohp34wldozdrr8b7ku3psj9h0jvt.png/100px-FtrIronwoodChest.png"
       }
     ]
   },
@@ -4513,7 +4513,7 @@ var json=[
       "shitouzhuo",
       "stz"
     ],
-    "imgRef": "/assets/DIYRecipes/石头桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c8/atw77erh5on137hsolf3g5bofmzskp9.png",
     "category": "家具",
     "access": "狸克赠送",
     "size": "2.0×2.0",
@@ -4525,7 +4525,7 @@ var json=[
           "st"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -4535,9 +4535,9 @@ var json=[
       "banjiazhixiangM",
       "bjzxM"
     ],
-    "imgRef": "/assets/DIYRecipes/搬家纸箱M.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b2/09l07h3lccubgtvqig0t4abq2bp7ska.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "2.0×1.0",
     "materials": [
       {
@@ -4547,7 +4547,7 @@ var json=[
           "zx"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -4557,9 +4557,9 @@ var json=[
       "zhutiemushizhong",
       "ztmsz"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木时钟.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e7/f55wr96bm740f84qrpkb0nkhh2t1x29.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4569,7 +4569,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4578,7 +4578,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -4588,7 +4588,7 @@ var json=[
       "zhitiaomubanzhalan",
       "ztmbzl"
     ],
-    "imgRef": "/assets/DIYRecipes/直条木板栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fe/heqxaixywla8js4ehazpk32zxb6ycxb.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -4600,7 +4600,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -4610,9 +4610,9 @@ var json=[
       "zhutiemuchuangpu",
       "ztmcp"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木床铺.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/gpkbzswbrv0q3jbg49mf5uomke1mtd7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4622,7 +4622,7 @@ var json=[
           "mc"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -4631,7 +4631,7 @@ var json=[
           "tks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -4641,9 +4641,9 @@ var json=[
       "banjiazhixiangL",
       "bjzxL"
     ],
-    "imgRef": "/assets/DIYRecipes/搬家纸箱L.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/20/tqrigcr1erdegg0acgt3iei6dfi2qx8.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "2.0×2.0",
     "materials": [
       {
@@ -4653,7 +4653,7 @@ var json=[
           "zx"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -4663,9 +4663,9 @@ var json=[
       "juzifu",
       "jzf"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子服.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0d/tvqouv75z6p0w0m4t99hu6rrghsikc6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4675,7 +4675,7 @@ var json=[
           "jz"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       }
     ]
   },
@@ -4685,9 +4685,9 @@ var json=[
       "muzhidengzi",
       "mzdz"
     ],
-    "imgRef": "/assets/DIYRecipes/木制凳子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/95/22zlgebkkpdnpc2k24fpbttfug07c50.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4697,7 +4697,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -4707,9 +4707,9 @@ var json=[
       "zhuzhibogujia",
       "zzbgj"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制博古架.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8a/n1jggd4ffbt10cx89gxebyz00oux42l.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4719,7 +4719,7 @@ var json=[
           "zzcl"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -4729,9 +4729,9 @@ var json=[
       "bingkuaigeban",
       "bkgb"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块隔板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fc/h65dhe40xbtww3l9sw81hy17f4bipjb.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4741,7 +4741,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -4750,7 +4750,7 @@ var json=[
           "xh"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -4760,9 +4760,9 @@ var json=[
       "zhuzhiluodideng",
       "zzldd"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制落地灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/35/evxj78g9hxyp3zge6ci435kr9vjid18.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4772,7 +4772,7 @@ var json=[
           "zzcl"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -4782,9 +4782,9 @@ var json=[
       "bingkuaiyizi",
       "bkyz"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块椅子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9d/3xseje7aj7vtmo4yehxbpbtgprxmczd.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4794,7 +4794,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -4803,7 +4803,7 @@ var json=[
           "xh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -4813,9 +4813,9 @@ var json=[
       "huangjinmatong",
       "hjmt"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金马桶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/43/5vvp8qetwp8x77r60tj1rn03tur3jwv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4825,7 +4825,7 @@ var json=[
           "jks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -4835,9 +4835,9 @@ var json=[
       "zhupingfeng",
       "zpf"
     ],
-    "imgRef": "/assets/DIYRecipes/竹屏风.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a4/klkfl956pq1qse3jfm597z5syg80mpf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4847,7 +4847,7 @@ var json=[
           "zzcl"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       },
       {
         "name": "石头",
@@ -4856,7 +4856,7 @@ var json=[
           "st"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -4866,9 +4866,9 @@ var json=[
       "bingkuaigongmen",
       "bkgm"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块拱门.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/db/rhcxgiqyfejboi0brub3kpz3wnnlun4.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4878,7 +4878,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -4887,7 +4887,7 @@ var json=[
           "xh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -4897,9 +4897,9 @@ var json=[
       "zhuhuaping",
       "zhp"
     ],
-    "imgRef": "/assets/DIYRecipes/竹花瓶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/81/k6hb4prbcl1g0dick3taefm5u8ed1jx.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4909,7 +4909,7 @@ var json=[
           "zzcl"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -4919,9 +4919,9 @@ var json=[
       "bingkuaishumu",
       "bksm"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块树木.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/03/7c4x5c2d7m4n8bi5m73qlxyrqtwb7i7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4931,7 +4931,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -4940,7 +4940,7 @@ var json=[
           "xh"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -4950,9 +4950,9 @@ var json=[
       "huangjinzhangyi",
       "hjzy"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金长椅.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/37/8qy904xy7bjrsbmzh7b0fm7doafrui7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4962,7 +4962,7 @@ var json=[
           "jks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -4972,9 +4972,9 @@ var json=[
       "zhuzhizhutai",
       "zzzt"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制烛台.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d2/irf0mthfso72o6hzlhkgo3kta6eiqkw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -4984,7 +4984,7 @@ var json=[
           "zzcl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       },
       {
         "name": "黏土",
@@ -4993,7 +4993,7 @@ var json=[
           "nt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -5003,9 +5003,9 @@ var json=[
       "bingkuaizhuzi",
       "bkzz"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块柱子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/ce/qxc2dt4er6swgw4f5xwv9suqmufswcn.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5015,7 +5015,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -5024,7 +5024,7 @@ var json=[
           "xh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -5034,7 +5034,7 @@ var json=[
       "yusanjia",
       "ysj"
     ],
-    "imgRef": "/assets/DIYRecipes/雨伞架.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6d/9p0ak8ledmgt1zpa5kyonlrjozkfzkr.png",
     "category": "家具",
     "access": "气球",
     "size": "1.0×1.0",
@@ -5046,7 +5046,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5056,9 +5056,9 @@ var json=[
       "bingkuaibatai",
       "bkbt"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块吧台.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7d/k3c2l3lj6lpymqvg1brm3sc2ulvcq7s.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5068,7 +5068,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -5077,7 +5077,7 @@ var json=[
           "xh"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -5087,9 +5087,9 @@ var json=[
       "muzhifeizhilou",
       "mzfzl"
     ],
-    "imgRef": "/assets/DIYRecipes/木制废纸篓.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a4/eangl9zbv0sdj2cwrtd83rqtnqkueeo.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5099,7 +5099,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -5109,7 +5109,7 @@ var json=[
       "zhuzhijingxiaxiang",
       "zzjxx"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制惊吓箱.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fd/hvjht3xq01ifk61b12ng01ha1paqmgn.png",
     "category": "家具/季节手册",
     "access": "气球",
     "size": "1.0×1.0",
@@ -5121,7 +5121,7 @@ var json=[
           "cs"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       }
     ]
   },
@@ -5131,9 +5131,9 @@ var json=[
       "bingkuaiyishupin",
       "bkysp"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块艺术品.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d0/88j9i7im7v3csin49blmkgx4zufo8k6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5143,7 +5143,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -5152,7 +5152,7 @@ var json=[
           "xh"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -5162,9 +5162,9 @@ var json=[
       "yangfengmubei",
       "yfmb"
     ],
-    "imgRef": "/assets/DIYRecipes/洋风墓碑.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7a/21qa090slfxk2ljb7pt583oe1zoscz0.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5174,7 +5174,7 @@ var json=[
           "st"
         ],
         "count": "30",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -5184,9 +5184,9 @@ var json=[
       "huayuanzhangyi",
       "hyzy"
     ],
-    "imgRef": "/assets/DIYRecipes/花园长椅.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/21/5dhasxl48oo9j97glk2oyrdnbm7c307.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5196,7 +5196,7 @@ var json=[
           "mc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -5205,7 +5205,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5215,9 +5215,9 @@ var json=[
       "bingkuaizhuo",
       "bkz"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/08/feq0tdn8axn79pcipnwr8slvxu5hvn1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5227,7 +5227,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -5236,7 +5236,7 @@ var json=[
           "xh"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -5246,7 +5246,7 @@ var json=[
       "zhuzhidangchedun",
       "zzdcd"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制挡车墩.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fc/pujsdqfcaon8yquy6ka68jb02qcvety.png",
     "category": "家具",
     "access": "气球",
     "size": "1.0×0.5",
@@ -5258,7 +5258,7 @@ var json=[
           "zzcl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -5268,9 +5268,9 @@ var json=[
       "bingkuaichuangpu",
       "bkcp"
     ],
-    "imgRef": "/assets/DIYRecipes/冰块床铺.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ad/lbf0soci3pu3uu683d49ibnoo07nbif.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5280,7 +5280,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -5289,7 +5289,7 @@ var json=[
           "xh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -5299,9 +5299,9 @@ var json=[
       "yezishui",
       "yzs"
     ],
-    "imgRef": "/assets/DIYRecipes/椰子水.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/de/ij5itdwpz8sqremkn2r5l4hs8hxsdry.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5311,7 +5311,7 @@ var json=[
           "yz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/椰子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2f/nro0okh70t6p67z06guuogc22u3r5lz.png/100px-Coconut.png"
       }
     ]
   },
@@ -5321,9 +5321,9 @@ var json=[
       "zhutieyimaolijia",
       "ztymlj"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁衣帽立架.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7e/sv8ygtda1vquz7jbya1gp2h77wv9et3.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5333,7 +5333,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5343,9 +5343,9 @@ var json=[
       "chuidiaobolipenzai",
       "cdblpz"
     ],
-    "imgRef": "/assets/DIYRecipes/垂吊玻璃盆栽.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8f/n16gggvs4vlfd9xaw6cx08f3jzylky9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5355,7 +5355,7 @@ var json=[
           "zc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "铁矿石",
@@ -5364,7 +5364,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5374,8 +5374,8 @@ var json=[
       "lubiantan",
       "lbt"
     ],
-    "imgRef": "/assets/DIYRecipes/路边摊.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2d/ihdz5h2bnkt4psygw70vgjnqdevfw1n.png",
+    "category": "",
     "access": "狸端机兑换",
     "size": "",
     "materials": [
@@ -5386,7 +5386,7 @@ var json=[
           "mc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -5396,9 +5396,9 @@ var json=[
       "sanwennuandiannuanlu",
       "swndnl"
     ],
-    "imgRef": "/assets/DIYRecipes/三温暖电暖炉.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0d/guwgrpdy7dpbhwnni3uxufkoo0ohdp8.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5408,7 +5408,7 @@ var json=[
           "st"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "铁矿石",
@@ -5417,7 +5417,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "木材",
@@ -5426,7 +5426,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -5436,9 +5436,9 @@ var json=[
       "zhutiebijia",
       "ztbj"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁壁架.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3e/lxxldo8ot8vjid1gegj2edx97so3viv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5448,7 +5448,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "黏土",
@@ -5457,7 +5457,7 @@ var json=[
           "nt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -5467,9 +5467,9 @@ var json=[
       "zhuankuaishuijing",
       "zksj"
     ],
-    "imgRef": "/assets/DIYRecipes/砖块水井.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/32/oagi687vxx0ikru9wo3c1zeom6w3v33.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5479,7 +5479,7 @@ var json=[
           "nt"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "木材",
@@ -5488,7 +5488,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "简陋铲子",
@@ -5497,7 +5497,7 @@ var json=[
           "jlcz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/简陋铲子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/24/38fcz40zd3l3r7v094jiv46ovhj6ypf.png/100px-ToolShovelWood.png"
       }
     ]
   },
@@ -5507,7 +5507,7 @@ var json=[
       "qiecaiban",
       "qcb"
     ],
-    "imgRef": "/assets/DIYRecipes/切菜板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/58/idznlqgvfbduohnnn70h664v6vv1331.png",
     "category": "家具",
     "access": "气球",
     "size": "1.0x1.0",
@@ -5519,7 +5519,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -5528,7 +5528,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5538,9 +5538,9 @@ var json=[
       "huangjinzhutai",
       "hjzt"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金烛台.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/31/fbqaakcgacukvhzxgof65pzblslou6d.png",
     "category": "小物件",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -5550,7 +5550,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -5560,7 +5560,7 @@ var json=[
       "zhutiegui",
       "ztg"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁柜.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/02/65l32h7cnu4qxbcwicqkisy1cstcb22.png",
     "category": "家具",
     "access": "商店",
     "size": "1.0x2.0",
@@ -5572,7 +5572,7 @@ var json=[
           "tks"
         ],
         "count": "14",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5582,9 +5582,9 @@ var json=[
       "biguashipenzai",
       "bgspz"
     ],
-    "imgRef": "/assets/DIYRecipes/壁挂式盆栽.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/96/440sl4d83lza7u8qbj365llehs4uspo.png",
     "category": "壁挂物",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -5594,7 +5594,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "黏土",
@@ -5603,7 +5603,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -5613,9 +5613,9 @@ var json=[
       "zhulan",
       "zl"
     ],
-    "imgRef": "/assets/DIYRecipes/竹篮.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c9/66qutrmm560ykchpfku0n6ly2djjxl7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5625,7 +5625,7 @@ var json=[
           "zzcl"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -5635,9 +5635,9 @@ var json=[
       "zhutiebideng",
       "ztbd"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁壁灯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/58/ok5sxwz2s1r6qbsirtujgfbfeczh05x.png",
     "category": "壁挂物",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -5647,7 +5647,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "黏土",
@@ -5656,7 +5656,7 @@ var json=[
           "nt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -5666,7 +5666,7 @@ var json=[
       "bolipenzai",
       "blpz"
     ],
-    "imgRef": "/assets/DIYRecipes/玻璃盆栽.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b7/eosm1f2vygc8790xap8hxehb1a6u8bp.png",
     "category": "小物件",
     "access": "漂流瓶",
     "size": "1*1",
@@ -5678,7 +5678,7 @@ var json=[
           "zc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "铁矿石",
@@ -5687,7 +5687,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5697,9 +5697,9 @@ var json=[
       "penzaijia",
       "pzj"
     ],
-    "imgRef": "/assets/DIYRecipes/盆栽架.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2c/8hwr4td0xqb5qee6y46grgmlbasj0p6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5709,7 +5709,7 @@ var json=[
           "yhpz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/樱花盆栽.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a7/i7ly8vfzoixgmq918unfbi7hn9wyz95.png/100px-FtrBonsaiSakura.png"
       },
       {
         "name": "松树盆栽",
@@ -5718,7 +5718,7 @@ var json=[
           "sspz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/松树盆栽.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/69/ldtc62sf1gvqjqcv493b4vlemocq6ir.png/100px-FtrBonsaiPine.png"
       },
       {
         "name": "木材",
@@ -5727,7 +5727,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -5737,9 +5737,9 @@ var json=[
       "songshupenzai",
       "sspz"
     ],
-    "imgRef": "/assets/DIYRecipes/松树盆栽.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/69/ldtc62sf1gvqjqcv493b4vlemocq6ir.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5749,7 +5749,7 @@ var json=[
           "sg"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "黏土",
@@ -5758,7 +5758,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -5768,9 +5768,9 @@ var json=[
       "pusuxiliantai",
       "psxlt"
     ],
-    "imgRef": "/assets/DIYRecipes/朴素洗脸台.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f4/lkvgdl891ppinlo3kybdaezl1cv2rwl.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -5780,7 +5780,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "黏土",
@@ -5789,7 +5789,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "铁矿石",
@@ -5798,7 +5798,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5808,9 +5808,9 @@ var json=[
       "zhutiegongzuozhuo",
       "ztgzz"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁工作桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/09/9q39ci3fyvkflir3y9xcin7bbcthh86.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5820,7 +5820,7 @@ var json=[
           "tks"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -5830,9 +5830,9 @@ var json=[
       "tiancheng",
       "tc"
     ],
-    "imgRef": "/assets/DIYRecipes/天秤.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/96/38l0wly6fvihv5pjql7v44lzc5qyapa.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5842,7 +5842,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "天秤座碎片",
@@ -5851,7 +5851,7 @@ var json=[
           "tczsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/天秤座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f1/c8c2bl6rxxwkv2htmq3tkh300d1hnwl.png/100px-StarpieceLibra.png"
       },
       {
         "name": "金矿石",
@@ -5860,7 +5860,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -5870,7 +5870,7 @@ var json=[
       "lubiao",
       "lb"
     ],
-    "imgRef": "/assets/DIYRecipes/路标.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/74/3wrj4mn4m3vzgwzbvu0g2gtd2vkj50a.png",
     "category": "家具",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -5882,7 +5882,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -5891,7 +5891,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -5901,9 +5901,9 @@ var json=[
       "moguyangsan",
       "mgys"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇阳伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/18/10uyo3znp5jr5tqybtl1bfdryp6pl09.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5913,7 +5913,7 @@ var json=[
           "bpmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       }
     ]
   },
@@ -5923,8 +5923,8 @@ var json=[
       "beikedeng",
       "bkd"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳灯.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/66/jw0ov29h6apevptyeniuw1e9r0riptb.png",
+    "category": "",
     "access": "村民赠送",
     "size": "",
     "materials": [
@@ -5935,7 +5935,7 @@ var json=[
           "sbk"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "黏土",
@@ -5944,7 +5944,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -5954,9 +5954,9 @@ var json=[
       "zhutiemuDIYzhuo",
       "ztmDIYz"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁木DIY桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a1/4tayj6xu1bctjus5can7apeu98wl2bk.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -5966,7 +5966,7 @@ var json=[
           "mc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -5975,7 +5975,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "迷你DIY作业台",
@@ -5984,7 +5984,7 @@ var json=[
           "mnDIYzyt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/迷你DIY作业台.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/05/eseppeoew352scs549kj4l260jc1pf6.png/100px-FtrWorkbenchS.png"
       }
     ]
   },
@@ -5994,7 +5994,7 @@ var json=[
       "sushaowanpan",
       "sswp"
     ],
-    "imgRef": "/assets/DIYRecipes/素烧碗盘.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/23/frvcr3vz9rc64njjqr7y3cxqbsbwgc0.png",
     "category": "小物件",
     "access": "漂流瓶",
     "size": "1.0×1.0",
@@ -6006,7 +6006,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -6016,9 +6016,9 @@ var json=[
       "beikepingfeng",
       "bkpf"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳屏风.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5f/t6t16e80o498bnii05zwzoaf7qdynvn.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6028,7 +6028,7 @@ var json=[
           "glk"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/骨螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6b/s222zhi60yehgzgabtydtayeeohunfe.png/100px-Shell4.png"
       },
       {
         "name": "海螺壳",
@@ -6037,7 +6037,7 @@ var json=[
           "hlk"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/海螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/85/cck8xvxrqdkjn665kilz3x83ixvqf90.png/100px-Shell1.png"
       }
     ]
   },
@@ -6047,9 +6047,9 @@ var json=[
       "mogupingfeng",
       "mgpf"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇屏风.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/57/jvjvt15m48itlykc2gzd80quzl6xoyn.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6059,7 +6059,7 @@ var json=[
           "sxmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       }
     ]
   },
@@ -6069,9 +6069,9 @@ var json=[
       "keaishengdanshu",
       "kasds"
     ],
-    "imgRef": "/assets/DIYRecipes/可爱圣诞树.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5e/3ou94jxz2t6ff5cf3dwyd9k06zos8o5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6081,7 +6081,7 @@ var json=[
           "hszsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "蓝色装饰品",
@@ -6090,7 +6090,7 @@ var json=[
           "lszsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "金色装饰品",
@@ -6099,7 +6099,7 @@ var json=[
           "jszsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "木材",
@@ -6108,7 +6108,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -6118,9 +6118,9 @@ var json=[
       "daxingshengdanshu",
       "dxsds"
     ],
-    "imgRef": "/assets/DIYRecipes/大型圣诞树.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/gcdsajo4mvfqfkdwce012056m6q2h8k.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6130,7 +6130,7 @@ var json=[
           "hszsp"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "蓝色装饰品",
@@ -6139,7 +6139,7 @@ var json=[
           "lszsp"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "金色装饰品",
@@ -6148,7 +6148,7 @@ var json=[
           "jszsp"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "木材",
@@ -6157,7 +6157,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "黏土",
@@ -6166,7 +6166,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -6176,9 +6176,9 @@ var json=[
       "daoguaganzaohua",
       "dggzh"
     ],
-    "imgRef": "/assets/DIYRecipes/倒挂干燥花.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d2/lv318c2rb7e3j72aqc48l5yrektx8nc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6188,7 +6188,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -6198,7 +6198,7 @@ var json=[
       "beikedengzi",
       "bkdz"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳凳子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/53/7ukcejupsbenjnc1uurj27vjjw05n4j.png",
     "category": "家具",
     "access": "村民赠送/漂流瓶",
     "size": "1.0×1.0",
@@ -6210,7 +6210,7 @@ var json=[
           "blk"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/宝螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/14/qu9wj13knn4t4atp1fjjsbearywvwbe.png/100px-Shell7.png"
       }
     ]
   },
@@ -6220,9 +6220,9 @@ var json=[
       "mogushugan",
       "mgsg"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇树干.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/11/rtvgoxjcqrtb1ivmpc7vyu2efeo4ytw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6232,7 +6232,7 @@ var json=[
           "sxmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "圆木凳子",
@@ -6241,7 +6241,7 @@ var json=[
           "ymdz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/圆木凳子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/75/7e4tvnrnbvdh3kdvtm5umwpw7g2vexu.png/100px-FtrLogStoolS.png"
       }
     ]
   },
@@ -6251,7 +6251,7 @@ var json=[
       "wuyouweimenpaozaotong",
       "wywmpzt"
     ],
-    "imgRef": "/assets/DIYRecipes/五右卫门泡澡桶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ea/lm5cwb7ca1h5198t0k8oxm1b6vyap0d.png",
     "category": "家具",
     "access": "气球/漂流瓶",
     "size": "1.5×1.5",
@@ -6263,7 +6263,7 @@ var json=[
           "tks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "木材",
@@ -6272,7 +6272,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "炊火",
@@ -6281,7 +6281,7 @@ var json=[
           "ch"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/炊火.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1e/mvh69fr1h878c231iv1ost652p9nad7.png/100px-FtrBonfire.png"
       }
     ]
   },
@@ -6291,7 +6291,7 @@ var json=[
       "juzibianzhuo",
       "jzbz"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子边桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/19/kxwesg880koscw3strr6vio966xeryo.png",
     "category": "家具",
     "access": "橘子岛自带/村民赠送",
     "size": "1.0×1.0",
@@ -6303,7 +6303,7 @@ var json=[
           "jz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       },
       {
         "name": "木材",
@@ -6312,7 +6312,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -6322,9 +6322,9 @@ var json=[
       "beikepenquan",
       "bkpq"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳喷泉.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/32/f49sy4bvudhtm7bpc2ciovnsh881c5r.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6334,7 +6334,7 @@ var json=[
           "sbk"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "石头",
@@ -6343,7 +6343,7 @@ var json=[
           "st"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -6353,9 +6353,9 @@ var json=[
       "huangjincanju",
       "hjcj"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金餐具.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f1/4d9cwia0cawcn0ukscphd37wgswx6v7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6365,7 +6365,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -6375,9 +6375,9 @@ var json=[
       "yingtaoguangbolaba",
       "ytgblb"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃广播喇叭.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/de/5ogng31qhrg802jta3gb785dizitsq2.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6387,7 +6387,7 @@ var json=[
           "yt"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       },
       {
         "name": "铁矿石",
@@ -6396,7 +6396,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -6406,7 +6406,7 @@ var json=[
       "juzibiguazhong",
       "jzbgz"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子壁挂钟.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/30/tmdbyw6pibz4zog157f62ylm85qh8m2.png",
     "category": "壁挂物",
     "access": "橘子岛自带/村民赠送",
     "size": "1.0×1.0",
@@ -6418,7 +6418,7 @@ var json=[
           "jz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       },
       {
         "name": "木材",
@@ -6427,7 +6427,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -6437,7 +6437,7 @@ var json=[
       "beikechuangpu",
       "bkcp"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳床铺.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/be/49s67dfzis4ji105gm4ndarrsxfg2pi.png",
     "category": "家具",
     "access": "村民赠送",
     "size": "",
@@ -6449,7 +6449,7 @@ var json=[
           "sbk"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "黏土",
@@ -6458,7 +6458,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "石头",
@@ -6467,7 +6467,7 @@ var json=[
           "st"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -6477,7 +6477,7 @@ var json=[
       "paozaoqiyoutong",
       "pzqyt"
     ],
-    "imgRef": "/assets/DIYRecipes/泡澡汽油桶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/80/m1mmuzjavc7jvtt0ip6j8j2ihq96wwy.png",
     "category": "家具",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -6489,7 +6489,7 @@ var json=[
           "qyt"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/汽油桶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/gaz72snv5taabjsym16a96hoyps3lx2.png/100px-FtrDrumcan.png"
       },
       {
         "name": "炊火",
@@ -6498,7 +6498,7 @@ var json=[
           "ch"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/炊火.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1e/mvh69fr1h878c231iv1ost652p9nad7.png/100px-FtrBonfire.png"
       },
       {
         "name": "石头",
@@ -6507,7 +6507,7 @@ var json=[
           "st"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -6517,9 +6517,9 @@ var json=[
       "yingtaodeng",
       "ytd"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7c/1g78mfb4ythgoq0op7vjimss13555ap.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6529,7 +6529,7 @@ var json=[
           "yt"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       },
       {
         "name": "黏土",
@@ -6538,7 +6538,7 @@ var json=[
           "nt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -6548,8 +6548,8 @@ var json=[
       "beikegongmen",
       "bkgm"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳拱门.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/39/lt74mvnex1t35i2l1fex6nbltw1cghi.png",
+    "category": "",
     "access": "气球",
     "size": "",
     "materials": [
@@ -6560,7 +6560,7 @@ var json=[
           "zlk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/钟螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/07/ia6zksdcznl5km18ekpfxvy0abi61s6.png/100px-Shell6.png"
       },
       {
         "name": "骨螺壳",
@@ -6569,7 +6569,7 @@ var json=[
           "glk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/骨螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6b/s222zhi60yehgzgabtydtayeeohunfe.png/100px-Shell4.png"
       },
       {
         "name": "沙钱",
@@ -6578,7 +6578,7 @@ var json=[
           "sq"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/沙钱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d1/3yyq23qawfw333i2fl0v1kb2ydl6uhy.png/100px-Shell8.png"
       },
       {
         "name": "珊瑚",
@@ -6587,7 +6587,7 @@ var json=[
           "sh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/珊瑚.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/llamnj24ldbpxulthxcnyadlgqq21n4.png/100px-Shell3.png"
       },
       {
         "name": "扇贝壳",
@@ -6596,7 +6596,7 @@ var json=[
           "sbk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "宝螺壳",
@@ -6605,7 +6605,7 @@ var json=[
           "blk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/宝螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/14/qu9wj13knn4t4atp1fjjsbearywvwbe.png/100px-Shell7.png"
       }
     ]
   },
@@ -6615,9 +6615,9 @@ var json=[
       "yuanmuzhuangshijia",
       "ymzsj"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木装饰架.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/33/gdhapi6spa0rsunu6305as4rqiz0xbx.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6627,7 +6627,7 @@ var json=[
           "ymzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/圆木长凳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0a/gouffz51qgjq2zxyx6afwyfcpg9exuc.png/100px-FtrLogStoolL.png"
       },
       {
         "name": "硬木材",
@@ -6636,7 +6636,7 @@ var json=[
           "ymc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -6646,9 +6646,9 @@ var json=[
       "liwudengshi",
       "lwds"
     ],
-    "imgRef": "/assets/DIYRecipes/礼物灯饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/08/sv6tcjybjfsmz2hal3l1vwho1ht1jqh.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6658,7 +6658,7 @@ var json=[
           "hszsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "金色装饰品",
@@ -6667,7 +6667,7 @@ var json=[
           "jszsp"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "铁矿石",
@@ -6676,7 +6676,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -6686,9 +6686,9 @@ var json=[
       "yuanmuyuanzhuo",
       "ymyz"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木圆桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/77/soo4r09hnleyqq10trh8bfnpxdiute2.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6698,7 +6698,7 @@ var json=[
           "ymc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -6708,9 +6708,9 @@ var json=[
       "xunludengshi",
       "xlds"
     ],
-    "imgRef": "/assets/DIYRecipes/驯鹿灯饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/eb/dt3q9p3x9mdqssyogorg5mufgqvpzbf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6720,7 +6720,7 @@ var json=[
           "jszsp"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "铁矿石",
@@ -6729,7 +6729,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -6739,9 +6739,9 @@ var json=[
       "yuanmubiguazhong",
       "ymbgz"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木壁挂钟.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ec/dxtsucjarrtgwthwqs77fxku4o5bx7v.png",
     "category": "壁挂物",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -6751,7 +6751,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -6760,7 +6760,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -6770,9 +6770,9 @@ var json=[
       "muyu",
       "my"
     ],
-    "imgRef": "/assets/DIYRecipes/木鱼.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/57/gpgc7fmp24bxulbnb15y169bwmakfjn.png",
     "category": "小物件",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -6782,7 +6782,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -6792,9 +6792,9 @@ var json=[
       "yuanmuchangshafa",
       "ymcsf"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木长沙发.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a0/boaewwnk8lulmoc6a87mirb7in7tbmq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6804,7 +6804,7 @@ var json=[
           "ymsf"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/圆木沙发.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/iwoygege8mo2pofp0h7xgkoyrwtarf2.png/100px-FtrLogSofaS.png"
       }
     ]
   },
@@ -6814,9 +6814,9 @@ var json=[
       "tongluo",
       "tl"
     ],
-    "imgRef": "/assets/DIYRecipes/铜锣.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1d/dneie00k22xydoxso6rn0vz7snfm7o1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6826,7 +6826,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "木材",
@@ -6835,7 +6835,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -6845,7 +6845,7 @@ var json=[
       "yuanmudengzi",
       "ymdz"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木凳子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/75/7e4tvnrnbvdh3kdvtm5umwpw7g2vexu.png",
     "category": "家具",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -6857,7 +6857,7 @@ var json=[
           "ymc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -6867,9 +6867,9 @@ var json=[
       "muzhishugui",
       "mzsg"
     ],
-    "imgRef": "/assets/DIYRecipes/木制书柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d3/1nyx3lxtuvuwn10nk2frlbm0yh4t31m.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6879,7 +6879,7 @@ var json=[
           "s"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/书.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/93/7bxkpb164iio08b1lyhtfxgoa0gen4m.png/100px-FtrBookOpened.png"
       },
       {
         "name": "木材",
@@ -6888,7 +6888,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -6898,9 +6898,9 @@ var json=[
       "shuxingdengshi",
       "sxds"
     ],
-    "imgRef": "/assets/DIYRecipes/树型灯饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d8/6bakzlqjlbnhl198qrx96ttk1zoq2ym.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6910,7 +6910,7 @@ var json=[
           "hszsp"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "蓝色装饰品",
@@ -6919,7 +6919,7 @@ var json=[
           "lszsp"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "金色装饰品",
@@ -6928,7 +6928,7 @@ var json=[
           "jszsp"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "铁矿石",
@@ -6937,7 +6937,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -6947,9 +6947,9 @@ var json=[
       "sanluandezhizhang",
       "sldzz"
     ],
-    "imgRef": "/assets/DIYRecipes/散乱的纸张.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/31/6be7ca50fvqsne4h1v1s8riwseb0ply.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -6959,7 +6959,7 @@ var json=[
           "wjd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/文件堆.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d5/lg3psjvxslii5r5qeuo2lvbvk970kl9.png/100px-FtrOfficePapers.png"
       }
     ]
   },
@@ -6969,8 +6969,8 @@ var json=[
       "zhugu",
       "zg"
     ],
-    "imgRef": "/assets/DIYRecipes/竹鼓.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0a/0likdt7k5xhlzhftj08ipeq7cq48tex.png",
+    "category": "",
     "access": "村民赠送",
     "size": "",
     "materials": [
@@ -6981,7 +6981,7 @@ var json=[
           "zzcl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       },
       {
         "name": "软木材",
@@ -6990,7 +6990,7 @@ var json=[
           "rmc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -7000,9 +7000,9 @@ var json=[
       "yuanmushafa",
       "ymsf"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木沙发.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/be/iwoygege8mo2pofp0h7xgkoyrwtarf2.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7012,7 +7012,7 @@ var json=[
           "ymc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -7022,9 +7022,9 @@ var json=[
       "zhuoshangshengdanshu",
       "zssds"
     ],
-    "imgRef": "/assets/DIYRecipes/桌上圣诞树.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9e/8b58xz8mjm86p1vxsd75mmnz8vgiv1r.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7034,7 +7034,7 @@ var json=[
           "jszsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "树枝",
@@ -7043,7 +7043,7 @@ var json=[
           "sz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "黏土",
@@ -7052,7 +7052,7 @@ var json=[
           "nt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -7062,9 +7062,9 @@ var json=[
       "yuanmuhuayuantangyi",
       "ymhyty"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木花园躺椅.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d7/kle9zo6u8f1esk8kc7825dtx26czcyq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7074,7 +7074,7 @@ var json=[
           "ymc"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -7084,7 +7084,7 @@ var json=[
       "shuiguotongzhuangyinshuiji",
       "sgtzysj"
     ],
-    "imgRef": "/assets/DIYRecipes/水果桶装饮水机.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/51/gl0nxd05vrk04xpftjh2bm4ss8o2vc8.png",
     "category": "小物件",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "1.0×1.0",
@@ -7096,7 +7096,7 @@ var json=[
           "pg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       },
       {
         "name": "梨子",
@@ -7105,7 +7105,7 @@ var json=[
           "lz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       },
       {
         "name": "樱桃",
@@ -7114,7 +7114,7 @@ var json=[
           "yt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       },
       {
         "name": "橘子",
@@ -7123,7 +7123,7 @@ var json=[
           "jz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       },
       {
         "name": "桃子",
@@ -7132,7 +7132,7 @@ var json=[
           "tz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       },
       {
         "name": "椰子",
@@ -7141,7 +7141,7 @@ var json=[
           "yz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/椰子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2f/nro0okh70t6p67z06guuogc22u3r5lz.png/100px-Coconut.png"
       }
     ]
   },
@@ -7151,9 +7151,9 @@ var json=[
       "yuanmuchuangpu",
       "ymcp"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木床铺.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1f/qin61ou19a4zo3v8hss7t0bp0sbf2pd.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7163,7 +7163,7 @@ var json=[
           "ymc"
         ],
         "count": "30",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -7173,7 +7173,7 @@ var json=[
       "taozhiniunaihu",
       "tznnh"
     ],
-    "imgRef": "/assets/DIYRecipes/陶制牛奶壶.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/83/5c729tzyi6pykpg3few17aiwj6i6yu9.png",
     "category": "小物件",
     "access": "狸克赠送",
     "size": "1.0×1.0",
@@ -7185,7 +7185,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -7195,7 +7195,7 @@ var json=[
       "jiancizhalan",
       "jczl"
     ],
-    "imgRef": "/assets/DIYRecipes/尖刺栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dc/pvhamher2v1g8oimc63d13wo70mfi2u.png",
     "category": "其他",
     "access": "狸端机1000点兑换",
     "size": "1.0×1.0",
@@ -7207,7 +7207,7 @@ var json=[
           "ymc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -7217,7 +7217,7 @@ var json=[
       "bosijuhuahuan",
       "bsjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/波斯菊花环.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2f/g6t5nawmk9ndukz65ldhoxv1kc59h7g.png",
     "category": "壁挂物",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -7229,7 +7229,7 @@ var json=[
           "hsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/db/sys93mc1dri0entajbn88cnfh6mg0d2.png/100px-FlwCosmosYellow.png"
       },
       {
         "name": "白色波斯菊",
@@ -7238,7 +7238,7 @@ var json=[
           "bsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5d/2n5eejjswhjhj6nxpudfcaaafi3o072.png/100px-FlwCosmosWhite.png"
       },
       {
         "name": "红色波斯菊",
@@ -7247,7 +7247,7 @@ var json=[
           "hsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c7/bqvxh8qsi5pqe8ljufagdpp043210vo.png/100px-FlwCosmosRed.png"
       }
     ]
   },
@@ -7257,9 +7257,9 @@ var json=[
       "dingziyushengsuo",
       "dzyss"
     ],
-    "imgRef": "/assets/DIYRecipes/钉子与绳索.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e6/ajwtco240cyrn30n1d7ax2vh0hwghj3.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7269,7 +7269,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -7279,9 +7279,9 @@ var json=[
       "pingguoyi",
       "pgy"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果椅.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e3/2bwx59s4pigckblc1t4ljklgc4z9f9w.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7291,7 +7291,7 @@ var json=[
           "pg"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       },
       {
         "name": "木材",
@@ -7300,7 +7300,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -7310,9 +7310,9 @@ var json=[
       "xuehuahuahuan",
       "xhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/雪花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3b/mx5mab4jqugqbb5ewbolqnhtc6oguuj.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7322,7 +7322,7 @@ var json=[
           "xh"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -7332,7 +7332,7 @@ var json=[
       "shijiedelubiao",
       "sjdlb"
     ],
-    "imgRef": "/assets/DIYRecipes/世界的路标.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e3/lmhlq26navk0oyc3r29kxnxrf3eoyys.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "1.5×1.5",
@@ -7344,7 +7344,7 @@ var json=[
           "ymc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -7353,7 +7353,7 @@ var json=[
           "rmc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -7363,7 +7363,7 @@ var json=[
       "dongfangfengzhalan",
       "dffzl"
     ],
-    "imgRef": "/assets/DIYRecipes/东方风栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fd/jqe87wmvltva0csvdijl4tjijygu27c.png",
     "category": "其他",
     "access": "狸端机 1000点兑换",
     "size": "1.0x1.0",
@@ -7375,7 +7375,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -7384,7 +7384,7 @@ var json=[
           "rmc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -7394,9 +7394,9 @@ var json=[
       "huangseluoye",
       "hsly"
     ],
-    "imgRef": "/assets/DIYRecipes/黄色落叶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3f/s2z0hj8wjz7agjbzcmona1z753q6fzo.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7406,7 +7406,7 @@ var json=[
           "xl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "杂草",
@@ -7415,7 +7415,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -7425,9 +7425,9 @@ var json=[
       "beikehuahuan",
       "bkhh"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b8/219dmay07psxlt9ck5njh1mys8syziz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7437,7 +7437,7 @@ var json=[
           "xtbk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       },
       {
         "name": "钟螺壳",
@@ -7446,7 +7446,7 @@ var json=[
           "zlk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/钟螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/07/ia6zksdcznl5km18ekpfxvy0abi61s6.png/100px-Shell6.png"
       },
       {
         "name": "沙钱",
@@ -7455,7 +7455,7 @@ var json=[
           "sq"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/沙钱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d1/3yyq23qawfw333i2fl0v1kb2ydl6uhy.png/100px-Shell8.png"
       },
       {
         "name": "珊瑚",
@@ -7464,7 +7464,7 @@ var json=[
           "sh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/珊瑚.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/llamnj24ldbpxulthxcnyadlgqq21n4.png/100px-Shell3.png"
       },
       {
         "name": "扇贝壳",
@@ -7473,7 +7473,7 @@ var json=[
           "sbk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "宝螺壳",
@@ -7482,7 +7482,7 @@ var json=[
           "blk"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/宝螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/14/qu9wj13knn4t4atp1fjjsbearywvwbe.png/100px-Shell7.png"
       }
     ]
   },
@@ -7492,9 +7492,9 @@ var json=[
       "caoqun",
       "cq"
     ],
-    "imgRef": "/assets/DIYRecipes/草裙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bc/j92eb7bs0n8v73l540ghxnrpvxgngbg.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7504,7 +7504,7 @@ var json=[
           "zc"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -7514,7 +7514,7 @@ var json=[
       "gandaocaozhalan",
       "gdczl"
     ],
-    "imgRef": "/assets/DIYRecipes/干稻草栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/91/7tytz1hqnz4bv71a2t8mgc6kydj3bd2.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -7526,7 +7526,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "木材",
@@ -7535,7 +7535,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -7545,9 +7545,9 @@ var json=[
       "hongseluoye",
       "hsly"
     ],
-    "imgRef": "/assets/DIYRecipes/红色落叶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/47/8gmhemyegot54qqiapqljaecwykol93.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7557,7 +7557,7 @@ var json=[
           "hy"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       },
       {
         "name": "杂草",
@@ -7566,7 +7566,7 @@ var json=[
           "zc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -7576,9 +7576,9 @@ var json=[
       "zhuangshihuahuan",
       "zshh"
     ],
-    "imgRef": "/assets/DIYRecipes/装饰花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/33/p8ygsw4ukwup0v3gfp440ig1ocah55i.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7588,7 +7588,7 @@ var json=[
           "lszsp"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "金色装饰品",
@@ -7597,7 +7597,7 @@ var json=[
           "jszsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       }
     ]
   },
@@ -7607,7 +7607,7 @@ var json=[
       "hengtiaomubanzhalan",
       "htmbzl"
     ],
-    "imgRef": "/assets/DIYRecipes/横条木板栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/20/2chh751k20rrv2i2fg86unlgpor42li.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -7619,7 +7619,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -7629,9 +7629,9 @@ var json=[
       "yezibiguapenzai",
       "yzbgpz"
     ],
-    "imgRef": "/assets/DIYRecipes/椰子壁挂盆栽.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c6/1yncdzuospii6vs6eft9mgd05yj12t1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7641,7 +7641,7 @@ var json=[
           "yz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/椰子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2f/nro0okh70t6p67z06guuogc22u3r5lz.png/100px-Coconut.png"
       },
       {
         "name": "杂草",
@@ -7650,7 +7650,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -7660,7 +7660,7 @@ var json=[
       "tiezhalan",
       "tzl"
     ],
-    "imgRef": "/assets/DIYRecipes/铁栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/17/32h4yktkbkihd3xqz4i3z9to7oo0gun.png",
     "category": "其他",
     "access": "狸端机1000点兑换",
     "size": "1.0×1.0",
@@ -7672,7 +7672,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -7682,9 +7682,9 @@ var json=[
       "bingbang",
       "bb"
     ],
-    "imgRef": "/assets/DIYRecipes/冰棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/95/iayvljw6eym4wtktr5vpbbrwgjx1kbb.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7694,7 +7694,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -7703,7 +7703,7 @@ var json=[
           "xh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -7713,9 +7713,9 @@ var json=[
       "shuiguohuahuan",
       "sghh"
     ],
-    "imgRef": "/assets/DIYRecipes/水果花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c6/lki963il95x2bcvhnnfo9c1jnh2m2wz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7725,7 +7725,7 @@ var json=[
           "pg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       },
       {
         "name": "梨子",
@@ -7734,7 +7734,7 @@ var json=[
           "lz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       },
       {
         "name": "樱桃",
@@ -7743,7 +7743,7 @@ var json=[
           "yt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       },
       {
         "name": "橘子",
@@ -7752,7 +7752,7 @@ var json=[
           "jz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       },
       {
         "name": "桃子",
@@ -7761,7 +7761,7 @@ var json=[
           "tz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -7771,7 +7771,7 @@ var json=[
       "yuanmushanlan",
       "ymsl"
     ],
-    "imgRef": "/assets/DIYRecipes/圆木栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cf/7cnu7tlh4fgofkxca0xyh86uy5xgmds.png",
     "category": "其他",
     "access": "狸端机 1000点兑换",
     "size": "1.0x1.0",
@@ -7783,7 +7783,7 @@ var json=[
           "ymc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -7793,9 +7793,9 @@ var json=[
       "xuehuadengshi",
       "xhds"
     ],
-    "imgRef": "/assets/DIYRecipes/雪花灯饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fa/ru39m3qw148iifzxyuj2nehxq37xir8.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7805,7 +7805,7 @@ var json=[
           "lszsp"
         ],
         "count": "9",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "铁矿石",
@@ -7814,7 +7814,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -7824,9 +7824,9 @@ var json=[
       "zhutiemenpai",
       "ztmp"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁门牌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bf/h3htuggg08fm5zb1kl39o2ltgdtphqw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7836,7 +7836,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -7846,9 +7846,9 @@ var json=[
       "lizichuangpu",
       "lzcp"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子床铺.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/29/nyefbfwmhbjjqyjifw7n5lu2df1db17.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "2.0×1.0",
     "materials": [
       {
@@ -7858,7 +7858,7 @@ var json=[
           "lz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       },
       {
         "name": "软木材",
@@ -7867,7 +7867,7 @@ var json=[
           "rmc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -7877,9 +7877,9 @@ var json=[
       "buguizeshitouqiang",
       "bgzstq"
     ],
-    "imgRef": "/assets/DIYRecipes/不规则石头墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c8/bxxkggc66tkap0bi5mutdj1j5kobkwx.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -7889,7 +7889,7 @@ var json=[
           "st"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "黏土",
@@ -7898,7 +7898,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -7908,9 +7908,9 @@ var json=[
       "mogudengzi",
       "mgdz"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇凳子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/37/kuig55cs9ekdi2k7pu06mzjj1f8yesj.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7920,7 +7920,7 @@ var json=[
           "yxmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/圆形蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c2/6t6klzxa9g2dnvyk0ayfkymevfvvomm.png/100px-MushRound.png"
       }
     ]
   },
@@ -7930,9 +7930,9 @@ var json=[
       "dixiashidiban",
       "dxsdb"
     ],
-    "imgRef": "/assets/DIYRecipes/地下室地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/24/bzlagz1cozmy1gtiwdwmo9u5bu2pglg.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7942,7 +7942,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -7952,7 +7952,7 @@ var json=[
       "yusiliao",
       "ysl"
     ],
-    "imgRef": "/assets/DIYRecipes/鱼饲料.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/p99artn7j71mmij6657nsicm4lvhf0s.png",
     "category": "其他",
     "access": "挖到蛤蜊时觉悟",
     "size": "1.0×1.0",
@@ -7964,7 +7964,7 @@ var json=[
           "gl"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/蛤蜊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b6/0gq21bn4mnnk9lezxmocz5d02cz5cqr.png/100px-ShellFishAsari.png"
       }
     ]
   },
@@ -7974,9 +7974,9 @@ var json=[
       "jinborishilamen",
       "jbrslm"
     ],
-    "imgRef": "/assets/DIYRecipes/金箔日式拉门.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b8/jsegrh6t0li7xtqc9g4qgx7g0o2lu04.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -7986,7 +7986,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "日式拉门",
@@ -7995,7 +7995,7 @@ var json=[
           "rslm"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/日式拉门.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/62/cj97otzyukv0uleb2re97vc0jlz7x1m.png/100px-RoomTexWallFusuma00.png"
       }
     ]
   },
@@ -8005,9 +8005,9 @@ var json=[
       "moguhuahuan",
       "mghh"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/50/iq8vtirmvi6q2aytteejx0js7kox0ia.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8017,7 +8017,7 @@ var json=[
           "sz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "圆形蘑菇",
@@ -8026,7 +8026,7 @@ var json=[
           "yxmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/圆形蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c2/6t6klzxa9g2dnvyk0ayfkymevfvvomm.png/100px-MushRound.png"
       },
       {
         "name": "瘦小蘑菇",
@@ -8035,7 +8035,7 @@ var json=[
           "sxmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "扁平蘑菇",
@@ -8044,7 +8044,7 @@ var json=[
           "bpmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       }
     ]
   },
@@ -8054,9 +8054,9 @@ var json=[
       "gangjiaqiang",
       "gjq"
     ],
-    "imgRef": "/assets/DIYRecipes/钢架墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3a/4qt3hdqp28vn4hb36drfdm6fggy5gf6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8066,7 +8066,7 @@ var json=[
           "tks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -8076,9 +8076,9 @@ var json=[
       "tiekuijia",
       "tkj"
     ],
-    "imgRef": "/assets/DIYRecipes/铁盔甲.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/af/k6yg54hsk3zy6668qxiu8ykikkpiuu5.png",
     "category": "装备",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -8088,7 +8088,7 @@ var json=[
           "tks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -8098,9 +8098,9 @@ var json=[
       "tushuguanqiang",
       "tsgq"
     ],
-    "imgRef": "/assets/DIYRecipes/图书馆墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/15/jug74ncpszdwh9yo4ri60cgzpbk8lkm.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8110,7 +8110,7 @@ var json=[
           "s"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/书.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/93/7bxkpb164iio08b1lyhtfxgoa0gen4m.png/100px-FtrBookOpened.png"
       }
     ]
   },
@@ -8120,9 +8120,9 @@ var json=[
       "shuzhihuahuan",
       "szhh"
     ],
-    "imgRef": "/assets/DIYRecipes/树枝花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/71/925ep4a7m69y60qccnq2zqngp31ppql.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8132,7 +8132,7 @@ var json=[
           "sz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -8142,9 +8142,9 @@ var json=[
       "chaserenzixiewenqiang",
       "csrzxwq"
     ],
-    "imgRef": "/assets/DIYRecipes/茶色人字斜纹墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9f/46epubm9hcz01z8zevy7d4wha9foy7d.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8154,7 +8154,7 @@ var json=[
           "rmc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -8164,7 +8164,7 @@ var json=[
       "jinkuijia",
       "jkj"
     ],
-    "imgRef": "/assets/DIYRecipes/金盔甲.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/67/5u0x2gw9yrwkqn8lu9gcdylqzgsrao1.png",
     "category": "装备",
     "access": "与岛民对话",
     "size": "1.0*1.0",
@@ -8176,7 +8176,7 @@ var json=[
           "jks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -8186,7 +8186,7 @@ var json=[
       "manhuatushuguanqiang",
       "mhtsgq"
     ],
-    "imgRef": "/assets/DIYRecipes/漫画图书馆墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/aa/3rq6eut5udikqrl5rdcmceoycvnq4i6.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -8198,7 +8198,7 @@ var json=[
           "zz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂志.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/1t1r8du4zq9lil20d3f16t3b070hkqc.png/100px-FtrMagagineOpened.png"
       }
     ]
   },
@@ -8208,7 +8208,7 @@ var json=[
       "gutoumenpai",
       "gtmp"
     ],
-    "imgRef": "/assets/DIYRecipes/骨头门牌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/64/nq2sq51ekb1t2eqw6hxwofck5twoev2.png",
     "category": "壁挂物",
     "access": "漂流瓶/气球礼物/村民赠送",
     "size": "1.0×1.0",
@@ -8220,7 +8220,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -8230,9 +8230,9 @@ var json=[
       "shenzongserenzixiewenqiang",
       "szsrzxwq"
     ],
-    "imgRef": "/assets/DIYRecipes/深棕色人字斜纹墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b2/8lo54h01go8smtbmba7yk2utg1z1fna.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8242,7 +8242,7 @@ var json=[
           "rmc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -8252,7 +8252,7 @@ var json=[
       "yezi",
       "yz"
     ],
-    "imgRef": "/assets/DIYRecipes/叶子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a8/n3x3r1oe22d4tvcg48rrvoaau6qsuyr.png",
     "category": "装备",
     "access": "动物赠送",
     "size": "1.0x1.0",
@@ -8264,7 +8264,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -8274,9 +8274,9 @@ var json=[
       "fengyeqiang",
       "fyq"
     ],
-    "imgRef": "/assets/DIYRecipes/枫叶墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/18/7bfrvch96eisl4wn3gtqm6n6nwicrb4.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8286,7 +8286,7 @@ var json=[
           "hy"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       },
       {
         "name": "木材",
@@ -8295,7 +8295,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "杂草",
@@ -8304,7 +8304,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -8314,9 +8314,9 @@ var json=[
       "muwuqiang",
       "mwq"
     ],
-    "imgRef": "/assets/DIYRecipes/木屋墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1c/dc5un30krnum47ndqy94oav741uwb3d.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8326,7 +8326,7 @@ var json=[
           "ymc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -8336,7 +8336,7 @@ var json=[
       "taozibizhi",
       "tzbz"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4d/o83fcvzcrf7kj7mswd5051t6dvwqsst.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -8348,7 +8348,7 @@ var json=[
           "tz"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -8358,9 +8358,9 @@ var json=[
       "qianmuqiang",
       "qmq"
     ],
-    "imgRef": "/assets/DIYRecipes/嵌木墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/72/023qtg6todaf18ubqzewzyrwcy3iuda.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8370,7 +8370,7 @@ var json=[
           "mc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -8380,9 +8380,9 @@ var json=[
       "mujieqiang",
       "mjq"
     ],
-    "imgRef": "/assets/DIYRecipes/木节墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/31/pp8vy92mktuo6dvvmj18qen0u8nhesq.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8392,7 +8392,7 @@ var json=[
           "ymc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -8402,9 +8402,9 @@ var json=[
       "muzhiqiang",
       "mzq"
     ],
-    "imgRef": "/assets/DIYRecipes/木质墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/67/jiutevbhym1v1nsb4v79720m0k4itfg.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8414,7 +8414,7 @@ var json=[
           "ymc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -8424,7 +8424,7 @@ var json=[
       "yingtaobizhi",
       "ytbz"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a9/3hxxg9nzrs15mv7h4bqgynuzgefetqj.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -8436,7 +8436,7 @@ var json=[
           "yt"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       }
     ]
   },
@@ -8446,9 +8446,9 @@ var json=[
       "shenseqianmuqiang",
       "ssqmq"
     ],
-    "imgRef": "/assets/DIYRecipes/深色嵌木墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f2/thksbaqqcvmzxlfr5vlhd40vgk6zw8g.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8458,7 +8458,7 @@ var json=[
           "mc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -8468,9 +8468,9 @@ var json=[
       "juzibizhi",
       "jzbz"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5a/ble7wb2n4pbmpqk8rhepfafkholsdqe.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8480,7 +8480,7 @@ var json=[
           "jz"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       }
     ]
   },
@@ -8490,7 +8490,7 @@ var json=[
       "zhulinqiang",
       "zlq"
     ],
-    "imgRef": "/assets/DIYRecipes/竹林墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ab/hdnumiuiivaykm0e3xdqyd1351wh6s2.png",
     "category": "墙壁·地板·地垫",
     "access": "漂流瓶",
     "size": "一个房间",
@@ -8502,7 +8502,7 @@ var json=[
           "cs"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       },
       {
         "name": "竹笋",
@@ -8511,7 +8511,7 @@ var json=[
           "zs"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/72/ca40v4qt4f17aujntft7mefqlkvdt0o.png/100px-BambooShoot.png"
       }
     ]
   },
@@ -8521,7 +8521,7 @@ var json=[
       "yinghuamuqiang",
       "yhmq"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花木墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/95/2rlvubicocu6fmx7gx3f4m7hd1gvmij.png",
     "category": "季节手册",
     "access": "气球",
     "size": "一个房间",
@@ -8533,7 +8533,7 @@ var json=[
           "yhhb"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "木材",
@@ -8542,7 +8542,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -8552,7 +8552,7 @@ var json=[
       "fengchaoqiang",
       "fcq"
     ],
-    "imgRef": "/assets/DIYRecipes/蜂巢墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1c/bnu3wxjdq6h254559o7r0nhw6ivmu4e.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -8564,7 +8564,7 @@ var json=[
           "fc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/蜂巢.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7c/daqxxypmk8pyeahykyfuvtqn541n85i.png/100px-Honeycomb.png"
       }
     ]
   },
@@ -8574,7 +8574,7 @@ var json=[
       "pingguobizhi",
       "pgbz"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9b/nsvxczx132k0c8gsu5o3odf1fk1wtiz.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -8586,7 +8586,7 @@ var json=[
           "pg"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       }
     ]
   },
@@ -8596,9 +8596,9 @@ var json=[
       "xuehuabizhi",
       "xhbz"
     ],
-    "imgRef": "/assets/DIYRecipes/雪花壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cc/kezfxkd6pynacmijiofw54xyrfi1blh.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8608,7 +8608,7 @@ var json=[
           "xh"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -8618,9 +8618,9 @@ var json=[
       "zhuzidiban",
       "zzdb"
     ],
-    "imgRef": "/assets/DIYRecipes/竹子地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/56/26sdrr483qt1ruk1449iqz0p62afga1.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8630,7 +8630,7 @@ var json=[
           "zzcl"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -8640,7 +8640,7 @@ var json=[
       "huangjinqiang",
       "hjq"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/ba/eezrfi0hhq4fhawmrzvcobg801ga4ux.png",
     "category": "墙壁·地板·地垫",
     "access": "村民赠送",
     "size": "一个房间",
@@ -8652,7 +8652,7 @@ var json=[
           "jks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -8662,9 +8662,9 @@ var json=[
       "lizibizhi",
       "lzbz"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0b/rqwbqa6kovlb47hxp4e5iviyee1in57.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8674,7 +8674,7 @@ var json=[
           "lz"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       }
     ]
   },
@@ -8684,9 +8684,9 @@ var json=[
       "yuanmuqiang",
       "ymq"
     ],
-    "imgRef": "/assets/DIYRecipes/原木墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/18/l0oxr7npsdf9eckvx6nfhj7nmih5xwm.png",
     "category": "墙壁·地板·地垫",
-    "access": "未知",
+    "access": "",
     "size": "一个房间",
     "materials": [
       {
@@ -8696,7 +8696,7 @@ var json=[
           "mc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -8706,7 +8706,7 @@ var json=[
       "yueqiubiaomiandiban",
       "yqbmdb"
     ],
-    "imgRef": "/assets/DIYRecipes/月球表面地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/52/60yisevw076e20iudq5xyo5aljaqbmy.png",
     "category": "墙壁·地板·地垫",
     "access": "流星雨当天晚上与岛上的傅珂对话",
     "size": "一个房间",
@@ -8718,7 +8718,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -8727,7 +8727,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -8737,9 +8737,9 @@ var json=[
       "zisefengxinzihuaguan",
       "zsfxzhg"
     ],
-    "imgRef": "/assets/DIYRecipes/紫色风信子花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/96/dnrzn8d9ibvtijphw8cnt3q7oee93qb.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8749,7 +8749,7 @@ var json=[
           "zsfxz"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/紫色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b9/9ajje2w6i0vscoduam0xoghx4cqqulo.png/100px-FlwHyacinthPurple.png"
       }
     ]
   },
@@ -8759,9 +8759,9 @@ var json=[
       "shuimiandiban",
       "smdb"
     ],
-    "imgRef": "/assets/DIYRecipes/水面地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/36/b7e92cuqs4tpqyj7lwug2tce11wjj7l.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8771,7 +8771,7 @@ var json=[
           "xtbk"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       }
     ]
   },
@@ -8781,9 +8781,9 @@ var json=[
       "baihebang",
       "bhb"
     ],
-    "imgRef": "/assets/DIYRecipes/百合棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/64/awoqtkrdcs45e8tqxokuxk57iemvwm1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8793,7 +8793,7 @@ var json=[
           "bsbh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/白色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/53/cvpkcggpstx88wo51ls667318vtws6e.png/100px-FlwYuriWhite.png"
       },
       {
         "name": "星星碎片",
@@ -8802,7 +8802,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -8812,7 +8812,7 @@ var json=[
       "sansejinbang",
       "ssjb"
     ],
-    "imgRef": "/assets/DIYRecipes/三色堇棒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/83/swbur7rhpsz2g6ajnozuckaia46afla.png",
     "category": "工具",
     "access": "流星当天晚上与岛上的傅珂对话",
     "size": "1.0×1.0",
@@ -8824,7 +8824,7 @@ var json=[
           "hsssj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/黄色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7f/0j3004eqzx391491bopknadrt2zktyr.png/100px-FlwPansyYellow.png"
       },
       {
         "name": "星星碎片",
@@ -8833,7 +8833,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -8843,9 +8843,9 @@ var json=[
       "jinqiandiban",
       "jqdb"
     ],
-    "imgRef": "/assets/DIYRecipes/金钱地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/56/nmonmrp7zj1g7252qauq8wmwtc1gji8.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8855,7 +8855,7 @@ var json=[
           "50000lq"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/50000铃钱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/4h8b4snac8rj17gvzq89w6xpl68l0hr.png/100px-50000Bell.png"
       }
     ]
   },
@@ -8865,9 +8865,9 @@ var json=[
       "yinlianhuahuaguan",
       "ylhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/银莲花花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/49/otirt5ffwem7bz5x1uyb0lcwny26zv0.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8877,7 +8877,7 @@ var json=[
           "hsylh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/74/gyllvkt1h20psyghdapudknzxr5znka.png/100px-FlwAnemonesRed.png"
       },
       {
         "name": "橘色银莲花",
@@ -8886,7 +8886,7 @@ var json=[
           "jsylh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/橘色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5b/kx5z1oltorcxof3vhdc2oj7w2b7yrcg.png/100px-FlwAnemonesOrange.png"
       },
       {
         "name": "白色银莲花",
@@ -8895,7 +8895,7 @@ var json=[
           "bsylh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/f37pp6rmcaz0o0ijlfbf0tzma1z7ffv.png/100px-FlwAnemonesWhite.png"
       }
     ]
   },
@@ -8905,7 +8905,7 @@ var json=[
       "fenhongsemudiban",
       "fhsmdb"
     ],
-    "imgRef": "/assets/DIYRecipes/粉红色木地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/90/acxx5eobvwy1c31pc4pkuay6a9c02s9.png",
     "category": "季节手册",
     "access": "气球",
     "size": "一个房间",
@@ -8917,7 +8917,7 @@ var json=[
           "yhhb"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "木材",
@@ -8926,7 +8926,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -8936,9 +8936,9 @@ var json=[
       "juhuabang",
       "jhb"
     ],
-    "imgRef": "/assets/DIYRecipes/菊花棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/11/8n3ely51vl0eakxr4yzt6fynnbczazk.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8948,7 +8948,7 @@ var json=[
           "hsjh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/黄色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cf/5rz5i4dbipkd480qh35arzkyighpyot.png/100px-FlwMumYellow.png"
       },
       {
         "name": "星星碎片",
@@ -8957,7 +8957,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -8967,9 +8967,9 @@ var json=[
       "bosijubang",
       "bsjb"
     ],
-    "imgRef": "/assets/DIYRecipes/波斯菊棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6f/37ksxp26wwe96gj7ugtmma28uo1zewb.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -8979,7 +8979,7 @@ var json=[
           "bsbsj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/白色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5d/2n5eejjswhjhj6nxpudfcaaafi3o072.png/100px-FlwCosmosWhite.png"
       },
       {
         "name": "星星碎片",
@@ -8988,7 +8988,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -8998,9 +8998,9 @@ var json=[
       "huaxuechangdiban",
       "hxcdb"
     ],
-    "imgRef": "/assets/DIYRecipes/滑雪场地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6e/iwtxoh11q9iqbaevw3rigiujiqiwzm6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9010,7 +9010,7 @@ var json=[
           "xh"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -9020,9 +9020,9 @@ var json=[
       "qingxinyinlianhuahuaguan",
       "qxylhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/清新银莲花花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d2/0gkhm6m9c3fkoenjyy1d493e2k4aet6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9032,7 +9032,7 @@ var json=[
           "lsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蓝色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1f/1l07lt2o21l59jtjeaft53g7w5vyyfs.png/100px-FlwAnemonesBlue.png"
       },
       {
         "name": "粉红银莲花",
@@ -9041,7 +9041,7 @@ var json=[
           "fhylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/93/hln84b5prqhsofemg09z36y0ldws03o.png/100px-FlwAnemonesPink.png"
       }
     ]
   },
@@ -9051,9 +9051,9 @@ var json=[
       "fengxinzibang",
       "fxzb"
     ],
-    "imgRef": "/assets/DIYRecipes/风信子棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8e/nrh7pqinyhn204qpmelz9746wd04jru.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9063,7 +9063,7 @@ var json=[
           "fhfxz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/粉红风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ad/4lg1ry68tvt81mks1f0433v7nmjn9eb.png/100px-FlwHyacinthPink.png"
       },
       {
         "name": "星星碎片",
@@ -9072,7 +9072,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -9082,9 +9082,9 @@ var json=[
       "fengxinzihuaguan",
       "fxzhg"
     ],
-    "imgRef": "/assets/DIYRecipes/风信子花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fc/qqlwjid2cvo7xq3qu8fvaitborivqaf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9094,7 +9094,7 @@ var json=[
           "hsfxz"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/红色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/k6vqgpohlryskyppvmgh50f4yo87lab.png/100px-FlwHyacinthRed.png"
       },
       {
         "name": "黄色风信子",
@@ -9103,7 +9103,7 @@ var json=[
           "hsfxz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/46/1zri591dm3wtzcngmhgg17yp13t0r4x.png/100px-FlwHyacinthYellow.png"
       },
       {
         "name": "白色风信子",
@@ -9112,7 +9112,7 @@ var json=[
           "bsfxz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/88/kfae5n6tdkrcw8q6d0iuxvgsa88qykz.png/100px-FlwHyacinthWhite.png"
       }
     ]
   },
@@ -9122,7 +9122,7 @@ var json=[
       "meiguibang",
       "mgb"
     ],
-    "imgRef": "/assets/DIYRecipes/玫瑰棒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c2/gq6fc9zelsne5xw0dh4t26fpfckk3a1.png",
     "category": "工具",
     "access": "与傅珂对话有概率获得",
     "size": "1.0×1.0",
@@ -9134,7 +9134,7 @@ var json=[
           "hsmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/红色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1d/o3qe7hjn0lx9nwhb1zfb0sz5nfacsne.png/100px-FlwRoseRed.png"
       },
       {
         "name": "星星碎片",
@@ -9143,7 +9143,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -9153,9 +9153,9 @@ var json=[
       "fengyediban",
       "fydb"
     ],
-    "imgRef": "/assets/DIYRecipes/枫叶地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a7/k7irgvketf2hnpnrd09hcegisuok0c5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9165,7 +9165,7 @@ var json=[
           "hy"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       },
       {
         "name": "杂草",
@@ -9174,7 +9174,7 @@ var json=[
           "zc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -9184,9 +9184,9 @@ var json=[
       "ziseyinlianhuahuaguan",
       "zsylhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/紫色银莲花花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ac/87zqvrd6n9trpnck31068sofz6gwm40.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9196,7 +9196,7 @@ var json=[
           "zsylh"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/紫色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1a/svujwz1exrhqvo1wl07nfjyn27t8gxr.png/100px-FlwAnemonesPurple.png"
       }
     ]
   },
@@ -9206,9 +9206,9 @@ var json=[
       "yinlianhuabang",
       "ylhb"
     ],
-    "imgRef": "/assets/DIYRecipes/银莲花棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/09/hecw957189rdc4xfntwms6ipf9w83jf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9218,7 +9218,7 @@ var json=[
           "jsylh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/橘色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5b/kx5z1oltorcxof3vhdc2oj7w2b7yrcg.png/100px-FlwAnemonesOrange.png"
       },
       {
         "name": "星星碎片",
@@ -9227,7 +9227,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -9237,9 +9237,9 @@ var json=[
       "qingxinfengxinzihuaguan",
       "qxfxzhg"
     ],
-    "imgRef": "/assets/DIYRecipes/清新风信子花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a1/pyklbsodf6fry8cp8nagttvv1261q74.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9249,7 +9249,7 @@ var json=[
           "lsfxz"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/蓝色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/29/79prf6g8o5zvrxz2a41k8fc8or04ovy.png/100px-FlwHyacinthBlue.png"
       },
       {
         "name": "粉红风信子",
@@ -9258,7 +9258,7 @@ var json=[
           "fhfxz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/粉红风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ad/4lg1ry68tvt81mks1f0433v7nmjn9eb.png/100px-FlwHyacinthPink.png"
       },
       {
         "name": "橘色风信子",
@@ -9267,7 +9267,7 @@ var json=[
           "jsfxz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/橘色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5b/kqoczhme0t1vkjww7bsba3oixqss7f4.png/100px-FlwHyacinthOrange.png"
       }
     ]
   },
@@ -9277,9 +9277,9 @@ var json=[
       "huangjindiban",
       "hjdb"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cc/qus9m0ec987xj6ookvhs9gw308gnzqk.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9289,7 +9289,7 @@ var json=[
           "jks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -9299,9 +9299,9 @@ var json=[
       "yujinxiangbang",
       "yjxb"
     ],
-    "imgRef": "/assets/DIYRecipes/郁金香棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ed/3470y1zmapdj90if9j38uxxefzje5qg.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9311,7 +9311,7 @@ var json=[
           "hsyjx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/红色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e9/qco34nxuo05n38q0l7n4ofoaxbdrxyz.png/100px-FlwTulipRed.png"
       },
       {
         "name": "星星碎片",
@@ -9320,7 +9320,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -9330,7 +9330,7 @@ var json=[
       "beikeguangbolaba",
       "bkgblb"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳广播喇叭.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/99/g2yxgjylvrbqep8uokuose9kfheabne.png",
     "category": "小物件",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -9342,7 +9342,7 @@ var json=[
           "hlk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/海螺壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/85/cck8xvxrqdkjn665kilz3x83ixvqf90.png/100px-Shell1.png"
       },
       {
         "name": "铁矿石",
@@ -9351,7 +9351,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -9361,9 +9361,9 @@ var json=[
       "keaimeiguihuaguan",
       "kamghg"
     ],
-    "imgRef": "/assets/DIYRecipes/可爱玫瑰花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/36/s7yb24cbc440iuvppphciik7kzbvanu.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9373,7 +9373,7 @@ var json=[
           "fhmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/eb388tb9gtjrf2vuwkcbaux88nttd0w.png/100px-FlwRosePink.png"
       },
       {
         "name": "橘色玫瑰",
@@ -9382,7 +9382,7 @@ var json=[
           "jsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9d/jgsx5ovvsr91hbkqa88ab6fbx65ntgi.png/100px-FlwRoseOrange.png"
       }
     ]
   },
@@ -9392,9 +9392,9 @@ var json=[
       "dianyayujinxianghuaguan",
       "dyyjxhg"
     ],
-    "imgRef": "/assets/DIYRecipes/典雅郁金香花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/42/pw3r9uraaa70l1v2plcnftbcpzhg9p1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9404,7 +9404,7 @@ var json=[
           "zsyjx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/紫色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/p2fyq9rvh7vnqn007ok8xyug2qmf3pb.png/100px-FlwTulipPurple.png"
       },
       {
         "name": "粉红郁金香",
@@ -9413,7 +9413,7 @@ var json=[
           "fhyjx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/粉红郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/51/5gbttegead67jjmife87ykjkkhjjr1y.png/100px-FlwTulipPink.png"
       },
       {
         "name": "橘色郁金香",
@@ -9422,7 +9422,7 @@ var json=[
           "jsyjx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/橘色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0b/tm0aj4fboa8cyk59j38mef13v2n65hj.png/100px-FlwTulipOrange.png"
       }
     ]
   },
@@ -9432,9 +9432,9 @@ var json=[
       "juhuahuaguan",
       "jhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/菊花花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7c/hzyrc0th45swtg4vm3q1a25eqci4pw7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9444,7 +9444,7 @@ var json=[
           "hsjh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/23/7p3xegyk36sp9zzetr0nzvjcufl0ucx.png/100px-FlwMumRed.png"
       },
       {
         "name": "黄色菊花",
@@ -9453,7 +9453,7 @@ var json=[
           "hsjh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cf/5rz5i4dbipkd480qh35arzkyighpyot.png/100px-FlwMumYellow.png"
       },
       {
         "name": "白色菊花",
@@ -9462,7 +9462,7 @@ var json=[
           "bsjh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/26/95jyhocofr3wv4q7k3xil670vxa6lrh.png/100px-FlwMumWhite.png"
       }
     ]
   },
@@ -9472,9 +9472,9 @@ var json=[
       "bosijuhuaguan",
       "bsjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/波斯菊花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4f/j8jnkpu6cm30d0v3nvl7g9zuka6t753.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9484,7 +9484,7 @@ var json=[
           "hsbsj"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c7/bqvxh8qsi5pqe8ljufagdpp043210vo.png/100px-FlwCosmosRed.png"
       },
       {
         "name": "黄色波斯菊",
@@ -9493,7 +9493,7 @@ var json=[
           "hsbsj"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/db/sys93mc1dri0entajbn88cnfh6mg0d2.png/100px-FlwCosmosYellow.png"
       },
       {
         "name": "白色波斯菊",
@@ -9502,7 +9502,7 @@ var json=[
           "bsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5d/2n5eejjswhjhj6nxpudfcaaafi3o072.png/100px-FlwCosmosWhite.png"
       }
     ]
   },
@@ -9512,9 +9512,9 @@ var json=[
       "mogubizhi",
       "mgbz"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇壁纸.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7a/phwiiubjdd4uqk4i4xyfr2yjnbctz0h.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9524,7 +9524,7 @@ var json=[
           "csmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/出色蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/dd/3b8nxy493rmuh2tbxhf9enem1q9m4gn.png/100px-MushSplendid.png"
       },
       {
         "name": "圆形蘑菇",
@@ -9533,7 +9533,7 @@ var json=[
           "yxmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/圆形蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c2/6t6klzxa9g2dnvyk0ayfkymevfvvomm.png/100px-MushRound.png"
       },
       {
         "name": "瘦小蘑菇",
@@ -9542,7 +9542,7 @@ var json=[
           "sxmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "扁平蘑菇",
@@ -9551,7 +9551,7 @@ var json=[
           "bpmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       }
     ]
   },
@@ -9561,9 +9561,9 @@ var json=[
       "dianyameiguihuaguan",
       "dymghg"
     ],
-    "imgRef": "/assets/DIYRecipes/典雅玫瑰花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a9/tvyo16glbde1o59d3c5sdu3vmgvsoft.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9573,7 +9573,7 @@ var json=[
           "zsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/紫色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/0g051bl5kpplgou624fh0k0o4zzs89c.png/100px-FlwRosePurple.png"
       },
       {
         "name": "黑色玫瑰",
@@ -9582,7 +9582,7 @@ var json=[
           "hsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黑色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ac/s77va8u3a75oee4linhcjw5yt7avfeb.png/100px-FlwRoseBlack.png"
       }
     ]
   },
@@ -9592,9 +9592,9 @@ var json=[
       "shenseyujinxianghuaguan",
       "ssyjxhg"
     ],
-    "imgRef": "/assets/DIYRecipes/深色郁金香花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c5/9c7lt7yw0d3ge5mk6olbapmocb8vqzz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9604,7 +9604,7 @@ var json=[
           "hsyjx"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黑色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/6gr6hol2q25mp2ibbcwwzekn75bofqy.png/100px-FlwTulipBlack.png"
       }
     ]
   },
@@ -9614,9 +9614,9 @@ var json=[
       "dianyajuhuahuaguan",
       "dyjhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/典雅菊花花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d0/99n9uxlqiuvvtube1ngmxto1foituz1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9626,7 +9626,7 @@ var json=[
           "zsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/紫色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/02/s1oyng6wnewyja1u8qjktrvhsfzfgca.png/100px-FlwMumPurple.png"
       },
       {
         "name": "粉红菊花",
@@ -9635,7 +9635,7 @@ var json=[
           "fhjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1b/ckxidttnwgpq0mta96a8rlxexjlbv5o.png/100px-FlwMumPink.png"
       }
     ]
   },
@@ -9645,9 +9645,9 @@ var json=[
       "tianmeibosijuhuaguan",
       "tmbsjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/甜美波斯菊花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/88/133f7bni2yl5rlmni8nw9prhkdu00q9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9657,7 +9657,7 @@ var json=[
           "fhbsj"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/粉红波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/68/7ynvckm27kz0p34vjoqcvyqupyad2b8.png/100px-FlwCosmosPink.png"
       },
       {
         "name": "橘色波斯菊",
@@ -9666,7 +9666,7 @@ var json=[
           "jsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f6/oyz2xo93vz5lctpa7j7kk841vj1bwy5.png/100px-FlwCosmosOrange.png"
       }
     ]
   },
@@ -9676,9 +9676,9 @@ var json=[
       "baihehuaguan",
       "bhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/百合花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1c/to8v2cekn4hd869jiv617addfn9i3rj.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9688,7 +9688,7 @@ var json=[
           "hsbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1c/3r6spsye89rrnhizzfhvukmrzxhacde.png/100px-FlwYuriRed.png"
       },
       {
         "name": "黄色百合",
@@ -9697,7 +9697,7 @@ var json=[
           "hsbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3b/1334g7bmoibu892w0heoop5b6igubhz.png/100px-FlwYuriYellow.png"
       },
       {
         "name": "白色百合",
@@ -9706,7 +9706,7 @@ var json=[
           "bsbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/53/cvpkcggpstx88wo51ls667318vtws6e.png/100px-FlwYuriWhite.png"
       }
     ]
   },
@@ -9716,7 +9716,7 @@ var json=[
       "sansejinhuaguan",
       "ssjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/三色堇花冠.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/91/iiqin3zpsn1p8idbnanl90zhy55imth.png",
     "category": "帽子",
     "access": "村民赠送",
     "size": "1.0x1.0",
@@ -9728,7 +9728,7 @@ var json=[
           "hsssj"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f0/10yf8vwsyxn5r02qib8ay4xlrxveut2.png/100px-FlwPansyRed.png"
       },
       {
         "name": "黄色三色堇",
@@ -9737,7 +9737,7 @@ var json=[
           "hsssj"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7f/0j3004eqzx391491bopknadrt2zktyr.png/100px-FlwPansyYellow.png"
       },
       {
         "name": "白色三色堇",
@@ -9746,7 +9746,7 @@ var json=[
           "bsssj"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/47/jqn92ej928u4inioyei4wfs5ot85xad.png/100px-FlwPansyWhite.png"
       }
     ]
   },
@@ -9756,9 +9756,9 @@ var json=[
       "jianyuejuhuahuaguan",
       "jyjhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/简约菊花花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9d/mby6i0fqgl708hry03llnx5346oq90i.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9768,7 +9768,7 @@ var json=[
           "lsjh"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/绿色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e3/5gzzolatoa7zciut5i2a3w8zu1v6pef.png/100px-FlwMumGreen.png"
       }
     ]
   },
@@ -9778,9 +9778,9 @@ var json=[
       "shensebosijuhuaguan",
       "ssbsjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/深色波斯菊花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dd/ksplb1y8iwva3978v0kezchcez8knv2.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9790,7 +9790,7 @@ var json=[
           "hsbsj"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/黑色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/03/fae21w5e1w4vjfq4jm4k2s3wqmknjsj.png/100px-FlwCosmosBlack.png"
       }
     ]
   },
@@ -9800,9 +9800,9 @@ var json=[
       "keaibaihehuaguan",
       "kabhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/可爱百合花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e0/aruudrjtm3o7rkcppa8g1c052jfhpfd.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9812,7 +9812,7 @@ var json=[
           "fhbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/粉红百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ad/4dum8rhw2mpja6l5o2zn2s3wr37h6yy.png/100px-FlwYuriPink.png"
       },
       {
         "name": "橘色百合",
@@ -9821,7 +9821,7 @@ var json=[
           "jsbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/橘色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/mhj6h965zq7qp8tp99brur9afsds1oz.png/100px-FlwYuriOrange.png"
       },
       {
         "name": "白色百合",
@@ -9830,7 +9830,7 @@ var json=[
           "bsbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/53/cvpkcggpstx88wo51ls667318vtws6e.png/100px-FlwYuriWhite.png"
       }
     ]
   },
@@ -9840,7 +9840,7 @@ var json=[
       "qingxinsansejinhuaguan",
       "qxssjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/清新三色堇花冠.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/66/5u8ffml06vnitm14gqq450xnqnv6n9u.png",
     "category": "装备",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -9852,7 +9852,7 @@ var json=[
           "hhssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红黄三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c0/qm4cooedh8srqmy87j83gjjszo5gn6z.png/100px-FlwPansyRedYellow.png"
       },
       {
         "name": "蓝色三色堇",
@@ -9861,7 +9861,7 @@ var json=[
           "lsssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蓝色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4b/ljcytim15j6ccd6a8xkbns2yj2g8mxr.png/100px-FlwPansyBlue.png"
       }
     ]
   },
@@ -9871,9 +9871,9 @@ var json=[
       "douli",
       "dl"
     ],
-    "imgRef": "/assets/DIYRecipes/斗笠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bf/9vgp4cxs950f2q3tsky1ubguuo3ovk9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9883,7 +9883,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -9893,9 +9893,9 @@ var json=[
       "meiguihuaguan",
       "mghg"
     ],
-    "imgRef": "/assets/DIYRecipes/玫瑰花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/94/a5y7ogl2azqcz0ay8eoiw2x4u3iq4ut.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9905,7 +9905,7 @@ var json=[
           "hsmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1d/o3qe7hjn0lx9nwhb1zfb0sz5nfacsne.png/100px-FlwRoseRed.png"
       },
       {
         "name": "黄色玫瑰",
@@ -9914,7 +9914,7 @@ var json=[
           "hsmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/62/jeesbvn8tjwbzi2oo01yqqxupofwce4.png/100px-FlwRoseYellow.png"
       },
       {
         "name": "白色玫瑰",
@@ -9923,7 +9923,7 @@ var json=[
           "bsmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/fd/qzfdyuu9jbo6i3bi0tr884fpp3s5k6n.png/100px-FlwRoseWhite.png"
       }
     ]
   },
@@ -9933,9 +9933,9 @@ var json=[
       "yujinxianghuaguan",
       "yjxhg"
     ],
-    "imgRef": "/assets/DIYRecipes/郁金香花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/69/tlvvunuksq3srq8oncwtym8o3dg9qo9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9945,7 +9945,7 @@ var json=[
           "hsyjx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/红色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e9/qco34nxuo05n38q0l7n4ofoaxbdrxyz.png/100px-FlwTulipRed.png"
       },
       {
         "name": "黄色郁金香",
@@ -9954,7 +9954,7 @@ var json=[
           "hsyjx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黄色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/25/7x4qo0zts1ckacnp1r3wpx3scmmyyp5.png/100px-FlwTulipYellow.png"
       },
       {
         "name": "白色郁金香",
@@ -9963,7 +9963,7 @@ var json=[
           "bsyjx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/白色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/ff/mu2uom0ef2kr0hjsndjdv10zxqitz4u.png/100px-FlwTulipWhite.png"
       }
     ]
   },
@@ -9973,9 +9973,9 @@ var json=[
       "shensebaihehuaguan",
       "ssbhhg"
     ],
-    "imgRef": "/assets/DIYRecipes/深色百合花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/56/dzq5mhkqs9njvckv8pi94o9v5db0wlr.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -9985,7 +9985,7 @@ var json=[
           "hsbh"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/黑色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4a/swgzl10wybqezny6ap86mqgqziigpxw.png/100px-FlwYuriBlack.png"
       }
     ]
   },
@@ -9995,9 +9995,9 @@ var json=[
       "zisesansejinhuaguan",
       "zsssjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/紫色三色堇花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5d/lr6zvarlgf96bvtxqyyklaqt30uqe71.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10007,7 +10007,7 @@ var json=[
           "zsssj"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/紫色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/37/7xryav3d11gnk35rrhkvt4kkh0nneij.png/100px-FlwPansyPurple.png"
       }
     ]
   },
@@ -10017,7 +10017,7 @@ var json=[
       "fuhuojiebizhi",
       "fhjbz"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节壁纸.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d4/d1uwm18yifdlvy9ptk7d1c6x9nol4g5.png",
     "category": "壁纸",
     "access": "漂流瓶/气球",
     "size": "一个房间",
@@ -10029,7 +10029,7 @@ var json=[
           "dmd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -10038,7 +10038,7 @@ var json=[
           "ysd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -10047,7 +10047,7 @@ var json=[
           "yzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -10056,7 +10056,7 @@ var json=[
           "sld"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -10065,7 +10065,7 @@ var json=[
           "ftd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -10074,7 +10074,7 @@ var json=[
           "yed"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -10084,9 +10084,9 @@ var json=[
       "juzimaozi",
       "jzmz"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子帽子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f4/h2sgcaqjifzx8gjr98yqgaeuhprvc6r.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10096,7 +10096,7 @@ var json=[
           "jz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       }
     ]
   },
@@ -10106,9 +10106,9 @@ var json=[
       "shizhalan",
       "szl"
     ],
-    "imgRef": "/assets/DIYRecipes/石栅栏.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/91/j296rwhxm9z6ly7bd4rwcmubpz0i1t6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10118,7 +10118,7 @@ var json=[
           "st"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -10128,9 +10128,9 @@ var json=[
       "liubingdiban",
       "lbdb"
     ],
-    "imgRef": "/assets/DIYRecipes/流冰地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f5/c9fuoplwfyrmfb3yrvl7azc6m8a8ip1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10140,7 +10140,7 @@ var json=[
           "xh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -10150,9 +10150,9 @@ var json=[
       "tiejiatoukui",
       "tjtk"
     ],
-    "imgRef": "/assets/DIYRecipes/铁甲头盔.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2c/1l225pe85kzal3vbw0xzq4lzrj14e2r.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10162,7 +10162,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -10172,7 +10172,7 @@ var json=[
       "youcitiesiwang",
       "yctsw"
     ],
-    "imgRef": "/assets/DIYRecipes/有刺铁丝网.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6a/fofwjkrhslmorj9ap04yi90ialonazh.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -10184,7 +10184,7 @@ var json=[
           "ymc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -10193,7 +10193,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -10203,9 +10203,9 @@ var json=[
       "haididiban",
       "hddb"
     ],
-    "imgRef": "/assets/DIYRecipes/海底地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/68/4wqhe3plik9qfdbwd1zf84pz2j144sf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10215,7 +10215,7 @@ var json=[
           "xtbk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       },
       {
         "name": "珊瑚",
@@ -10224,7 +10224,7 @@ var json=[
           "sh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/珊瑚.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/llamnj24ldbpxulthxcnyadlgqq21n4.png/100px-Shell3.png"
       }
     ]
   },
@@ -10234,7 +10234,7 @@ var json=[
       "luyingdeshigonggongjuzu",
       "lydsggjz"
     ],
-    "imgRef": "/assets/DIYRecipes/露营地施工工具组.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6f/j7sqi2jcc7i07r9dqq6oymx9ggq9ek4.png",
     "category": "其他",
     "access": "狸克赠送",
     "size": "4*5",
@@ -10246,7 +10246,7 @@ var json=[
           "mc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "软木材",
@@ -10255,7 +10255,7 @@ var json=[
           "rmc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "硬木材",
@@ -10264,7 +10264,7 @@ var json=[
           "ymc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -10273,7 +10273,7 @@ var json=[
           "tks"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -10283,9 +10283,9 @@ var json=[
       "3cengxueren",
       "3cxr"
     ],
-    "imgRef": "/assets/DIYRecipes/3层雪人.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/98/142eopiarho5d4rh3zlwfxsimznp8sc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10295,7 +10295,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -10304,7 +10304,7 @@ var json=[
           "xh"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       },
       {
         "name": "树枝",
@@ -10313,7 +10313,7 @@ var json=[
           "sz"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -10323,9 +10323,9 @@ var json=[
       "shibanqiang",
       "sbq"
     ],
-    "imgRef": "/assets/DIYRecipes/石板墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2b/e7xjtfsi0f17aa89ko9ce4zzuzvenf7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10335,7 +10335,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -10345,9 +10345,9 @@ var json=[
       "yinhexidiban",
       "yhxdb"
     ],
-    "imgRef": "/assets/DIYRecipes/银河系地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3e/41kkyzpixlfgq0l80ubklh0pgdqp7cf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10357,7 +10357,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -10366,7 +10366,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -10376,7 +10376,7 @@ var json=[
       "shiqitieyizhalan",
       "sqtyzl"
     ],
-    "imgRef": "/assets/DIYRecipes/石砌铁艺栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/41/kzni4n9evx6j6sd2jeq7he0c0kg6w4m.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -10388,7 +10388,7 @@ var json=[
           "st"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "铁矿石",
@@ -10397,7 +10397,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -10407,9 +10407,9 @@ var json=[
       "jinjiatoukui",
       "jjtk"
     ],
-    "imgRef": "/assets/DIYRecipes/金甲头盔.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d6/cwnkgxlugj8azkol7i495gj51hawdo1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10419,7 +10419,7 @@ var json=[
           "jks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -10429,9 +10429,9 @@ var json=[
       "shengdanqiang",
       "sdq"
     ],
-    "imgRef": "/assets/DIYRecipes/圣诞墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/86/r77wae5hokh830vacr5lmv8azrk5nsc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10441,7 +10441,7 @@ var json=[
           "hszsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "蓝色装饰品",
@@ -10450,7 +10450,7 @@ var json=[
           "lszsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "金色装饰品",
@@ -10459,7 +10459,7 @@ var json=[
           "jszsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "黏土",
@@ -10468,7 +10468,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -10478,9 +10478,9 @@ var json=[
       "taikongchuandiban",
       "tkcdb"
     ],
-    "imgRef": "/assets/DIYRecipes/太空船地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/72/83rk7p1x50ch3x9c30nobi07waex6cw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10490,7 +10490,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -10499,7 +10499,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -10509,7 +10509,7 @@ var json=[
       "hefengzhalan",
       "hfzl"
     ],
-    "imgRef": "/assets/DIYRecipes/和风栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/53/mha8c467fdq9h7y22zwm4s69l2gpeqz.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -10521,7 +10521,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "黏土",
@@ -10530,7 +10530,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "石头",
@@ -10539,7 +10539,7 @@ var json=[
           "st"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -10549,9 +10549,9 @@ var json=[
       "yinlianhuahuahuan",
       "ylhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/银莲花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/be/0d37e5spcgh2yquc8zszvpe83403uza.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10561,7 +10561,7 @@ var json=[
           "hsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/74/gyllvkt1h20psyghdapudknzxr5znka.png/100px-FlwAnemonesRed.png"
       },
       {
         "name": "白色银莲花",
@@ -10570,7 +10570,7 @@ var json=[
           "bsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/f37pp6rmcaz0o0ijlfbf0tzma1z7ffv.png/100px-FlwAnemonesWhite.png"
       },
       {
         "name": "橘色银莲花",
@@ -10579,7 +10579,7 @@ var json=[
           "jsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5b/kx5z1oltorcxof3vhdc2oj7w2b7yrcg.png/100px-FlwAnemonesOrange.png"
       }
     ]
   },
@@ -10589,7 +10589,7 @@ var json=[
       "yujinxianghuahuan",
       "yjxhh"
     ],
-    "imgRef": "/assets/DIYRecipes/郁金香花环.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/52/0i7uz4ck7zgtaaw588aqxqtle1bmhux.png",
     "category": "壁挂物",
     "access": "小动物赠送",
     "size": "1.0x1.0",
@@ -10601,7 +10601,7 @@ var json=[
           "hsyjx"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e9/qco34nxuo05n38q0l7n4ofoaxbdrxyz.png/100px-FlwTulipRed.png"
       },
       {
         "name": "黄色郁金香",
@@ -10610,7 +10610,7 @@ var json=[
           "hsyjx"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/25/7x4qo0zts1ckacnp1r3wpx3scmmyyp5.png/100px-FlwTulipYellow.png"
       },
       {
         "name": "白色郁金香",
@@ -10619,7 +10619,7 @@ var json=[
           "bsyjx"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/ff/mu2uom0ef2kr0hjsndjdv10zxqitz4u.png/100px-FlwTulipWhite.png"
       }
     ]
   },
@@ -10629,7 +10629,7 @@ var json=[
       "paidi",
       "pd"
     ],
-    "imgRef": "/assets/DIYRecipes/排笛.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/ba/qvpn4wqbs5a92vllbkm4b4hs4u5dsqs.png",
     "category": "其他/季节手册",
     "access": "漂流瓶/气球礼物",
     "size": "1.0×1.0",
@@ -10641,7 +10641,7 @@ var json=[
           "cs"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       }
     ]
   },
@@ -10651,9 +10651,9 @@ var json=[
       "fengxinzihuahuan",
       "fxzhh"
     ],
-    "imgRef": "/assets/DIYRecipes/风信子花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/52/6lqhfo6u21md63qu6ez8f2q1ujtajnq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10663,7 +10663,7 @@ var json=[
           "bsfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/88/kfae5n6tdkrcw8q6d0iuxvgsa88qykz.png/100px-FlwHyacinthWhite.png"
       },
       {
         "name": "红色风信子",
@@ -10672,7 +10672,7 @@ var json=[
           "hsfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/k6vqgpohlryskyppvmgh50f4yo87lab.png/100px-FlwHyacinthRed.png"
       },
       {
         "name": "黄色风信子",
@@ -10681,7 +10681,7 @@ var json=[
           "hsfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/46/1zri591dm3wtzcngmhgg17yp13t0r4x.png/100px-FlwHyacinthYellow.png"
       }
     ]
   },
@@ -10691,9 +10691,9 @@ var json=[
       "mubiane",
       "mbe"
     ],
-    "imgRef": "/assets/DIYRecipes/木匾额.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1e/iw1try8tgi9jv4awbe2l1zr81ckbej9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10703,7 +10703,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -10713,9 +10713,9 @@ var json=[
       "shuizhongbizhi",
       "szbz"
     ],
-    "imgRef": "/assets/DIYRecipes/水中壁纸.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/00/r4q9j65nbt3my1gsi47n61bus5pvrio.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10725,7 +10725,7 @@ var json=[
           "xtbk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       },
       {
         "name": "珊瑚",
@@ -10734,7 +10734,7 @@ var json=[
           "sh"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/珊瑚.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2a/llamnj24ldbpxulthxcnyadlgqq21n4.png/100px-Shell3.png"
       }
     ]
   },
@@ -10744,7 +10744,7 @@ var json=[
       "meiguihuahuan",
       "mghh"
     ],
-    "imgRef": "/assets/DIYRecipes/玫瑰花环.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/16/p0tcm46rqdshhd21cykd7lo045k3m7i.png",
     "category": "壁挂物",
     "access": "狸克赠送",
     "size": "1.0x1.0",
@@ -10756,7 +10756,7 @@ var json=[
           "hsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1d/o3qe7hjn0lx9nwhb1zfb0sz5nfacsne.png/100px-FlwRoseRed.png"
       },
       {
         "name": "白色玫瑰",
@@ -10765,7 +10765,7 @@ var json=[
           "bsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/fd/qzfdyuu9jbo6i3bi0tr884fpp3s5k6n.png/100px-FlwRoseWhite.png"
       },
       {
         "name": "黄色玫瑰",
@@ -10774,7 +10774,7 @@ var json=[
           "hsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/62/jeesbvn8tjwbzi2oo01yqqxupofwce4.png/100px-FlwRoseYellow.png"
       }
     ]
   },
@@ -10784,9 +10784,9 @@ var json=[
       "jinjiaxue",
       "jjx"
     ],
-    "imgRef": "/assets/DIYRecipes/金甲靴.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/70/6z8eski6tif8s823n2nkad6wxbdqeov.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10796,7 +10796,7 @@ var json=[
           "jks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -10806,9 +10806,9 @@ var json=[
       "tiejiaxue",
       "tjx"
     ],
-    "imgRef": "/assets/DIYRecipes/铁甲靴.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e1/50qj1flim0lnyhax9a2wecjzxqpsm2l.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10818,7 +10818,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -10828,9 +10828,9 @@ var json=[
       "baihehuahuan",
       "bhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/百合花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a6/9efk8yuixkrav8n09bcc7tma1q9targ.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10840,7 +10840,7 @@ var json=[
           "bsbh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/53/cvpkcggpstx88wo51ls667318vtws6e.png/100px-FlwYuriWhite.png"
       },
       {
         "name": "红色百合",
@@ -10849,7 +10849,7 @@ var json=[
           "hsbh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1c/3r6spsye89rrnhizzfhvukmrzxhacde.png/100px-FlwYuriRed.png"
       },
       {
         "name": "黄色百合",
@@ -10858,7 +10858,7 @@ var json=[
           "hsbh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3b/1334g7bmoibu892w0heoop5b6igubhz.png/100px-FlwYuriYellow.png"
       }
     ]
   },
@@ -10868,9 +10868,9 @@ var json=[
       "taikongchuanqiang",
       "tkcq"
     ],
-    "imgRef": "/assets/DIYRecipes/太空船墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/78/6t05w81d66cqxsxoiw991km8krjpsb6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10880,7 +10880,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -10889,7 +10889,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -10899,9 +10899,9 @@ var json=[
       "conglinbizhi",
       "clbz"
     ],
-    "imgRef": "/assets/DIYRecipes/丛林壁纸.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f1/9fy5d2gttpoaxni181ub0y5k12bgumi.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10911,7 +10911,7 @@ var json=[
           "zc"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "木材",
@@ -10920,7 +10920,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "硬木材",
@@ -10929,7 +10929,7 @@ var json=[
           "ymc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -10938,7 +10938,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -10948,9 +10948,9 @@ var json=[
       "xingxingqiang",
       "xxq"
     ],
-    "imgRef": "/assets/DIYRecipes/星星墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c3/t5grq3l137si3prpi5qr1qq7cwkgi6v.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10960,7 +10960,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -10969,7 +10969,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -10979,9 +10979,9 @@ var json=[
       "huaxuechangbizhi",
       "hxcbz"
     ],
-    "imgRef": "/assets/DIYRecipes/滑雪场壁纸.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e5/6b5vyg7pl2nav48mjsx8sdu1v9pgoi7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -10991,7 +10991,7 @@ var json=[
           "xh"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -11001,9 +11001,9 @@ var json=[
       "nanfanghaiyangqiang",
       "nfhyq"
     ],
-    "imgRef": "/assets/DIYRecipes/南方海洋墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e5/93cvgtb3hyc0csmt684afcyfepyuuaq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11013,7 +11013,7 @@ var json=[
           "xtbk"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       }
     ]
   },
@@ -11023,9 +11023,9 @@ var json=[
       "conglindiban",
       "cldb"
     ],
-    "imgRef": "/assets/DIYRecipes/丛林地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3f/2l06hx3kn735dzujfuh2b8nucflzn4d.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11035,7 +11035,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "黏土",
@@ -11044,7 +11044,7 @@ var json=[
           "nt"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -11054,9 +11054,9 @@ var json=[
       "sansejinhuahuan",
       "ssjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/三色堇花环.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b8/eeb6hayyidm9490251q2qzaeg98yjyx.png",
     "category": "壁挂物",
-    "access": "未知",
+    "access": "",
     "size": "1.0×1.0",
     "materials": [
       {
@@ -11066,7 +11066,7 @@ var json=[
           "hsssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7f/0j3004eqzx391491bopknadrt2zktyr.png/100px-FlwPansyYellow.png"
       },
       {
         "name": "白色三色堇",
@@ -11075,7 +11075,7 @@ var json=[
           "bsssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/47/jqn92ej928u4inioyei4wfs5ot85xad.png/100px-FlwPansyWhite.png"
       },
       {
         "name": "红色三色堇",
@@ -11084,7 +11084,7 @@ var json=[
           "hsssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f0/10yf8vwsyxn5r02qib8ay4xlrxveut2.png/100px-FlwPansyRed.png"
       }
     ]
   },
@@ -11094,9 +11094,9 @@ var json=[
       "jimudengzi",
       "jmdz"
     ],
-    "imgRef": "/assets/DIYRecipes/积木凳子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/42/2ltl3s1a7s1dkl839j9fgmctk0djird.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11106,7 +11106,7 @@ var json=[
           "jmwj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/积木玩具.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/ea/ekorsm1gm1z994d3hlyorsdfv5bdy1v.png/100px-FtrBlockBrick.png"
       },
       {
         "name": "软木材",
@@ -11115,7 +11115,7 @@ var json=[
           "rmc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -11125,9 +11125,9 @@ var json=[
       "xingkongqiang",
       "xkq"
     ],
-    "imgRef": "/assets/DIYRecipes/星空墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/78/krcwhtfh16k2pkbwlay08cr8p91zjp2.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11137,7 +11137,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -11146,7 +11146,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -11156,9 +11156,9 @@ var json=[
       "bingshanqiang",
       "bsq"
     ],
-    "imgRef": "/assets/DIYRecipes/冰山墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/73/lljh89x4rarcrifd7i9egt90ogp82za.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11168,7 +11168,7 @@ var json=[
           "xh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -11178,9 +11178,9 @@ var json=[
       "bingxuediban",
       "bxdb"
     ],
-    "imgRef": "/assets/DIYRecipes/冰雪地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4e/39mkqk2slrz4tgif9r7jdjs6vwm1y0a.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11190,7 +11190,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -11199,7 +11199,7 @@ var json=[
           "xh"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -11209,9 +11209,9 @@ var json=[
       "juhuahuahuan",
       "jhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/菊花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9f/89tifjmidqn8xxzuhzvc7blj5ievcm7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11221,7 +11221,7 @@ var json=[
           "bsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/26/95jyhocofr3wv4q7k3xil670vxa6lrh.png/100px-FlwMumWhite.png"
       },
       {
         "name": "黄色菊花",
@@ -11230,7 +11230,7 @@ var json=[
           "hsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cf/5rz5i4dbipkd480qh35arzkyighpyot.png/100px-FlwMumYellow.png"
       },
       {
         "name": "红色菊花",
@@ -11239,7 +11239,7 @@ var json=[
           "hsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/23/7p3xegyk36sp9zzetr0nzvjcufl0ucx.png/100px-FlwMumRed.png"
       }
     ]
   },
@@ -11249,9 +11249,9 @@ var json=[
       "weixingtushuguan",
       "wxtsg"
     ],
-    "imgRef": "/assets/DIYRecipes/微型图书馆.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5b/9m8gbqzlwnbdt290zei6x9nzu1e8esc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11261,7 +11261,7 @@ var json=[
           "s"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/书.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/93/7bxkpb164iio08b1lyhtfxgoa0gen4m.png/100px-FtrBookOpened.png"
       },
       {
         "name": "木材",
@@ -11270,7 +11270,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -11280,9 +11280,9 @@ var json=[
       "bingxuebizhi",
       "bxbz"
     ],
-    "imgRef": "/assets/DIYRecipes/冰雪壁纸.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/49/8fxiad6zmmfltbinlyrkjvvm3qkmywh.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11292,7 +11292,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -11301,7 +11301,7 @@ var json=[
           "xh"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -11311,9 +11311,9 @@ var json=[
       "dianyabosijuhuahuan",
       "dybsjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/典雅波斯菊花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d6/gsw9cwipfl9nq4d1vigzoowk957p0ic.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11323,7 +11323,7 @@ var json=[
           "hsbsj"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/黑色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/03/fae21w5e1w4vjfq4jm4k2s3wqmknjsj.png/100px-FlwCosmosBlack.png"
       }
     ]
   },
@@ -11333,7 +11333,7 @@ var json=[
       "yuanmumenpai",
       "ymmp"
     ],
-    "imgRef": "/assets/DIYRecipes/原木门牌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/08/4szdif8wsya1zbgrgymaqxdxvkjzlv5.png",
     "category": "门牌",
     "access": "漂流瓶",
     "size": "1.0x1.0",
@@ -11345,7 +11345,7 @@ var json=[
           "mc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "粉红玫瑰",
@@ -11354,7 +11354,7 @@ var json=[
           "fhmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/粉红玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/eb388tb9gtjrf2vuwkcbaux88nttd0w.png/100px-FlwRosePink.png"
       }
     ]
   },
@@ -11364,9 +11364,9 @@ var json=[
       "zisefengxinzihuahuan",
       "zsfxzhh"
     ],
-    "imgRef": "/assets/DIYRecipes/紫色风信子花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d2/hjdvn4mggkqbqwbtvs4nlwadnhstk0e.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11376,7 +11376,7 @@ var json=[
           "zsfxz"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/紫色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b9/9ajje2w6i0vscoduam0xoghx4cqqulo.png/100px-FlwHyacinthPurple.png"
       }
     ]
   },
@@ -11386,9 +11386,9 @@ var json=[
       "hualisansejinhuahuan",
       "hlssjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/华丽三色堇花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c4/866qczmutoyt7e0e76aow05q8dqab18.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11398,7 +11398,7 @@ var json=[
           "hhssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红黄三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c0/qm4cooedh8srqmy87j83gjjszo5gn6z.png/100px-FlwPansyRedYellow.png"
       },
       {
         "name": "蓝色三色堇",
@@ -11407,7 +11407,7 @@ var json=[
           "lsssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蓝色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4b/ljcytim15j6ccd6a8xkbns2yj2g8mxr.png/100px-FlwPansyBlue.png"
       },
       {
         "name": "黄色三色堇",
@@ -11416,7 +11416,7 @@ var json=[
           "hsssj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7f/0j3004eqzx391491bopknadrt2zktyr.png/100px-FlwPansyYellow.png"
       }
     ]
   },
@@ -11426,9 +11426,9 @@ var json=[
       "zairentaikongchuan",
       "zrtkc"
     ],
-    "imgRef": "/assets/DIYRecipes/载人太空船.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fc/qpd5gnazqx420mb3dfjhr5w4n33xrsh.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11438,7 +11438,7 @@ var json=[
           "xxsp"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -11447,7 +11447,7 @@ var json=[
           "tks"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -11457,9 +11457,9 @@ var json=[
       "dianyayinlianhuahuahuan",
       "dyylhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/典雅银莲花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/31/946514fs2fnwydtivqqv97ovfn3wiin.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11469,7 +11469,7 @@ var json=[
           "zsylh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/紫色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1a/svujwz1exrhqvo1wl07nfjyn27t8gxr.png/100px-FlwAnemonesPurple.png"
       }
     ]
   },
@@ -11479,7 +11479,7 @@ var json=[
       "huashimenpai",
       "hsmp"
     ],
-    "imgRef": "/assets/DIYRecipes/化石门牌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9d/rlhp0uge6s7pzcnzmewdy3u6i4xd9hx.png",
     "category": "壁挂物",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -11491,7 +11491,7 @@ var json=[
           "hs"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/化石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/lni0bo09f4yfd7tco5ulsd6oyvfyc68.png/100px-Fossil.png"
       },
       {
         "name": "石头",
@@ -11500,7 +11500,7 @@ var json=[
           "st"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -11510,9 +11510,9 @@ var json=[
       "shensebaihehuahuan",
       "ssbhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/深色百合花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/27/ox01k0ywfb2pkn5wahq263xa2l77jor.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11522,7 +11522,7 @@ var json=[
           "hsbh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/黑色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4a/swgzl10wybqezny6ap86mqgqziigpxw.png/100px-FlwYuriBlack.png"
       }
     ]
   },
@@ -11532,9 +11532,9 @@ var json=[
       "jingmeijuhuahuahuan",
       "jmjhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/精美菊花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/47/hgf6gyq0nut9gd7p5ol8tuv91nby4us.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11544,7 +11544,7 @@ var json=[
           "fhjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1b/ckxidttnwgpq0mta96a8rlxexjlbv5o.png/100px-FlwMumPink.png"
       },
       {
         "name": "紫色菊花",
@@ -11553,7 +11553,7 @@ var json=[
           "zsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/紫色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/02/s1oyng6wnewyja1u8qjktrvhsfzfgca.png/100px-FlwMumPurple.png"
       },
       {
         "name": "红色菊花",
@@ -11562,7 +11562,7 @@ var json=[
           "hsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/23/7p3xegyk36sp9zzetr0nzvjcufl0ucx.png/100px-FlwMumRed.png"
       }
     ]
   },
@@ -11572,9 +11572,9 @@ var json=[
       "jingmeibaihehuahuan",
       "jmbhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/精美百合花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fa/0r1woa8691groatlovu8qbyntgapxdt.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11584,7 +11584,7 @@ var json=[
           "jsbh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/mhj6h965zq7qp8tp99brur9afsds1oz.png/100px-FlwYuriOrange.png"
       },
       {
         "name": "粉红百合",
@@ -11593,7 +11593,7 @@ var json=[
           "fhbh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ad/4dum8rhw2mpja6l5o2zn2s3wr37h6yy.png/100px-FlwYuriPink.png"
       },
       {
         "name": "黄色百合",
@@ -11602,7 +11602,7 @@ var json=[
           "hsbh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3b/1334g7bmoibu892w0heoop5b6igubhz.png/100px-FlwYuriYellow.png"
       }
     ]
   },
@@ -11612,9 +11612,9 @@ var json=[
       "shensemeiguihuahuan",
       "ssmghh"
     ],
-    "imgRef": "/assets/DIYRecipes/深色玫瑰花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3f/8aqf0o6ormkb4iepcp5143y57hkdoy5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11624,7 +11624,7 @@ var json=[
           "hsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黑色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ac/s77va8u3a75oee4linhcjw5yt7avfeb.png/100px-FlwRoseBlack.png"
       },
       {
         "name": "紫色玫瑰",
@@ -11633,7 +11633,7 @@ var json=[
           "zsmg"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/紫色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/0g051bl5kpplgou624fh0k0o4zzs89c.png/100px-FlwRosePurple.png"
       }
     ]
   },
@@ -11643,9 +11643,9 @@ var json=[
       "keaibosijuhuahuan",
       "kabsjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/可爱波斯菊花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2b/4nc3sj5x58x73eyhg088zs995uxcos7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11655,7 +11655,7 @@ var json=[
           "jsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f6/oyz2xo93vz5lctpa7j7kk841vj1bwy5.png/100px-FlwCosmosOrange.png"
       },
       {
         "name": "粉红波斯菊",
@@ -11664,7 +11664,7 @@ var json=[
           "fhbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/68/7ynvckm27kz0p34vjoqcvyqupyad2b8.png/100px-FlwCosmosPink.png"
       },
       {
         "name": "红色波斯菊",
@@ -11673,7 +11673,7 @@ var json=[
           "hsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c7/bqvxh8qsi5pqe8ljufagdpp043210vo.png/100px-FlwCosmosRed.png"
       }
     ]
   },
@@ -11683,9 +11683,9 @@ var json=[
       "shenseyujinxianghuahuan",
       "ssyjxhh"
     ],
-    "imgRef": "/assets/DIYRecipes/深色郁金香花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ea/foujk2tn7erphh0jujl9m9vr87q76bu.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11695,7 +11695,7 @@ var json=[
           "hsyjx"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/黑色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/6gr6hol2q25mp2ibbcwwzekn75bofqy.png/100px-FlwTulipBlack.png"
       }
     ]
   },
@@ -11705,9 +11705,9 @@ var json=[
       "qingxinfengxinzihuahuan",
       "qxfxzhh"
     ],
-    "imgRef": "/assets/DIYRecipes/清新风信子花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6a/mvl6i5z32s63zab4zz7fhnw2c2fhrnj.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11717,7 +11717,7 @@ var json=[
           "jsfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/5b/kqoczhme0t1vkjww7bsba3oixqss7f4.png/100px-FlwHyacinthOrange.png"
       },
       {
         "name": "蓝色风信子",
@@ -11726,7 +11726,7 @@ var json=[
           "lsfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蓝色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/29/79prf6g8o5zvrxz2a41k8fc8or04ovy.png/100px-FlwHyacinthBlue.png"
       },
       {
         "name": "粉红风信子",
@@ -11735,7 +11735,7 @@ var json=[
           "fhfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/ad/4lg1ry68tvt81mks1f0433v7nmjn9eb.png/100px-FlwHyacinthPink.png"
       }
     ]
   },
@@ -11745,9 +11745,9 @@ var json=[
       "rouqiumenpai",
       "rqmp"
     ],
-    "imgRef": "/assets/DIYRecipes/肉球门牌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/49/63hnwlvv5vjuptqyklx86190jprvwzw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11757,7 +11757,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -11767,9 +11767,9 @@ var json=[
       "qingxinsansejinhuahuan",
       "qxssjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/清新三色堇花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0a/50ewmcfo1q12hieg2dweg9swloz8uvl.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11779,7 +11779,7 @@ var json=[
           "zsssj"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/紫色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/37/7xryav3d11gnk35rrhkvt4kkh0nneij.png/100px-FlwPansyPurple.png"
       }
     ]
   },
@@ -11789,9 +11789,9 @@ var json=[
       "qingxinyinlianhuahuahuan",
       "qxylhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/清新银莲花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/08/hhsfwp64mhyq385h3esdohyvst0k1gt.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11801,7 +11801,7 @@ var json=[
           "lsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/蓝色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1f/1l07lt2o21l59jtjeaft53g7w5vyyfs.png/100px-FlwAnemonesBlue.png"
       },
       {
         "name": "粉红银莲花",
@@ -11810,7 +11810,7 @@ var json=[
           "fhylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/93/hln84b5prqhsofemg09z36y0ldws03o.png/100px-FlwAnemonesPink.png"
       },
       {
         "name": "白色银莲花",
@@ -11819,7 +11819,7 @@ var json=[
           "bsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/f37pp6rmcaz0o0ijlfbf0tzma1z7ffv.png/100px-FlwAnemonesWhite.png"
       }
     ]
   },
@@ -11829,9 +11829,9 @@ var json=[
       "lansemeiguihuahuan",
       "lsmghh"
     ],
-    "imgRef": "/assets/DIYRecipes/蓝色玫瑰花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/21/k31n6n9g70ppo6s8ie5dr4l5prgflok.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11841,7 +11841,7 @@ var json=[
           "lsmg"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/蓝色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/09/8n0otys1vfx6o7d5foun7u89ccfzxm2.png/100px-FlwRoseBlue.png"
       }
     ]
   },
@@ -11851,9 +11851,9 @@ var json=[
       "keaiyujinxianghuahuan",
       "kayjxhh"
     ],
-    "imgRef": "/assets/DIYRecipes/可爱郁金香花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3c/l37za0uhvgj38x2dgq4y1r56976vswg.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11863,7 +11863,7 @@ var json=[
           "jsyjx"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0b/tm0aj4fboa8cyk59j38mef13v2n65hj.png/100px-FlwTulipOrange.png"
       },
       {
         "name": "粉红郁金香",
@@ -11872,7 +11872,7 @@ var json=[
           "fhyjx"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/51/5gbttegead67jjmife87ykjkkhjjr1y.png/100px-FlwTulipPink.png"
       },
       {
         "name": "紫色郁金香",
@@ -11881,7 +11881,7 @@ var json=[
           "zsyjx"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/紫色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/p2fyq9rvh7vnqn007ok8xyug2qmf3pb.png/100px-FlwTulipPurple.png"
       }
     ]
   },
@@ -11891,7 +11891,7 @@ var json=[
       "wenzhangmenpai",
       "wzmp"
     ],
-    "imgRef": "/assets/DIYRecipes/纹章门牌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/66/r80od4qj8rx8f6cc7frugqkci49xvpw.png",
     "category": "壁挂物",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -11903,7 +11903,7 @@ var json=[
           "tks"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -11913,9 +11913,9 @@ var json=[
       "ziranfengjuhuahuahuan",
       "zrfjhhh"
     ],
-    "imgRef": "/assets/DIYRecipes/自然风菊花花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/90/6qn3ujnhn4vfw51oyztcccnlqxibtks.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11925,7 +11925,7 @@ var json=[
           "lsjh"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/绿色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e3/5gzzolatoa7zciut5i2a3w8zu1v6pef.png/100px-FlwMumGreen.png"
       }
     ]
   },
@@ -11935,9 +11935,9 @@ var json=[
       "jingmeimeiguihuahuan",
       "jmmghh"
     ],
-    "imgRef": "/assets/DIYRecipes/精美玫瑰花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/ce/9jpi3jx8u84waheaif21xmn3deg5v5v.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11947,7 +11947,7 @@ var json=[
           "jsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橘色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9d/jgsx5ovvsr91hbkqa88ab6fbx65ntgi.png/100px-FlwRoseOrange.png"
       },
       {
         "name": "粉红玫瑰",
@@ -11956,7 +11956,7 @@ var json=[
           "fhmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/粉红玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/eb388tb9gtjrf2vuwkcbaux88nttd0w.png/100px-FlwRosePink.png"
       },
       {
         "name": "黄色玫瑰",
@@ -11965,7 +11965,7 @@ var json=[
           "hsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/62/jeesbvn8tjwbzi2oo01yqqxupofwce4.png/100px-FlwRoseYellow.png"
       }
     ]
   },
@@ -11975,9 +11975,9 @@ var json=[
       "shuangzizuoyigui",
       "szzyg"
     ],
-    "imgRef": "/assets/DIYRecipes/双子座衣柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b7/neodosgr3yqv0yms14cvl6gr0rijvmd.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -11987,7 +11987,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "双子座碎片",
@@ -11996,7 +11996,7 @@ var json=[
           "szzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/双子座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/fa/hiqkh2uasy66pfhvhrxoo8xquvww1nn.png/100px-StarpieceGemini.png"
       },
       {
         "name": "金矿石",
@@ -12005,7 +12005,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12014,7 +12014,7 @@ var json=[
           "st"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12024,9 +12024,9 @@ var json=[
       "jinsemeiguihuahuan",
       "jsmghh"
     ],
-    "imgRef": "/assets/DIYRecipes/金色玫瑰花环.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d9/ocmd89moecnwdsxlbpz0l1k9mhl0yw9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12036,7 +12036,7 @@ var json=[
           "jsmg"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/金色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/83/mckuz9wwbsyx3m8dht5gon9um0sa4aj.png/100px-FlwRoseGold.png"
       }
     ]
   },
@@ -12046,9 +12046,9 @@ var json=[
       "chaihuo",
       "ch"
     ],
-    "imgRef": "/assets/DIYRecipes/柴火.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ac/9icdjulr5li28rif7qeoryvefto2p10.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12058,7 +12058,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -12068,9 +12068,9 @@ var json=[
       "shuipingzuoshuiping",
       "spzsp"
     ],
-    "imgRef": "/assets/DIYRecipes/水瓶座水瓶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cb/ju19xltak868zpq95jhnm8fb0u7shsa.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12080,7 +12080,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "水瓶座碎片",
@@ -12089,7 +12089,7 @@ var json=[
           "spzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/水瓶座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/21/sbs4ikf1rqorpq74au6qtn9alihjn63.png/100px-StarpieceAquarius.png"
       },
       {
         "name": "金矿石",
@@ -12098,7 +12098,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12107,7 +12107,7 @@ var json=[
           "st"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12117,9 +12117,9 @@ var json=[
       "jinniuzuoyugang",
       "jnzyg"
     ],
-    "imgRef": "/assets/DIYRecipes/金牛座浴缸.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ef/ijiep6ou973i32yp90ve5lxcvhtsv4w.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12129,7 +12129,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "金牛座碎片",
@@ -12138,7 +12138,7 @@ var json=[
           "jnzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金牛座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f1/tb0e8j0gtl5b8rscrjl21ccrtrv5g01.png/100px-StarpieceTaurus.png"
       },
       {
         "name": "金矿石",
@@ -12147,7 +12147,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12156,7 +12156,7 @@ var json=[
           "st"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12166,9 +12166,9 @@ var json=[
       "laolong",
       "ll"
     ],
-    "imgRef": "/assets/DIYRecipes/牢笼.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/95/jyi6v2qcqjn0m8wcz1cdj729y6rocsy.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12178,7 +12178,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -12188,9 +12188,9 @@ var json=[
       "yewaiyuanmuzhangdeng",
       "ywymzd"
     ],
-    "imgRef": "/assets/DIYRecipes/野外圆木长凳.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d9/i7etvfki18lxjboxoflw2sfp6wpgqao.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12200,7 +12200,7 @@ var json=[
           "ymc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -12210,9 +12210,9 @@ var json=[
       "mojiezuobaishi",
       "mjzbs"
     ],
-    "imgRef": "/assets/DIYRecipes/摩羯座摆饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bd/6q23luescxfdiy4u765d61fa6fjqkgy.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12222,7 +12222,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "摩羯座碎片",
@@ -12231,7 +12231,7 @@ var json=[
           "mjzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/摩羯座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4c/npwkh2qjy1b85vynrdwkd9qvbrzg5sa.png/100px-StarpieceCapricornus.png"
       },
       {
         "name": "金矿石",
@@ -12240,7 +12240,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12249,7 +12249,7 @@ var json=[
           "st"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12259,9 +12259,9 @@ var json=[
       "tianxiezuodeng",
       "txzd"
     ],
-    "imgRef": "/assets/DIYRecipes/天蝎座灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/af/kfjow1v3708rlenm0pd2ku81b4zkjkf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12271,7 +12271,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "天蝎座碎片",
@@ -12280,7 +12280,7 @@ var json=[
           "txzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/天蝎座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f3/6x6ovevxu6eqdwniofr64furyfew3hh.png/100px-StarpieceScorpio.png"
       },
       {
         "name": "金矿石",
@@ -12289,7 +12289,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12298,7 +12298,7 @@ var json=[
           "st"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12308,9 +12308,9 @@ var json=[
       "jinseqianglang",
       "jsql"
     ],
-    "imgRef": "/assets/DIYRecipes/金色蜣螂.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ae/o02y16vmqtoyevd487kjddbr24dn79k.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12320,7 +12320,7 @@ var json=[
           "jks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -12330,9 +12330,9 @@ var json=[
       "pinghengwanju",
       "phwj"
     ],
-    "imgRef": "/assets/DIYRecipes/平衡玩具.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dd/oc78hnpy7mda8dh2tujrw42elno7a7g.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12342,7 +12342,7 @@ var json=[
           "xl"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "硬木材",
@@ -12351,7 +12351,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -12361,9 +12361,9 @@ var json=[
       "sheshouzuojianshi",
       "sszjs"
     ],
-    "imgRef": "/assets/DIYRecipes/射手座箭矢.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/02/oltre3dhqh3q5q5xpw94lv4nm8t56g4.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12373,7 +12373,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "射手座碎片",
@@ -12382,7 +12382,7 @@ var json=[
           "sszsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/射手座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/54/lb02pkkimplmf1hds5gcco6l848pfka.png/100px-StarpieceSagittarius.png"
       },
       {
         "name": "金矿石",
@@ -12391,7 +12391,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -12401,9 +12401,9 @@ var json=[
       "shuangyuzuodeng",
       "syzd"
     ],
-    "imgRef": "/assets/DIYRecipes/双鱼座灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/67/k7me37z79fffbkmmz4rbgwm8sm4apeu.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12413,7 +12413,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "双鱼座碎片",
@@ -12422,7 +12422,7 @@ var json=[
           "syzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/双鱼座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/f6/bpui7zrb4ti91q2sozcc2hxke82f9wv.png/100px-StarpiecePisces.png"
       },
       {
         "name": "金矿石",
@@ -12431,7 +12431,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12440,7 +12440,7 @@ var json=[
           "st"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12450,7 +12450,7 @@ var json=[
       "baiyangzuomuma",
       "byzmm"
     ],
-    "imgRef": "/assets/DIYRecipes/白羊座木马.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/37/gvy0zqleufc8qv9g1e5dkeb7lg4z6e1.png",
     "category": "家具",
     "access": "流星雨当天晚上与岛上的傅珂对话",
     "size": "1.0×1.0",
@@ -12462,7 +12462,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "白羊座碎片",
@@ -12471,7 +12471,7 @@ var json=[
           "byzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白羊座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/81/k4lsxafn0l2zxqkziqzfufzx84s7p54.png/100px-StarpieceAries.png"
       },
       {
         "name": "金矿石",
@@ -12480,7 +12480,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12489,7 +12489,7 @@ var json=[
           "st"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12499,9 +12499,9 @@ var json=[
       "zhubianqiu",
       "zbq"
     ],
-    "imgRef": "/assets/DIYRecipes/竹编球.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/22/gu3br0kzcdk6qrys1i41eeui4kgz273.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12511,7 +12511,7 @@ var json=[
           "zzcl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -12521,9 +12521,9 @@ var json=[
       "juxiezuozhuozi",
       "jxzzz"
     ],
-    "imgRef": "/assets/DIYRecipes/巨蟹座桌子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6a/ioxibrwtn7vhb0g20bhhuce45zo2uc5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12533,7 +12533,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "巨蟹座碎片",
@@ -12542,7 +12542,7 @@ var json=[
           "jxzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/巨蟹座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1c/b6fkcuhbainy16m4tmjix9s5sdh4l1c.png/100px-StarpieceCancer.png"
       },
       {
         "name": "金矿石",
@@ -12551,7 +12551,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12560,7 +12560,7 @@ var json=[
           "st"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12570,9 +12570,9 @@ var json=[
       "shizizuodiaosu",
       "szzds"
     ],
-    "imgRef": "/assets/DIYRecipes/狮子座雕塑.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/76/3kcaaxkv5a9zsvh5e55ygftpzohdvez.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12582,7 +12582,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "狮子座碎片",
@@ -12591,7 +12591,7 @@ var json=[
           "szzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/狮子座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/1sxrerrzgwe571cnrjt69uetfd16t7f.png/100px-StarpieceLeo.png"
       },
       {
         "name": "金矿石",
@@ -12600,7 +12600,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12609,7 +12609,7 @@ var json=[
           "st"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12619,9 +12619,9 @@ var json=[
       "chunvzuoshuqin",
       "cnzsq"
     ],
-    "imgRef": "/assets/DIYRecipes/处女座竖琴.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/26/8kwhlv8j3m8a5aaql0r37cbydij7bh6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12631,7 +12631,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "处女座碎片",
@@ -12640,7 +12640,7 @@ var json=[
           "cnzsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/处女座碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/78/a8xsvtiir5rh12o2szd7k6nzm7kodp7.png/100px-StarpieceVirgo.png"
       },
       {
         "name": "金矿石",
@@ -12649,7 +12649,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "石头",
@@ -12658,7 +12658,7 @@ var json=[
           "st"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -12668,7 +12668,7 @@ var json=[
       "zhusundeng",
       "zsd"
     ],
-    "imgRef": "/assets/DIYRecipes/竹笋灯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4b/k4u5oy7eua1hwxb9h53agp91nwz2wem.png",
     "category": "季节手册",
     "access": "气球/漂流瓶",
     "size": "1.0×1.0",
@@ -12680,7 +12680,7 @@ var json=[
           "cs"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       },
       {
         "name": "竹笋",
@@ -12689,7 +12689,7 @@ var json=[
           "zs"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/竹笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/72/ca40v4qt4f17aujntft7mefqlkvdt0o.png/100px-BambooShoot.png"
       },
       {
         "name": "黏土",
@@ -12698,7 +12698,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -12708,9 +12708,9 @@ var json=[
       "xinyueyi",
       "xyy"
     ],
-    "imgRef": "/assets/DIYRecipes/新月椅.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/sjvyoo4sver68ba481kcw6rkfpa1pvc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12720,7 +12720,7 @@ var json=[
           "xxsp"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "大星星碎片",
@@ -12729,7 +12729,7 @@ var json=[
           "dxxsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a5/q355gbgul1nk3e68d16wkvujqe0g1ng.png/100px-StarpieceRare.png"
       }
     ]
   },
@@ -12739,7 +12739,7 @@ var json=[
       "shanghuazuhe",
       "shzh"
     ],
-    "imgRef": "/assets/DIYRecipes/赏花组合.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/91/6g8mxmloagr6l5ebwjpqmt0zxxo014x.png",
     "category": "季节手册",
     "access": "气球",
     "size": "",
@@ -12751,7 +12751,7 @@ var json=[
           "yhhb"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       }
     ]
   },
@@ -12761,9 +12761,9 @@ var json=[
       "shuguogongmen",
       "sggm"
     ],
-    "imgRef": "/assets/DIYRecipes/树果拱门.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e7/o2gfojdej4uvrql5tskuawqpy86v2mz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12773,7 +12773,7 @@ var json=[
           "sg"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "橡栗",
@@ -12782,7 +12782,7 @@ var json=[
           "xl"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "红叶",
@@ -12791,7 +12791,7 @@ var json=[
           "hy"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       },
       {
         "name": "树枝",
@@ -12800,7 +12800,7 @@ var json=[
           "sz"
         ],
         "count": "15",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -12810,7 +12810,7 @@ var json=[
       "zhuzhibiandanghe",
       "zzbdh"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制便当盒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/46/oho75liyxbage9525cbx1itne0nvh04.png",
     "category": "小物件",
     "access": "漂流瓶/气球礼物",
     "size": "1.0×1.0",
@@ -12822,7 +12822,7 @@ var json=[
           "zzcl"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -12832,7 +12832,7 @@ var json=[
       "shanghuatideng",
       "shtd"
     ],
-    "imgRef": "/assets/DIYRecipes/赏花提灯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/40/40pv402p7927cdz3ldbid4m8uyk19ok.png",
     "category": "家具/季节手册",
     "access": "气球礼物",
     "size": "1.0×1.0",
@@ -12844,7 +12844,7 @@ var json=[
           "yhhb"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "硬木材",
@@ -12853,7 +12853,7 @@ var json=[
           "ymc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -12863,9 +12863,9 @@ var json=[
       "shuguoguashi",
       "sggs"
     ],
-    "imgRef": "/assets/DIYRecipes/树果挂饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a1/ffuui34e00rgfrrat0oagnjk01dxjai.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12875,7 +12875,7 @@ var json=[
           "sg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "橡栗",
@@ -12884,7 +12884,7 @@ var json=[
           "xl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "树枝",
@@ -12893,7 +12893,7 @@ var json=[
           "sz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -12903,9 +12903,9 @@ var json=[
       "guashi",
       "gs"
     ],
-    "imgRef": "/assets/DIYRecipes/挂饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/26/3y2gxo1591zwwxzrb33ee9q6sbi8u55.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -12915,7 +12915,7 @@ var json=[
           "hszsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/红色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/rasi96a9iqx9osmix29lx8s57vf5eyq.png/100px-DIYOrnamentRed.png"
       },
       {
         "name": "蓝色装饰品",
@@ -12924,7 +12924,7 @@ var json=[
           "lszsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/蓝色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3a/kem86a32sj0z8dlwhpf521893ha3ud2.png/100px-DIYOrnamentBlue.png"
       },
       {
         "name": "金色装饰品",
@@ -12933,7 +12933,7 @@ var json=[
           "jszsp"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "树枝",
@@ -12942,7 +12942,7 @@ var json=[
           "sz"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -12952,7 +12952,7 @@ var json=[
       "yinghuapenzai",
       "yhpz"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花盆栽.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a7/i7ly8vfzoixgmq918unfbi7hn9wyz95.png",
     "category": "季节手册",
     "access": "气球",
     "size": "1.0×1.0",
@@ -12964,7 +12964,7 @@ var json=[
           "yhhb"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "硬木材",
@@ -12973,7 +12973,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "杂草",
@@ -12982,7 +12982,7 @@ var json=[
           "zc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "黏土",
@@ -12991,7 +12991,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -13001,9 +13001,9 @@ var json=[
       "yinghuashizhong",
       "yhsz"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花时钟.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/35/2j7vb7fyjtym2jmuxgwrmb0ndiuoujw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13013,7 +13013,7 @@ var json=[
           "yhhb"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "铁矿石",
@@ -13022,7 +13022,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -13032,9 +13032,9 @@ var json=[
       "shuguodeng",
       "sgd"
     ],
-    "imgRef": "/assets/DIYRecipes/树果灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/29/0exem9lkc2oixy74xv3ewtk713x3uf9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13044,7 +13044,7 @@ var json=[
           "xl"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "黏土",
@@ -13053,7 +13053,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -13063,9 +13063,9 @@ var json=[
       "xingguang",
       "xg"
     ],
-    "imgRef": "/assets/DIYRecipes/星光.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/20/6366kovgizrb1qc52d87gu25ldwmmxv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13075,7 +13075,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -13085,7 +13085,7 @@ var json=[
       "yinghuashuzhi",
       "yhsz"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花树枝.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/28/tbqjdzeomo6343zpw8pba0f4inn18fm.png",
     "category": "季节手册",
     "access": "气球",
     "size": "1.0x2.0",
@@ -13097,7 +13097,7 @@ var json=[
           "yhhb"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "树枝",
@@ -13106,7 +13106,7 @@ var json=[
           "sz"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "黏土",
@@ -13115,7 +13115,7 @@ var json=[
           "nt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -13125,9 +13125,9 @@ var json=[
       "juziyusan",
       "jzys"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2e/4kk396vny32adssezlri91hp3r5v52d.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13137,7 +13137,7 @@ var json=[
           "jz"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       }
     ]
   },
@@ -13147,9 +13147,9 @@ var json=[
       "xiaoshuguoshu",
       "xsgs"
     ],
-    "imgRef": "/assets/DIYRecipes/小树果树.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f9/k2np4qaht06pf6wyt9h2qyeasa55eb0.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13159,7 +13159,7 @@ var json=[
           "sg"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "橡栗",
@@ -13168,7 +13168,7 @@ var json=[
           "xl"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "硬木材",
@@ -13177,7 +13177,7 @@ var json=[
           "ymc"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -13187,9 +13187,9 @@ var json=[
       "xingxingguashi",
       "xxgs"
     ],
-    "imgRef": "/assets/DIYRecipes/星星挂饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b7/2w9l4uvv55bmwkn6a2s9eh42yw06f9c.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13199,7 +13199,7 @@ var json=[
           "xxsp"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -13209,9 +13209,9 @@ var json=[
       "yinghuahuabandui",
       "yhhbd"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花花瓣堆.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/de/kp3psy52i8fgg04sm33rvmauav46ggi.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13221,7 +13221,7 @@ var json=[
           "yhhb"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       }
     ]
   },
@@ -13231,9 +13231,9 @@ var json=[
       "dashuguoshu",
       "dsgs"
     ],
-    "imgRef": "/assets/DIYRecipes/大树果树.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/89/rsgbdyjo7hqlo7pk0fxm1n854gj3k8g.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13243,7 +13243,7 @@ var json=[
           "sg"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "橡栗",
@@ -13252,7 +13252,7 @@ var json=[
           "xl"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       },
       {
         "name": "红叶",
@@ -13261,7 +13261,7 @@ var json=[
           "hy"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       },
       {
         "name": "树枝",
@@ -13270,7 +13270,7 @@ var json=[
           "sz"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "黏土",
@@ -13279,7 +13279,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -13289,9 +13289,9 @@ var json=[
       "pusuDIYzuoyetai",
       "psDIYzyt"
     ],
-    "imgRef": "/assets/DIYRecipes/朴素DIY作业台.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/84/2sjuucehid0pno2myr2ikz5spizq2bj.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13301,7 +13301,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -13310,7 +13310,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -13320,9 +13320,9 @@ var json=[
       "juhuabaozhen",
       "jhbz"
     ],
-    "imgRef": "/assets/DIYRecipes/菊花抱枕.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ac/k74igh0insg1l6hqp0kbixyfs0557hk.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13332,7 +13332,7 @@ var json=[
           "hsjh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色菊花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cf/5rz5i4dbipkd480qh35arzkyighpyot.png/100px-FlwMumYellow.png"
       },
       {
         "name": "杂草",
@@ -13341,7 +13341,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -13351,9 +13351,9 @@ var json=[
       "fengyeyusan",
       "fyys"
     ],
-    "imgRef": "/assets/DIYRecipes/枫叶雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bf/4hzengynmqd58qf7yy3hbexpmi0qmrh.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13363,7 +13363,7 @@ var json=[
           "hy"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       }
     ]
   },
@@ -13373,9 +13373,9 @@ var json=[
       "muzhishuangrenchuang",
       "mzsrc"
     ],
-    "imgRef": "/assets/DIYRecipes/木制双人床.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/ba/s0tc72pel86nguowwyp9lh321czul8l.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13385,7 +13385,7 @@ var json=[
           "mc"
         ],
         "count": "30",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -13395,7 +13395,7 @@ var json=[
       "yinghuashuqiang",
       "yhsq"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花树墙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c0/0tt0uutkj2gze4ms15stgpgph2y9bx2.png",
     "category": "墙壁·地板·地垫",
     "access": "气球",
     "size": "一个房间",
@@ -13407,7 +13407,7 @@ var json=[
           "yhhb"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "硬木材",
@@ -13416,7 +13416,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -13426,9 +13426,9 @@ var json=[
       "zhixiangshafa",
       "zxsf"
     ],
-    "imgRef": "/assets/DIYRecipes/纸箱沙发.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/69/i20zas1b95k68a137ccskqjmfid3zu1.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13438,7 +13438,7 @@ var json=[
           "zx"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -13448,9 +13448,9 @@ var json=[
       "yinlianhuafengshan",
       "ylhfs"
     ],
-    "imgRef": "/assets/DIYRecipes/银莲花风扇.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8a/m79km0l33klwvh9vf6jvlxrtftpxcsi.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13460,7 +13460,7 @@ var json=[
           "hsylh"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/74/gyllvkt1h20psyghdapudknzxr5znka.png/100px-FlwAnemonesRed.png"
       },
       {
         "name": "铁矿石",
@@ -13469,7 +13469,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -13479,9 +13479,9 @@ var json=[
       "moguyusan",
       "mgys"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c4/98p1awljmeec9zlohco8acpu0m1gwzt.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13491,7 +13491,7 @@ var json=[
           "bpmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       }
     ]
   },
@@ -13501,9 +13501,9 @@ var json=[
       "muzhixiaozhuo",
       "mzxz"
     ],
-    "imgRef": "/assets/DIYRecipes/木制小桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f2/c2xxea2od6qzuybbi7mtc1e2xgz4d7n.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13513,7 +13513,7 @@ var json=[
           "mc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -13523,7 +13523,7 @@ var json=[
       "qiaoliangshigonggongjuzu",
       "qlsggjz"
     ],
-    "imgRef": "/assets/DIYRecipes/桥梁施工工具组.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6f/j7sqi2jcc7i07r9dqq6oymx9ggq9ek4.png",
     "category": "桥梁",
     "access": "狸克赠送",
     "size": "2.0*5.0",
@@ -13535,7 +13535,7 @@ var json=[
           "ymz"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/圆木桩.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e5/d4b35v1k8fla0ufe8z4fku2cp2oxp9k.png/100px-FtrWoodPile.png"
       },
       {
         "name": "黏土",
@@ -13544,7 +13544,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "石头",
@@ -13553,7 +13553,7 @@ var json=[
           "st"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -13563,9 +13563,9 @@ var json=[
       "zhixiangzhuo",
       "zxz"
     ],
-    "imgRef": "/assets/DIYRecipes/纸箱桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/40/ootsyuab7v9erxk2fd23y32vwyen7ia.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13575,7 +13575,7 @@ var json=[
           "zx"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -13585,9 +13585,9 @@ var json=[
       "fengxinzideng",
       "fxzd"
     ],
-    "imgRef": "/assets/DIYRecipes/风信子灯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b0/orpw6qaw37wkulthviah245qtj7mznx.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13597,7 +13597,7 @@ var json=[
           "zsfxz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/紫色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b9/9ajje2w6i0vscoduam0xoghx4cqqulo.png/100px-FlwHyacinthPurple.png"
       },
       {
         "name": "黏土",
@@ -13606,7 +13606,7 @@ var json=[
           "nt"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -13616,9 +13616,9 @@ var json=[
       "mogusenlindiban",
       "mgsldb"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇森林地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/28/lpiq1by6zns35xgtz82zs3o9vz9oqc7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13628,7 +13628,7 @@ var json=[
           "zgmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/珍贵蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8d/3w7b9wd8zzw1jwwatebhofzrv8lmq6s.png/100px-MushRare.png"
       },
       {
         "name": "圆形蘑菇",
@@ -13637,7 +13637,7 @@ var json=[
           "yxmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/圆形蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c2/6t6klzxa9g2dnvyk0ayfkymevfvvomm.png/100px-MushRound.png"
       },
       {
         "name": "瘦小蘑菇",
@@ -13646,7 +13646,7 @@ var json=[
           "sxmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "扁平蘑菇",
@@ -13655,7 +13655,7 @@ var json=[
           "bpmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       },
       {
         "name": "杂草",
@@ -13664,7 +13664,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -13674,9 +13674,9 @@ var json=[
       "muzhiaizhuo",
       "mzaz"
     ],
-    "imgRef": "/assets/DIYRecipes/木制矮桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e1/ma5e11wlf2xe8j4ax293geyv5cngj7s.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13686,7 +13686,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -13696,9 +13696,9 @@ var json=[
       "bosijuhuasa",
       "bsjhs"
     ],
-    "imgRef": "/assets/DIYRecipes/波斯菊花洒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d7/jas1lhmb205zzew8xs4fa7m7u0p10k5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13708,7 +13708,7 @@ var json=[
           "fhbsj"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/粉红波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/68/7ynvckm27kz0p34vjoqcvyqupyad2b8.png/100px-FlwCosmosPink.png"
       },
       {
         "name": "铁矿石",
@@ -13717,7 +13717,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -13727,9 +13727,9 @@ var json=[
       "zhixiangchuangpu",
       "zxcp"
     ],
-    "imgRef": "/assets/DIYRecipes/纸箱床铺.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1f/mopqu4s8jfw11nqzvyqxy0df7pkcugd.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13739,7 +13739,7 @@ var json=[
           "zx"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -13749,9 +13749,9 @@ var json=[
       "meiguichuangpu",
       "mgcp"
     ],
-    "imgRef": "/assets/DIYRecipes/玫瑰床铺.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7c/ehtsiyd201x4zdffqsxm4z2hcsg0bjt.png",
     "category": "家具",
-    "access": "未知",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13761,7 +13761,7 @@ var json=[
           "hsmg"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/红色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1d/o3qe7hjn0lx9nwhb1zfb0sz5nfacsne.png/100px-FlwRoseRed.png"
       },
       {
         "name": "木材",
@@ -13770,7 +13770,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -13780,9 +13780,9 @@ var json=[
       "mogusenlinqiang",
       "mgslq"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇森林墙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0b/5dwk23rukjkod2yr2606hvwfctwgbvd.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13792,7 +13792,7 @@ var json=[
           "csmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/出色蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/dd/3b8nxy493rmuh2tbxhf9enem1q9m4gn.png/100px-MushSplendid.png"
       },
       {
         "name": "圆形蘑菇",
@@ -13801,7 +13801,7 @@ var json=[
           "yxmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/圆形蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c2/6t6klzxa9g2dnvyk0ayfkymevfvvomm.png/100px-MushRound.png"
       },
       {
         "name": "瘦小蘑菇",
@@ -13810,7 +13810,7 @@ var json=[
           "sxmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "扁平蘑菇",
@@ -13819,7 +13819,7 @@ var json=[
           "bpmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/扁平蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/90/q7x461u4yrczt4yulwlib4c3154v4lj.png/100px-MushFlat.png"
       },
       {
         "name": "木材",
@@ -13828,7 +13828,7 @@ var json=[
           "mc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -13838,9 +13838,9 @@ var json=[
       "muzhichuanyijing",
       "mzcyj"
     ],
-    "imgRef": "/assets/DIYRecipes/木制穿衣镜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/06/e3suqdeeg88expufyb95af72jqm1i82.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13850,7 +13850,7 @@ var json=[
           "mc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -13859,7 +13859,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -13869,9 +13869,9 @@ var json=[
       "yujinxiangjingxiaxiang",
       "yjxjxx"
     ],
-    "imgRef": "/assets/DIYRecipes/郁金香惊吓箱.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b1/0smaqlops7lccog5lod5o90zskwc1uz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13881,7 +13881,7 @@ var json=[
           "hsyjx"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/红色郁金香.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e9/qco34nxuo05n38q0l7n4ofoaxbdrxyz.png/100px-FlwTulipRed.png"
       },
       {
         "name": "软木材",
@@ -13890,7 +13890,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -13900,9 +13900,9 @@ var json=[
       "zhixiangyi",
       "zxy"
     ],
-    "imgRef": "/assets/DIYRecipes/纸箱椅.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fa/es3s12y2sgsj4ryfenlgwwoq67o2zhs.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13912,7 +13912,7 @@ var json=[
           "zx"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/纸箱.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b7/erarkmzggp2j0e65bsoh88y0c39jcoy.png/100px-FtrCardboard.png"
       }
     ]
   },
@@ -13922,9 +13922,9 @@ var json=[
       "zuodiandui",
       "zdd"
     ],
-    "imgRef": "/assets/DIYRecipes/座垫堆.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/13/m4umkalwczew95b1pf0oyptuvnvzdz7.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13934,7 +13934,7 @@ var json=[
           "zd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/座垫.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/37/e7g8jers4e8cjdq1jotat73nv2crq9l.png/100px-FtrCushionJapan.png"
       }
     ]
   },
@@ -13944,7 +13944,7 @@ var json=[
       "yinghuaditan",
       "yhdt"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花地毯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/28/1zoohqd8h854nwjedkvxo109w5vc9pa.png",
     "category": "季节手册",
     "access": "气球",
     "size": "",
@@ -13956,7 +13956,7 @@ var json=[
           "yhhb"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "杂草",
@@ -13965,7 +13965,7 @@ var json=[
           "zc"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -13975,9 +13975,9 @@ var json=[
       "juziditan",
       "jzdt"
     ],
-    "imgRef": "/assets/DIYRecipes/橘子地毯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/00/s8pwgzme6cuk9aigv8zplgbtgvdk1i0.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -13987,7 +13987,7 @@ var json=[
           "jz"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/橘子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/43/f23c3h57cuupsx9aeyq23jf1st3dkez.png/100px-Orange.png"
       }
     ]
   },
@@ -13997,9 +13997,9 @@ var json=[
       "sanduli",
       "sdl"
     ],
-    "imgRef": "/assets/DIYRecipes/三度笠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/11/2ladlviohmipuzo8h5qxl5k4iqc8rgs.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14009,7 +14009,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -14019,9 +14019,9 @@ var json=[
       "jinsemeiguihuaguan",
       "jsmghg"
     ],
-    "imgRef": "/assets/DIYRecipes/金色玫瑰花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/74/bb7xmzreddcsppio10dqat823mgqju5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14031,7 +14031,7 @@ var json=[
           "jsmg"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/金色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/83/mckuz9wwbsyx3m8dht5gon9um0sa4aj.png/100px-FlwRoseGold.png"
       }
     ]
   },
@@ -14041,9 +14041,9 @@ var json=[
       "yezimianju",
       "yzmj"
     ],
-    "imgRef": "/assets/DIYRecipes/叶子面具.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/81/2ngzwe3ax58jhooaq63tgp7axu60m1f.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14053,7 +14053,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -14063,9 +14063,9 @@ var json=[
       "sansejinzhuo",
       "ssjz"
     ],
-    "imgRef": "/assets/DIYRecipes/三色堇桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/78/ggebkpe962bfexjirq9y91wkwx3mclc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14075,7 +14075,7 @@ var json=[
           "hsssj"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/黄色三色堇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7f/0j3004eqzx391491bopknadrt2zktyr.png/100px-FlwPansyYellow.png"
       },
       {
         "name": "硬木材",
@@ -14084,7 +14084,7 @@ var json=[
           "ymc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -14094,9 +14094,9 @@ var json=[
       "taoziditan",
       "tzdt"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子地毯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/69/5w7zar604i7xrehtwn2s7bs77ehva07.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14106,7 +14106,7 @@ var json=[
           "tz"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -14116,9 +14116,9 @@ var json=[
       "niantuwanju",
       "ntwj"
     ],
-    "imgRef": "/assets/DIYRecipes/黏土玩具.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/23/0spnncy6ljtfjfnl0clgkkh5kfbz9st.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14128,7 +14128,7 @@ var json=[
           "nt"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -14138,9 +14138,9 @@ var json=[
       "luoyedengzi",
       "lydz"
     ],
-    "imgRef": "/assets/DIYRecipes/落叶凳子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b4/d984gr32qt19vk6uqll8h4nk2yld141.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14150,7 +14150,7 @@ var json=[
           "hy"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       },
       {
         "name": "木材",
@@ -14159,7 +14159,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -14169,9 +14169,9 @@ var json=[
       "hefengmubei",
       "hfmb"
     ],
-    "imgRef": "/assets/DIYRecipes/和风墓碑.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e0/tsdk7ch0vlrei02i9sgvpkv5r5mlhj4.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14181,7 +14181,7 @@ var json=[
           "st"
         ],
         "count": "30",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -14191,9 +14191,9 @@ var json=[
       "xingxingshatandiban",
       "xxstdb"
     ],
-    "imgRef": "/assets/DIYRecipes/星星沙滩地板.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/59/bm17u6fcv418qy2gv9563k0gmy6ek28.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14203,7 +14203,7 @@ var json=[
           "xtbk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       },
       {
         "name": "沙滩地板",
@@ -14212,7 +14212,7 @@ var json=[
           "stdb"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/沙滩地板.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/ba/7r6geus5rcwjhdhk5go54xraer9lvra.png/100px-RoomTexFloorSand00.png"
       }
     ]
   },
@@ -14222,9 +14222,9 @@ var json=[
       "liziditan",
       "lzdt"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子地毯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6e/a3rzv6r16v9ha7m7getivah3crro34j.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14234,7 +14234,7 @@ var json=[
           "lz"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       }
     ]
   },
@@ -14244,7 +14244,7 @@ var json=[
       "zonglvshudeng",
       "zlsd"
     ],
-    "imgRef": "/assets/DIYRecipes/棕榈树灯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7d/hdx0xwhrlsaqbz6j10uc6h4zos99jcx.png",
     "category": "家具",
     "access": "气球/漂流瓶",
     "size": "1.0x1.0",
@@ -14256,7 +14256,7 @@ var json=[
           "yz"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/椰子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2f/nro0okh70t6p67z06guuogc22u3r5lz.png/100px-Coconut.png"
       },
       {
         "name": "木材",
@@ -14265,7 +14265,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "黏土",
@@ -14274,7 +14274,7 @@ var json=[
           "nt"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -14284,9 +14284,9 @@ var json=[
       "pingguoditan",
       "pgdt"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果地毯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/ca/losje322iy7qm8delyhl2j6qulg98sv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14296,7 +14296,7 @@ var json=[
           "pg"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       }
     ]
   },
@@ -14306,7 +14306,7 @@ var json=[
       "tongcang",
       "tc"
     ],
-    "imgRef": "/assets/DIYRecipes/筒仓.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/53/jf8fugbliwesbntnk3k2pg1qpbnmyzo.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "2.0x2.0",
@@ -14318,7 +14318,7 @@ var json=[
           "tks"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "硬木材",
@@ -14327,7 +14327,7 @@ var json=[
           "ymc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "黏土",
@@ -14336,7 +14336,7 @@ var json=[
           "nt"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       },
       {
         "name": "石头",
@@ -14345,7 +14345,7 @@ var json=[
           "st"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -14355,9 +14355,9 @@ var json=[
       "beikeditan",
       "bkdt"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳地毯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1a/sah58kv49ljxuiboi12czi45w2gfbxa.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14367,7 +14367,7 @@ var json=[
           "sbk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       }
     ]
   },
@@ -14377,9 +14377,9 @@ var json=[
       "jiangbeigui",
       "jbg"
     ],
-    "imgRef": "/assets/DIYRecipes/奖杯柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/05/56qv3dy8xi772tvtb899ddj10woozin.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14389,7 +14389,7 @@ var json=[
           "ymc"
         ],
         "count": "24",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "金矿石",
@@ -14398,7 +14398,7 @@ var json=[
           "jks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "铁矿石",
@@ -14407,7 +14407,7 @@ var json=[
           "tks"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -14417,9 +14417,9 @@ var json=[
       "yingtaoditan",
       "ytdt"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃地毯.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bd/5rqjxuln0n65yaifyt5w8ogo0wejobe.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14429,7 +14429,7 @@ var json=[
           "yt"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       }
     ]
   },
@@ -14439,7 +14439,7 @@ var json=[
       "xingxingshizhong",
       "xxsz"
     ],
-    "imgRef": "/assets/DIYRecipes/星星时钟.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fb/s2pmcs9a1w0ximhd7zvhtdxcv53h4dc.png",
     "category": "壁挂物",
     "access": "傅珂赠送",
     "size": "1.0x1.0",
@@ -14451,7 +14451,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       },
       {
         "name": "铁矿石",
@@ -14460,7 +14460,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -14470,9 +14470,9 @@ var json=[
       "lansemeiguihuaguan",
       "lsmghg"
     ],
-    "imgRef": "/assets/DIYRecipes/蓝色玫瑰花冠.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c2/j6se421pnhdv817saar2g13m18uj35z.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14482,7 +14482,7 @@ var json=[
           "lsmg"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/蓝色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/09/8n0otys1vfx6o7d5foun7u89ccfzxm2.png/100px-FlwRoseBlue.png"
       }
     ]
   },
@@ -14492,9 +14492,9 @@ var json=[
       "xueqiao",
       "xq"
     ],
-    "imgRef": "/assets/DIYRecipes/雪橇.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/55/beuy7i87qu4gx6paxqo8n05hcwxziyz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14504,7 +14504,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -14514,9 +14514,9 @@ var json=[
       "baihechangpianbofangqi",
       "bhcpbfq"
     ],
-    "imgRef": "/assets/DIYRecipes/百合唱片播放器.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e9/7ngv7gohh9kjcnkreybvcqw6x5zhj34.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14526,7 +14526,7 @@ var json=[
           "bsbh"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/白色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/53/cvpkcggpstx88wo51ls667318vtws6e.png/100px-FlwYuriWhite.png"
       },
       {
         "name": "铁矿石",
@@ -14535,7 +14535,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "木材",
@@ -14544,7 +14544,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       }
     ]
   },
@@ -14554,9 +14554,9 @@ var json=[
       "bingzhibang",
       "bzb"
     ],
-    "imgRef": "/assets/DIYRecipes/冰之棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/33/q5gm3rgca5z0qgma283mmvy3kzsb7xl.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14566,7 +14566,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "星星碎片",
@@ -14575,7 +14575,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -14585,9 +14585,9 @@ var json=[
       "xianglixiekuabao",
       "xlxkb"
     ],
-    "imgRef": "/assets/DIYRecipes/橡栗斜挎包.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e8/2o859anwbgol4kjjgzqo23mw9pbsfvu.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14597,7 +14597,7 @@ var json=[
           "xl"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/橡栗.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2b/ib4b1kxfpwjvgs4qea1p9chiwtaiab3.png/100px-DIYAcorn.png"
       }
     ]
   },
@@ -14607,9 +14607,9 @@ var json=[
       "lihualan",
       "lhl"
     ],
-    "imgRef": "/assets/DIYRecipes/立花篮.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b8/3cwp4w9rilcgwn12ngymnr4oaz4ynkv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14619,7 +14619,7 @@ var json=[
           "hsmg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/红色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1d/o3qe7hjn0lx9nwhb1zfb0sz5nfacsne.png/100px-FlwRoseRed.png"
       },
       {
         "name": "粉红玫瑰",
@@ -14628,7 +14628,7 @@ var json=[
           "fhmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/粉红玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/eb388tb9gtjrf2vuwkcbaux88nttd0w.png/100px-FlwRosePink.png"
       },
       {
         "name": "橘色玫瑰",
@@ -14637,7 +14637,7 @@ var json=[
           "jsmg"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/橘色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9d/jgsx5ovvsr91hbkqa88ab6fbx65ntgi.png/100px-FlwRoseOrange.png"
       },
       {
         "name": "白色百合",
@@ -14646,7 +14646,7 @@ var json=[
           "bsbh"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/白色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/53/cvpkcggpstx88wo51ls667318vtws6e.png/100px-FlwYuriWhite.png"
       },
       {
         "name": "黄色百合",
@@ -14655,7 +14655,7 @@ var json=[
           "hsbh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/黄色百合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3b/1334g7bmoibu892w0heoop5b6igubhz.png/100px-FlwYuriYellow.png"
       },
       {
         "name": "紫色银莲花",
@@ -14664,7 +14664,7 @@ var json=[
           "zsylh"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/紫色银莲花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/1a/svujwz1exrhqvo1wl07nfjyn27t8gxr.png/100px-FlwAnemonesPurple.png"
       }
     ]
   },
@@ -14674,9 +14674,9 @@ var json=[
       "muzhigongjuxiang",
       "mzgjx"
     ],
-    "imgRef": "/assets/DIYRecipes/木制工具箱.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c2/gwpek4hu4i9nglsw1xj4oq1m588ngup.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14686,7 +14686,7 @@ var json=[
           "rmc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       },
       {
         "name": "铁矿石",
@@ -14695,7 +14695,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -14705,9 +14705,9 @@ var json=[
       "beikebang",
       "bkb"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9c/7y7iaypxpob4mwqreb3iww2ac281mvx.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14717,7 +14717,7 @@ var json=[
           "xtbk"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       },
       {
         "name": "星星碎片",
@@ -14726,7 +14726,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -14736,9 +14736,9 @@ var json=[
       "xuehuaxiekuabao",
       "xhxkb"
     ],
-    "imgRef": "/assets/DIYRecipes/雪花斜挎包.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7a/cvfcpnafma94hq0vdp4apcqccws5hp6.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14748,7 +14748,7 @@ var json=[
           "xh"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -14758,9 +14758,9 @@ var json=[
       "huling",
       "hl"
     ],
-    "imgRef": "/assets/DIYRecipes/壶铃.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/29/f0hl7lvnfilcngns2f0q305blfmq3cr.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14770,7 +14770,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -14780,7 +14780,7 @@ var json=[
       "xingxingxiekuabao",
       "xxxkb"
     ],
-    "imgRef": "/assets/DIYRecipes/星星斜挎包.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3f/pxlhz0a0y6k95q13p4wmypmdg68fjah.png",
     "category": "背包",
     "access": "傅珂赠送",
     "size": "1.0x1.0",
@@ -14792,7 +14792,7 @@ var json=[
           "xxsp"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -14802,9 +14802,9 @@ var json=[
       "shuzhibang",
       "szb"
     ],
-    "imgRef": "/assets/DIYRecipes/树枝棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/83/keq3oaayevwndqbwyzp03sqau4cbr1q.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14814,7 +14814,7 @@ var json=[
           "sz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "星星碎片",
@@ -14823,7 +14823,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -14833,9 +14833,9 @@ var json=[
       "beikexiekuabao",
       "bkxkb"
     ],
-    "imgRef": "/assets/DIYRecipes/贝壳斜挎包.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/16/d1qfbfoqfaaui2kv9gv6jdy4bjm3k0x.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14845,7 +14845,7 @@ var json=[
           "sbk"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/扇贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a1/12n7dhso6dvolmbmgk4qe9ckain4skz.png/100px-Shell2.png"
       },
       {
         "name": "夏天贝壳",
@@ -14854,7 +14854,7 @@ var json=[
           "xtbk"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/夏天贝壳.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8c/cmqycxh1kk8ep9vdzkcofagf4fc5sry.png/100px-ShellSummer.png"
       }
     ]
   },
@@ -14864,9 +14864,9 @@ var json=[
       "shishuipen～fengye～",
       "ssp～fy～"
     ],
-    "imgRef": "/assets/DIYRecipes/石水盆～枫叶～.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dd/oaxwsf9megbidsa2qczjd3xohemf840.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14876,7 +14876,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "红叶",
@@ -14885,7 +14885,7 @@ var json=[
           "hy"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       }
     ]
   },
@@ -14895,7 +14895,7 @@ var json=[
       "fuhuojieditan",
       "fhjdt"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节地毯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/54/1j1e9iima1zbzabjiqn1o9l4cvx0hel.png",
     "category": "地毯",
     "access": "漂流瓶/气球",
     "size": "3.0x3.0",
@@ -14907,7 +14907,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -14916,7 +14916,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -14925,7 +14925,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -14934,7 +14934,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -14943,7 +14943,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -14952,7 +14952,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -14962,7 +14962,7 @@ var json=[
       "yinghuaxiekuabao",
       "yhxkb"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花斜挎包.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b8/6r57xrmy7zanm6gyxt03td4j0icr5tg.png",
     "category": "背包",
     "access": "气球",
     "size": "",
@@ -14974,7 +14974,7 @@ var json=[
           "yhhb"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       }
     ]
   },
@@ -14984,9 +14984,9 @@ var json=[
       "mogubang",
       "mgb"
     ],
-    "imgRef": "/assets/DIYRecipes/蘑菇棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/70/4hqu62jttvxiyrssyjt53udrz4xnhww.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -14996,7 +14996,7 @@ var json=[
           "sxmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/瘦小蘑菇.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/2d/8pf6zippm9qv2nn13qczdclfyd6h47b.png/100px-MushSlender.png"
       },
       {
         "name": "星星碎片",
@@ -15005,7 +15005,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -15015,8 +15015,8 @@ var json=[
       "beijia",
       "bj"
     ],
-    "imgRef": "/assets/DIYRecipes/背架.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1c/bnasn3g4wms58l5m7mf0jvj7qne1d1g.png",
+    "category": "",
     "access": "村民赠送",
     "size": "",
     "materials": [
@@ -15027,7 +15027,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "硬木材",
@@ -15036,7 +15036,7 @@ var json=[
           "ymc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -15046,9 +15046,9 @@ var json=[
       "shishuipen～yinghua～",
       "ssp～yh～"
     ],
-    "imgRef": "/assets/DIYRecipes/石水盆～樱花～.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ed/17rkpi8ew16jtp0k98ej18kx0120t05.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15058,7 +15058,7 @@ var json=[
           "st"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "樱花花瓣",
@@ -15067,7 +15067,7 @@ var json=[
           "yhhb"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       }
     ]
   },
@@ -15077,9 +15077,9 @@ var json=[
       "bangzi",
       "bz"
     ],
-    "imgRef": "/assets/DIYRecipes/棒子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c0/6e901viffdt92qe2goli329ezw7w2jq.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15089,7 +15089,7 @@ var json=[
           "xxsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -15099,9 +15099,9 @@ var json=[
       "fengyexiekuabao",
       "fyxkb"
     ],
-    "imgRef": "/assets/DIYRecipes/枫叶斜挎包.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/21/074hozr7772nou67qtfm5b9m4zsl5zy.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15111,7 +15111,7 @@ var json=[
           "hy"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/红叶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b4/0t18hh7a5zpemgo3ugq2alhcxv3rfav.png/100px-AutumnLeaf.png"
       }
     ]
   },
@@ -15121,9 +15121,9 @@ var json=[
       "beilou",
       "bl"
     ],
-    "imgRef": "/assets/DIYRecipes/背篓.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/14/fjq2eht4verozgfh9i7qhp6yaaaw9p9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15133,7 +15133,7 @@ var json=[
           "cs"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       }
     ]
   },
@@ -15143,9 +15143,9 @@ var json=[
       "limaobaishi",
       "lmbs"
     ],
-    "imgRef": "/assets/DIYRecipes/狸猫摆饰.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b2/jkm0u9fppj4g3fwdrsulh2hd60m5fgx.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15155,7 +15155,7 @@ var json=[
           "nt"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/黏土.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/be/kw4xg43kd0i997rbepb10p0gv55jrp4.png/100px-DIYClay.png"
       }
     ]
   },
@@ -15165,9 +15165,9 @@ var json=[
       "shishizi",
       "ssz"
     ],
-    "imgRef": "/assets/DIYRecipes/石狮子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c0/jvdj54oc23mg7g32zvemnewd7mwzcyb.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15177,7 +15177,7 @@ var json=[
           "st"
         ],
         "count": "24",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -15187,7 +15187,7 @@ var json=[
       "jinsefutou",
       "jsft"
     ],
-    "imgRef": "/assets/DIYRecipes/金色斧头.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6c/0e0yobvhazi1selewq9on2f1eejn5e6.png",
     "category": "工具",
     "access": "灵感（简陋斧头用坏100个）",
     "size": "1.0×1.0",
@@ -15199,7 +15199,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "斧头",
@@ -15208,7 +15208,7 @@ var json=[
           "ft"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/斧头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/61/mkps3iau1eknt424z7oh16jue53oikb.png/100px-ToolAxe.png"
       }
     ]
   },
@@ -15218,9 +15218,9 @@ var json=[
       "yuanyituiche",
       "yytc"
     ],
-    "imgRef": "/assets/DIYRecipes/园艺推车.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/10/sss5mpsvkp1s4ywl9e6y3baie0ngmep.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15230,7 +15230,7 @@ var json=[
           "bsfxz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/白色风信子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/88/kfae5n6tdkrcw8q6d0iuxvgsa88qykz.png/100px-FlwHyacinthWhite.png"
       },
       {
         "name": "红色波斯菊",
@@ -15239,7 +15239,7 @@ var json=[
           "hsbsj"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/红色波斯菊.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c7/bqvxh8qsi5pqe8ljufagdpp043210vo.png/100px-FlwCosmosRed.png"
       },
       {
         "name": "黄色玫瑰",
@@ -15248,7 +15248,7 @@ var json=[
           "hsmg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/黄色玫瑰.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/62/jeesbvn8tjwbzi2oo01yqqxupofwce4.png/100px-FlwRoseYellow.png"
       },
       {
         "name": "木材",
@@ -15257,7 +15257,7 @@ var json=[
           "mc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -15266,7 +15266,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -15276,7 +15276,7 @@ var json=[
       "zhubang",
       "zb"
     ],
-    "imgRef": "/assets/DIYRecipes/竹棒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/ab/2n843ezooerkxu0t446ql5qf2dyxomn.png",
     "category": "工具",
     "access": "漂流瓶/气球",
     "size": "1.0×1.0",
@@ -15288,7 +15288,7 @@ var json=[
           "cs"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/春笋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/4/4f/gs25a66ifgcf8nin071o0lknpc77mxw.png/100px-DIYBambooSpring.png"
       },
       {
         "name": "星星碎片",
@@ -15297,7 +15297,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -15307,9 +15307,9 @@ var json=[
       "jinsediaogan",
       "jsdg"
     ],
-    "imgRef": "/assets/DIYRecipes/金色钓竿.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4d/6a0p3ip0j9if5220ab0wcu9pqzs511n.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15319,7 +15319,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "钓竿",
@@ -15328,7 +15328,7 @@ var json=[
           "dg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/钓竿.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/f/fb/tm872zfmcko7odb6dxdk3dv22s5w0xb.png/100px-ToolAngling.png"
       }
     ]
   },
@@ -15338,9 +15338,9 @@ var json=[
       "naiyoujiaobanqi",
       "nyjbq"
     ],
-    "imgRef": "/assets/DIYRecipes/奶油搅拌器.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/22/e6sklgbsw4og5whbxpiihp4rmwmxss3.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15350,7 +15350,7 @@ var json=[
           "mc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -15359,7 +15359,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -15369,9 +15369,9 @@ var json=[
       "zhutieyigui",
       "ztyg"
     ],
-    "imgRef": "/assets/DIYRecipes/铸铁衣柜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d0/6c5h9qvjhkyawmr6ih5ptulvuni3grn.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15381,7 +15381,7 @@ var json=[
           "tks"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -15391,9 +15391,9 @@ var json=[
       "jinsejiaohuahu",
       "jsjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/金色浇花壶.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/85/k80cntufkr7uem51quprkxwzs8qylwi.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15403,7 +15403,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "浇花壶",
@@ -15412,7 +15412,7 @@ var json=[
           "jhh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/浇花壶.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/12/evx5w1y6z57avoqffvv8lude1oh4j0w.png/100px-ToolWatering.png"
       }
     ]
   },
@@ -15422,9 +15422,9 @@ var json=[
       "huangjinbang",
       "hjb"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/22/lzj0jtaeibb92hwkjoyljxbnasafnwm.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15434,7 +15434,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "星星碎片",
@@ -15443,7 +15443,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -15453,9 +15453,9 @@ var json=[
       "huangjinguancai",
       "hjgc"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金棺材.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/be/nkxffna5dnj54r5s9r1cball14kwyrr.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15465,7 +15465,7 @@ var json=[
           "jks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -15475,7 +15475,7 @@ var json=[
       "qingxielubiao",
       "qxlb"
     ],
-    "imgRef": "/assets/DIYRecipes/倾斜路标.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1a/tfoe5d632p9lukkr041huqh3urthut6.png",
     "category": "家具",
     "access": "村民赠送",
     "size": "1.0×1.0",
@@ -15487,7 +15487,7 @@ var json=[
           "ymc"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "软木材",
@@ -15496,7 +15496,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -15506,8 +15506,8 @@ var json=[
       "jinsezhaocaimao",
       "jszcm"
     ],
-    "imgRef": "/assets/DIYRecipes/金色招财猫.png",
-    "category": "其它",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/hcvp43pkoxn1u9qk6rcr9ob9fl4kyml.png",
+    "category": "",
     "access": "村民赠送",
     "size": "",
     "materials": [
@@ -15518,7 +15518,7 @@ var json=[
           "jks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "招财猫",
@@ -15527,7 +15527,7 @@ var json=[
           "zcm"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/招财猫.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/96/asxw5putvapmec8vs354ot7jqbxjeun.png/100px-FtrManekineko.png"
       }
     ]
   },
@@ -15537,9 +15537,9 @@ var json=[
       "jinsechanzi",
       "jscz"
     ],
-    "imgRef": "/assets/DIYRecipes/金色铲子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cd/7pi8zgo2zvkdy0z99earbd69hdyamr5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15549,7 +15549,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "铲子",
@@ -15558,7 +15558,7 @@ var json=[
           "cz"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铲子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/eb/7gs9grd0iuwtqll21ig6stqen08ur9d.png/100px-ToolScoop.png"
       }
     ]
   },
@@ -15568,9 +15568,9 @@ var json=[
       "tiebang",
       "tb"
     ],
-    "imgRef": "/assets/DIYRecipes/铁棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/ea/84x2ca4kqk943pdynbumsuk66b4m9sr.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15580,7 +15580,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "星星碎片",
@@ -15589,7 +15589,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -15599,9 +15599,9 @@ var json=[
       "muzhizhuomianjing",
       "mzzmj"
     ],
-    "imgRef": "/assets/DIYRecipes/木制桌面镜.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c9/221cg0z6py4pyao27cn1di5p9xmmyvy.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15611,7 +15611,7 @@ var json=[
           "mc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3e/79hghcch2gio62mcgy1c7doaveekzxd.png/100px-DIYWoodNormal.png"
       },
       {
         "name": "铁矿石",
@@ -15620,7 +15620,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -15630,7 +15630,7 @@ var json=[
       "penquan",
       "pq"
     ],
-    "imgRef": "/assets/DIYRecipes/喷泉.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0f/3q6m7el4sv31zkbrgn7dgwnxpbunr0f.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "3.0×3.0",
@@ -15642,7 +15642,7 @@ var json=[
           "ysc"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/饮水处.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/db/352c7e2eb6gh4houtrqx1v2owdn9sbv.png/100px-FtrDrinkingfountain.png"
       },
       {
         "name": "石头",
@@ -15651,7 +15651,7 @@ var json=[
           "st"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       },
       {
         "name": "铁矿石",
@@ -15660,7 +15660,7 @@ var json=[
           "tks"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -15670,9 +15670,9 @@ var json=[
       "jinsedangong",
       "jsdg"
     ],
-    "imgRef": "/assets/DIYRecipes/金色弹弓.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dc/nlth8nmh7us7rctaam7ta40k3au18o0.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15682,7 +15682,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "弹弓",
@@ -15691,7 +15691,7 @@ var json=[
           "dg"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/弹弓.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cd/sp94kfwl1el8584yku03jut2ojsdoi2.png/100px-ToolSlingshot.png"
       }
     ]
   },
@@ -15701,9 +15701,9 @@ var json=[
       "luoyechuihuo",
       "lych"
     ],
-    "imgRef": "/assets/DIYRecipes/落叶炊火.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/5e/06c4sm1rw6jiol965pd15zlswkvv621.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15713,7 +15713,7 @@ var json=[
           "sg"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/松果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/aa/rqk71wevk0z7eqcln2vn31sj6hhxpzo.png/100px-DIYPinecone.png"
       },
       {
         "name": "杂草",
@@ -15722,7 +15722,7 @@ var json=[
           "zc"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "树枝",
@@ -15731,7 +15731,7 @@ var json=[
           "sz"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       }
     ]
   },
@@ -15741,9 +15741,9 @@ var json=[
       "lvsedecaoqun",
       "lsdcq"
     ],
-    "imgRef": "/assets/DIYRecipes/绿色的草裙.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/11/42yo32hbo99c7iq19e1t58wk9m3haii.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15753,7 +15753,7 @@ var json=[
           "zc"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       }
     ]
   },
@@ -15763,9 +15763,9 @@ var json=[
       "jinsebuchongwang",
       "jsbcw"
     ],
-    "imgRef": "/assets/DIYRecipes/金色捕虫网.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e6/qfpr88bxi4uj5qwrlc193vvxicezr5f.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15775,7 +15775,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "捕虫网",
@@ -15784,7 +15784,7 @@ var json=[
           "bcw"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/捕虫网.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/3/3c/ehjxddabg2r4thg00w3eaz29jvi3a83.png/100px-ToolNetNormal.png"
       }
     ]
   },
@@ -15794,7 +15794,7 @@ var json=[
       "yinghuabang",
       "yhb"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花棒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9f/22kfsd1tcuecuuz4l7pl8sxf4wg84jg.png",
     "category": "工具",
     "access": "气球礼物",
     "size": "1.0×1.0",
@@ -15806,7 +15806,7 @@ var json=[
           "yhhb"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       },
       {
         "name": "星星碎片",
@@ -15815,7 +15815,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -15825,9 +15825,9 @@ var json=[
       "xuerentoutao",
       "xrtt"
     ],
-    "imgRef": "/assets/DIYRecipes/雪人头套.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c0/qh1hmpjt7kbsttd8ikqbfx7cnesdnke.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15837,7 +15837,7 @@ var json=[
           "dxh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/大雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/0/0c/ofxt6upoxbdgnw2qnaipbjt2x2ts4g3.png/100px-SnowCrystalLarge.png"
       },
       {
         "name": "雪花",
@@ -15846,7 +15846,7 @@ var json=[
           "xh"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/雪花.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/6c/qfd69mibyu859lmay2yurdd2tsdcznm.png/100px-SnowCrystal.png"
       }
     ]
   },
@@ -15856,9 +15856,9 @@ var json=[
       "zhuzhiyangshengqi",
       "zzysq"
     ],
-    "imgRef": "/assets/DIYRecipes/竹制扬声器.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e2/cfvecqpvqxa2zm77tovi10icaqnb1md.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15868,7 +15868,7 @@ var json=[
           "zzcl"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       },
       {
         "name": "铁矿石",
@@ -15877,7 +15877,7 @@ var json=[
           "tks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -15887,9 +15887,9 @@ var json=[
       "lizimaozi",
       "lzmz"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子帽子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/24/8auvb2hz5qk4m68po8wsly2vqn5hflf.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15899,7 +15899,7 @@ var json=[
           "lz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       }
     ]
   },
@@ -15909,7 +15909,7 @@ var json=[
       "jiaochagezha",
       "jcgz"
     ],
-    "imgRef": "/assets/DIYRecipes/交叉格栅.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9c/6jw91qkkrmlzw1tj5sisz4phhyj3jw1.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0×1.0",
@@ -15921,7 +15921,7 @@ var json=[
           "rmc"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -15931,9 +15931,9 @@ var json=[
       "pingguoyusan",
       "pgys"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bd/ct28weyxu8f2zpwv7sr3bqg9ljemycv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15943,7 +15943,7 @@ var json=[
           "pg"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       }
     ]
   },
@@ -15953,9 +15953,9 @@ var json=[
       "yingtaofu",
       "ytf"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃服.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/49/bep01okyz0qw1174npgtnhkq5uplv98.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -15965,7 +15965,7 @@ var json=[
           "yt"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       }
     ]
   },
@@ -15975,7 +15975,7 @@ var json=[
       "shensezhuzidedian",
       "sszzdd"
     ],
-    "imgRef": "/assets/DIYRecipes/深色竹子地垫.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/92/3yhiqol9nuuc6eh6y8bp278o2t5pkzf.png",
     "category": "墙壁·地板·地垫",
     "access": "漂流瓶",
     "size": "3.0×2.0",
@@ -15987,7 +15987,7 @@ var json=[
           "zzcl"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -15997,9 +15997,9 @@ var json=[
       "yingtaomaozi",
       "ytmz"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃帽子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9b/du1jf5pv16j537gyelzg046y4kgx8q9.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16009,7 +16009,7 @@ var json=[
           "yt"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       }
     ]
   },
@@ -16019,9 +16019,9 @@ var json=[
       "yingtaoyusan",
       "ytys"
     ],
-    "imgRef": "/assets/DIYRecipes/樱桃雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c1/5tujaql9888ldl23o8dg2ti0298x10t.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16031,7 +16031,7 @@ var json=[
           "yt"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/樱桃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/20/lcoqs66d1yvq9lkcwpq7ilitswand19.png/100px-Cherry.png"
       }
     ]
   },
@@ -16041,9 +16041,9 @@ var json=[
       "taozifu",
       "tzf"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子服.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/17/2civjq8peev86eo3gluk2t0gnk42efv.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16053,7 +16053,7 @@ var json=[
           "tz"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -16063,9 +16063,9 @@ var json=[
       "jinsegusheyu",
       "jsgsy"
     ],
-    "imgRef": "/assets/DIYRecipes/金色骨舌鱼.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1f/ss9nszxzs7kfcgunf73lowthf68ynjw.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16075,7 +16075,7 @@ var json=[
           "jks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       }
     ]
   },
@@ -16085,9 +16085,9 @@ var json=[
       "taozimaozi",
       "tzmz"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子帽子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/7d/9mvv0icb65pibara3oscsyjvr5puklc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16097,7 +16097,7 @@ var json=[
           "tz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -16107,9 +16107,9 @@ var json=[
       "liziyusan",
       "lzys"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f3/68aixfzpsax5losgvc975j0i46namec.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16119,7 +16119,7 @@ var json=[
           "lz"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       }
     ]
   },
@@ -16129,9 +16129,9 @@ var json=[
       "xingxingtoutao",
       "xxtt"
     ],
-    "imgRef": "/assets/DIYRecipes/星星头套.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4b/ngskzpsiep5ftixmbq7dzgxttvfrwxr.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16141,7 +16141,7 @@ var json=[
           "xxsp"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -16151,9 +16151,9 @@ var json=[
       "huangjinchilun",
       "hjcl"
     ],
-    "imgRef": "/assets/DIYRecipes/黄金齿轮.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e0/da6091fzd5f9btwjomn6uf04jcss9tw.png",
     "category": "壁挂物",
-    "access": "未知",
+    "access": "",
     "size": "2.0×1.0",
     "materials": [
       {
@@ -16163,7 +16163,7 @@ var json=[
           "jks"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/金矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/89/nt22g0i6saczdoixk4ar3315tbged1s.png/100px-DIYGold.png"
       },
       {
         "name": "铁矿石",
@@ -16172,7 +16172,7 @@ var json=[
           "tks"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -16182,7 +16182,7 @@ var json=[
       "yinghuayusan",
       "yhys"
     ],
-    "imgRef": "/assets/DIYRecipes/樱花雨伞.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/71/3l1c4lym49d1bg7zdg0wfva5zcbe1ry.png",
     "category": "季节手册",
     "access": "气球",
     "size": "1.0×1.0",
@@ -16194,7 +16194,7 @@ var json=[
           "yhhb"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/樱花花瓣.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b1/4bhal40jwht0cph1hj120kq8l1rwe32.png/100px-Sakurapetal.png"
       }
     ]
   },
@@ -16204,9 +16204,9 @@ var json=[
       "pingguofu",
       "pgf"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果服.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/be/sho3t8f8i1oil3vhjidqkh7yz2ch05s.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16216,7 +16216,7 @@ var json=[
           "pg"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       }
     ]
   },
@@ -16226,9 +16226,9 @@ var json=[
       "zhudengzi",
       "zdz"
     ],
-    "imgRef": "/assets/DIYRecipes/竹凳子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d5/b2qzwpys99me0f0605t23uv05v2q2f8.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16238,7 +16238,7 @@ var json=[
           "zzcl"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/竹子材料.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d7/3m0q9lwwjccn8f5mqhfeavd68cqpvtj.png/100px-DIYBamboo.png"
       }
     ]
   },
@@ -16248,9 +16248,9 @@ var json=[
       "pingguomaozi",
       "pgmz"
     ],
-    "imgRef": "/assets/DIYRecipes/苹果帽子.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d9/h4gyco2ihhe1a288j64g950rfpe5gdp.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16260,7 +16260,7 @@ var json=[
           "pg"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/苹果.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/7/7d/7yn6leytcsrmqjkialltooepg4jx38t.png/100px-Apple.png"
       }
     ]
   },
@@ -16270,7 +16270,7 @@ var json=[
       "pusumuzhizhalan",
       "psmzzl"
     ],
-    "imgRef": "/assets/DIYRecipes/朴素木制栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4a/n169rsh5mq1t7g97qknxlnshc4i1e65.png",
     "category": "其他",
     "access": "狸端机兑换",
     "size": "1.0x1.0",
@@ -16282,7 +16282,7 @@ var json=[
           "rmc"
         ],
         "count": "6",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -16292,9 +16292,9 @@ var json=[
       "taoziyusan",
       "tzys"
     ],
-    "imgRef": "/assets/DIYRecipes/桃子雨伞.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/0c/tncima3ybljppgyetgr75cxd36x8ypz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16304,7 +16304,7 @@ var json=[
           "tz"
         ],
         "count": "7",
-        "imgRef": "/assets/DIYMaterials/桃子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e2/i9n471453ad7k5omrzl80jkhuzyjuny.png/100px-Peach.png"
       }
     ]
   },
@@ -16314,9 +16314,9 @@ var json=[
       "lizifu",
       "lzf"
     ],
-    "imgRef": "/assets/DIYRecipes/梨子服.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/5/52/i9xlbiiqw97f9ks1jkxhwzcvs81mzr5.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16326,7 +16326,7 @@ var json=[
           "lz"
         ],
         "count": "8",
-        "imgRef": "/assets/DIYMaterials/梨子.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/b0/spveljnme737dfamergqm9njohamj2g.png/100px-Pear.png"
       }
     ]
   },
@@ -16336,7 +16336,7 @@ var json=[
       "fuhuojiezhuo",
       "fhjz"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节桌.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/4c/92rx1rzrznaomm8cs41qo9whvme86a2.png",
     "category": "家具",
     "access": "漂流瓶/气球",
     "size": "1.0x1.0",
@@ -16348,7 +16348,7 @@ var json=[
           "dmd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       }
     ]
   },
@@ -16358,7 +16358,7 @@ var json=[
       "fuhuojiedeng",
       "fhjd"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节灯.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/29/9bqyg7x9o4369rkg77eoemxjclzzgic.png",
     "category": "小物件/季节手册",
     "access": "漂流瓶/气球",
     "size": "1.0x1.0",
@@ -16370,7 +16370,7 @@ var json=[
           "sld"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       }
     ]
   },
@@ -16380,7 +16380,7 @@ var json=[
       "fuhuojieqiqiuA",
       "fhjqqA"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节气球A.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d7/nqnqgmduxcuom0ah6o5grgujf7dr46p.png",
     "category": "家具/季节手册",
     "access": "漂流瓶/气球",
     "size": "1.0×1.0",
@@ -16392,7 +16392,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "叶子蛋",
@@ -16401,7 +16401,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "飞天蛋",
@@ -16410,7 +16410,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       }
     ]
   },
@@ -16420,9 +16420,9 @@ var json=[
       "jierituoluo",
       "jrtl"
     ],
-    "imgRef": "/assets/DIYRecipes/节日陀螺.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/2e/8dvpmhnshmhyke2e7gjceobtc0nr9lz.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16432,7 +16432,7 @@ var json=[
           "jszsp"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/金色装饰品.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/9f/lzwgbmfig81jidrvi7m045ugali17u9.png/100px-DIYOrnamentGold.png"
       },
       {
         "name": "硬木材",
@@ -16441,7 +16441,7 @@ var json=[
           "ymc"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       }
     ]
   },
@@ -16451,7 +16451,7 @@ var json=[
       "fuhuojieyigui",
       "fhjyg"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节衣柜.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c7/d6cyfwam6nwagph2e8i6oh19gdep73o.png",
     "category": "家具",
     "access": "漂流瓶/气球",
     "size": "1.0x1.0",
@@ -16463,7 +16463,7 @@ var json=[
           "ysd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       }
     ]
   },
@@ -16473,7 +16473,7 @@ var json=[
       "fuhuojiechuangpu",
       "fhjcp"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节床铺.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9f/m2x2iicip3xef0a393mtyx9fu64pk1s.png",
     "category": "家具",
     "access": "在活动期间与蹦蹦对话获得",
     "size": "2.0x2.0",
@@ -16485,7 +16485,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -16494,7 +16494,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -16503,7 +16503,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -16512,7 +16512,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -16521,7 +16521,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -16530,7 +16530,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -16540,7 +16540,7 @@ var json=[
       "shigongmen",
       "sgm"
     ],
-    "imgRef": "/assets/DIYRecipes/石拱门.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/1c/22h9aunz4uehn4xkmgx83rq4l41ofww.png",
     "category": "家具",
     "access": "狸端机兑换",
     "size": "1.0x3.0",
@@ -16552,7 +16552,7 @@ var json=[
           "st"
         ],
         "count": "90",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -16562,7 +16562,7 @@ var json=[
       "fuhuojieshuzhuangtai",
       "fhjszt"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节梳妆台.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/8c/a5dhmkyezdqkqag6ain2m0kspdss574.png",
     "category": "家具",
     "access": "漂流瓶/气球",
     "size": "1.0x1.0",
@@ -16574,7 +16574,7 @@ var json=[
           "yzd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       }
     ]
   },
@@ -16584,9 +16584,9 @@ var json=[
       "ziranfengfangzhuo",
       "zrffz"
     ],
-    "imgRef": "/assets/DIYRecipes/自然风方桌.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/64/bvcl2e1r5lhzjf4ks1u3zzgjejknums.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16596,7 +16596,7 @@ var json=[
           "ymc"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/硬木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/484qolmkguiw46i05z0lyaqctezq4x2.png/100px-DIYWoodHard.png"
       },
       {
         "name": "铁矿石",
@@ -16605,7 +16605,7 @@ var json=[
           "tks"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       }
     ]
   },
@@ -16615,7 +16615,7 @@ var json=[
       "dimiandanke",
       "dmdk"
     ],
-    "imgRef": "/assets/DIYRecipes/地面蛋壳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d5/hv1wpgxt4zhtxgau4ejr1dtw1lxovcn.png",
     "category": "装备",
     "access": "地面蛋获得时随机顿悟",
     "size": "1*1",
@@ -16627,7 +16627,7 @@ var json=[
           "dmd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       }
     ]
   },
@@ -16637,7 +16637,7 @@ var json=[
       "fuhuojiedengzi",
       "fhjdz"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节凳子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/dc/j5s6dv30x7e3c481n7gjlwmukf0guht.png",
     "category": "家具",
     "access": "漂流瓶/气球",
     "size": "1.0×1.0",
@@ -16649,7 +16649,7 @@ var json=[
           "yed"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -16659,7 +16659,7 @@ var json=[
       "jietougangqin",
       "jtgq"
     ],
-    "imgRef": "/assets/DIYRecipes/街头钢琴.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/a/a3/0hwk3t3vemil45pqs56dit3cibqjwdk.png",
     "category": "家具",
     "access": "村民赠送",
     "size": "2.0×1.0",
@@ -16671,7 +16671,7 @@ var json=[
           "zlsgq"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/直立式钢琴.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/a/a7/m6pdqitk2c8pwsn6fecfk7liqst81xp.png/100px-FtrPianoUpright.png"
       },
       {
         "name": "水彩用具组合",
@@ -16680,7 +16680,7 @@ var json=[
           "scyjzh"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/水彩用具组合.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e0/e1q7sez4wwgtr8yzd56mrub3tw9ht9e.png/100px-FtrPaintset.png"
       }
     ]
   },
@@ -16690,7 +16690,7 @@ var json=[
       "fuhuojieqiqiuB",
       "fhjqqB"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节气球B.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/f6/kp2il9xq8lktmd8yjp4mpopw3uumqqx.png",
     "category": "家具/季节手册",
     "access": "漂流瓶/气球",
     "size": "1.0x1.0",
@@ -16702,7 +16702,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "森林蛋",
@@ -16711,7 +16711,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "鱼儿蛋",
@@ -16720,7 +16720,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -16730,7 +16730,7 @@ var json=[
       "fuhuojiegongmen",
       "fhjgm"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节拱门.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cb/87f0ub43sugi5swmxcbyj67ibmu340h.png",
     "category": "家具",
     "access": "在4月12日与蹦蹦对话获得",
     "size": "3.0x1.0",
@@ -16742,7 +16742,7 @@ var json=[
           "dmd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -16751,7 +16751,7 @@ var json=[
           "ysd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -16760,7 +16760,7 @@ var json=[
           "yzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -16769,7 +16769,7 @@ var json=[
           "sld"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -16778,7 +16778,7 @@ var json=[
           "ftd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -16787,7 +16787,7 @@ var json=[
           "yed"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -16797,7 +16797,7 @@ var json=[
       "yanshidanke",
       "ysdk"
     ],
-    "imgRef": "/assets/DIYRecipes/岩石蛋壳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/10/0zs0gnfps7xale9z61zbn0ybjo40fxe.png",
     "category": "装备",
     "access": "岩石蛋获得时随机顿悟",
     "size": "1*1",
@@ -16809,7 +16809,7 @@ var json=[
           "ysd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       }
     ]
   },
@@ -16819,7 +16819,7 @@ var json=[
       "fuhuojiedengchuan",
       "fhjdc"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节灯串.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/de/i4f890cvhyt0u0puq2id65qpwj4g6uq.png",
     "category": "壁挂物",
     "access": "漂流瓶/气球",
     "size": "2.0x1.0",
@@ -16831,7 +16831,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -16840,7 +16840,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -16849,7 +16849,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -16858,7 +16858,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -16867,7 +16867,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -16876,7 +16876,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -16886,9 +16886,9 @@ var json=[
       "shibei",
       "sb"
     ],
-    "imgRef": "/assets/DIYRecipes/石碑.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/33/9cn4enlztt9h9lsbuouwvfjndxr5a6d.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -16898,7 +16898,7 @@ var json=[
           "st"
         ],
         "count": "12",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -16908,7 +16908,7 @@ var json=[
       "fuhuojiediban",
       "fhjdb"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节地板.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/7/73/6bj0z2lacw95llf6sksfu9lfxjngxxq.png",
     "category": "地板",
     "access": "漂流瓶/气球",
     "size": "一个房间",
@@ -16920,7 +16920,7 @@ var json=[
           "dmd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -16929,7 +16929,7 @@ var json=[
           "ysd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -16938,7 +16938,7 @@ var json=[
           "yzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -16947,7 +16947,7 @@ var json=[
           "sld"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -16956,7 +16956,7 @@ var json=[
           "ftd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -16965,7 +16965,7 @@ var json=[
           "yed"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -16975,7 +16975,7 @@ var json=[
       "bengbengbudaowawa",
       "bbbdww"
     ],
-    "imgRef": "/assets/DIYRecipes/蹦蹦不倒娃娃.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cf/ohjual6b2o581kbux88ceizpdclg5ku.png",
     "category": "小物件",
     "access": "集齐所有复活节家具后可获得配方",
     "size": "1.0x1.0",
@@ -16987,7 +16987,7 @@ var json=[
           "dmd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -16996,7 +16996,7 @@ var json=[
           "ysd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17005,7 +17005,7 @@ var json=[
           "yzd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17014,7 +17014,7 @@ var json=[
           "sld"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17023,7 +17023,7 @@ var json=[
           "ftd"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17032,7 +17032,7 @@ var json=[
           "yed"
         ],
         "count": "4",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17042,7 +17042,7 @@ var json=[
       "fuhuojiebizhong",
       "fhjbz"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节壁钟.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/35/auv9zbriw6i13t1zba2z1n4q5ahx4e0.png",
     "category": "壁挂物",
     "access": "漂流瓶/气球",
     "size": "1.0x1.5",
@@ -17054,7 +17054,7 @@ var json=[
           "ftd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       }
     ]
   },
@@ -17064,9 +17064,9 @@ var json=[
       "diaitingyuanshi",
       "datys"
     ],
-    "imgRef": "/assets/DIYRecipes/低矮庭院石.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/bd/psm4iqdgg51nl26msw61tqolhnbr8bc.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -17076,7 +17076,7 @@ var json=[
           "st"
         ],
         "count": "20",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   },
@@ -17086,7 +17086,7 @@ var json=[
       "danpaiduimao",
       "dpdm"
     ],
-    "imgRef": "/assets/DIYRecipes/蛋派对帽.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/62/kdkq319axkmh58a7tjkamnvinixb4no.png",
     "category": "装备",
     "access": "习得全部六种服装配方后获得",
     "size": "1*1",
@@ -17098,7 +17098,7 @@ var json=[
           "dmd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -17107,7 +17107,7 @@ var json=[
           "ysd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17116,7 +17116,7 @@ var json=[
           "yzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17125,7 +17125,7 @@ var json=[
           "sld"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17134,7 +17134,7 @@ var json=[
           "ftd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17143,7 +17143,7 @@ var json=[
           "yed"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17153,7 +17153,7 @@ var json=[
       "yuerdanxiezi",
       "yedxz"
     ],
-    "imgRef": "/assets/DIYRecipes/鱼儿蛋鞋子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/f/fc/9vr3w2cw4r2yzx9k8mrghb6n3o5fgs8.png",
     "category": "装备",
     "access": "鱼儿蛋获得时随机顿悟",
     "size": "1*1",
@@ -17165,7 +17165,7 @@ var json=[
           "yed"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17175,7 +17175,7 @@ var json=[
       "yezidanyifu",
       "yzdyf"
     ],
-    "imgRef": "/assets/DIYRecipes/叶子蛋衣服.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/cb/fxzl2mmic9dh6hjfy3pjb9t810sea41.png",
     "category": "装备",
     "access": "叶子蛋获得时随机顿悟",
     "size": "1x1",
@@ -17187,7 +17187,7 @@ var json=[
           "yzd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       }
     ]
   },
@@ -17197,7 +17197,7 @@ var json=[
       "senlindanke",
       "sldk"
     ],
-    "imgRef": "/assets/DIYRecipes/森林蛋壳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6f/iukn9usgmbjh5a3i64sncx7rxk2kwvb.png",
     "category": "装备",
     "access": "森林蛋获得时随机顿悟",
     "size": "1*1",
@@ -17209,7 +17209,7 @@ var json=[
           "sld"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       }
     ]
   },
@@ -17219,7 +17219,7 @@ var json=[
       "yanshidanxiezi",
       "ysdxz"
     ],
-    "imgRef": "/assets/DIYRecipes/岩石蛋鞋子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/8/89/ndbaa51woz5d831kxxjgswayy94umkg.png",
     "category": "装备",
     "access": "岩石蛋获得时随机顿悟",
     "size": "1*1",
@@ -17231,7 +17231,7 @@ var json=[
           "ysd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       }
     ]
   },
@@ -17241,7 +17241,7 @@ var json=[
       "fuhuojiebaobao",
       "fhjbb"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节包包.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c1/7fz6fefktl7x1i5ozqftl5g9usv1ch8.png",
     "category": "装备",
     "access": "与岛民对话获得",
     "size": "1*1",
@@ -17253,7 +17253,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -17262,7 +17262,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17271,7 +17271,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17280,7 +17280,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17289,7 +17289,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17298,7 +17298,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17308,7 +17308,7 @@ var json=[
       "fuhuojiehuahuan",
       "fhjhh"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节花环.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b6/90fmw1gxfw20lfw6msuxgqowtxcay4m.png",
     "category": "壁挂物/季节手册",
     "access": "与岛民对话获得",
     "size": "1.0×1.0",
@@ -17320,7 +17320,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -17329,7 +17329,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17338,7 +17338,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17347,7 +17347,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17356,7 +17356,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17365,7 +17365,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17375,7 +17375,7 @@ var json=[
       "senlindanyifu",
       "sldyf"
     ],
-    "imgRef": "/assets/DIYRecipes/森林蛋衣服.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/4/45/azgpmg82fwfr8lr2x6lx6khmsk4xtwr.png",
     "category": "装备",
     "access": "森林蛋获得时随机顿悟",
     "size": "1*1",
@@ -17387,7 +17387,7 @@ var json=[
           "sld"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       }
     ]
   },
@@ -17397,7 +17397,7 @@ var json=[
       "feitiandanke",
       "ftdk"
     ],
-    "imgRef": "/assets/DIYRecipes/飞天蛋壳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/99/mn3tei99j17p63v95ajpnqsg44m7fh0.png",
     "category": "装备",
     "access": "飞天蛋获得时随机顿悟",
     "size": "1*1",
@@ -17409,7 +17409,7 @@ var json=[
           "ftd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       }
     ]
   },
@@ -17419,7 +17419,7 @@ var json=[
       "yezidanxiezi",
       "yzdxz"
     ],
-    "imgRef": "/assets/DIYRecipes/叶子蛋鞋子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/01/insz174ykj6hj62wcrjel1y4w661p3s.png",
     "category": "装备",
     "access": "叶子蛋获得时随机顿悟",
     "size": "1*1",
@@ -17431,7 +17431,7 @@ var json=[
           "yzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       }
     ]
   },
@@ -17441,7 +17441,7 @@ var json=[
       "danpaiduilianshenqun",
       "dpdlsq"
     ],
-    "imgRef": "/assets/DIYRecipes/蛋派对连身裙.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b0/fzkkrnzpcyig2dw58dky0s285fg0ca5.png",
     "category": "装备",
     "access": "习得全部六种服装配方后获得",
     "size": "1*1",
@@ -17453,7 +17453,7 @@ var json=[
           "dmd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -17462,7 +17462,7 @@ var json=[
           "ysd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17471,7 +17471,7 @@ var json=[
           "yzd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17480,7 +17480,7 @@ var json=[
           "sld"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17489,7 +17489,7 @@ var json=[
           "ftd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17498,7 +17498,7 @@ var json=[
           "yed"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17508,7 +17508,7 @@ var json=[
       "fuhuojiebang",
       "fhjb"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节棒.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/95/3obinn7p434ffrf4n1izpg0ygvlykwu.png",
     "category": "工具",
     "access": "做出蹦蹦不倒娃娃之后获得",
     "size": "1.0x1.0",
@@ -17520,7 +17520,7 @@ var json=[
           "bbbdww"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/蹦蹦不倒娃娃.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/cf/ohjual6b2o581kbux88ceizpdclg5ku.png/100px-FtrDollPyn.png"
       },
       {
         "name": "星星碎片",
@@ -17529,7 +17529,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -17539,7 +17539,7 @@ var json=[
       "feitiandanyifu",
       "ftdyf"
     ],
-    "imgRef": "/assets/DIYRecipes/飞天蛋衣服.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c9/pcr7ul0ydyfo55aaus11n35thf4jgmd.png",
     "category": "装备",
     "access": "飞天蛋获得时随机顿悟",
     "size": "1*1",
@@ -17551,7 +17551,7 @@ var json=[
           "ftd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       }
     ]
   },
@@ -17561,7 +17561,7 @@ var json=[
       "yuerdanke",
       "yedk"
     ],
-    "imgRef": "/assets/DIYRecipes/鱼儿蛋壳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/c/c2/j52kk6d5vij6iewhxuguy1q4szzsmz7.png",
     "category": "装备",
     "access": "鱼儿蛋获得时随机顿悟",
     "size": "1x1",
@@ -17573,7 +17573,7 @@ var json=[
           "yed"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17583,7 +17583,7 @@ var json=[
       "senlindanxiezi",
       "sldxz"
     ],
-    "imgRef": "/assets/DIYRecipes/森林蛋鞋子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/9/9e/dgcnurf5tp1dx53hghomnjj47336u33.png",
     "category": "装备",
     "access": "森林蛋获得时随机顿悟",
     "size": "1x1",
@@ -17595,7 +17595,7 @@ var json=[
           "sld"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       }
     ]
   },
@@ -17605,7 +17605,7 @@ var json=[
       "dimiandanyifu",
       "dmdyf"
     ],
-    "imgRef": "/assets/DIYRecipes/地面蛋衣服.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/da/r1oy8zfa8q5jp6nnjkkcu6h6s7muzv8.png",
     "category": "装备",
     "access": "地面蛋获得时随机顿悟",
     "size": "1x1",
@@ -17617,7 +17617,7 @@ var json=[
           "dmd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       }
     ]
   },
@@ -17627,7 +17627,7 @@ var json=[
       "yuerdanyifu",
       "yedyf"
     ],
-    "imgRef": "/assets/DIYRecipes/鱼儿蛋衣服.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e3/sefjk7ibel2fjet4oh8hs22xh9250ja.png",
     "category": "装备",
     "access": "鱼儿蛋获得时随机顿悟",
     "size": "1x1",
@@ -17639,7 +17639,7 @@ var json=[
           "yed"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17649,7 +17649,7 @@ var json=[
       "fuhuojiehuaguan",
       "fhjhg"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节花冠.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/b/b8/5uudzjvyu9mqw3o33furdcmg8p0s4vp.png",
     "category": "装备",
     "access": "与岛民对话获得",
     "size": "1*1",
@@ -17661,7 +17661,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -17670,7 +17670,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17679,7 +17679,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17688,7 +17688,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17697,7 +17697,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17706,7 +17706,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17716,7 +17716,7 @@ var json=[
       "feitiandanxiezi",
       "ftdxz"
     ],
-    "imgRef": "/assets/DIYRecipes/飞天蛋鞋子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/14/78nzxb57hb3rbv9g6ejbwonmmfmixil.png",
     "category": "装备",
     "access": "飞天蛋获得时随机顿悟",
     "size": "1x1",
@@ -17728,7 +17728,7 @@ var json=[
           "ftd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       }
     ]
   },
@@ -17738,7 +17738,7 @@ var json=[
       "yanshidanyifu",
       "ysdyf"
     ],
-    "imgRef": "/assets/DIYRecipes/岩石蛋衣服.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/1/14/tgysl82pjz6ec3sdsfgheed2lm7o4ne.png",
     "category": "装备",
     "access": "岩石蛋获得时随机顿悟",
     "size": "1x1",
@@ -17750,7 +17750,7 @@ var json=[
           "ysd"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       }
     ]
   },
@@ -17760,7 +17760,7 @@ var json=[
       "yezidanke",
       "yzdk"
     ],
-    "imgRef": "/assets/DIYRecipes/叶子蛋壳.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/6/6c/rdj3ums8hmbjfsk43xkvi6b13vahcd0.png",
     "category": "装备",
     "access": "叶子蛋获得时随机顿悟",
     "size": "1x1",
@@ -17772,7 +17772,7 @@ var json=[
           "yzd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       }
     ]
   },
@@ -17782,7 +17782,7 @@ var json=[
       "dimiandanxiezi",
       "dmdxz"
     ],
-    "imgRef": "/assets/DIYRecipes/地面蛋鞋子.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/0/00/cbi5qizktlsrjvhid8mo3eoj5bp8aqz.png",
     "category": "装备",
     "access": "地面蛋获得时随机顿悟",
     "size": "1x1",
@@ -17794,7 +17794,7 @@ var json=[
           "dmd"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       }
     ]
   },
@@ -17804,7 +17804,7 @@ var json=[
       "fuhuojiezhalan",
       "fhjzl"
     ],
-    "imgRef": "/assets/DIYRecipes/复活节栅栏.png",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/e/e2/idqda7zp38kvs57icwl6n6xolwq0k0q.png",
     "category": "其他",
     "access": "漂流瓶/气球",
     "size": "1.0x1.0",
@@ -17816,7 +17816,7 @@ var json=[
           "dmd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/地面蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/d/d6/4yh6hezpnf4t5j4795cigpurc8l22zk.png/100px-EggGround.png"
       },
       {
         "name": "岩石蛋",
@@ -17825,7 +17825,7 @@ var json=[
           "ysd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/岩石蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/9/97/hlv9x7wq79y7xovceildjjnlru903dm.png/100px-EggRock.png"
       },
       {
         "name": "叶子蛋",
@@ -17834,7 +17834,7 @@ var json=[
           "yzd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/叶子蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/e/e6/q5bfn0x8109faeynmu0s1mj581tyj0p.png/100px-EggLeaf.png"
       },
       {
         "name": "森林蛋",
@@ -17843,7 +17843,7 @@ var json=[
           "sld"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/森林蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/64/qh3r3ykwehs9ordiuewu4psj2r7ki88.png/100px-EggForest.png"
       },
       {
         "name": "飞天蛋",
@@ -17852,7 +17852,7 @@ var json=[
           "ftd"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/飞天蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/b/bc/c9sdpnh9wl8k1m63u0bjpn9u2dxivir.png/100px-EggSky.png"
       },
       {
         "name": "鱼儿蛋",
@@ -17861,7 +17861,7 @@ var json=[
           "yed"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/鱼儿蛋.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/1/18/3xwdg8u8v3dhi0ts7dfkpas3fy2awjy.png/100px-EggFish.png"
       }
     ]
   },
@@ -17871,9 +17871,9 @@ var json=[
       "hunlizhalan",
       "hlzl"
     ],
-    "imgRef": "/assets/DIYRecipes/婚礼栅栏.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/d/d6/78wvr9dr0rpurnuf4ueu7ar28b9y77p.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -17883,7 +17883,7 @@ var json=[
           "tks"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/铁矿石.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/5/52/au6q4nfo8qse8cc6ztr9n648zljubbz.png/100px-DIYIron.png"
       },
       {
         "name": "软木材",
@@ -17892,7 +17892,7 @@ var json=[
           "rmc"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/软木材.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8f/4eiay7cb3tp16pols2dyx08ri79nakg.png/100px-DIYWoodSoft.png"
       }
     ]
   },
@@ -17902,9 +17902,9 @@ var json=[
       "hunlibang",
       "hlb"
     ],
-    "imgRef": "/assets/DIYRecipes/婚礼棒.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/2/28/3vqxzcmxy8s3xpfhzo7vjfyx8q0f251.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -17914,7 +17914,7 @@ var json=[
           "hlhj"
         ],
         "count": "1",
-        "imgRef": "/assets/DIYMaterials/婚礼花架.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/8/8e/p9qfynz7cw4oh48h4td22z0gbbpbtib.png/100px-FtrWeddingFlower_Remake_0_0.png"
       },
       {
         "name": "星星碎片",
@@ -17923,7 +17923,7 @@ var json=[
           "xxsp"
         ],
         "count": "3",
-        "imgRef": "/assets/DIYMaterials/星星碎片.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/6/67/omttta4e81hs3gcu3esdkz84jrpmlxf.png/100px-Starpiece.png"
       }
     ]
   },
@@ -17933,9 +17933,9 @@ var json=[
       "shuli",
       "sl"
     ],
-    "imgRef": "/assets/DIYRecipes/树篱.png",
-    "category": "其它",
-    "access": "未知",
+    "imgRef": "https://patchwiki.biligame.com/images/dongsen/3/3d/02nlluantayzsnxypqfzz7zy6dzhb1i.png",
+    "category": "",
+    "access": "",
     "size": "",
     "materials": [
       {
@@ -17945,7 +17945,7 @@ var json=[
           "zc"
         ],
         "count": "10",
-        "imgRef": "/assets/DIYMaterials/杂草.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/c/c6/d4ouib64q01i2t4je1ai4l0saicd7ge.png/100px-PltWeed.png"
       },
       {
         "name": "树枝",
@@ -17954,7 +17954,7 @@ var json=[
           "sz"
         ],
         "count": "5",
-        "imgRef": "/assets/DIYMaterials/树枝.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/27/ixqoe04nebkij24ixr1hpyb41lrrnb4.png/100px-DIYBranch.png"
       },
       {
         "name": "石头",
@@ -17963,7 +17963,7 @@ var json=[
           "st"
         ],
         "count": "2",
-        "imgRef": "/assets/DIYMaterials/石头.png"
+        "imgRef": "https://patchwiki.biligame.com/images/dongsen/thumb/2/22/dgcfesqdbtkss4ffuh1rt2j328918vv.png/100px-DIYStone.png"
       }
     ]
   }
