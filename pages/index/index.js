@@ -34,6 +34,12 @@ Page({
     })
   },
 
+  onclick_diyrecipe:function(){
+    wx.navigateTo({
+        url: '../DIY-recipes/DIY-recipes',
+    })
+  },
+
   onTapEncourageAd:function(e){
     // 用户触发广告后，显示激励视频广告
     if (encourageAd) {

@@ -44,3 +44,8 @@ p.detail{
   background: white;
   font-size: small;
 }
+
+.adContainer{
+  position: relative;
+  top: 1em;
+}

@@ -1,0 +1,88 @@
+/* pages/DIYRecipes/detail.wxss */
+
+view.detail-img{
+  display: flex;
+  height: 33%;
+  justify-content: center;
+}
+image.detail-img{
+  width: 128px;
+  height: 128px;
+  padding: 2em 4em 2em 4em;
+}
+
+view.detail{
+  margin: 2em 1em 2em 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+view.detail p.name{
+  font-size: 20px;
+  margin: 0 0 1em 0;
+  padding: 0 0.3em;
+}
+
+view.detail p.info{
+  font-size: 14px;
+  margin: 0 0 0.2em 0;
+  padding: 0 0.5em;
+}
+
+view.mat-list{
+  margin: 0 0 1em 0;
+}
+
+view.mat-list .item{
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 0em 0em 0.5em 0;
+}
+
+view.mat-list .item .mat-thumbnail{
+  width: 2em;
+  height: 2em;
+}
+
+view.mat-list .item .name{
+  font-size: 12px;
+}
+view.mat-list .item .count{
+  font-size: 12px;
+}
+
+.flex-row{
+  display: flex;
+}
+
+.flex-mp{
+  flex: 1 1 4em;
+}
+
+.align-items-center{
+  align-items: center;
+}
+
+.align-items-start{
+  align-items: flex-start;
+}
+
+.justify-spc-bt{
+  justify-content: space-between;
+}
+
+.color-lg{
+  color: rgb(161, 161, 161);
+}
+
+.border-btm{
+  border-bottom: 1px solid rgb(161, 161, 161);
+  margin-bottom: 0.5em;
+}
+
+.adContainer{
+  position: relative;
+  top: 1em;
+}
+

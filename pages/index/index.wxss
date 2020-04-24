@@ -28,11 +28,6 @@
   font-weight: bold;
 }
 
-.adContainer{
-  position: relative;
-  top: 1em;
-}
-
 .bd{
   margin: 8em 8em 1em 8em;
   padding:0.6em;

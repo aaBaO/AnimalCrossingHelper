@@ -1,26 +1,27 @@
 <!--index.wxml-->
 <view class="navi-button magin-top" bindtap="onclick_turnip_price">
-  <image class="icon" mode="aspectFit" src="../../assets/turnip.png"></image>
+  <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
   <text class="btn-text">大头菜预测</text>
-  <image class="icon" mode="aspectFit" src="../../assets/turnip.png"></image>
+  <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
 </view>
 <view class="navi-button" bindtap="onclick_fishdex">
-  <image class="icon" mode="aspectFit" src="../../assets/fish/NH_Icon_Sea_bass.png"></image>
+  <image class="icon" mode="aspectFit" src="/assets/fish/NH_Icon_Sea_bass.png"></image>
   <text class="btn-text">鱼类图鉴</text>
-  <image class="icon" mode="aspectFit" src="../../assets/fish/NH_Icon_Sea_bass.png"></image>
+  <image class="icon" mode="aspectFit" src="/assets/fish/NH_Icon_Sea_bass.png"></image>
 </view>
 <view class="navi-button" bindtap="onclick_bugdex">
-  <image class="icon" mode="aspectFit" src="../../assets/bug/NH_Icon_Emperor_butterfly.png"></image>
+  <image class="icon" mode="aspectFit" src="/assets/bug/NH_Icon_Emperor_butterfly.png"></image>
   <text class="btn-text">昆虫图鉴</text>
-  <image class="icon" mode="aspectFit" src="../../assets/bug/NH_Icon_Emperor_butterfly.png"></image>
+  <image class="icon" mode="aspectFit" src="/assets/bug/NH_Icon_Emperor_butterfly.png"></image>
+</view>
+<view class="navi-button" bindtap="onclick_diyrecipe">
+  <image class="icon" mode="aspectFit" src="/assets/DIYRecipes/朴素DIY作业台.png"></image>
+  <text class="btn-text">DIY图鉴</text>
+  <image class="icon" mode="aspectFit" src="/assets/DIYRecipes/朴素DIY作业台.png"></image>
 </view>
 
 <view class="desc" style="text-align:center">
     <button class="bd mg0101" bindtap="onTapEncourageAd">激励开发者</button>
     <text class="tips">目前小程序还在不断更新，欢迎反馈。
     </text>
-</view>
-
-<view class="adContainer">
-  <ad unit-id="adunit-d4d8b6881caf61c7" ad-intervals="30"></ad>
 </view>

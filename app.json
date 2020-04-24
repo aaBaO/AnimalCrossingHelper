@@ -4,7 +4,9 @@
     "pages/fishdex/fishdex",
     "pages/bugdex/bugdex",
     "pages/dexDetailInfo/dexDetailInfo",
-    "pages/turnip-prices/turnip-prices"
+    "pages/turnip-prices/turnip-prices",
+    "pages/DIY-recipes/DIY-recipes",
+    "pages/DIY-recipes/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",

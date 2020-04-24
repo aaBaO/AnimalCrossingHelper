@@ -66,3 +66,7 @@
         </view>
     </view>
 </view>
+
+<view class="adContainer">
+  <ad unit-id="adunit-d4d8b6881caf61c7" ad-intervals="30"></ad>
+</view>

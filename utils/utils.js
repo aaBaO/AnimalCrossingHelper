@@ -38,7 +38,6 @@ const pageScrollToId = function (page, id, offset) {
  * return URL参数字符串
  */
 const urlEncode = (param,idx, key, encode)=> {
-  console.log('idx',idx)
   if(param==null) return ''
   var paramStr = ''
   var t = typeof (param)
