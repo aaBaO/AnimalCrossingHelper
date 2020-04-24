@@ -207,6 +207,10 @@ def GrabDIYRecipes():
         # 名称
         title = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(1) > th')
         recipe['name'] = title.text
+        recipe['pinyin'] = (
+            slug(recipe['name'], style=Style.NORMAL, strict=False, heteronym=False, separator=''), 
+            slug(recipe['name'], style=Style.FIRST_LETTER, strict=False, heteronym=False, separator='')
+        )
 
         # 图片
         img = table.find_element(By.CSS_SELECTOR, 'tr:nth-child(2) > td > div > div.floatnone > a > img')
@@ -244,10 +248,29 @@ def GrabDIYRecipes():
             if not trStyle:
                 material = {}
                 material['name'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text
+                material['pinyin'] = (
+                    slug(material['name'], style=Style.NORMAL, strict=False, heteronym=False, separator=''), 
+                    slug(material['name'], style=Style.FIRST_LETTER, strict=False, heteronym=False, separator='')
+                )
                 material['count'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+                img = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1) > div > div.floatnone > a > img')
+                imgSrcset = img.get_attribute('srcset')
+                img2xURL = imgSrcset.split(',')[-1].split()[0]
+                # 材料图片
+                assetPath = '/assets/DIYMaterials'
+                imgFile = '%s/%s.png' %(assetPath, material['name'])
+                material['imgRef'] = imgFile
+                pyImgFile = '.%s' % imgFile
+                if not os.path.exists(pyImgFile):
+                    imgResponse = requests.get(img2xURL, stream=True)
+                    if imgResponse.status_code == 200:
+                        # 将内容写入图片
+                        open(pyImgFile, 'wb').write(imgResponse.content) 
+                        print("%s..图片下载完成" %(pyImgFile))
+                    del imgResponse
+
                 materials.append(material)
         recipe['materials'] = materials
-
         recipesMap.append(recipe)
         browser.close()
         browser.switch_to_window(originalWindowHandle)
