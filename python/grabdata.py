@@ -10,6 +10,9 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from pypinyin import slug, Style
+import tinify
+
+tinify.key = 'Rk3FNkDK2144jP5Nk7cB3nKwglH3nyXZ'
 
 NorthernHemisiphere = "北半球"
 SouthernHemisiphere = "南半球"
@@ -279,13 +282,98 @@ def GrabDIYRecipes():
     with open('./database/DIYRecipes.js', "w", encoding='utf-8') as f:
         f.seek(0)
         f.write('var json=')
-        json.dump(recipesMap, f, ensure_ascii=False)
+        json.dump(recipesMap, f, ensure_ascii=False, indent=2)
         f.write('\n')
         f.write('module.exports={data:json}')
         print("写入文件完成...")
     browser.close()
 
+def GrabArtData():
+    browser.get('https://www.imore.com/animal-crossing-new-horizons-how-tell-if-redd-selling-fake-art')
+
+    artsMap = []
+    #名画
+    table = browser.find_element(By.CSS_SELECTOR, '#article-65938 > div:nth-child(2) > div > div:nth-child(3) > table > tbody')
+    trs = table.find_elements(By.CSS_SELECTOR, 'tr')
+    for tr in trs:
+        browser.execute_script('window.scrollTo(0,%s-100)' % tr.location['y'])
+        art = {}
+        art['engName'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text.replace(' ', '')
+        art['category'] = '名画'
+        art['engArtist'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+        art['name'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text.replace(' ', '')
+        art['artist'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+        art['pinyin'] = (
+            'pinyin',
+            'py'
+        )
+        img = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(3) > a > img')
+        art['imgSource'] = img.get_attribute('src')
+
+        # 下载图片
+        assetPath = '/assets/arts'
+        imgFile = '%s/%s.png' %(assetPath, art['engName'])
+        downloadFile(art['imgSource'], imgFile)
+
+        artsMap.append(art)
+
+    #雕塑
+    table = browser.find_element(By.CSS_SELECTOR, '#article-65938 > div:nth-child(2) > div > div:nth-child(5) > table > tbody')
+    trs = table.find_elements(By.CSS_SELECTOR, 'tr')
+    for tr in trs:
+        browser.execute_script('window.scrollTo(0,%s-100)' % tr.location['y'])
+        art = {}
+        art['engName'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text.replace(' ', '')
+        art['category'] = '雕塑'
+        art['engAuthor'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+        art['name'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text.replace(' ', '')
+        art['artist'] = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+        art['pinyin'] = (
+            'pinyin',
+            'py'
+        )
+        img = tr.find_element(By.CSS_SELECTOR, 'td:nth-child(3) > a > img')
+        art['imgSource'] = img.get_attribute('src')
+
+        # 下载图片
+        assetPath = '/assets/arts'
+        imgFile = '%s/%s.png' %(assetPath, art['engName'])
+        downloadFile(art['imgSource'], imgFile)
+
+        artsMap.append(art)
+
+    # 写入js文件
+    with open('./database/arts.js', "w", encoding='utf-8') as f:
+        f.seek(0)
+        f.write('var json=')
+        json.dump(artsMap, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+        f.write('module.exports={data:json}')
+        print("写入文件完成...")
+    browser.close()
+
+#下载图片
+def downloadFile(url, filepath):
+    pyFilepath = '.%s' % filepath
+    if not os.path.exists(pyFilepath):
+        imgResponse = requests.get(url, stream=True)
+        if imgResponse.status_code == 200:
+            # 将内容写入图片
+            open(pyFilepath, 'wb').write(imgResponse.content) 
+            print("%s..下载完成" %(pyFilepath))
+            # # 压缩图片
+            # print("%s..开始压缩" %(pyFilepath))
+            # source = tinify.from_file(pyFilepath)
+            # resized = source.resize(
+            #     method="fit",
+            #     width=500,
+            #     height=500
+            # )
+            # resized.to_file(pyFilepath)
+        del imgResponse
+
 browser = webdriver.Chrome()
 # GrabFishData()
 # GrabBugData()
-GrabDIYRecipes()
+# GrabDIYRecipes()
+GrabArtData()
