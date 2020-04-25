@@ -4,6 +4,11 @@
   <text class="btn-text">大头菜预测</text>
   <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
 </view>
+<view class="navi-button" bindtap="onclick_artwork">
+  <image class="icon border-r20" mode="aspectFit" src="/assets/art-icon.png"></image>
+  <text class="btn-text">艺术品图鉴</text>
+  <image class="icon border-r20" mode="aspectFit" src="/assets/art-icon.png"></image>
+</view>
 <view class="navi-button" bindtap="onclick_fishdex">
   <image class="icon" mode="aspectFit" src="/assets/fish-icon.png"></image>
   <text class="btn-text">鱼类图鉴</text>

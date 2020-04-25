@@ -6,7 +6,9 @@
     "pages/dexDetailInfo/dexDetailInfo",
     "pages/turnip-prices/turnip-prices",
     "pages/DIY-recipes/DIY-recipes",
-    "pages/DIY-recipes/detail"
+    "pages/DIY-recipes/detail",
+    "pages/artwork/artwork",
+    "pages/artwork/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,0 +1,15 @@
+<!--pages/artwork/artwork.wxml-->
+<view class="search-bar">
+    <input placeholder="输入名称/全拼/简拼查询" type="text" confirm-type="search"
+        bindinput="onInputSearch" bindconfirm="onConfirmSearch"></input>
+</view>
+
+<view class="list">
+    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !item.hide}}">
+        <view id="item-{{index}}" class="item" 
+            bindtap="onTapMoreInfo" data-key="{{item.engName}}">
+            <image class="thumbnail" mode="aspectFit" src="{{item.imgSource}}" lazy-load="{{true}}"></image>
+            <p class="name">{{item.name}} </p>
+        </view>
+    </block>
+</view>

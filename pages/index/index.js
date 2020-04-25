@@ -39,6 +39,12 @@ Page({
         url: '../DIY-recipes/DIY-recipes',
     })
   },
+  
+  onclick_artwork:function(){
+    wx.navigateTo({
+        url: '../artwork/artwork',
+    })
+  },
 
   onTapEncourageAd:function(e){
     // 用户触发广告后，显示激励视频广告

@@ -1,0 +1,25 @@
+<!--pages/artwork/detail.wxml-->
+<view class="detail-img">
+    <image class="detail-img" mode="aspectFit" src="{{inspectData.imgSource}}" 
+    bindtap="onPreviewImage" data-src="{{inspectData.imgSource}}"></image>
+</view>
+
+<view class="detail">
+    <p class="name">{{inspectData.name}}</p>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-mp">类型</p>
+        <p class="info flex-mp">{{inspectData.category}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-mp">现实作品</p>
+        <p class="info flex-mp">{{inspectData.artist}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-mp">辨别提示</p>
+        <p class="info flex-mp">{{inspectData.tips}}</p>
+    </view>
+</view>
+
+<view class="adContainer">
+  <ad unit-id="adunit-d4d8b6881caf61c7" ad-intervals="30"></ad>
+</view>
