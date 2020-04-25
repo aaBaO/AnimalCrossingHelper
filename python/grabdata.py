@@ -351,6 +351,8 @@ def GrabArtData():
         f.write('module.exports={data:json}')
         print("写入文件完成...")
     browser.close()
+    #真伪数据来源
+    #https://gamerjournalist.com/all-real-paintings-and-statues-in-animal-crossing-new-horizons/
 
 #下载图片
 def downloadFile(url, filepath):
