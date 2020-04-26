@@ -41,6 +41,7 @@ image.thumbnail{
   height: 42px;
   width: 42px;
   flex: 1 1 42px;
+  padding: 0.2em 0;
 }
 
 .name{

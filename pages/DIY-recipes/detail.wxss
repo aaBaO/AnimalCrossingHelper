@@ -25,7 +25,6 @@ view.detail p.name{
 
 view.detail p.info{
   font-size: 14px;
-  margin: 0 0 0.2em 0;
   padding: 0 0.5em;
 }
 
@@ -77,8 +76,8 @@ view.mat-list .item .count{
 }
 
 .border-btm{
-  border-bottom: 1px solid rgb(161, 161, 161);
-  margin-bottom: 0.5em;
+  border-bottom: 1px solid #eeeeee;
+  padding: 0.6em 0;
 }
 
 .adContainer{

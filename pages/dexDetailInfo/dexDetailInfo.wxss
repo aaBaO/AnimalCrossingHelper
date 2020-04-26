@@ -7,7 +7,7 @@ view.detail-img{
 image.detail-img{
   width: 128px;
   height: 128px;
-  padding: 2em 4em 2em 4em;
+  padding: 2em 4em 0em 4em;
 }
 
 view.detail{
@@ -33,9 +33,44 @@ view.month-list .item{
   margin: 0.1em;
 }
 
-p.detail{
-  font-weight: 10px;
-  padding: 0 0 0 1em;
+view.detail p.name{
+  font-size: 20px;
+  margin: 0 0 1em 0;
+  padding: 0 0.3em;
+}
+
+view.detail p.info{
+  font-size: 14px;
+  padding: 0 0.5em;
+}
+
+.flex-row{
+  display: flex;
+}
+
+.flex-mp{
+  flex: 1 1 4em;
+}
+
+.align-items-center{
+  align-items: center;
+}
+
+.align-items-start{
+  align-items: flex-start;
+}
+
+.justify-spc-bt{
+  justify-content: space-between;
+}
+
+.color-lg{
+  color: rgb(161, 161, 161);
+}
+
+.border-btm{
+  border-bottom: 1px solid #eeeeee;
+  padding: 0.6em 0;
 }
 
 .radios{

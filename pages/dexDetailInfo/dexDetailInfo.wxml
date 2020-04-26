@@ -11,10 +11,23 @@
 </view>
 
 <view class="detail">
-    <p class="info">{{inspectData.name}}</p>
-    <p class="info">价格:{{inspectData.price}}</p>
-    <p class="info" wx:if="{{inspectData.shadowSize}}">体型:{{inspectData.shadowSize}}</p>
-    <p class="info">出现地点:{{inspectData.location}}</p>
+    <p class="name">{{inspectData.name}}</p>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-mp">价格</p>
+        <p class="info flex-mp">{{inspectData.price}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.shadowSize}}">
+        <p class="info color-lg flex-mp">鱼影大小</p>
+        <p class="info flex-mp">{{inspectData.shadowSize}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-mp">出现地点</p>
+        <p class="info flex-mp">{{inspectData.location}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-mp">时间段</p>
+        <p class="info flex-mp">{{inspectData.time}}</p>
+    </view>
     <view class="month-list">
         <view class="item">
             <p class="month">一月</p>
