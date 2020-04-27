@@ -1,32 +1,34 @@
 <!--index.wxml-->
-<view class="navi-button magin-top" bindtap="onclick_turnip_price">
-  <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
-  <text class="btn-text">大头菜预测</text>
-  <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
-</view>
-<view class="navi-button" bindtap="onclick_artwork">
-  <image class="icon border-r20" mode="aspectFit" src="/assets/art-icon.png"></image>
-  <text class="btn-text">艺术品图鉴</text>
-  <image class="icon border-r20" mode="aspectFit" src="/assets/art-icon.png"></image>
-</view>
-<view class="navi-button" bindtap="onclick_fishdex">
-  <image class="icon" mode="aspectFit" src="/assets/fish-icon.png"></image>
-  <text class="btn-text">鱼类图鉴</text>
-  <image class="icon" mode="aspectFit" src="/assets/fish-icon.png"></image>
-</view>
-<view class="navi-button" bindtap="onclick_bugdex">
-  <image class="icon" mode="aspectFit" src="/assets/bug-icon.png"></image>
-  <text class="btn-text">昆虫图鉴</text>
-  <image class="icon" mode="aspectFit" src="/assets/bug-icon.png"></image>
-</view>
-<view class="navi-button" bindtap="onclick_diyrecipe">
-  <image class="icon" mode="aspectFit" src="/assets/DIY-icon.png"></image>
-  <text class="btn-text">DIY图鉴</text>
-  <image class="icon" mode="aspectFit" src="/assets/DIY-icon.png"></image>
+<view class="flex-wrap func-container">
+  <view class="navi-button flex-oneline" bindtap="onclickFunc" data-key="turnip_price">
+    <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
+    <text class="btn-text">大头菜预测</text>
+    <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
+  </view>
+  <view class="navi-button" bindtap="onclickFunc" data-key="art">
+    <image class="icon" mode="aspectFit" src="/assets/art-icon.png"></image>
+    <text class="btn-text">艺术品图鉴</text>
+  </view>
+  <view class="navi-button" bindtap="onclickFunc" data-key="fish">
+    <image class="icon" mode="aspectFit" src="/assets/fish-icon.png"></image>
+    <text class="btn-text">鱼类图鉴</text>
+  </view>
+  <view class="navi-button" bindtap="onclickFunc" data-key="bug">
+    <image class="icon" mode="aspectFit" src="/assets/bug-icon.png"></image>
+    <text class="btn-text">昆虫图鉴</text>
+  </view>
+  <view class="navi-button" bindtap="onclickFunc" data-key="DIY_recipe">
+    <image class="icon" mode="aspectFit" src="/assets/DIY-icon.png"></image>
+    <text class="btn-text">DIY图鉴</text>
+  </view>
 </view>
 
 <view class="desc" style="text-align:center">
-    <button class="bd mg0101" bindtap="onTapEncourageAd">激励开发者</button>
+    <button class="bd" bindtap="onTapEncourageAd">激励开发者</button>
     <text class="tips">目前小程序还在不断更新，欢迎反馈。
     </text>
+</view>
+
+<view class="adContainer">
+  <ad unit-id="adunit-e37aae6c4559d05e" ad-intervals="10"></ad>
 </view>

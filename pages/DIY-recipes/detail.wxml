@@ -7,20 +7,20 @@
     <p class="name">{{inspectData.name}}</p>
     <view class="flex-row align-items-center border-btm">
         <p class="info color-lg flex-mp">类型</p>
-        <p class="info flex-mp">{{inspectData.category}}</p>
+        <p class="info flex-mp pd-value">{{inspectData.category}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
         <p class="info color-lg flex-mp">获取途径</p>
-        <p class="info flex-mp">{{inspectData.access}}</p>
+        <p class="info flex-mp pd-value">{{inspectData.access}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
         <p class="info color-lg flex-mp">尺寸大小</p>
-        <p class="info flex-mp">{{inspectData.size}}</p>
+        <p class="info flex-mp pd-value">{{inspectData.size}}</p>
     </view>
 
     <view class="flex-row align-items-start border-btm">
         <p class="info color-lg flex-mp">材料列表</p>
-        <view class="mat-list flex-mp">
+        <view class="mat-list flex-mp pd-value">
             <block wx:for="{{inspectData.materials}}" wx:key="id">
                 <view id="mat-{{index}}" class="item">
                     <image class="mat-thumbnail" mode="aspectFit" src="{{item.imgRef}}"></image>
@@ -33,5 +33,5 @@
 </view>
 
 <view class="adContainer">
-  <ad unit-id="adunit-d4d8b6881caf61c7" ad-intervals="30"></ad>
+  <ad unit-id="adunit-bfe0572cbc5618b2" ad-intervals="10"></ad>
 </view>

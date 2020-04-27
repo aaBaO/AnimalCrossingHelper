@@ -17,6 +17,7 @@
 .property{
     box-sizing: border-box;
     border: 1px gainsboro solid;
+    background-color: white;
     border-radius: 10px;
     position: relative;
     display: flex;
@@ -52,10 +53,10 @@
 .radio{
     box-sizing: border-box;
     margin: 0.3em 0.2em;
-    padding: 0.2em 1.5em;
+    padding: 0.2em 1em;
     background: white;
     border: 1px solid gray;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 1.6em;
 }
 
@@ -68,6 +69,7 @@
     box-sizing: border-box;
     line-height: 1.2em;
     font-size: 14px;
+    color: gray;
 }
 
 .radio.checked .text{
@@ -123,6 +125,18 @@
     font-size: 12px;
 }
 
+.smallbtn{
+    box-sizing: border-box;
+    margin: 0.3em 1em;
+    padding: 0.25em;
+    border-radius: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+    border:  0.1em solid #dddddd;
+    flex: 1 1;
+}
+
 .btn{
     box-sizing: border-box;
     margin:1em 1em;
@@ -157,18 +171,20 @@
   flex: 1 1 3em;
 }
 .td {
-  justify-content: center;
   text-align: center;
   flex: 1 1 3em;
+  border: 0.1px solid rgb(226,227,231);
+  height: 2rem;
+  line-height: 2rem;
 }
 .bg-w{
   background: white;
 }
 .bg-dlb{
-  background: rgb(98, 112, 182);
+  background: rgb(244, 245, 250);
 }
 .bg-lb{
-  background: rgb(151, 163, 223);
+  background: rgb(251, 252, 254);
 }
 
 .pos-fixed{
@@ -184,8 +200,13 @@
   color:white;
 }
 
-.color-lb{
-  color:rgb(151, 163, 223);
+.help{
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(182, 182, 182, 0.288);
+  z-index: 100;
 }
 
 .adContainer {

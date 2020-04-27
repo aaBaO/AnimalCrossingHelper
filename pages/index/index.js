@@ -16,34 +16,37 @@ Page({
     }
   },
 
-  onclick_fishdex: function () {
-    wx.navigateTo({
-        url: '../fishdex/fishdex',
-    })
-  },
+  onclickFunc:function(e){
+    var key = e.currentTarget.dataset.key
+    if(key === 'fish'){
+      wx.navigateTo({
+          url: '../fishdex/fishdex',
+      })
+    }
 
-  onclick_bugdex: function () {
-    wx.navigateTo({
-        url: '../bugdex/bugdex',
-    })
-  },
+    if(key === 'bug'){
+      wx.navigateTo({
+          url: '../bugdex/bugdex',
+      })
+    }
 
-  onclick_turnip_price:function(){
-    wx.navigateTo({
-        url: '../turnip-prices/turnip-prices',
-    })
-  },
+    if(key === 'turnip_price'){
+      wx.navigateTo({
+          url: '../turnip-prices/turnip-prices',
+      })
+    }
 
-  onclick_diyrecipe:function(){
-    wx.navigateTo({
-        url: '../DIY-recipes/DIY-recipes',
-    })
-  },
-  
-  onclick_artwork:function(){
-    wx.navigateTo({
-        url: '../artwork/artwork',
-    })
+    if(key === 'DIY_recipe'){
+      wx.navigateTo({
+          url: '../DIY-recipes/DIY-recipes',
+      })
+    }
+
+    if(key === 'art'){
+      wx.navigateTo({
+          url: '../artwork/artwork',
+      })
+    }
   },
 
   onTapEncourageAd:function(e){

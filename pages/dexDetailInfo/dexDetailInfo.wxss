@@ -39,7 +39,7 @@ view.detail p.name{
   padding: 0 0.3em;
 }
 
-view.detail p.info{
+view.detail .info{
   font-size: 14px;
   padding: 0 0.5em;
 }
@@ -49,7 +49,11 @@ view.detail p.info{
 }
 
 .flex-mp{
-  flex: 1 1 4em;
+  flex: 1 1 1em;
+}
+
+view.detail .pd-value{
+  padding: 0 10em 0 1em;
 }
 
 .align-items-center{

@@ -1,16 +1,27 @@
 /**index.wxss**/
+.flex-wrap{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.func-container{
+  padding: 1em 1em;
+}
 
 .navi-button{
-  margin:1.2em 2em;
-  padding:1em;
+  box-sizing: border-box;
+  margin: 1em 0.5em;
+  padding: 1em 1em;
+  height: 4em;
   text-align: center;
   background-color:#f4f4f4;
   border-radius: 5px;
   border: 0.1em solid #dddddd;
+  flex: 1 1 40%;
 }
 
-.magin-top{
-  margin:2em 2em 1.2em 2em;
+.flex-oneline{
+  flex: 1 1 100%;
 }
 
 .icon{
@@ -22,14 +33,15 @@
 
 .btn-text{
   box-sizing: border-box;
-  padding:1em;
+  padding:1em 0.1em;
   color:#333333;
   font-size: 14px;
   font-weight: bold;
+  line-height: 2em;
 }
 
 .bd{
-  margin: 8em 8em 1em 8em;
+  margin: 5em 8em 1em 8em;
   padding:0.6em;
   background-color: #ffffff;
   font-size: small;
@@ -42,6 +54,7 @@
   color: #666666;
 }
 
-.border-r20{
-  border-radius: 20px;
+.adContainer{
+  position: relative;
+  top: 1em;
 }
