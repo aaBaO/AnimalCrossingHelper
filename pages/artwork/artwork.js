@@ -1,6 +1,8 @@
 // pages/artwork/artwork.js
 var artworkData = require('../../database/arts.js')
 const utils = require('../../utils/utils')
+const collection = require('../../utils/collection')
+const dexType = 'art'
 
 Page({
 
@@ -15,9 +17,29 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    this.setData({
-      dataList: artworkData.data
-    });
+  },
+
+  renderPage: function(){
+    collection.getCollectionData().then((data)=>{
+      artworkData.data.forEach(item => {
+        if(data[dexType] && data[dexType][item.name]){
+          item.collected = data[dexType][item.name]
+        }
+        else{
+          item.collected = false
+        }
+      });
+      this.setData({
+        dataList: artworkData.data
+      });
+    })      
+  },
+
+  /**
+   * 生命周期函数--监听页面显示
+   */
+  onShow: function () {
+    this.renderPage()
   },
 
   /**

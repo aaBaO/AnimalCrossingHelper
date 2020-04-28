@@ -6,6 +6,8 @@ var fish_sh_data = require('../../database/fish_sh.js')
 var bug_nh_data = require('../../database/bug_nh.js')
 var bug_sh_data = require('../../database/bug_sh.js')
 
+const collection = require('../../utils/collection')
+
 Page({
 
   /**
@@ -27,11 +29,18 @@ Page({
     var index = options.index
 
     var inspectData = this.getInspectData(dexType, hemisphere, index)
-
-    this.setData({
-      inspectData:inspectData,
-      dexType:dexType,
-      index:index,
+    collection.getCollectionData().then(data=>{
+      if(data[dexType] && data[dexType][inspectData.name]){
+        inspectData.collected = data[dexType][inspectData.name]
+      }
+      else{
+        inspectData.collected = false
+      }
+      this.setData({
+        inspectData:inspectData,
+        dexType:dexType,
+        index:index,
+      })
     })
   },
 
@@ -60,48 +69,6 @@ Page({
   },
 
   /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-
-  },
-
-  /**
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
@@ -122,6 +89,20 @@ Page({
     this.setData({
       hemisphere: h,
       inspectData: inspectData
+    })
+  },
+
+  onSetCollected:function(e){
+    var type = this.data.dexType
+    var key = e.currentTarget.dataset.key
+    var value = e.currentTarget.dataset.value
+
+    this.data.inspectData.collected = value
+
+    collection.setCollectionData(type, key, value).then(()=>{
+      this.setData({
+        inspectData: this.data.inspectData
+      })
     })
   }
 })

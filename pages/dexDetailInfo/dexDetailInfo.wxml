@@ -3,11 +3,16 @@
     <image class="detail-img" mode="aspectFit" src="{{inspectData.imgSource}}"></image>
 </view>
 
-<view >
+<view class="flex-row">
     <radio-group bindchange="onHemisphereChange">
         <view class="radios"><radio value='sh' checked="{{true}}">南半球</radio></view>
         <view class="radios"><radio value='nh'>北半球</radio></view>
     </radio-group>
+    <view class="{{inspectData.collected ? 'collect-state on':'collect-state off'}}"
+        bindtap="onSetCollected" 
+        data-key="{{inspectData.name}}" data-value="{{!inspectData.collected}}">
+        <view class="{{inspectData.collected ? 'collect-state-text on':'collect-state-text off'}}">{{inspectData.collected ?'已收集':'未收集'}}</view>
+    </view>
 </view>
 
 <view class="detail">

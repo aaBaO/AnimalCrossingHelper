@@ -1,5 +1,7 @@
 // pages/artwork/detail.js
 var artworkData = require('../../database/arts.js')
+const collection = require('../../utils/collection')
+const dexType = 'art'
 
 Page({
 
@@ -16,9 +18,18 @@ Page({
   onLoad: function (options) {
     var key = options.key
 
-    this.setData({
-      inspectData: this.getInspectData(key),
-      key:key,
+    var inspectData = this.getInspectData(key)
+    collection.getCollectionData().then(data=>{
+      if(data[dexType] && data[dexType][inspectData.name]){
+        inspectData.collected = data[dexType][inspectData.name]
+      }
+      else{
+        inspectData.collected = false
+      }
+      this.setData({
+        inspectData:inspectData,
+        key:key,
+      })
     })
   },
 
@@ -37,6 +48,20 @@ Page({
    */
   onShareAppMessage: function () {
 
+  },
+
+  onSetCollected:function(e){
+    var type = dexType
+    var key = e.currentTarget.dataset.key
+    var value = e.currentTarget.dataset.value
+
+    this.data.inspectData.collected = value
+
+    collection.setCollectionData(type, key, value).then(()=>{
+      this.setData({
+        inspectData: this.data.inspectData
+      })
+    })
   },
 
   onPreviewImage: function(e){

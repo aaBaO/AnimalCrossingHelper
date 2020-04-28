@@ -10,6 +10,9 @@
             bindtap="onTapMoreInfo" data-index="{{dataList[index].name}}">
             <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgSource}}" lazy-load="{{true}}"></image>
             <p class="name">{{dataList[index].name}} </p>
+            <view class="{{item.collected ? 'collect-state on':'collect-state off'}}">
+                <view class="{{item.collected ? 'collect-state-text on':'collect-state-text off'}}">{{item.collected ?'已收集':'未收集'}}</view>
+            </view>
             <p class="price">{{dataList[index].price}} </p>
         </view>
     </block>

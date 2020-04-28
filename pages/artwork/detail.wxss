@@ -17,8 +17,7 @@ view.detail{
 
 view.detail p.name{
   font-size: 20px;
-  margin: 0 0 1em 0;
-  padding: 0 0.3em;
+  padding: 1em 0.3em;
 }
 
 view.detail .info{
@@ -66,4 +65,34 @@ view.detail .pd-value{
 .adContainer{
   position: relative;
   top: 1em;
+}
+
+.collect-state{
+  box-sizing: border-box;
+  margin: 0.3em 0.2em;
+  border-radius: 10px;
+  height: 1.6em;
+}
+
+.collect-state.on{
+  background: #7687DB;
+  border: 1px solid #7687DB;
+}
+.collect-state.off{
+  background: white;
+  border: 1px solid gray;
+}
+
+.collect-state-text{
+  box-sizing: border-box;
+  line-height: 1.6em;
+  padding: 0.1em 1em;
+  font-size: small;
+}
+
+.collect-state-text.on{
+  color: white;
+}
+.collect-state-text.off{
+  color: gray;
 }

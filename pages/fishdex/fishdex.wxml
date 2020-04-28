@@ -5,13 +5,15 @@
 </view>
 
 <view class="list">
-    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
+    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !item.hide}}">
         <view id="item-{{index}}" class="item" 
-            bindtap="onTapMoreInfo" data-index="{{dataList[index].name}}">
-            <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgSource}}" lazy-load="{{true}}"></image>
-            <p class="name">{{dataList[index].name}} </p>
-            <p class="price">{{dataList[index].price}} </p>
-            <!-- <icon type="info" color="black" size="{{25}}" bindtap="onTapMoreInfo" data-index="{{index}}"></icon> -->
+            bindtap="onTapMoreInfo" data-index="{{item.name}}">
+            <image class="thumbnail" mode="aspectFit" src="{{item.imgSource}}" lazy-load="{{true}}"></image>
+            <p class="name">{{item.name}} </p>
+            <view class="{{item.collected ? 'collect-state on':'collect-state off'}}">
+                <view class="{{item.collected ? 'collect-state-text on':'collect-state-text off'}}">{{item.collected ?'已收集':'未收集'}}</view>
+            </view>
+            <p class="price">{{item.price}} </p>
         </view>
     </block>
 </view>

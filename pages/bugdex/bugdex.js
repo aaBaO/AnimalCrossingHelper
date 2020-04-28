@@ -1,6 +1,8 @@
 // pages/bugdex.js
 var bug_nh_data = require('../../database/bug_nh.js')
 const utils = require('../../utils/utils')
+const collection = require('../../utils/collection')
+const dexType = 'bug'
 
 Page({
 
@@ -17,58 +19,29 @@ Page({
     bug_nh_data.data.sort(function(a, b){
       return parseInt(a.price) - parseInt(b.price)
     })
-    this.setData({
-      dataList: bug_nh_data.data
-    });
   },
 
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
-
+  renderPage: function(){
+    collection.getCollectionData().then((data)=>{
+      bug_nh_data.data.forEach(item => {
+        if(data[dexType] && data[dexType][item.name]){
+          item.collected = data[dexType][item.name]
+        }
+        else{
+          item.collected = false
+        }
+      });
+      this.setData({
+        dataList: bug_nh_data.data
+      });
+    })      
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
-  onShareAppMessage: function () {
-
+    this.renderPage()
   },
 
   //搜索输入
@@ -102,8 +75,8 @@ Page({
   onTapMoreInfo:function(e){
     var tapIndex = e.currentTarget.dataset.index
     var detailInfo = {
-      type:'bug',
-      index:tapIndex,
+      type: dexType,
+      index: tapIndex,
     }
     var params = utils.urlEncode(detailInfo, 1) 
     wx.navigateTo({
