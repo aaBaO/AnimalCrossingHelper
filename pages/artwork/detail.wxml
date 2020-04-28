@@ -7,16 +7,16 @@
 <view class="detail">
     <p class="name">{{inspectData.name}}</p>
     <view class="flex-row align-items-center border-btm">
-        <p class="info color-lg flex-mp">类型</p>
-        <p class="info flex-mp pd-value">{{inspectData.category}}</p>
+        <p class="info color-lg flex-p40">类型</p>
+        <p class="info flex-p80 pd-value">{{inspectData.category}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
-        <p class="info color-lg flex-mp">现实作品</p>
-        <p class="info flex-mp pd-value">{{inspectData.artist}}</p>
+        <p class="info color-lg flex-p40">现实作品</p>
+        <p class="info flex-p80 pd-value">{{inspectData.artist}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
-        <p class="info color-lg flex-mp">辨别提示</p>
-        <p class="info flex-mp pd-value">{{inspectData.tips}}</p>
+        <p class="info color-lg flex-p40">辨别提示</p>
+        <p class="info flex-p80 pd-value">{{inspectData.tips}}</p>
     </view>
 </view>
 

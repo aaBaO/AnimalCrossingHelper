@@ -13,20 +13,20 @@
 <view class="detail">
     <p class="name">{{inspectData.name}}</p>
     <view class="flex-row align-items-center border-btm">
-        <p class="info flex-mp color-lg">价格</p>
-        <p class="info flex-mp pd-value">{{inspectData.price}}</p>
+        <p class="info flex-p40 color-lg">价格</p>
+        <p class="info flex-p80 pd-value">{{inspectData.price}}</p>
     </view>
     <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.shadowSize}}">
-        <p class="info flex-mp color-lg">鱼影大小</p>
-        <p class="info flex-mp pd-value">{{inspectData.shadowSize}}</p>
+        <p class="info flex-p40 color-lg">鱼影大小</p>
+        <p class="info flex-p80 pd-value">{{inspectData.shadowSize}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
-        <p class="info flex-mp color-lg">出现地点</p>
-        <p class="info flex-mp pd-value">{{inspectData.location}}</p>
+        <p class="info flex-p40 color-lg">出现地点</p>
+        <p class="info flex-p80 pd-value">{{inspectData.location}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
-        <p class="info flex-mp color-lg">时间段</p>
-        <p class="info flex-mp pd-value">{{inspectData.time}}</p>
+        <p class="info flex-p40 color-lg">时间段</p>
+        <p class="info flex-p80 pd-value">{{inspectData.time}}</p>
     </view>
     <view class="month-list">
         <view class="item">

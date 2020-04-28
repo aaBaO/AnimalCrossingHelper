@@ -6,21 +6,21 @@
 <view class="detail">
     <p class="name">{{inspectData.name}}</p>
     <view class="flex-row align-items-center border-btm">
-        <p class="info color-lg flex-mp">类型</p>
-        <p class="info flex-mp pd-value">{{inspectData.category}}</p>
+        <p class="info color-lg flex-p40">类型</p>
+        <p class="info flex-p80 pd-value">{{inspectData.category}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
-        <p class="info color-lg flex-mp">获取途径</p>
-        <p class="info flex-mp pd-value">{{inspectData.access}}</p>
+        <p class="info color-lg flex-p40">获取途径</p>
+        <p class="info flex-p80 pd-value">{{inspectData.access}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
-        <p class="info color-lg flex-mp">尺寸大小</p>
-        <p class="info flex-mp pd-value">{{inspectData.size}}</p>
+        <p class="info color-lg flex-p40">尺寸大小</p>
+        <p class="info flex-p80 pd-value">{{inspectData.size}}</p>
     </view>
 
     <view class="flex-row align-items-start border-btm">
-        <p class="info color-lg flex-mp">材料列表</p>
-        <view class="mat-list flex-mp pd-value">
+        <p class="info color-lg flex-p40">材料列表</p>
+        <view class="mat-list flex-p80 pd-value">
             <block wx:for="{{inspectData.materials}}" wx:key="id">
                 <view id="mat-{{index}}" class="item">
                     <image class="mat-thumbnail" mode="aspectFit" src="{{item.imgRef}}"></image>

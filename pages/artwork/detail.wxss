@@ -30,12 +30,16 @@ view.detail .info{
   display: flex;
 }
 
-.flex-mp{
-  flex: 1 1 1em;
+.flex-p40{
+  flex: 1 1 40%;
+}
+
+.flex-p80{
+  flex: 1 1 80%;
 }
 
 view.detail .pd-value{
-  padding: 0 10em 0 1em;
+  padding: 0 1em 0 1em;
 }
 
 .align-items-center{
