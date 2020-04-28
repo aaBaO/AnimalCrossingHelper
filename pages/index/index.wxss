@@ -10,7 +10,7 @@
 
 .navi-button{
   box-sizing: border-box;
-  margin: 1em 0.5em;
+  margin: 0.5em 0.5em;
   padding: 1em 1em;
   height: 4em;
   text-align: center;

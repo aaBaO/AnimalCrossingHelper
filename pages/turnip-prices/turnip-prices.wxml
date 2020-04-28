@@ -1,6 +1,23 @@
 <!--pages/turnip-prices/turnip-prices.wxml-->
+<view class="help" hidden="{{!displayHelp}}" bindtap="onHideHelp">
+    <view class="property margin-large">
+        <text class="tips">帮助：</text>
+        <text class="tips">上午: 08:00 ~ 11:59</text>
+        <text class="tips">下午: 12:00 ~ 22:00</text>
+        <text class="tips">预测结果按最高价排序，通过分析可能的走势安排一周的计划。如果选择了上一次的走势可以更好的预测概率。</text>
+        <text class="tips">第一次在自己的岛上购买必定是小涨型。</text>
+        <text class="tips">波动型：一周内出现多次的上涨和下跌。</text>
+        <text class="tips">大涨型：价格浮动最大的类型，一周只有一次大幅上涨。</text>
+        <text class="tips">小涨型：价格浮动较小，一周内会持续上涨多次。</text>
+        <text class="tips">递减型：价格一周内持续下跌。</text>
+        <text class="tips">预测模型来源：</text>
+        <text class="tips">https://github.com/mikebryant/ac-nh-turnip-prices</text>
+        <view class="btn bg-w color-gray" bindtap="onHideHelp">关闭</view>
+    </view>
+</view>
+
 <view class="property">
-    <text class="property-name">第一次在自己的岛上购买</text>
+    <text class="property-name">首次在自己的岛上购买</text>
     <radio-group bindchange="onSetFirstBuy">
         <view class="radio-container">
             <label class="radio {{firstBuy? '':'checked'}}">
@@ -14,29 +31,24 @@
         </view>
     </radio-group>
     <view class="smallbtn bg-w color-gray" bindtap="onDisplayHelp">?</view>
+    <view hidden="{{firstBuy}}">
+        <view class="flex-line dp-flex">
+            <text class="property-name">上一次的价格走势</text>
+            <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
+                <view class="picker">{{patternArray[previousPartternIndex]}}</view>
+            </picker>
+            <view class="arrow color-gray">▼</view>
+        </view>
+        <view class="flex-line dp-flex">
+            <text class="property-name">周日价格</text>
+            <input class="input" placeholder="..." type="number" bindinput="onInputSunday" value="{{sundayPrice}}"></input>
+        </view>
+    </view>
 </view>
 
-<view class="property" hidden="{{firstBuy}}">
-    <view class="flex-line dp-flex">
-        <text class="property-name">上一次的价格走势</text>
-        <picker bindchange="onPatternPickerChange" value="{{previousPartternIndex}}" range="{{patternArray}}">
-            <view class="picker">{{patternArray[previousPartternIndex]}}</view>
-        </picker>
-        <view class="arrow color-gray">▼</view>
-    </view>
-    <view class="flex-line dp-flex">
-        <text class="property-name">周日的价格</text>
-        <input class="input" placeholder="..." type="number" bindinput="onInputSunday" value="{{sundayPrice}}"></input>
-    </view>
-</view>
 
 
 <view class="property">
-    <view class="tips">
-        <i>上午: 8:00 ~ 11:59</i>
-        <i>下午: 12:00 ~ 22:00</i>
-    </view>
-
     <view class="week-day-price-record">
         <text class="week-day">周一</text>
         <input placeholder="上午" type="number" bindinput="onInputDayPrice" data-day="0" data-type="0" value="{{weekdayRecords[0]}}"></input>
@@ -69,7 +81,7 @@
     </view>
 
     <view class="btn bg-w color-gray" bindtap="onResetSelfData">重置</view>
-    <view class="btn bg-w color-gray" bindtap="onCalculate">预测</view>
+    <view class="btn bg-w color-lb" bindtap="onCalculate">预测</view>
 </view>
 
 <view id="results-output" hidden="{{!getValidResult}}">
@@ -80,7 +92,6 @@
                 <view class="th">概率</view>
                 <view class="th">最低价</view>
                 <view class="th">最高价</view>
-                <view class="th">周日价格</view>
                 <view class="th">周一上午</view>
                 <view class="th">周一下午</view>
                 <view class="th">周二上午</view>
@@ -100,7 +111,6 @@
                     <view class="td">{{item.probability}}</view>
                     <view class="td">{{item.weekMin}}</view>
                     <view class="td">{{item.weekMax}}</view>
-                    <view class="td">{{item.days[0]}}</view>
                     <view class="td">{{item.days[1]}}</view>
                     <view class="td">{{item.days[2]}}</view>
                     <view class="td">{{item.days[3]}}</view>
@@ -119,20 +129,6 @@
     </scroll-view>
 </view>
 
-<view class="help" hidden="{{!displayHelp}}" bindtap="onHideHelp">
-    <view class="property">
-        <text class="tips">帮助：</text>
-        <text class="tips">预测结果按最高价排序，通过分析可能的走势安排一周的计划。如果选择了上一次的走势可以更好的预测概率。</text>
-        <text class="tips">第一次在自己的岛上购买必定是小涨型。</text>
-        <text class="tips">波动型：一周内出现多次的上涨和下跌。</text>
-        <text class="tips">大涨型：价格浮动最大的类型，一周只有一次大幅上涨。</text>
-        <text class="tips">小涨型：价格浮动较小，一周内会持续上涨多次。</text>
-        <text class="tips">递减型：价格一周内持续下跌。</text>
-        <text class="tips">预测模型来源：</text>
-        <text class="tips">https://github.com/mikebryant/ac-nh-turnip-prices</text>
-    </view>
-</view>
-
-<view class="adContainer">
+<view class="adContainer" hidden="{{displayHelp}}">
     <ad unit-id="adunit-44c37700377b3faf" ad-type="video" ad-theme="white"></ad>
 </view>

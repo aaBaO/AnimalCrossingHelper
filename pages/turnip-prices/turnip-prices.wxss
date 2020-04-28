@@ -21,7 +21,7 @@
     border-radius: 10px;
     position: relative;
     display: flex;
-    margin: 0.1em 1em;
+    margin: 1em 1em;
     flex-wrap: wrap;
 }
 
@@ -169,6 +169,7 @@
   align-items: center;
   text-align: center;
   flex: 1 1 3em;
+  border: 0.1px solid rgb(226,227,231);
 }
 .td {
   text-align: center;
@@ -176,6 +177,7 @@
   border: 0.1px solid rgb(226,227,231);
   height: 2rem;
   line-height: 2rem;
+  color: gray;
 }
 .bg-w{
   background: white;
@@ -200,6 +202,10 @@
   color:white;
 }
 
+.color-lb{
+  color:rgb(151, 163, 223);
+}
+
 .help{
   position: fixed;
   top: 0;
@@ -207,6 +213,10 @@
   width: 100%;
   background-color: rgba(182, 182, 182, 0.288);
   z-index: 100;
+}
+
+.margin-large{
+  margin: 10em 1em;
 }
 
 .adContainer {
