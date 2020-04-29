@@ -10,10 +10,10 @@
             bindtap="onTapMoreInfo" data-index="{{item.name}}">
             <image class="thumbnail" mode="aspectFit" src="{{item.imgSource}}" lazy-load="{{true}}"></image>
             <p class="name">{{item.name}} </p>
+            <p class="price">{{item.price}} </p>
             <view class="{{item.collected ? 'collect-state on':'collect-state off'}}">
                 <view class="{{item.collected ? 'collect-state-text on':'collect-state-text off'}}">{{item.collected ?'已收集':'未收集'}}</view>
             </view>
-            <p class="price">{{item.price}} </p>
         </view>
     </block>
 </view>

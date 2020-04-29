@@ -6,6 +6,7 @@ var json=[
     "name": "学术性的名画",
     "artist": "Vitruvian Man by Leonardo da Vinci",
     "tips": "赝品的右上角有咖啡印",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-AcademicPainting.png",
     "pinyin": [
       "xueshuxingdeminghua",
       "xsxdmh"
@@ -18,7 +19,8 @@ var json=[
     "engArtist": "The Night Watch by Rembrandt",
     "name": "惊人的名画",
     "artist": "The Night Watch by Rembrandt",
-    "tips": "赝品中主角的帽子戴的位置不一样",
+    "tips": "赝品中主角的帽子不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-AmazingPainting.png",
     "pinyin": [
       "jingrendeminghua",
       "jrdmh"
@@ -32,6 +34,7 @@ var json=[
     "name": "勇敢的名画",
     "artist": "The Blue Boy by Thomas Gainsborough",
     "tips": "赝品的发型不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-BasicPainting.png",
     "pinyin": [
       "yonggandeminghua",
       "ygdmh"
@@ -45,6 +48,7 @@ var json=[
     "name": "和煦的名画",
     "artist": "A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "hexudeminghua",
       "hxdmh"
@@ -58,6 +62,7 @@ var json=[
     "name": "常见的名画",
     "artist": "The Gleaners by Jean-François Millet",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "changjiandeminghua",
       "cjdmh"
@@ -71,6 +76,7 @@ var json=[
     "name": "细致的名画",
     "artist": "Rooster and Hen with Hydrangeas by Ito Jakuchu",
     "tips": "赝品的树上的叶子颜色不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-DetailedPainting.png",
     "pinyin": [
       "xizhideminghua",
       "xzdmh"
@@ -84,6 +90,7 @@ var json=[
     "name": "磅礴的名画",
     "artist": "Great Wave off Kanagawa by Katsushika Hokusai",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "pangbodeminghua",
       "pbdmh"
@@ -97,6 +104,7 @@ var json=[
     "name": "有名的名画",
     "artist": "The Mona Lisa by Leonardo da Vinci",
     "tips": "赝品很明显",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-FamousPainting.png",
     "pinyin": [
       "youmingdeminghua",
       "ymdmh"
@@ -110,6 +118,7 @@ var json=[
     "name": "珍贵的名画",
     "artist": "Sunflowers by Vincent Van Gogh",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "zhenguideminghua",
       "zgdmh"
@@ -123,6 +132,7 @@ var json=[
     "name": "光线的名画",
     "artist": "The Fighting Temeraire by Joseph Mallord William Turner",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "guangxiandeminghua",
       "gxdmh"
@@ -136,6 +146,7 @@ var json=[
     "name": "端庄的名画",
     "artist": "Beauty Looking Back by Hishikawa Moronobu",
     "tips": "赝品人在画布上的占比要大很多",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-GracefulPainting.png",
     "pinyin": [
       "duanzhuangdeminghua",
       "dzdmh"
@@ -149,6 +160,7 @@ var json=[
     "name": "有趣的名画",
     "artist": "Summer by Giuseppe Arcimboldo",
     "tips": "赝品的胸口没有稻草",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-JollyPainting.png",
     "pinyin": [
       "youqudeminghua",
       "yqdmh"
@@ -162,6 +174,7 @@ var json=[
     "name": "强健的名画",
     "artist": "The Sower by Jean-François Millet",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "qinagjiandeminghua",
       "qjdmh"
@@ -175,6 +188,7 @@ var json=[
     "name": "动人的名画",
     "artist": "The Birth of Venus by Sandro Botticelli",
     "tips": "赝品的右上角会没有植物",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-MovingPainting.png",
     "pinyin": [
       "dongrendeminghua",
       "drdmh"
@@ -188,6 +202,7 @@ var json=[
     "name": "神秘的名画",
     "artist": "Isle of the Dead by Arnold Böcklin",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "shenmideminghua",
       "smdmh"
@@ -201,6 +216,7 @@ var json=[
     "name": "很好的名画",
     "artist": "Young Flautist or The Fifer by Édouard Manet",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "henhaodeminghua",
       "hhdmh"
@@ -214,6 +230,7 @@ var json=[
     "name": "厉害的名画",
     "artist": "Apples and Oranges by Paul Cézanne",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "lihaideminghua",
       "lhdmh"
@@ -227,6 +244,7 @@ var json=[
     "name": "热闹的名画",
     "artist": "A Bar at the Folies-Bergère - Édouard Manet",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "renaodeminghua",
       "rndmh"
@@ -240,6 +258,7 @@ var json=[
     "name": "平静的名画",
     "artist": "The Milkmaid by Johannes Vermeer",
     "tips": "赝品倒出来的牛奶比较多",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-QuaintPainting.png",
     "pinyin": [
       "pingjingdeminghua",
       "pjdmh"
@@ -253,6 +272,7 @@ var json=[
     "name": "俊俏的名画",
     "artist": "Ōtani Oniji III as the manservant Edobei by Toshusai Sharaku",
     "tips": "赝品的眉毛不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-ScaryPainting.png",
     "pinyin": [
       "junqiaodeminghua",
       "jqdmh"
@@ -266,6 +286,7 @@ var json=[
     "name": "优美的名画",
     "artist": "The Hunters in the Snow by Peiter Bruegel",
     "tips": "赝品左下角人群少了点人",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-ScenicPainting.png",
     "pinyin": [
       "youmeideminghua",
       "ymdmh"
@@ -279,6 +300,7 @@ var json=[
     "name": "婀娜的名画",
     "artist": "Lady with an Ermine by Leonardo da Vinci",
     "tips": "赝品手里的动物颜色不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-SerenePainting.png",
     "pinyin": [
       "enuodeminghua",
       "endmh"
@@ -292,6 +314,7 @@ var json=[
     "name": "沉默的名画",
     "artist": "Ophelia by John Everett Millais",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "chenmodeminghua",
       "cmdmh"
@@ -305,6 +328,7 @@ var json=[
     "name": "肃穆的名画",
     "artist": "Las Meninas by Diego Velasquesz",
     "tips": "赝品中门口的男人姿势不太一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-SolumnPainting.png",
     "pinyin": [
       "sumudeminghua",
       "smdmh"
@@ -318,6 +342,7 @@ var json=[
     "name": "闪烁的名画",
     "artist": "The Starry Night by Vincent Van Gogh",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "shanshuodeminghua",
       "ssdmh"
@@ -331,6 +356,7 @@ var json=[
     "name": "舒适的名画",
     "artist": "The Clothed Maja by Francisco De Goya",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "shushideminghua",
       "ssdmh"
@@ -344,6 +370,7 @@ var json=[
     "name": "狂野的名画右半边",
     "artist": "Wind God and Thunder God by Tawaraya Sōtatsu",
     "tips": "赝品的皮肤颜色不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-WildPaintingRightHalf.png",
     "pinyin": [
       "kuangyedeminghuayoubanbian",
       "kydmhybb"
@@ -357,6 +384,7 @@ var json=[
     "name": "狂野的名画左半边",
     "artist": "Wind God and Thunder God by Tawaraya Sōtatsu",
     "tips": "赝品的皮肤颜色不一样",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-WildPaintingLeftHalf.png",
     "pinyin": [
       "kuangyedeminghuazuobanbian",
       "kydmhzbb"
@@ -369,7 +397,8 @@ var json=[
     "engArtist": "Girl with a Pearl Earring by Johannes Vermeer",
     "name": "漂亮的名画",
     "artist": "Girl with a Pearl Earring by Johannes Vermeer",
-    "tips": "赝品的耳环不一样",
+    "tips": "赝品的耳环不一样, 或者闭着眼睛",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-WistfulPainting.png",
     "pinyin": [
       "piaoliangdeminghua",
       "pldmh"
@@ -383,6 +412,7 @@ var json=[
     "name": "名贵的名画",
     "artist": "Liberty Leading the People by Eugène Delacroix",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "mingguideminghua",
       "mgdmh"
@@ -396,6 +426,7 @@ var json=[
     "name": "远古的雕塑",
     "artist": "Dogū by Unknown",
     "tips": "赝品的头上可能会长奇怪的东西",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-AncientStatue.png",
     "pinyin": [
       "yuangudediaosu",
       "ygdds"
@@ -409,6 +440,7 @@ var json=[
     "name": "美丽的雕塑",
     "artist": "断臂维纳斯,亚历山德罗斯",
     "tips": "赝品的脖子上会有项链",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-BeautifulStatue.png",
     "pinyin": [
       "meilidediaosu",
       "mldds"
@@ -422,6 +454,7 @@ var json=[
     "name": "似曾相识的雕塑",
     "artist": "沉思者,奥古斯特·罗丹",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "sicenxiangshidediaosu",
       "scxsdds"
@@ -435,6 +468,7 @@ var json=[
     "name": "英挺的雕塑",
     "artist": "大卫,米开朗基罗",
     "tips": "赝品的可能会穿上衣服，或者右手有东西",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-GallantStatue.png",
     "pinyin": [
       "yingtingdediaosu",
       "ytdds"
@@ -448,6 +482,7 @@ var json=[
     "name": "伟大的雕塑",
     "artist": "卡美哈梅哈一世,托马斯·古尔德",
     "tips": "没有赝品",
+    "fake": "",
     "pinyin": [
       "weidadediaosu",
       "wddds"
@@ -461,6 +496,7 @@ var json=[
     "name": "线索的雕塑",
     "artist": "罗塞塔石碑",
     "tips": "赝品的石头颜色是蓝色的",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-InformativeStatue.png",
     "pinyin": [
       "xiansuodediaosu",
       "xsdds"
@@ -474,6 +510,7 @@ var json=[
     "name": "充满母爱的雕塑",
     "artist": "母狼乳婴像,罗马卡比托利欧博物馆",
     "tips": "赝品的母狼会伸出舌头",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-MotherlyStatue.png",
     "pinyin": [
       "chongmanmuaidediaosu",
       "cmmadds"
@@ -487,6 +524,7 @@ var json=[
     "name": "神秘的雕塑",
     "artist": "娜芙蒂蒂的半身像,图特摩斯",
     "tips": "赝品可能带着耳环",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-MysticStatue.png",
     "pinyin": [
       "shenmidediaosu",
       "smdds"
@@ -500,6 +538,7 @@ var json=[
     "name": "强壮的雕塑",
     "artist": "掷铁饼者,米隆",
     "tips": "赝品抓铁饼的手上有手表",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-RobustStatue.png",
     "pinyin": [
       "qiangzhuangdediaosu",
       "qzdds"
@@ -513,6 +552,7 @@ var json=[
     "name": "石头颅雕塑",
     "artist": "奥尔梅克巨人头像",
     "tips": "赝品的嘴可能会有一点点微笑，要仔细观察",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-Rock-headStatue.png",
     "pinyin": [
       "shiotuludiaosu",
       "stlds"
@@ -526,6 +566,7 @@ var json=[
     "name": "出乎意料的雕塑",
     "artist": "后母戊鼎",
     "tips": "赝品的鼎里面可能装着东西",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-TremendousStatue.png",
     "pinyin": [
       "chuhuyiliaodediaosu",
       "chyldds"
@@ -539,6 +580,7 @@ var json=[
     "name": "神圣的雕塑",
     "artist": "萨莫色雷斯的胜利女神",
     "tips": "赝品的朝向不一样，不容易发现",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-ValiantStatue.png",
     "pinyin": [
       "shenshengdediaosu",
       "ssdds"
@@ -552,6 +594,7 @@ var json=[
     "name": "武士的雕塑",
     "artist": "兵马俑",
     "tips": "赝品的手上可能拿着铲子",
+    "fake": "http://q9k7b4r41.bkt.clouddn.com/fake-WarriorStatue.png",
     "pinyin": [
       "wushidediaosu",
       "wsdds"

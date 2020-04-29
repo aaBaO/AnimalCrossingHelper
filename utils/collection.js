@@ -1,6 +1,5 @@
 const promisify = require('./promisify').default
 
-const getSystemInfo = promisify(wx.getSystemInfo)
 let wxpgetStorage = promisify(wx.getStorage)
 let wxpsetStorage = promisify(wx.setStorage)
 
@@ -45,5 +44,4 @@ function setCollectionData(type, key, value){
 module.exports = {
     getCollectionData:getCollectionData,
     setCollectionData:setCollectionData,
-    getSystemInfo:getSystemInfo,
 }

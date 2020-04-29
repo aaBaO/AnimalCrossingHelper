@@ -25,6 +25,11 @@
         <p class="info color-lg flex-p40">辨别提示</p>
         <p class="info flex-p80 pd-value">{{inspectData.tips}}</p>
     </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.fake!=''}}">
+        <p class="info color-lg flex-p40">赝品预览</p>
+        <image class="fake-img flex-p80" mode="aspectFit" src="{{inspectData.fake}}" 
+        bindtap="onPreviewImage" data-src="{{inspectData.fake}}"></image>
+    </view>
 </view>
 
 <view class="adContainer">
