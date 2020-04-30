@@ -8,15 +8,17 @@
         <view class="radios"><radio value='sh' checked="{{true}}">南半球</radio></view>
         <view class="radios"><radio value='nh'>北半球</radio></view>
     </radio-group>
-    <view class="{{inspectData.collected ? 'collect-state on':'collect-state off'}}"
-        bindtap="onSetCollected" 
-        data-key="{{inspectData.name}}" data-value="{{!inspectData.collected}}">
-        <view class="{{inspectData.collected ? 'collect-state-text on':'collect-state-text off'}}">{{inspectData.collected ?'已收集':'未收集'}}</view>
-    </view>
 </view>
 
 <view class="detail">
-    <p class="name">{{inspectData.name}}</p>
+    <view class="flex-row">
+        <p class="name">{{inspectData.name}}</p>
+        <view class="flex-row collect-container" bindtap="onSetCollected" 
+            data-key="{{inspectData.name}}" data-value="{{!inspectData.collected}}">
+            <span class="iconfont-ac collect-state-icon {{inspectData.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
+            <view class="collect-state-text">{{inspectData.collected ?'已收集':'未收集'}}</view>
+        </view>
+    </view>
     <view class="flex-row align-items-center border-btm">
         <p class="info flex-p40 color-lg">价格</p>
         <p class="info flex-p80 pd-value">{{inspectData.price}}</p>

@@ -51,10 +51,6 @@ view.mat-list .item .count{
   font-size: 12px;
 }
 
-.flex-row{
-  display: flex;
-}
-
 .flex-p40{
   flex: 1 1 40%;
 }

@@ -7,10 +7,10 @@
 <view class="detail">
     <view class="flex-row align-items-center">
         <p class="name">{{inspectData.name}}</p>
-        <view class="{{inspectData.collected ? 'collect-state on':'collect-state off'}}"
-            bindtap="onSetCollected" 
+        <view class="flex-row collect-container" bindtap="onSetCollected" 
             data-key="{{inspectData.name}}" data-value="{{!inspectData.collected}}">
-            <view class="{{inspectData.collected ? 'collect-state-text on':'collect-state-text off'}}">{{inspectData.collected ?'已收集':'未收集'}}</view>
+            <span class="iconfont-ac collect-state-icon {{inspectData.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
+            <view class="collect-state-text">{{inspectData.collected ?'已收集':'未收集'}}</view>
         </view>
     </view>
     <view class="flex-row align-items-center border-btm">

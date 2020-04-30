@@ -53,32 +53,19 @@ image.thumbnail{
   flex: 1em;
 }
 
-.collect-state{
-  box-sizing: border-box;
+.collect-container{
   margin: 0.3em 0.2em;
-  border-radius: 10px;
-  height: 1.6em;
-}
-
-.collect-state.on{
-  background: #7687DB;
-  border: 1px solid #7687DB;
-}
-.collect-state.off{
-  background: white;
-  border: 1px solid gray;
+  height: 1.6rem;
 }
 
 .collect-state-text{
   box-sizing: border-box;
-  line-height: 1.6em;
-  padding: 0.1em 1em;
+  line-height: 1.4rem;
+  padding: 0.1em 0.1em;
   font-size: small;
+  color: gray;
 }
 
-.collect-state-text.on{
-  color: white;
-}
-.collect-state-text.off{
-  color: gray;
+.collect-state-icon{
+  line-height: 1.6rem;
 }
