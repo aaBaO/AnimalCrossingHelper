@@ -11,8 +11,8 @@
             <image class="thumbnail" mode="aspectFit" src="{{item.imgSource}}" lazy-load="{{true}}"></image>
             <p class="name">{{item.name}} </p>
             <view class="flex-row collect-container">
-                <span class="iconfont-ac collect-state-icon {{item.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
-                <view class="collect-state-text">{{item.collected ?'已收集':'未收集'}}</view>
+                <span class="iconfont-ac collect-state-icon font-14 {{item.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
+                <view class="collect-state-text font-12 {{item.collected ? 'collected ':'uncollected'}}">收集</view>
             </view>
         </view>
     </block>

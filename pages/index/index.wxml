@@ -23,12 +23,10 @@
   </view>
 </view>
 
-<view class="desc" style="text-align:center">
-    <button class="bd" bindtap="onTapEncourageAd">激励开发者</button>
-    <text class="tips">目前小程序还在不断更新，欢迎反馈。
-    </text>
-</view>
-
 <view class="adContainer">
+  <view style="text-align:center">
+      <button class="bd" bindtap="onTapEncourageAd">激励开发者</button>
+      <text class="tips">目前小程序还在不断更新，欢迎反馈。</text>
+  </view>
   <ad unit-id="adunit-e37aae6c4559d05e" ad-intervals="10"></ad>
 </view>

@@ -96,6 +96,12 @@ view.detail .pd-value{
   font-size: small;
   color: gray;
 }
+.collect-state-text.collected{
+  color: #ffa817;
+}
+.collect-state-text.uncollected{
+  color: gray;
+}
 
 .collect-state-icon{
   line-height: 1.6rem;
