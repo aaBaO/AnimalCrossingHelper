@@ -374,8 +374,22 @@ def downloadFile(url, filepath):
             # resized.to_file(pyFilepath)
         del imgResponse
 
-browser = webdriver.Chrome()
+# browser = webdriver.Chrome()
 # GrabFishData()
 # GrabBugData()
 # GrabDIYRecipes()
-GrabArtData()
+# GrabArtData()
+
+
+#压缩图片
+# dirPath = './assets/arts/fake'
+# for p in os.listdir(dirPath):
+#     path = '%s/%s' % (dirPath, p)
+#     print("%s..开始压缩" %(path))
+#     source = tinify.from_file(path)
+#     resized = source.resize(
+#         method="fit",
+#         width=500,
+#         height=500
+#     )
+#     resized.to_file(path)
