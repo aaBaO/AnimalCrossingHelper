@@ -5,13 +5,14 @@
 </view>
 
 <view class="list">
-    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
-        <view id="item-{{index}}" class="item" 
-            bindtap="onTapMoreInfo" data-index="{{dataList[index].name}}">
-            <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgSource}}" lazy-load="{{true}}"></image>
-            <p class="name">{{dataList[index].name}} </p>
-            <p class="price">{{dataList[index].price}} </p>
-            <view class="flex-row collect-container">
+    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !item.hide}}">
+        <view id="item-{{index}}" class="item">
+            <view class="flex-row info-container" bindtap="onTapMoreInfo" data-index="{{item.name}}">
+                <image class="thumbnail" mode="aspectFit" src="{{item.imgSource}}" lazy-load="{{true}}"></image>
+                <p class="name">{{item.name}} </p>
+                <p class="price">{{item.price}} </p>
+            </view>
+            <view class="flex-row collect-container" bindtap="onSetCollected" data-key="{{item.name}}" data-value="{{!item.collected}}">
                 <span class="iconfont-ac collect-state-icon font-14 {{item.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
                 <view class="collect-state-text font-12 {{item.collected ? 'collected ':'uncollected'}}">收集</view>
             </view>

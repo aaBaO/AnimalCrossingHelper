@@ -37,6 +37,12 @@
   align-items: center;
 }
 
+.info-container{
+  justify-content: space-between;
+  align-items: center;
+  flex:1 1 10em;
+}
+
 image.thumbnail{
   height: 42px;
   width: 42px;

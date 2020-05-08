@@ -83,4 +83,14 @@ Page({
       url: '../dexDetailInfo/dexDetailInfo' + params,
     })
   },
+
+  onSetCollected:function(e){
+    var type = dexType
+    var key = e.currentTarget.dataset.key
+    var value = e.currentTarget.dataset.value
+
+    collection.setCollectionData(type, key, value).then(()=>{
+      this.renderPage()
+    })
+  },
 })
