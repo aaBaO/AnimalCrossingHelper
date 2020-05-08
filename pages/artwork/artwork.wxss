@@ -55,6 +55,12 @@ image.thumbnail{
   font-size: small;
 }
 
+.fake-tag{
+  flex: 4em;
+  font-size: small;
+  color: #ffa817;
+}
+
 .collect-container{
   margin: 0.3em 0.2em;
   height: 1.6rem;

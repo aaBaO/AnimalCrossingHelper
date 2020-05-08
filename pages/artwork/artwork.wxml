@@ -10,6 +10,7 @@
             <view class="flex-row info-container" bindtap="onTapMoreInfo" data-key="{{item.engName}}">
                 <image class="thumbnail" mode="aspectFit" src="{{item.imgSource}}" lazy-load="{{true}}"></image>
                 <p class="name">{{item.name}} </p>
+                <p class="fake-tag" >{{item.fake==''? "":"有赝品"}}</p>
             </view>
             <view class="flex-row collect-container" bindtap="onSetCollected" data-key="{{item.name}}" data-value="{{!item.collected}}">
                 <span class="iconfont-ac collect-state-icon font-14 {{item.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
