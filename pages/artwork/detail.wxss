@@ -76,7 +76,6 @@ view.detail .pd-value{
   box-sizing: border-box;
   line-height: 1.4rem;
   padding: 0.1em 0.1em;
-  font-size: small;
   color: gray;
 }
 .collect-state-text.collected{

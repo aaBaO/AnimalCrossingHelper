@@ -6,11 +6,11 @@
 
 <view class="detail">
     <view class="flex-row align-items-center">
-        <p class="name">{{inspectData.name}}</p>
+        <p class="name flex-p40">{{inspectData.name}}</p>
         <view class="flex-row collect-container" bindtap="onSetCollected" 
             data-key="{{inspectData.name}}" data-value="{{!inspectData.collected}}">
             <span class="iconfont-ac collect-state-icon {{inspectData.collected ? 'icon-collected ':'icon-uncollected'}}"></span>
-            <view class="collect-state-text {{inspectData.collected ? 'collected ':'uncollected'}}">收集</view>
+            <view class="collect-state-text font-14 {{inspectData.collected ? 'collected ':'uncollected'}}">收集</view>
         </view>
     </view>
     <view class="flex-row align-items-center border-btm">

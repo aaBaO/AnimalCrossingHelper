@@ -13,6 +13,10 @@
   display: flex;
 }
 
+.jc-between{
+  justify-content: space-between;
+}
+
 @font-face {font-family: "iconfont-ac";
   src: url('iconfont.eot?t=1588234844503'); /* IE9 */
   src: url('iconfont.eot?t=1588234844503#iefix') format('embedded-opentype'), /* IE6-IE8 */
