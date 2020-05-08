@@ -1,5 +1,5 @@
 // pages/bugdex.js
-var bug_nh_data = require('../../database/bug_nh.js')
+var bug_data = require('../../database/bug.js')
 const utils = require('../../utils/utils')
 const collection = require('../../utils/collection')
 const dexType = 'bug'
@@ -16,14 +16,14 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    bug_nh_data.data.sort(function(a, b){
+    bug_data.data.sort(function(a, b){
       return parseInt(a.price) - parseInt(b.price)
     })
   },
 
   renderPage: function(){
     collection.getCollectionData().then((data)=>{
-      bug_nh_data.data.forEach(item => {
+      bug_data.data.forEach(item => {
         if(data[dexType] && data[dexType][item.name]){
           item.collected = data[dexType][item.name]
         }
@@ -32,7 +32,7 @@ Page({
         }
       });
       this.setData({
-        dataList: bug_nh_data.data
+        dataList: bug_data.data
       });
     })      
   },

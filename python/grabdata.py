@@ -25,8 +25,8 @@ def GrabFishData():
     browser.get(fishURL)
     time.sleep(5)
 
+    results = []
     for hemisiphere in (NorthernHemisiphere, SouthernHemisiphere):
-        results = []
         tag = browser.find_element(By.CSS_SELECTOR,'div > ul.tabbernav > li > a[title=%s]' % hemisiphere)
         browser.execute_script('window.scrollTo(0,%s-100)' % tag.location['y'])
         tag.click()
@@ -34,35 +34,69 @@ def GrabFishData():
         data = browser.find_elements(By.CSS_SELECTOR, selector)
         for item in data:
             browser.execute_script('window.scrollTo(0,%s)' % item.location['y'])
-            information = { }
+            index = data.index(item)
+            if index >= len(results):
+                information = { }
+                results.append(information)
+            else:
+                information = results[index]
             a = item.find_element(By.CSS_SELECTOR, "a.image.image-thumbnail")
             itemName = a.get_attribute('title')
             information['name'] = itemName
             img = a.find_element(By.CSS_SELECTOR, 'img')
             information['imgSource'] = img.get_attribute('src')
             information['price'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+            information['price'] = information['price'].replace(',','')
             information['location'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(3)').text
             information['shadowSize'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(4)').text
             information['time'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(5)').text
-            information['Jan'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(6)').text
-            information['Feb'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(7)').text
-            information['Mar'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(8)').text
-            information['Apr'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(9)').text
-            information['May'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(10)').text
-            information['Jun'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(11)').text
-            information['Jul'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(12)').text
-            information['Aug'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(13)').text
-            information['Sep'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(14)').text
-            information['Oct'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(15)').text
-            information['Nov'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(16)').text
-            information['Dec'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(17)').text
+
+            if not 'month' in information.keys():
+                information['month'] = {}
+            if hemisiphere == NorthernHemisiphere:
+                month = {}
+                month['Jan'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(6)').text
+                month['Feb'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(7)').text
+                month['Mar'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(8)').text
+                month['Apr'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(9)').text
+                month['May'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(10)').text
+                month['Jun'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(11)').text
+                month['Jul'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(12)').text
+                month['Aug'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(13)').text
+                month['Sep'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(14)').text
+                month['Oct'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(15)').text
+                month['Nov'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(16)').text
+                month['Dec'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(17)').text
+                information['month']['nh'] = month
+
+            elif hemisiphere == SouthernHemisiphere:
+                month = {}
+                month['Jan'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(6)').text
+                month['Feb'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(7)').text
+                month['Mar'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(8)').text
+                month['Apr'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(9)').text
+                month['May'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(10)').text
+                month['Jun'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(11)').text
+                month['Jul'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(12)').text
+                month['Aug'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(13)').text
+                month['Sep'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(14)').text
+                month['Oct'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(15)').text
+                month['Nov'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(16)').text
+                month['Dec'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(17)').text
+                information['month']['sh'] = month
+
             information['pinyin'] = (
                 slug(itemName, style=Style.NORMAL, strict=False, heteronym=False, separator=''), 
                 slug(itemName, style=Style.FIRST_LETTER, strict=False, heteronym=False, separator='')
             )
 
             for k in information:
-                if k == 'pinyin':
+                if k == 'pinyin' :
+                    continue
+                if k == 'month':
+                    for h in information[k]:
+                        for m in information[k][h]:
+                            information[k][h][m].replace(' ','').replace('\n','').replace('\r','')
                     continue
                 information[k] = information[k].replace(' ','').replace('\n','').replace('\r','')
             # 原始图片尺寸
@@ -79,13 +113,8 @@ def GrabFishData():
                     open(imgFile, 'wb').write(imgResponse.content) 
                     print("%s..图片下载完成" %(imgFile))
                 del imgResponse
-            results.append(information)
 
-        if hemisiphere == NorthernHemisiphere:
-            fishJsonFile = './database/fish_nh.js'
-        elif hemisiphere == SouthernHemisiphere:
-            fishJsonFile = './database/fish_sh.js'
-
+        fishJsonFile = './database/fish.js'
         with open(fishJsonFile, "w", encoding='utf-8') as f:
             f.seek(0)
             f.write('var json=')
@@ -102,8 +131,8 @@ def GrabBugData():
     browser.get(bugURL)
     time.sleep(5)
 
+    results = []
     for hemisiphere in (NorthernHemisiphere, SouthernHemisiphere):
-        results = []
         tag = browser.find_element(By.CSS_SELECTOR,'div > ul.tabbernav > li > a[title=%s]' % hemisiphere)
         browser.execute_script('window.scrollTo(0,%s-100)' % tag.location['y'])
         tag.click()
@@ -111,27 +140,56 @@ def GrabBugData():
         data = browser.find_elements(By.CSS_SELECTOR, selector)
         for item in data:
             browser.execute_script('window.scrollTo(0,%s)' % item.location['y'])
-            information = { }
+            index = data.index(item)
+            if index >= len(results):
+                information = { }
+                results.append(information)
+            else:
+                information = results[index]
             a = item.find_element(By.CSS_SELECTOR, "a.image.image-thumbnail")
             itemName = a.get_attribute('title')
             information['name'] = itemName
             img = a.find_element(By.CSS_SELECTOR, 'img')
             information['imgSource'] = img.get_attribute('src')
             information['price'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text
+            information['price'] = information['price'].replace(',','')
             information['location'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(3)').text
             information['time'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(4)').text
-            information['Jan'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(5)').text
-            information['Feb'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(6)').text
-            information['Mar'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(7)').text
-            information['Apr'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(8)').text
-            information['May'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(9)').text
-            information['Jun'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(10)').text
-            information['Jul'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(11)').text
-            information['Aug'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(12)').text
-            information['Sep'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(13)').text
-            information['Oct'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(14)').text
-            information['Nov'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(15)').text
-            information['Dec'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(16)').text
+
+            if not 'month' in information.keys():
+                information['month'] = {}
+            if hemisiphere == NorthernHemisiphere:
+                month = {}
+                month['Jan'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(5)').text
+                month['Feb'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(6)').text
+                month['Mar'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(7)').text
+                month['Apr'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(8)').text
+                month['May'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(9)').text
+                month['Jun'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(10)').text
+                month['Jul'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(11)').text
+                month['Aug'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(12)').text
+                month['Sep'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(13)').text
+                month['Oct'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(14)').text
+                month['Nov'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(15)').text
+                month['Dec'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(16)').text
+                information['month']['nh'] = month
+
+            elif hemisiphere == SouthernHemisiphere:
+                month = {}
+                month['Jan'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(5)').text
+                month['Feb'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(6)').text
+                month['Mar'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(7)').text
+                month['Apr'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(8)').text
+                month['May'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(9)').text
+                month['Jun'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(10)').text
+                month['Jul'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(11)').text
+                month['Aug'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(12)').text
+                month['Sep'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(13)').text
+                month['Oct'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(14)').text
+                month['Nov'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(15)').text
+                month['Dec'] = item.find_element(By.CSS_SELECTOR, 'td:nth-child(16)').text
+                information['month']['sh'] = month
+
             information['pinyin'] = (
                 slug(itemName, style=Style.NORMAL, strict=False, heteronym=False, separator=''), 
                 slug(itemName, style=Style.FIRST_LETTER, strict=False, heteronym=False, separator='')
@@ -139,6 +197,11 @@ def GrabBugData():
 
             for k in information:
                 if k == 'pinyin':
+                    continue
+                if k == 'month':
+                    for h in information[k]:
+                        for m in information[k][h]:
+                            information[k][h][m].replace(' ','').replace('\n','').replace('\r','')
                     continue
                 information[k] = information[k].replace(' ','').replace('\n','').replace('\r','')
                 if information[k] == 'Allday' or information[k] == 'AllDay':
@@ -158,13 +221,8 @@ def GrabBugData():
                     open(imgFile, 'wb').write(imgResponse.content) 
                     print("%s..图片下载完成" %(imgFile))
                 del imgResponse
-            results.append(information)
 
-        if hemisiphere == NorthernHemisiphere:
-            bugJsonFile = './database/bug_nh.js'
-        elif hemisiphere == SouthernHemisiphere:
-            bugJsonFile = './database/bug_sh.js'
-
+        bugJsonFile = './database/bug.js'
         with open(bugJsonFile, "w", encoding='utf-8') as f:
             f.seek(0)
             f.write('var json=')
@@ -374,8 +432,8 @@ def downloadFile(url, filepath):
             # resized.to_file(pyFilepath)
         del imgResponse
 
-# browser = webdriver.Chrome()
-# GrabFishData()
+browser = webdriver.Chrome()
+GrabFishData()
 # GrabBugData()
 # GrabDIYRecipes()
 # GrabArtData()

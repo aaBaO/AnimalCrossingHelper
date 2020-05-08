@@ -1,10 +1,8 @@
 // pages/dexDetailInfo/dexDetailInfo.js
 const utils = require('../../utils/utils')
 
-var fish_nh_data = require('../../database/fish_nh.js')
-var fish_sh_data = require('../../database/fish_sh.js')
-var bug_nh_data = require('../../database/bug_nh.js')
-var bug_sh_data = require('../../database/bug_sh.js')
+var fish_data = require('../../database/fish.js')
+var bug_data = require('../../database/bug.js')
 
 const collection = require('../../utils/collection')
 
@@ -25,10 +23,9 @@ Page({
    */
   onLoad: function (options) {
     var dexType = options.type
-    var hemisphere = this.data.hemisphere
     var index = options.index
 
-    var inspectData = this.getInspectData(dexType, hemisphere, index)
+    var inspectData = this.getInspectData(dexType, index)
     collection.getCollectionData().then(data=>{
       if(data[dexType] && data[dexType][inspectData.name]){
         inspectData.collected = data[dexType][inspectData.name]
@@ -44,21 +41,13 @@ Page({
     })
   },
 
-  getInspectData: function(type, hemisphere, index){
+  getInspectData: function(type, index){
     var dataList = 'undefined'
     if(type == 'fish'){
-      if(hemisphere == 'nh'){
-        dataList = fish_nh_data.data
-      } else{
-        dataList = fish_sh_data.data
-      }
+      dataList = fish_data.data
     }
     if(type == 'bug'){
-      if(hemisphere == 'nh'){
-        dataList = bug_nh_data.data
-      } else{
-        dataList = bug_sh_data.data
-      }
+      dataList = bug_data.data
     }
     index = decodeURI(index)
     for(var item of dataList){
@@ -77,19 +66,6 @@ Page({
       title: "图鉴详情:" + this.data.inspectData.name,
       path: this.route + paramsURL
     }
-  },
-
-  onHemisphereChange:function(e){
-    var h = e.detail.value
-    var dexType = this.data.dexType
-    var index = this.data.index
-
-    var inspectData = this.getInspectData(dexType, h, index)
-
-    this.setData({
-      hemisphere: h,
-      inspectData: inspectData
-    })
   },
 
   onSetCollected:function(e){

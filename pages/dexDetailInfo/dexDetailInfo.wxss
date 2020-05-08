@@ -1,7 +1,7 @@
 /* pages/dexDetailInfo/dexDetailInfo.wxss */
 view.detail-img{
   display: flex;
-  height: 33%;
+  height: 20%;
   justify-content: center;
 }
 image.detail-img{
@@ -16,21 +16,35 @@ view.detail{
   flex-direction: column;
 }
 
+.mgtop-small{
+  margin-top: 0.3em;
+}
+
 view.month-list{
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
   align-items: flex-start;
-  margin: 2em 0 0 0;
+  padding: 0.5em 0.2em 0.5em 0.2em;
+  border-bottom: 1px solid #eeeeee;
 }
 
 view.month-list .item{
   display: flex;
   flex-flow: column nowrap;
-  justify-content: center;
   align-items: center;
-  flex: 1 1 15%;
-  margin: 0.1em;
+  flex: 1 1 14%;
+  height: 2.5em;
+  padding: 0.2em;
+  border: 1px solid rgb(161, 161, 161);
+}
+
+view.month-list .item .month{
+  color: rgb(161, 161, 161);
+}
+
+view.month-list .item .enable{
+  color: rgb(0, 161, 161);
 }
 
 view.detail p.name{

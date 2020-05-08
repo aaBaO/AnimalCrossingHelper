@@ -3,13 +3,6 @@
     <image class="detail-img" mode="aspectFit" src="{{inspectData.imgSource}}"></image>
 </view>
 
-<view class="flex-row">
-    <radio-group bindchange="onHemisphereChange">
-        <view class="radios"><radio value='sh' checked="{{true}}">南半球</radio></view>
-        <view class="radios"><radio value='nh'>北半球</radio></view>
-    </radio-group>
-</view>
-
 <view class="detail">
     <view class="flex-row">
         <p class="name flex-p40">{{inspectData.name}}</p>
@@ -35,54 +28,108 @@
         <p class="info flex-p40 color-lg">时间段</p>
         <p class="info flex-p80 pd-value">{{inspectData.time}}</p>
     </view>
+
+    <p class="info color-lg mgtop-small">北半球</p>
     <view class="month-list">
         <view class="item">
             <p class="month">一月</p>
-            <p class="enable">{{inspectData.Jan}}</p>
+            <p class="enable">{{inspectData.month.sh.Jan}}</p>
         </view>
         <view class="item">
             <p class="month">二月</p>
-            <p class="enable">{{inspectData.Feb}}</p>
+            <p class="enable">{{inspectData.month.sh.Feb}}</p>
         </view>
         <view class="item">
             <p class="month">三月</p>
-            <p class="enable">{{inspectData.Mar}}</p>
+            <p class="enable">{{inspectData.month.sh.Mar}}</p>
         </view>
         <view class="item">
             <p class="month">四月</p>
-            <p class="enable">{{inspectData.Apr}}</p>
+            <p class="enable">{{inspectData.month.sh.Apr}}</p>
         </view>
         <view class="item">
             <p class="month">五月</p>
-            <p class="enable">{{inspectData.May}}</p>
+            <p class="enable">{{inspectData.month.sh.May}}</p>
         </view>
         <view class="item">
             <p class="month">六月</p>
-            <p class="enable">{{inspectData.Jun}}</p>
+            <p class="enable">{{inspectData.month.sh.Jun}}</p>
         </view>
         <view class="item">
             <p class="month">七月</p>
-            <p class="enable">{{inspectData.Jul}}</p>
+            <p class="enable">{{inspectData.month.sh.Jul}}</p>
         </view>
         <view class="item">
             <p class="month">八月</p>
-            <p class="enable">{{inspectData.Aug}}</p>
+            <p class="enable">{{inspectData.month.sh.Aug}}</p>
         </view>
         <view class="item">
             <p class="month">九月</p>
-            <p class="enable">{{inspectData.Sep}}</p>
+            <p class="enable">{{inspectData.month.sh.Sep}}</p>
         </view>
         <view class="item">
             <p class="month">十月</p>
-            <p class="enable">{{inspectData.Oct}}</p>
+            <p class="enable">{{inspectData.month.sh.Oct}}</p>
         </view>
         <view class="item">
             <p class="month">十一月</p>
-            <p class="enable">{{inspectData.Nov}}</p>
+            <p class="enable">{{inspectData.month.sh.Nov}}</p>
         </view>
         <view class="item">
             <p class="month">十二月</p>
-            <p class="enable">{{inspectData.Dec}}</p>
+            <p class="enable">{{inspectData.month.sh.Dec}}</p>
+        </view>
+    </view>
+
+    <p class="info color-lg mgtop-small">南半球</p>
+    <view class="month-list">
+        <view class="item">
+            <p class="month">一月</p>
+            <p class="enable">{{inspectData.month.nh.Jan}}</p>
+        </view>
+        <view class="item">
+            <p class="month">二月</p>
+            <p class="enable">{{inspectData.month.nh.Feb}}</p>
+        </view>
+        <view class="item">
+            <p class="month">三月</p>
+            <p class="enable">{{inspectData.month.nh.Mar}}</p>
+        </view>
+        <view class="item">
+            <p class="month">四月</p>
+            <p class="enable">{{inspectData.month.nh.Apr}}</p>
+        </view>
+        <view class="item">
+            <p class="month">五月</p>
+            <p class="enable">{{inspectData.month.nh.May}}</p>
+        </view>
+        <view class="item">
+            <p class="month">六月</p>
+            <p class="enable">{{inspectData.month.nh.Jun}}</p>
+        </view>
+        <view class="item">
+            <p class="month">七月</p>
+            <p class="enable">{{inspectData.month.nh.Jul}}</p>
+        </view>
+        <view class="item">
+            <p class="month">八月</p>
+            <p class="enable">{{inspectData.month.nh.Aug}}</p>
+        </view>
+        <view class="item">
+            <p class="month">九月</p>
+            <p class="enable">{{inspectData.month.nh.Sep}}</p>
+        </view>
+        <view class="item">
+            <p class="month">十月</p>
+            <p class="enable">{{inspectData.month.nh.Oct}}</p>
+        </view>
+        <view class="item">
+            <p class="month">十一月</p>
+            <p class="enable">{{inspectData.month.nh.Nov}}</p>
+        </view>
+        <view class="item">
+            <p class="month">十二月</p>
+            <p class="enable">{{inspectData.month.nh.Dec}}</p>
         </view>
     </view>
 </view>

@@ -1,5 +1,5 @@
 // pages/fishdex.js
-var fish_nh_data = require('../../database/fish_nh.js')
+var fish_data = require('../../database/fish.js')
 const utils = require('../../utils/utils')
 const collection = require('../../utils/collection')
 const dexType = 'fish'
@@ -16,14 +16,14 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    fish_nh_data.data.sort(function(a, b){
+    fish_data.data.sort(function(a, b){
       return parseInt(a.price) - parseInt(b.price)
     })
   },
 
   renderPage: function(){
     collection.getCollectionData().then((data)=>{
-      fish_nh_data.data.forEach(item => {
+      fish_data.data.forEach(item => {
         if(data[dexType] && data[dexType][item.name]){
           item.collected = data[dexType][item.name]
         }
@@ -32,7 +32,7 @@ Page({
         }
       });
       this.setData({
-        dataList: fish_nh_data.data
+        dataList: fish_data.data
       });
     })      
   },
