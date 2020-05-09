@@ -41,6 +41,7 @@ view.month-list .item{
 
 view.month-list .item .month{
   color: rgb(161, 161, 161);
+  font-size: small;
 }
 
 view.month-list .item .enable{
