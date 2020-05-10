@@ -4,6 +4,47 @@
         bindinput="onInputSearch" bindconfirm="onConfirmSearch"></input>
 </view>
 
+<view class="subtop-container">
+    <view class="btn-filter {{isDefaultFilter ? '':'color-db'}}" bindtap='onTapFilter'>
+        <span class="text">筛选</span>
+        <span class="text iconfont-ac icon-loudou"></span>
+    </view>
+</view>
+
+<view class="filter-float" hidden="{{hideFilterView}}">
+    <view class="bg" bindtap='onTapFilter'></view>
+
+    <scroll-view scroll-y="true">
+        <view class="types">
+            <view class="type-name">种族</view>
+            <checkbox-group class="check-box-group flex-row-w" bindchange="onSetFilter" data-type='race'>
+                <label class="check-box {{item.checked?'checked':''}}" wx:for="{{tmp_raceArray}}" wx:key="value">
+                    <checkbox class="check-box-none" value="{{item.value}}" checked="{{item.checked}}"/>
+                    <text class="text">{{item.value}}</text>
+                </label>
+            </checkbox-group>
+            <view class="type-name">性格</view>
+            <checkbox-group class="check-box-group flex-row-w" bindchange="onSetFilter" data-type='character'>
+                <label class="check-box {{item.checked?'checked':''}}" wx:for="{{tmp_characterArray}}" wx:key="value">
+                    <checkbox class="check-box-none" value="{{item.value}}" checked="{{item.checked}}"/>
+                    <text class="text">{{item.value}}</text>
+                </label>
+            </checkbox-group>
+            <view class="type-name">生日月份</view>
+            <checkbox-group class="check-box-group flex-row-w" bindchange="onSetFilter" data-type='birthday'>
+                <label class="check-box {{item.checked?'checked':''}}" wx:for="{{tmp_birthdayArray}}" wx:key="value">
+                    <checkbox class="check-box-none" value="{{item.value}}" checked="{{item.checked}}"/>
+                    <text class="text">{{item.value}}</text>
+                </label>
+            </checkbox-group>
+        </view>
+    </scroll-view>
+    <view class="flex-row">
+        <view class="btn color-gray" bindtap='onTapFilter'>取消</view>
+        <view class="btn color-lb" bindtap='onTapConfirmChangeFilter'>确认</view>
+    </view>
+</view>
+
 <view class="list">
     <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
         <view id="item-{{index}}" class="item" 

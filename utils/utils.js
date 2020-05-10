@@ -14,6 +14,12 @@ const formatNumber = n => {
   return n[1] ? n : '0' + n
 }
 
+const deepCopy = obj => {
+  var c = {}
+  c = JSON.parse(JSON.stringify(obj))
+  return c
+}
+
 // 页面滚动到指定id的组件
 const pageScrollToId = function (page, id, offset) {
     const query = wx.createSelectorQuery().in(page);
@@ -82,5 +88,6 @@ String.prototype.format = function(args) {
 module.exports = {
   formatTime: formatTime,
   pageScrollToId: pageScrollToId,
-  urlEncode:urlEncode
+  urlEncode:urlEncode,
+  deepCopy:deepCopy
 }

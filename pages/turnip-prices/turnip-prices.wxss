@@ -202,10 +202,6 @@
   color:white;
 }
 
-.color-lb{
-  color:rgb(151, 163, 223);
-}
-
 .help{
   position: fixed;
   top: 0;
