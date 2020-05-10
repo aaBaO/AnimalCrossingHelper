@@ -128,13 +128,14 @@ checkbox-group checkbox.check-box-none{
 }
 
 checkbox-group label.check-box{
-  border-radius: 5px;
+  border-radius: 10px;
   border: 1px solid #dddddd;
   margin: 0.2em 0.4em;
   padding: 0.2em 0.4em;
 }
 checkbox-group label.check-box.checked{
   background-color: #7687DB;
+  border: 1px solid #7687DB;
 }
 
 checkbox-group label.check-box .text{
