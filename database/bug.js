@@ -172,7 +172,7 @@ var json=[
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH_Icon_Common_bluebottle.png/revision/latest/scale-to-width-down/128?cb=20200407023725&path-prefix=zh",
     "price": "300",
     "location": "飞在空中",
-    "time": "?",
+    "time": "4AM-20PM",
     "month": {
       "nh": {
         "Jan": "-",
@@ -1472,7 +1472,7 @@ var json=[
   {
     "name": "萤火虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH_Icon_Firefly.png/revision/latest/scale-to-width-down/128?cb=20200407021720&path-prefix=zh",
-    "price": "?",
+    "price": "300",
     "location": "飞在空中",
     "time": "7PM-4AM",
     "month": {
@@ -2354,7 +2354,7 @@ var json=[
   {
     "name": "大锹形虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH_Icon_Giant_stag.png/revision/latest/scale-to-width-down/128?cb=20200407024718&path-prefix=zh",
-    "price": "?",
+    "price": "10000",
     "location": "树上",
     "time": "11PM-8AM",
     "month": {
@@ -2522,7 +2522,7 @@ var json=[
   {
     "name": "长颈鹿锯锹形虫",
     "imgSource": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH_Icon_Giraffe_stag.png/revision/latest/scale-to-width-down/128?cb=20200407024800&path-prefix=zh",
-    "price": "?",
+    "price": "12000",
     "location": "树上",
     "time": "5PM-8AM",
     "month": {
