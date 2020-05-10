@@ -46,11 +46,12 @@
 </view>
 
 <view class="list">
-    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !dataList[index].hide}}">
+    <block wx:for="{{dataList}}" wx:key="id" wx:if="{{index>=0 && !item.hide}}">
         <view id="item-{{index}}" class="item" 
-            bindtap="onTapMoreInfo" data-key="{{dataList[index].name}}">
-            <image class="thumbnail" mode="aspectFit" src="{{dataList[index].imgRef}}" lazy-load="{{true}}"></image>
-            <p class="name">{{dataList[index].name}} </p>
+            bindtap="onTapMoreInfo" data-key="{{item.name}}">
+            <image class="thumbnail" mode="aspectFit" src="{{item.imgRef}}" lazy-load="{{true}}"></image>
+            <p class="name">{{item.name}} </p>
+            <p class="birthday">{{item.birthday}} </p>
         </view>
     </block>
 </view>

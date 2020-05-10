@@ -89,7 +89,13 @@ image.thumbnail{
 }
 
 .name{
-  flex: 10em;
+  flex: 8em;
+}
+
+.birthday{
+  flex: 2em;
+  margin-right: 1em;
+  font-size: 12px;
 }
 
 .price{
