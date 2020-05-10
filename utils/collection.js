@@ -44,4 +44,6 @@ function setCollectionData(type, key, value){
 module.exports = {
     getCollectionData:getCollectionData,
     setCollectionData:setCollectionData,
+    wxpgetStorage:wxpgetStorage,
+    wxpsetStorage:wxpsetStorage,
 }
