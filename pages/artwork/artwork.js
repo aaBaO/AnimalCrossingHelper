@@ -22,6 +22,7 @@ Page({
   renderPage: function(){
     collection.getCollectionData().then((data)=>{
       artworkData.data.forEach(item => {
+        item.hide = false
         if(data[dexType] && data[dexType][item.name]){
           item.collected = data[dexType][item.name]
         }

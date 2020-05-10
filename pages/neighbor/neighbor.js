@@ -39,8 +39,9 @@ Page({
   },
 
   renderPage: function(){
+    this.data.dataList = neighbor_data.data
+    this.doFilter()
     this.setData({
-      dataList: neighbor_data.data,
       isDefaultFilter: this.isDefaultFilter()
     });
   },

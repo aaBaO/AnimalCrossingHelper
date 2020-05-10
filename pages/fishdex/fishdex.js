@@ -24,6 +24,7 @@ Page({
   renderPage: function(){
     collection.getCollectionData().then((data)=>{
       fish_data.data.forEach(item => {
+        item.hide = false
         if(data[dexType] && data[dexType][item.name]){
           item.collected = data[dexType][item.name]
         }
@@ -31,6 +32,7 @@ Page({
           item.collected = false
         }
       });
+
       this.setData({
         dataList: fish_data.data
       });
