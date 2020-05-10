@@ -8,7 +8,9 @@
     "pages/DIY-recipes/DIY-recipes",
     "pages/DIY-recipes/detail",
     "pages/artwork/artwork",
-    "pages/artwork/detail"
+    "pages/artwork/detail",
+    "pages/neighbor/neighbor",
+    "pages/neighbor/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",

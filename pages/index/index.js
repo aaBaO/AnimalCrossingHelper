@@ -47,6 +47,12 @@ Page({
           url: '../artwork/artwork',
       })
     }
+
+    if(key === 'neighbor'){
+      wx.navigateTo({
+          url: '../neighbor/neighbor',
+      })
+    }
   },
 
   onTapEncourageAd:function(e){

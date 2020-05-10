@@ -5,6 +5,11 @@
     <text class="btn-text">大头菜预测</text>
     <image class="icon" mode="aspectFit" src="/assets/turnip.png"></image>
   </view>
+  <view class="navi-button flex-oneline" bindtap="onclickFunc" data-key="neighbor">
+    <image class="icon" mode="aspectFit" src="/assets/neighbor-icon.png"></image>
+    <text class="btn-text">小动物图鉴</text>
+    <image class="icon" mode="aspectFit" src="/assets/neighbor-icon.png"></image>
+  </view>
   <view class="navi-button" bindtap="onclickFunc" data-key="art">
     <image class="icon" mode="aspectFit" src="/assets/art-icon.png"></image>
     <text class="btn-text">艺术品图鉴</text>

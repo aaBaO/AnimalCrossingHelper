@@ -1,0 +1,47 @@
+<!--pages/neighbor/detail.wxml-->
+<view class="detail-img">
+    <image class="detail-img" mode="aspectFit" src="{{inspectData.imgRef}}" 
+    bindtap="onPreviewImage" data-src="{{inspectData.imgRef}}"></image>
+</view>
+
+<view class="detail">
+    <view class="flex-row align-items-center">
+        <p class="name flex-p40">{{inspectData.name}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">性别</p>
+        <p class="info flex-p80 pd-value">{{inspectData.sex}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">种族</p>
+        <p class="info flex-p80 pd-value">{{inspectData.race}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">生日</p>
+        <p class="info flex-p80 pd-value">{{inspectData.birthday}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">性格</p>
+        <p class="info flex-p80 pd-value">{{inspectData.character}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">口头禅</p>
+        <p class="info flex-p80 pd-value">{{inspectData.tag}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">目标</p>
+        <p class="info flex-p80 pd-value">{{inspectData.target}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">座右铭</p>
+        <p class="info flex-p80 pd-value">{{inspectData.motto}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">外文名</p>
+        <p class="info flex-p80 pd-value">{{inspectData.foreign_name}}</p>
+    </view>
+</view>
+
+<view class="adContainer">
+  <ad unit-id="adunit-e9b5022cb79bc9ca" ad-intervals="10"></ad>
+</view>

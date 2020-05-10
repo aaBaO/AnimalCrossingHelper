@@ -1,0 +1,90 @@
+/* pages/neighbor/detail.wxss */
+view.detail-img{
+  display: flex;
+  height: 33%;
+  justify-content: center;
+}
+image.detail-img{
+  height: 128px;
+  padding: 1em 1em 0em 1em;
+}
+image.fake-img{
+  height: 128px;
+  padding: 0 3em 0 0;
+}
+
+view.detail{
+  margin: 2em 1em 2em 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+view.detail p.name{
+  font-size: 20px;
+  padding: 1em 0.3em;
+}
+
+view.detail .info{
+  font-size: 14px;
+  padding: 0 0.5em;
+}
+
+.flex-p40{
+  flex: 1 1 40%;
+}
+
+.flex-p80{
+  flex: 1 1 80%;
+}
+
+view.detail .pd-value{
+  padding: 0 1em 0 1em;
+}
+
+.align-items-center{
+  align-items: center;
+}
+
+.align-items-start{
+  align-items: flex-start;
+}
+
+.justify-spc-bt{
+  justify-content: space-between;
+}
+
+.color-lg{
+  color: rgb(161, 161, 161);
+}
+
+.border-btm{
+  border-bottom: 1px solid #eeeeee;
+  padding: 0.6em 0;
+}
+
+.adContainer{
+  position: relative;
+  top: 1em;
+}
+
+.collect-container{
+  margin: 0.3em 0.2em;
+  height: 1.6rem;
+}
+
+.collect-state-text{
+  box-sizing: border-box;
+  line-height: 1.4rem;
+  padding: 0.1em 0.1em;
+  color: gray;
+}
+.collect-state-text.collected{
+  color: #ffa817;
+}
+.collect-state-text.uncollected{
+  color: gray;
+}
+
+.collect-state-icon{
+  line-height: 1.6rem;
+}
