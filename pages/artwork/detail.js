@@ -1,5 +1,6 @@
 // pages/artwork/detail.js
 var artworkData = require('../../database/arts.js')
+const utils = require('../../utils/utils')
 const collection = require('../../utils/collection')
 const dexType = 'art'
 
@@ -47,7 +48,11 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    var paramsURL = utils.urlEncode(this.options, 1) 
+    return {
+      title: "艺术品详情:" + this.data.inspectData.name,
+      path: this.route + paramsURL
+    }
   },
 
   onSetCollected:function(e){

@@ -1,5 +1,6 @@
 // pages/neighbor/detail.js
 var neighborsData = require('../../database/neighbors.js')
+const utils = require('../../utils/utils')
 const dexType = 'neighbor'
 
 Page({
@@ -37,7 +38,11 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    var paramsURL = utils.urlEncode(this.options, 1) 
+    return {
+      title: "你好~我是" + this.data.inspectData.name + ",座右铭:" + this.data.inspectData.motto + ".",
+      path: this.route + paramsURL
+    }
   },
 
   onPreviewImage: function(e){

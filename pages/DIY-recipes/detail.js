@@ -1,5 +1,6 @@
 // pages/DIYRecipes/detail.js
 var diyRecipesData = require('../../database/DIYRecipes.js')
+const utils = require('../../utils/utils')
 
 Page({
 
@@ -78,6 +79,10 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    var paramsURL = utils.urlEncode(this.options, 1) 
+    return {
+      title: "DIY手册详情:" + this.data.inspectData.name,
+      path: this.route + paramsURL
+    }
   }
 })
