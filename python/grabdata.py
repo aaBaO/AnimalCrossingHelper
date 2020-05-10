@@ -260,7 +260,6 @@ def GrabDIYRecipes():
         # 打开详情
         browser.execute_script('window.open("%s")' % detailURL)
         browser.switch_to_window(browser.window_handles[1])
-        browser.find_element
 
         recipe = {}
 
@@ -432,11 +431,107 @@ def downloadFile(url, filepath):
             # resized.to_file(pyFilepath)
         del imgResponse
 
-browser = webdriver.Chrome()
-GrabFishData()
+def GrabNeighbors():
+    browser = webdriver.Chrome()
+    browser.get('https://wiki.biligame.com/dongsen/%E5%B0%8F%E5%8A%A8%E7%89%A9%E5%9B%BE%E9%89%B4')
+    neighborsMap = []
+    originalWindowHandle = browser.current_window_handle
+    datas = browser.find_elements(By.CSS_SELECTOR, '#CardSelectTr > tbody > tr')
+    for item in datas:
+        browser.execute_script('window.scrollTo(0,%s-100)' % item.location['y'])
+        time.sleep(0.5)
+
+        if item.get_attribute('data-param1') == '':
+            continue
+
+        neighbor = {}
+        neighborsMap.append(neighbor)
+
+        # 种族
+        race = item.find_element(By.CSS_SELECTOR, 'td:nth-child(4)')
+        neighbor['race'] = race.text
+
+        a = item.find_element(By.CSS_SELECTOR, 'td > div > div.floatnone > a')
+        detailURL = a.get_attribute('href')
+        # 打开详情
+        browser.execute_script('window.open("%s")' % detailURL)
+        browser.switch_to_window(browser.window_handles[1])
+
+        table = browser.find_element(By.CSS_SELECTOR, '#mw-content-text > div > div.box-poke-big > div.box-poke-left')
+
+        # 名称
+        nameNode = table.find_element(By.CSS_SELECTOR, 'div:nth-child(1)')
+        neighbor['name'] = nameNode.text[:-1]
+
+        # 性别 
+        if nameNode.text[-1:] == '♂':
+            neighbor['sex'] = '男'
+        else:
+            neighbor['sex'] = '女'
+
+        neighbor['pinyin'] = (
+            slug(neighbor['name'], style=Style.NORMAL, strict=False, heteronym=False, separator=''), 
+            slug(neighbor['name'], style=Style.FIRST_LETTER, strict=False, heteronym=False, separator='')
+        )
+
+        # 图片
+        img = browser.find_element(By.CSS_SELECTOR, '#mw-content-text > div > div.box-poke-big > div.box-poke-right > div > div > a > img')
+        imgURL = img.get_attribute('src')
+        # 下载图片
+        assetPath = '/assets/neighbors'
+        imgFile = '%s/%s.png' %(assetPath, neighbor['name'])
+        neighbor['imgRef'] = imgURL
+        pyImgFile = '.%s' % imgFile
+        if not os.path.exists(pyImgFile):
+            imgResponse = requests.get(imgURL, stream=True)
+            if imgResponse.status_code == 200:
+                # 将内容写入图片
+                open(pyImgFile, 'wb').write(imgResponse.content) 
+                print("%s..图片下载完成" %(pyImgFile))
+            del imgResponse
+
+        # 生日
+        birthday = table.find_element(By.CSS_SELECTOR, 'div:nth-child(2) > font:nth-child(2)')
+        neighbor['birthday'] = birthday.text
+
+        # 性格
+        character = table.find_element(By.CSS_SELECTOR, 'div:nth-child(3) > font:nth-child(2)')
+        neighbor['character'] = character.text
+
+        # 初始口头禅
+        tag = table.find_element(By.CSS_SELECTOR, 'div:nth-child(4) > font:nth-child(2)')
+        neighbor['tag'] = tag.text
+
+        # 目标
+        target = table.find_element(By.CSS_SELECTOR, 'div:nth-child(5) > font:nth-child(2)')
+        neighbor['target'] = target.text
+
+        # 座右铭
+        motto = table.find_element(By.CSS_SELECTOR, 'div:nth-child(6) > div:nth-child(2)')
+        neighbor['motto'] = motto.text
+
+        # 外文名
+        foreign_name = table.find_element(By.CSS_SELECTOR, 'div:nth-child(7) > font:nth-child(2)')
+        neighbor['foreign_name'] = foreign_name.text
+
+        browser.close()
+        browser.switch_to_window(originalWindowHandle)
+
+    # 写入js文件
+    with open('./database/neighbors.js', "w", encoding='utf-8') as f:
+        f.seek(0)
+        f.write('var json=')
+        json.dump(neighborsMap, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+        f.write('module.exports={data:json}')
+        print("写入文件完成...")
+    browser.close()
+
+# GrabFishData()
 # GrabBugData()
 # GrabDIYRecipes()
 # GrabArtData()
+GrabNeighbors()
 
 
 #压缩图片

@@ -21,6 +21,10 @@
 			{
 				"type": "folder",
 				"value": "/assets/arts"
+			},
+			{
+				"type": "folder",
+				"value": "/assets/neighbors"
 			}
 		]
 	},
