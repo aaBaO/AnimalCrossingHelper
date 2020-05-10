@@ -1,0 +1,15 @@
+<!--pages/guide/guidelist.wxml-->
+<view class="search-bar">
+    <input placeholder="输入关键字查询" type="text" confirm-type="search"
+        bindinput="onInputSearch" bindconfirm="onConfirmSearch"></input>
+</view>
+
+<view class="list">
+    <block wx:for="{{guideList}}" wx:key="id" wx:if="{{index>=0 && !item.hide}}">
+        <view id="item-{{index}}" class="item" 
+            bindtap="onTapMoreInfo" data-index="{{index}}" data-title="{{item.title}}">
+            <p class="text">{{item.title}}</p>
+            <p>></p>
+        </view>
+    </block>
+</view>

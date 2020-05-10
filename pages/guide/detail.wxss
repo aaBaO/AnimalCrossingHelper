@@ -1,0 +1,24 @@
+/* pages/guide/detail.wxss */
+.guide-block{
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+}
+
+.guide-block .guide-title{
+    font-size: 18px;
+    font-weight: 200;
+    padding: 1em 0em;
+}
+
+.guide-block .guide-body{
+    font-size: 14px;
+    padding: 0em 0.2em;
+    margin: 0.2em 0em;
+}
+
+.guide-block .guide-img{
+    flex: 1 1 100%;
+    text-align: center;
+    padding: 1em;
+}

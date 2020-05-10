@@ -1,0 +1,41 @@
+/* pages/guide/guidelist.wxss */
+/* 搜索框 */
+.search-bar{
+  box-sizing: border-box;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: white;
+  z-index: 9999;
+  height: 2em;
+  box-shadow: 1px 2px 2px gray;
+}
+
+.search-bar input{
+  border: #dddddd;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: small;
+  padding: 0 1em;
+  margin: 0 1em;
+  height: 85%;
+}
+
+.list{
+  margin-top: 3em; 
+}
+
+.item{
+  margin: 0.5em 0.8em;
+  border-bottom: 1px solid #dddddd;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item .text{
+  padding: 0.2em 0.4em;
+  flex: 1 1 10em;
+}

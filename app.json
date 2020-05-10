@@ -10,7 +10,9 @@
     "pages/artwork/artwork",
     "pages/artwork/detail",
     "pages/neighbor/neighbor",
-    "pages/neighbor/detail"
+    "pages/neighbor/detail",
+    "pages/guide/guidelist",
+    "pages/guide/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",

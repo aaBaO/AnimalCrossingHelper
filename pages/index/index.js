@@ -53,6 +53,12 @@ Page({
           url: '../neighbor/neighbor',
       })
     }
+
+    if(key === 'guide'){
+      wx.navigateTo({
+          url: '../guide/guidelist',
+      })
+    }
   },
 
   onTapEncourageAd:function(e){

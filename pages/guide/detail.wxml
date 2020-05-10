@@ -1,0 +1,60 @@
+<!--pages/guide/detail.wxml-->
+<!-- <text class="guide-title"></text>
+<text class="guide-body"></text>
+<image class="guide-img" mode="aspectFit" src="..."></image> -->
+    
+<view class="guide-block" id="guide-0" wx:if="{{activeIndex == 0}}">
+    <text class="guide-title">新手指引-nook里数优先兑换</text>
+    <text class="guide-body">1、偿还房贷（5000里数）：建议上岛的第一天还清</text>
+    <text class="guide-body">2、口袋整理技巧（5000里数）：多出一排口袋</text>
+    <text class="guide-body">3、道具清清爽爽！收藏环（800里数）：兑换后按住左手柄的向上键可显示收藏环，方便更换工具</text>
+    <text class="guide-body">4、平常就能用！道具方程式（3000里数）：学习制作铁器工具，增加工具的耐久</text>
+    <text class="guide-body">5、里数旅行券（2000里数）：第二天机场开了之后，可用来去素材岛</text>
+</view>
+
+<view class="guide-block" id="guide-1" wx:if="{{activeIndex == 1}}">
+    <text class="guide-title">挖矿技巧</text>
+    <text class="guide-body">挖矿之前记得先把矿石周围的杂草、花等移除。一块矿石最多可以敲8下，能敲的最大次数取决于玩家敲的速度。但是每敲一下，玩家会往后退一步，降低了敲击速度。所以我们可以在敲击位置后面斜着挖两个坑，这样人物就不会后退，如下图。然后面朝着矿石连续按A就可以了（注意不需要按住方向键）。</text>
+    <image class="guide-img" mode="aspectFit" src="../../assets/tmp-guide-1.png"></image>
+</view>
+
+<view class="guide-block" id="guide-2" wx:if="{{activeIndex == 2}}">
+    <text class="guide-title">房贷阶段</text>
+    <text class="guide-body">房贷共有8个阶段：</text>
+    <text class="guide-body">第一阶段：5000 里程。一间帐篷</text>
+    <text class="guide-body">第二阶段：98000 铃钱。一间房屋</text>
+    <text class="guide-body">第三阶段：198000 铃钱。一间稍大的房屋</text>
+    <text class="guide-body">第四阶段：348000 铃钱。二间房间，后侧多出一间</text>
+    <text class="guide-body">第五阶段：548000 铃钱。三间房间，左侧多出一间，解锁邮箱和屋顶改造</text>
+    <text class="guide-body">第六阶段：758000 铃钱。四间房间，右侧多出一间，解锁门的改造</text>
+    <text class="guide-body">第七阶段：1248000 铃钱。五件房间，多了一间阁楼，解锁外墙和邮箱位置的更改</text>
+    <text class="guide-body">第八阶段：2498000 铃钱。六间房间，多了一间地下室</text>
+    <text class="guide-body">总计569万6千铃钱</text>
+</view>
+
+<view class="guide-block" id="guide-3" wx:if="{{activeIndex == 3}}">
+    <text class="guide-title">写信给小动物</text>
+    <text class="guide-body">进入机场后，右边有一个寄信处，可以给岛上的居民写信，还可以附加礼物哦。</text>
+    <image class="guide-img" mode="aspectFit" src="../../assets/tmp-guide-3.png"></image>
+</view>
+
+<view class="guide-block" id="guide-4" wx:if="{{activeIndex == 4}}">
+    <text class="guide-title">金道具（金色工具）获取</text>
+    <text class="guide-body">金斧头：用坏100把斧头。建议使用简陋斧头。</text>
+    <text class="guide-body">金铲子：帮助落水海鸥（吕游）30次。</text>
+    <text class="guide-body">金鱼竿：收集所有鱼类图鉴。</text>
+    <text class="guide-body">金捕虫网：收集所有虫类图鉴。</text>
+    <text class="guide-body">金水壶：岛屿获得5星评价。使用技巧：红×红获得金玫瑰 —> 黑×黑用金水壶浇水 —> 几天后低概率会在周围生长出金玫瑰花芽。</text>
+    <text class="guide-body">金弹弓：击落300次气球。</text>
+</view>
+
+<view class="guide-block" id="guide-5" wx:if="{{activeIndex == 5}}">
+    <text class="guide-title">海鸥吕游任务</text>
+    <text class="guide-body">有时候海边沙滩上会出现一只昏倒的海鸥吕游，跟它对话N次后，会让玩家帮他寻找通信装置零件。然后用铲子在沙滩上喷水的地方可挖出5个零件。</text>
+    <text class="guide-body">然后有两种做法：</text>
+    <text class="guide-body">1、交给吕游。第二天会在狸猫那的箱子里刷出1个生锈零件，还有信箱里会收到吕游寄给你的礼物。</text>
+    <text class="guide-body">2、不交给吕游。第二天这5个零件就会变成5个生锈的零件。</text>
+    <text class="guide-body">生锈零件的用途：制作高达（英雄机器人）。</text>
+    <text class="guide-body">高达图纸：ATM处用5000里数兑换。</text>
+    <text class="guide-body">高达材料：火箭×1，金盔甲×1，生锈零件×30，铁矿石×90，金矿石×10。</text>
+</view>
