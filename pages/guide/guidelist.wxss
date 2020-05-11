@@ -27,7 +27,7 @@
 }
 
 .item{
-  margin: 0.5em 0.8em;
+  padding: 1em 0.8em;
   border-bottom: 1px solid #dddddd;
   display: flex;
   flex-direction: row;
@@ -36,6 +36,7 @@
 }
 
 .item .text{
-  padding: 0.2em 0.4em;
   flex: 1 1 10em;
+  font-size: 16px;
+  line-height: 2em;
 }

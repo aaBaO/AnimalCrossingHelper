@@ -9,7 +9,6 @@
         <view id="item-{{index}}" class="item" 
             bindtap="onTapMoreInfo" data-index="{{index}}" data-title="{{item.title}}">
             <p class="text">{{item.title}}</p>
-            <p>></p>
         </view>
     </block>
 </view>
