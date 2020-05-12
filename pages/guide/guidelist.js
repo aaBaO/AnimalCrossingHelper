@@ -8,7 +8,7 @@ Page({
    */
   data: {
     guideList:[{title:'新手指引-nook里数优先兑换'}, {title:'挖矿技巧'}, {title:'房贷阶段'}, 
-      {title:'写信给小动物'}, {title:'金道具（金色工具）获取'}, {title:'海鸥吕游任务'}],
+      {title:'写信给小动物'}, {title:'金道具（金色工具）获取'}, {title:'海鸥吕游任务'}, {title:'邻居小动物友情点介绍'}],
   },
 
   /**

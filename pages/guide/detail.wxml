@@ -1,8 +1,4 @@
 <!--pages/guide/detail.wxml-->
-<!-- <text class="guide-title"></text>
-<text class="guide-body"></text>
-<image class="guide-img" mode="aspectFit" src="..."></image> -->
-    
 <view class="guide-block" id="guide-0" wx:if="{{activeIndex == 0}}">
     <text class="guide-title">新手指引-nook里数优先兑换</text>
     <text class="guide-body">1、偿还房贷（5000里数）：建议上岛的第一天还清</text>
@@ -57,4 +53,19 @@
     <text class="guide-body">生锈零件的用途：制作高达（英雄机器人）。</text>
     <text class="guide-body">高达图纸：ATM处用5000里数兑换。</text>
     <text class="guide-body">高达材料：火箭×1，金盔甲×1，生锈零件×30，铁矿石×90，金矿石×10。</text>
+</view>
+
+<view class="guide-block" id="guide-6" wx:if="{{activeIndex == 6}}">
+    <text class="guide-title">邻居小动物友情点介绍</text>
+    <text class="guide-body">游戏中的邻居小动物的友好度是用友情点来衡量的。友情点的范围是0-255，邻居刚搬到岛上的时候有初始的25点友情点。</text>
+    <text class="guide-body">每天给邻居赠送礼物可以获得友情点:</text>
+    <text class="guide-body">(-2 友情点) 送垃圾</text>
+    <text class="guide-body">(+2 友情点) 送花，鱼，昆虫、捕虫网、浇水壶、鱼杆、爱情水晶，最爱的音乐，给非青蛙类的邻居送雨伞，喜欢的衣服如颜色，款式</text>
+    <text class="guide-body">(+3 友情点) 任意家具</text>
+    <text class="guide-body">(+1 友情点) 送雨伞给青蛙类的邻居，不喜欢的衣服等等</text>
+    <text class="guide-body">如果礼物用包装纸包起来的话可以额外获得1点友情点!!</text>
+</view>
+
+<view class="adContainer">
+    <ad unit-id="adunit-af7cf947485f0c20" ad-type="video" ad-theme="white"></ad>
 </view>
