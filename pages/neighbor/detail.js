@@ -1,6 +1,7 @@
 // pages/neighbor/detail.js
 var neighborsData = require('../../database/neighbors.js')
 const utils = require('../../utils/utils')
+const collection = require('../../utils/collection')
 const dexType = 'neighbor'
 
 Page({
@@ -50,5 +51,19 @@ Page({
     wx.previewImage({
       urls:[url],
     })
-  }
+  },
+
+  onSetCollected:function(e){
+    var type = dexType
+    var key = e.currentTarget.dataset.key
+    var value = e.currentTarget.dataset.value
+
+    this.data.inspectData.collected = value
+
+    collection.setCollectionData(type, key, value).then(()=>{
+      this.setData({
+        inspectData: this.data.inspectData
+      })
+    })
+  },
 })

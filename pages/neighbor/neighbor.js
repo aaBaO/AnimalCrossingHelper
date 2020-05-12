@@ -1,6 +1,7 @@
 // pages/neighbor/neighbor.js
 var neighbor_data = require('../../database/neighbors.js')
 const utils = require('../../utils/utils')
+const collection = require('../../utils/collection')
 const dexType = 'neighbor'
 
 Page({
@@ -39,8 +40,32 @@ Page({
   },
 
   renderPage: function(){
-    this.data.dataList = neighbor_data.data
-    this.doFilter()
+    collection.getCollectionData().then((data)=>{
+      neighbor_data.data.forEach(item => {
+        item.hide = false
+        if(data[dexType] && data[dexType][item.name]){
+          item.collected = data[dexType][item.name]
+        }
+        else{
+          item.collected = false
+        }
+      });
+
+      neighbor_data.data.sort(function(a, b){
+        const ca = data[dexType] && data[dexType][a.name] == true
+        const cb = data[dexType] && data[dexType][b.name] == true
+        if(ca && !cb)
+          return -1
+        else if(!ca && cb)
+          return 1
+
+        return 0
+      })
+
+      this.data.dataList = neighbor_data.data
+      this.doFilter()
+    })      
+
     this.setData({
       isDefaultFilter: this.isDefaultFilter()
     });
@@ -259,5 +284,15 @@ Page({
     this.setData({
       dataList: datas
     })
-  }
+  },
+
+  onSetCollected:function(e){
+    var type = dexType
+    var key = e.currentTarget.dataset.key
+    var value = e.currentTarget.dataset.value
+
+    collection.setCollectionData(type, key, value).then(()=>{
+      this.renderPage()
+    })
+  },
 })
