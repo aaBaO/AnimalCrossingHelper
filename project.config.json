@@ -4,27 +4,11 @@
 		"ignore": [
 			{
 				"type": "folder",
-				"value": "/assets/DIYRecipes"
+				"value": "/assets/cache"
 			},
 			{
 				"type": "folder",
-				"value": "/assets/DIYMaterials"
-			},
-			{
-				"type": "folder",
-				"value": "/assets/bug"
-			},
-			{
-				"type": "folder",
-				"value": "/assets/fish"
-			},
-			{
-				"type": "folder",
-				"value": "/assets/arts"
-			},
-			{
-				"type": "folder",
-				"value": "/assets/neighbors"
+				"value": "/dev_utils"
 			}
 		]
 	},
