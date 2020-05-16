@@ -24,8 +24,10 @@ image.role-img{
 }
 
 image.house-img{
-  height: 80px;
-  width: 120px;
+  height: 72px;
+  width: 108px;
+  border: 1px solid #eeeeee;
+  margin: 0.2em 0;
 }
 
 view.detail{

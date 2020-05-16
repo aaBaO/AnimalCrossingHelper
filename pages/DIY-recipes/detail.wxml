@@ -33,5 +33,5 @@
 </view>
 
 <view class="adContainer">
-  <ad unit-id="adunit-bfe0572cbc5618b2" ad-intervals="10"></ad>
+    <ad unit-id="adunit-44c37700377b3faf" ad-type="video" ad-theme="white"></ad>
 </view>

@@ -52,14 +52,14 @@ Page({
 
   onShowAd:function(){
     if (interstitialAd) {
-      interstitialAd.show().then(()=>{
-        wxpsetStorage({
-          key:key_lastInterstitialAdTime,
-          data:Date.now()
-        })
-      }).catch((err) => {
-        console.error(err)
-      })
+      // interstitialAd.show().then(()=>{
+      //   wxpsetStorage({
+      //     key:key_lastInterstitialAdTime,
+      //     data:Date.now()
+      //   })
+      // }).catch((err) => {
+      //   console.error(err)
+      // })
     }
   },
 
