@@ -29,7 +29,7 @@
         <p class="info flex-p80 pd-value">{{inspectData.time}}</p>
     </view>
 
-    <p class="info color-lg mgtop-small">北半球</p>
+    <p class="info color-lg mgtop-small">南半球</p>
     <view class="month-list">
         <view class="item">
             <p class="month">一月</p>
@@ -81,7 +81,7 @@
         </view>
     </view>
 
-    <p class="info color-lg mgtop-small">南半球</p>
+    <p class="info color-lg mgtop-small">北半球</p>
     <view class="month-list">
         <view class="item">
             <p class="month">一月</p>
