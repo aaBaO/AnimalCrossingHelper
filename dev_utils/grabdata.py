@@ -18,6 +18,7 @@ NorthernHemisiphere = "北半球"
 SouthernHemisiphere = "南半球"
 
 def GrabFishData():
+    browser = webdriver.Chrome()
     # https://animalcrossing.fandom.com/zh/wiki/Category:魚類(集合啦！動物森友會)?variant=zh-hans
     fishURL = 'https://animalcrossing.fandom.com/zh/wiki/Category:%E9%AD%9A%E9%A1%9E(%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83)?variant=zh-hans'
     fishAssetsPath = './assets/fish'
@@ -125,6 +126,7 @@ def GrabFishData():
     browser.close()
 
 def GrabBugData():
+    browser = webdriver.Chrome()
     # https://animalcrossing.fandom.com/zh/wiki/Category:昆蟲(集合啦！動物森友會)?variant=zh-hans
     bugURL = 'https://animalcrossing.fandom.com/zh/wiki/Category:%E6%98%86%E8%9F%B2(%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83)?variant=zh-hans'
     print(urllib.request.unquote(bugURL))
@@ -233,6 +235,7 @@ def GrabBugData():
     browser.close()
 
 def GrabDIYRecipes():
+    browser = webdriver.Chrome()
     # 'https://wiki.biligame.com/dongsen/DIY配方'
     browser.get('https://wiki.biligame.com/dongsen/DIY%E9%85%8D%E6%96%B9')
 
@@ -346,6 +349,7 @@ def GrabDIYRecipes():
     browser.close()
 
 def GrabArtData():
+    browser = webdriver.Chrome()
     browser.get('https://www.imore.com/animal-crossing-new-horizons-how-tell-if-redd-selling-fake-art')
 
     artsMap = []
@@ -495,8 +499,8 @@ def GrabNeighbors():
         neighbor['birthday'] = birthday.text
 
         # 性格
-        character = table.find_element(By.CSS_SELECTOR, 'div:nth-child(3) > font:nth-child(2)')
-        neighbor['character'] = character.text
+        personlity = table.find_element(By.CSS_SELECTOR, 'div:nth-child(3) > font:nth-child(2)')
+        neighbor['personlity'] = personlity.text
 
         # 初始口头禅
         tag = table.find_element(By.CSS_SELECTOR, 'div:nth-child(4) > font:nth-child(2)')
@@ -513,6 +517,31 @@ def GrabNeighbors():
         # 外文名
         foreign_name = table.find_element(By.CSS_SELECTOR, 'div:nth-child(7) > font:nth-child(2)')
         neighbor['foreign_name'] = foreign_name.text
+
+        #这些小动物出现在游戏中但是不能成为居民
+        if any(substring in foreign_name.text for substring in ('Marty','Étoile','Chelsea','Chai','Rilla','Toby')):
+            browser.close()
+            browser.switch_to_window(originalWindowHandle)
+            continue
+
+        # 家装
+        try:
+            house_furniture_img = browser.find_element(By.CSS_SELECTOR, '#mw-content-text > div > p > a[class="image"]> img')
+            imgURL = house_furniture_img.get_attribute('src')
+            neighbor['house_furniture_img'] = imgURL
+            # 下载图片
+            assetPath = '/assets/neighbors/house_furniture'
+            imgFile = '%s/%s_%s.png' %(assetPath, neighbor['name'], "house_furniture")
+            pyImgFile = '.%s' % imgFile
+            if not os.path.exists(pyImgFile):
+                imgResponse = requests.get(imgURL, stream=True)
+                if imgResponse.status_code == 200:
+                    # 将内容写入图片
+                    open(pyImgFile, 'wb').write(imgResponse.content) 
+                    print("%s..图片下载完成" %(pyImgFile))
+                del imgResponse
+        except:
+            print("%s..没有房屋家装" %(neighbor['name']))
 
         browser.close()
         browser.switch_to_window(originalWindowHandle)
