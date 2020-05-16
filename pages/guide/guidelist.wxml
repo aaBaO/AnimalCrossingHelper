@@ -1,9 +1,8 @@
 <!--pages/guide/guidelist.wxml-->
-<view class="search-bar">
+<!-- <view class="search-bar">
     <input placeholder="输入关键字查询" type="text" confirm-type="search"
         bindinput="onInputSearch" bindconfirm="onConfirmSearch"></input>
-</view>
-
+</view> -->
 <view class="list">
     <block wx:for="{{guideList}}" wx:key="id" wx:if="{{index>=0 && !item.hide}}">
         <view id="item-{{index}}" class="item" 
