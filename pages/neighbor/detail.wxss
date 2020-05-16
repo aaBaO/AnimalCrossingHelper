@@ -1,20 +1,35 @@
 /* pages/neighbor/detail.wxss */
-view.detail-img{
+.images-view{
   display: flex;
-  height: 33%;
   justify-content: center;
+  height: 33%;
 }
-image.detail-img{
-  height: 128px;
-  padding: 1em 1em 0em 1em;
+
+.images-view .role{
+  flex: 1 1 50%;
+  padding: 1em 0em 1em 3em;
 }
-image.fake-img{
-  height: 128px;
-  padding: 0 3em 0 0;
+
+.images-view .house{
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 50%;
+  align-content: center;
+  padding: 1em 1em;
+}
+
+image.role-img{
+  height: 160px;
+  width: 160px;
+}
+
+image.house-img{
+  height: 80px;
+  width: 120px;
 }
 
 view.detail{
-  margin: 2em 1em 2em 1em;
+  margin: 1em 1em 2em 1em;
   display: flex;
   flex-direction: column;
 }

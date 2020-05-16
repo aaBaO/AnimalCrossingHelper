@@ -1,7 +1,15 @@
 <!--pages/neighbor/detail.wxml-->
-<view class="detail-img">
-    <image class="detail-img" mode="aspectFit" src="{{inspectData.imgRef}}" 
-    bindtap="onPreviewImage" data-src="{{inspectData.imgRef}}"></image>
+<view class="images-view">
+    <view class="role">
+        <image class="role-img" mode="aspectFit" src="{{inspectData.imgRef}}" 
+            bindtap="onPreviewImage" data-src="{{inspectData.imgRef}}"></image>
+    </view>
+    <view class="house">
+        <image class="house-img" mode="aspectFit" src="{{inspectData.houseImage}}" 
+            bindtap="onPreviewImage" data-src="{{inspectData.houseImage}}"></image>
+        <image class="house-img" mode="aspectFit" src="{{inspectData.house_furniture_img}}" 
+            bindtap="onPreviewImage" data-src="{{inspectData.house_furniture_img}}"></image>
+    </view>
 </view>
 
 <view class="detail">
@@ -27,7 +35,19 @@
     </view>
     <view class="flex-row align-items-center border-btm">
         <p class="info color-lg flex-p40">性格</p>
-        <p class="info flex-p80 pd-value">{{inspectData.character}}</p>
+        <p class="info flex-p80 pd-value">{{inspectData.personlity}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">爱好</p>
+        <p class="info flex-p80 pd-value">{{inspectData.hobby}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">喜欢的颜色</p>
+        <p class="info flex-p80 pd-value">{{inspectData.colors}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info color-lg flex-p40">喜欢的风格</p>
+        <p class="info flex-p80 pd-value">{{inspectData.styles}}</p>
     </view>
     <view class="flex-row align-items-center border-btm">
         <p class="info color-lg flex-p40">口头禅</p>

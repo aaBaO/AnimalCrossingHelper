@@ -24,8 +24,8 @@
                 </label>
             </checkbox-group>
             <view class="type-name">性格</view>
-            <checkbox-group class="check-box-group flex-row-w" bindchange="onSetFilter" data-type='character'>
-                <label class="check-box {{item.checked?'checked':''}}" wx:for="{{tmp_characterArray}}" wx:key="value">
+            <checkbox-group class="check-box-group flex-row-w" bindchange="onSetFilter" data-type='personlity'>
+                <label class="check-box {{item.checked?'checked':''}}" wx:for="{{tmp_personlityArray}}" wx:key="value">
                     <checkbox class="check-box-none" value="{{item.value}}" checked="{{item.checked}}"/>
                     <text class="text">{{item.value}}</text>
                 </label>

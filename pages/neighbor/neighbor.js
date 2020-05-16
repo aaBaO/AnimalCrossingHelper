@@ -19,7 +19,7 @@ Page({
       {value:'山羊'},{value:'鸭'},{value:'猴子'},{value:'袋鼠'},{value:'象'},
       {value:'犀牛'},{value:'考拉'},{value:'鸵鸟'},{value:'兔子'},{value:'企鹅'},{value:'河马'},{value:'仓鼠'},{value:'老虎'}],
 
-    characterArray:[{value:'全部', checked:true},{value:'元气'},{value:'普通'},{value:'成熟'},
+    personlityArray:[{value:'全部', checked:true},{value:'元气'},{value:'普通'},{value:'成熟'},
       {value:'大姐姐'},{value:'自恋'},{value:'运动'},{value:'悠闲'},{value:'暴躁'}],
 
     birthdayArray:[{value:'全部', checked:true},{value:'1月'},{value:'2月'},{value:'3月'},{value:'4月'},{value:'5月'},{value:'6月'},
@@ -29,7 +29,7 @@ Page({
     isDefaultFilter:true,
 
     tmp_raceArray:'undefined',
-    tmp_characterArray:'undefined',
+    tmp_personlityArray:'undefined',
     tmp_birthdayArray:'undefined',
   },
 
@@ -39,7 +39,7 @@ Page({
   onLoad: function (options) {
   },
 
-  renderPage: function(){
+  renderPage: function(resort){
     collection.getCollectionData().then((data)=>{
       neighbor_data.data.forEach(item => {
         item.hide = false
@@ -51,16 +51,18 @@ Page({
         }
       });
 
-      neighbor_data.data.sort(function(a, b){
-        const ca = data[dexType] && data[dexType][a.name] == true
-        const cb = data[dexType] && data[dexType][b.name] == true
-        if(ca && !cb)
-          return -1
-        else if(!ca && cb)
-          return 1
+      if(resort){
+        neighbor_data.data.sort(function(a, b){
+          const ca = data[dexType] && data[dexType][a.name] == true
+          const cb = data[dexType] && data[dexType][b.name] == true
+          if(ca && !cb)
+            return -1
+          else if(!ca && cb)
+            return 1
 
-        return 0
-      })
+          return 0
+        })
+      }
 
       this.data.dataList = neighbor_data.data
       this.doFilter()
@@ -75,7 +77,7 @@ Page({
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-    this.renderPage()
+    this.renderPage(true)
   },
 
   //搜索输入
@@ -136,14 +138,14 @@ Page({
     }
 
     const tmp_raceArray = utils.deepCopy(this.data.raceArray)
-    const tmp_characterArray = utils.deepCopy(this.data.characterArray)
+    const tmp_personlityArray = utils.deepCopy(this.data.personlityArray)
     const tmp_birthdayArray = utils.deepCopy(this.data.birthdayArray)
 
     this.setData({
       hideFilterView: this.data.hideFilterView,
       isDefaultFilter: this.isDefaultFilter(),
       tmp_raceArray: tmp_raceArray,
-      tmp_characterArray: tmp_characterArray,
+      tmp_personlityArray: tmp_personlityArray,
       tmp_birthdayArray: tmp_birthdayArray
     })
   },
@@ -155,8 +157,8 @@ Page({
     if(type === 'race'){
       items = this.data.tmp_raceArray
     }
-    else if(type == 'character'){
-      items = this.data.tmp_characterArray
+    else if(type == 'personlity'){
+      items = this.data.tmp_personlityArray
     }
     else if(type == 'birthday'){
       items = this.data.tmp_birthdayArray
@@ -198,20 +200,20 @@ Page({
 
     this.setData({
       tmp_raceArray: this.data.tmp_raceArray,
-      tmp_characterArray: this.data.tmp_characterArray,
+      tmp_personlityArray: this.data.tmp_personlityArray,
       tmp_birthdayArray: this.data.tmp_birthdayArray
     })
   },
 
   onTapConfirmChangeFilter:function(e){
     this.data.raceArray = this.data.tmp_raceArray
-    this.data.characterArray = this.data.tmp_characterArray
+    this.data.personlityArray = this.data.tmp_personlityArray
     this.data.birthdayArray = this.data.tmp_birthdayArray
     this.doFilter()
     this.onTapFilter()
     this.setData({
       raceArray:this.data.tmp_raceArray,
-      characterArray:this.data.tmp_characterArray,
+      personlityArray:this.data.tmp_personlityArray,
       birthdayArray:this.data.tmp_birthdayArray
     })
   },
@@ -219,7 +221,7 @@ Page({
   //是否是默认筛选条件
   isDefaultFilter:function(){
     var dr = this.data.raceArray[0].checked
-    var dc = this.data.characterArray[0].checked 
+    var dc = this.data.personlityArray[0].checked 
     var db = this.data.birthdayArray[0].checked 
     return dr && dc && db
   },
@@ -244,16 +246,16 @@ Page({
       }
     }
 
-    for(var c in this.data.characterArray){
-      var tcharacter = this.data.characterArray[c]
-      if(!tcharacter.checked)
+    for(var c in this.data.personlityArray){
+      var tpersonlity = this.data.personlityArray[c]
+      if(!tpersonlity.checked)
         continue
 
       if (c == 0){
         matchc = true
         break;
       }
-      if(item.character == tcharacter.value){
+      if(item.personlity == tpersonlity.value){
         matchc = true
       }
     }
