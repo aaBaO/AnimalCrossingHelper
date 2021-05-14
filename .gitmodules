@@ -1,0 +1,3 @@
+[submodule "translation-sheet-data"]
+	path = translation-sheet-data
+	url = https://github.com/alexislours/translation-sheet-data.git
