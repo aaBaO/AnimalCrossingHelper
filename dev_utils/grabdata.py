@@ -482,7 +482,7 @@ def GrabNeighbors():
         img = browser.find_element(By.CSS_SELECTOR, '#mw-content-text > div > div.box-poke-big > div.box-poke-right > div > div > a > img')
         imgURL = img.get_attribute('src')
         # 下载图片
-        assetPath = '/assets/neighbors'
+        assetPath = '/assets/cache/neighbors'
         imgFile = '%s/%s.png' %(assetPath, neighbor['name'])
         neighbor['imgRef'] = imgURL
         pyImgFile = '.%s' % imgFile
@@ -511,11 +511,11 @@ def GrabNeighbors():
         neighbor['target'] = target.text
 
         # 座右铭
-        motto = table.find_element(By.CSS_SELECTOR, 'div:nth-child(6) > div:nth-child(2)')
+        motto = table.find_element(By.CSS_SELECTOR, 'div:nth-child(10) > div:nth-child(2)')
         neighbor['motto'] = motto.text
 
         # 外文名
-        foreign_name = table.find_element(By.CSS_SELECTOR, 'div:nth-child(7) > font:nth-child(2)')
+        foreign_name = table.find_element(By.CSS_SELECTOR, 'div:nth-child(11) > font:nth-child(2)')
         neighbor['foreign_name'] = foreign_name.text
 
         #这些小动物出现在游戏中但是不能成为居民
@@ -530,7 +530,7 @@ def GrabNeighbors():
             imgURL = house_furniture_img.get_attribute('src')
             neighbor['house_furniture_img'] = imgURL
             # 下载图片
-            assetPath = '/assets/neighbors/house_furniture'
+            assetPath = '/assets/cache/neighbors/house_furniture'
             imgFile = '%s/%s_%s.png' %(assetPath, neighbor['name'], "house_furniture")
             pyImgFile = '.%s' % imgFile
             if not os.path.exists(pyImgFile):
@@ -560,7 +560,7 @@ def GrabNeighbors():
 # GrabBugData()
 # GrabDIYRecipes()
 # GrabArtData()
-GrabNeighbors()
+# GrabNeighbors()
 
 
 #压缩图片

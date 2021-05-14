@@ -1,0 +1,11 @@
+{
+    "name": "crossing_animal_helper",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@alexislours/translation-sheet-data": "file:./translation-sheet-data",
+        "@nooksbazaar/acdb": "^0.5.0",
+        "pinyin": "^2.10.2",
+        "slug": "^5.0.1",
+        "xlsx": "^0.17.0"
+    }
+}
