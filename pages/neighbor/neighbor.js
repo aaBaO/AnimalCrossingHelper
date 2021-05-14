@@ -101,8 +101,9 @@ Page({
 
     var match = false
     var item = this.data.dataList[i]
-    var reg = new RegExp(pattern)
-    if(reg.test(item.name) || reg.test(item.pinyin[0]) || reg.test(item.pinyin[1])){
+    var reg = new RegExp(pattern, "i")
+    if(reg.test(item.name) || reg.test(item.pinyin[0]) || reg.test(item.pinyin[1])
+      || reg.test(item.foreign_name)){
       match = true
     }
     return match

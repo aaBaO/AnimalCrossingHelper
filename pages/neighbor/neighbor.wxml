@@ -1,6 +1,6 @@
 <!--pages/neighbor/neighbor.wxml-->
 <view class="search-bar">
-    <input placeholder="输入名称/全拼/简拼查询" type="text" confirm-type="search"
+    <input placeholder="输入名称/全拼/简拼查询(支持日文,英语)" type="text" confirm-type="search"
         bindinput="onInputSearch" bindconfirm="onConfirmSearch"></input>
 </view>
 
