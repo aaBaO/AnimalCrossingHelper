@@ -10,9 +10,10 @@
     <text class="btn-text">小动物图鉴</text>
     <image class="icon" mode="aspectFit" src="/assets/neighbor-icon.png"></image>
   </view>
-  <view class="navi-button" bindtap="onclickFunc" data-key="art">
-    <image class="icon" mode="aspectFit" src="/assets/art-icon.png"></image>
-    <text class="btn-text">艺术品图鉴</text>
+  <view class="navi-button flex-oneline" bindtap="onclickFunc" data-key="guide">
+    <image class="icon" mode="aspectFit" src="/assets/guide-icon.png"></image>
+    <text class="btn-text">精品攻略</text>
+    <image class="icon" mode="aspectFit" src="/assets/guide-icon.png"></image>
   </view>
   <view class="navi-button" bindtap="onclickFunc" data-key="fish">
     <image class="icon" mode="aspectFit" src="/assets/fish-icon.png"></image>
@@ -26,14 +27,13 @@
     <image class="icon" mode="aspectFit" src="/assets/sea-creature-icon.png"></image>
     <text class="btn-text">海洋生物图鉴</text>
   </view>
+  <view class="navi-button" bindtap="onclickFunc" data-key="art">
+    <image class="icon" mode="aspectFit" src="/assets/art-icon.png"></image>
+    <text class="btn-text">艺术品图鉴</text>
+  </view>
   <view class="navi-button" bindtap="onclickFunc" data-key="DIY_recipe">
     <image class="icon" mode="aspectFit" src="/assets/DIY-icon.png"></image>
     <text class="btn-text">DIY图鉴</text>
-  </view>
-  <view class="navi-button" bindtap="onclickFunc" data-key="guide">
-    <image class="icon" mode="aspectFit" src="/assets/guide-icon.png"></image>
-    <text class="btn-text">精品攻略</text>
-    <image class="icon" mode="aspectFit" src="/assets/guide-icon.png"></image>
   </view>
 </view>
 

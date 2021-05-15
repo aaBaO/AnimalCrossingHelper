@@ -9,6 +9,10 @@
       {
         "type": "folder",
         "value": "/dev_utils"
+      },
+      {
+        "type": "folder",
+        "value": "/translation-sheet-data"
       }
     ]
   },
