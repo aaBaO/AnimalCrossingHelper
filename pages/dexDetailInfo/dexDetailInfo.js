@@ -1,8 +1,9 @@
 // pages/dexDetailInfo/dexDetailInfo.js
 const utils = require('../../utils/utils')
 
-var fish_data = require('../../database/fish.js')
-var bug_data = require('../../database/bug.js')
+const fish_data = require('../../database/fish.js')
+const bug_data = require('../../database/bug.js')
+const sea_creature_data = require('../../database/sea_creatures.js')
 
 const collection = require('../../utils/collection')
 
@@ -48,6 +49,9 @@ Page({
     }
     if(type == 'bug'){
       dataList = bug_data.data
+    }
+    if(type == 'sea_creature'){
+      dataList = sea_creature_data.data
     }
     index = decodeURI(index)
     for(var item of dataList){

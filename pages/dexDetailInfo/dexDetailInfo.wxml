@@ -17,10 +17,14 @@
         <p class="info flex-p80 pd-value">{{inspectData.price}}</p>
     </view>
     <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.shadowSize}}">
-        <p class="info flex-p40 color-lg">鱼影大小</p>
+        <p class="info flex-p40 color-lg">影子大小</p>
         <p class="info flex-p80 pd-value">{{inspectData.shadowSize}}</p>
     </view>
-    <view class="flex-row align-items-center border-btm">
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.movementSpeed}}">
+        <p class="info flex-p40 color-lg">移动速度</p>
+        <p class="info flex-p80 pd-value">{{inspectData.movementSpeed}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.location}}">
         <p class="info flex-p40 color-lg">出现地点</p>
         <p class="info flex-p80 pd-value">{{inspectData.location}}</p>
     </view>

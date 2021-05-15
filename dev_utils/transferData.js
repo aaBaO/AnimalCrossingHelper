@@ -6,12 +6,21 @@ const slug = require('slug')
 
 const woptions = {encoding:'utf8', flag:'w'}
 
-function getTranslation(categroy, key){
+const MonthEnum = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
+               'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+
+const Locale = {
+    shadow : {"X-Small":"特小", "Small":"小", "Medium":"中等", "Large":"大", "X-Large":"特大"},
+    movementSpeed : {"Stationary":"静止的", "Very slow":"非常慢", "Slow":"慢", "Medium":"中等", "Fast":"快", "Very fast":"非常快"},
+    dayTime : {"All day":"全天"}
+}
+
+function getTranslation(categroy, key, locale='CNzh'){
     var translation = require(`@alexislours/translation-sheet-data/${categroy}.json`)
     for(const i in translation){
         var t = translation[i]
         if(t.id === key){
-            return t.locale.CNzh
+            return t.locale[locale]
         }
     }
     console.error(`找不到对应的翻译${categroy}, ${key}`)
@@ -359,9 +368,6 @@ function getVariants(source_list, base_item){
 //#endregion
 
 //#region 海洋生物
-const MonthEnum = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
-               'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-            
 function hanldeAllSeaCreature(){
     let list = getJSONObject_FromSheet('Sea Creatures')
     let results = []
@@ -369,14 +375,14 @@ function hanldeAllSeaCreature(){
         const data = list[i]
         let info = {}
         info['enName'] = data['Name']
+        info['jpName'] = getTranslation('sea', `DiveFish_${data['Internal ID'].toString().padStart(5, "0")}`, 'JPja')
         info['name'] = getTranslation('sea', `DiveFish_${data['Internal ID'].toString().padStart(5, "0")}`)
         let iconImagePath = data['Icon Image']
         info['imgSource'] = iconImagePath.substring(7, iconImagePath.length-2)
         info['price'] = data['Sell']
-        info['shadowSize'] = data['Shadow']
-        //todo:翻译
-        info['movementSpeed'] = data['Movement Speed']
-        //todo:翻译
+        info['totalCatchesToUnlock'] = data['Total Catches to Unlock']
+        info['shadowSize'] = Locale.shadow[data['Shadow']] ?? data['Shadow']
+        info['movementSpeed'] = Locale.movementSpeed[data['Movement Speed']] ?? data['Movement Speed']
         let time = ""
         let month = {}
         month['nh'] = {}
@@ -390,9 +396,9 @@ function hanldeAllSeaCreature(){
             const shSpawnTime = data[`SH ${monthStr}`]
             month['sh'][monthStr] = shSpawnTime != "NA" ? '✓':'-'
 
-            if(nhSpawnTime != "NA" && time == "")
-                //todo:翻译
-                time = nhSpawnTime
+            if(nhSpawnTime != "NA" && time == ""){
+                time = Locale.dayTime[nhSpawnTime] ?? nhSpawnTime 
+            }
         }
 
         info['month'] = month
@@ -404,7 +410,8 @@ function hanldeAllSeaCreature(){
         results.push(info)
     }
 
-    const data = JSON.stringify(results, null, 2)
+    const data = `var json=${JSON.stringify(results, null, 2)}
+module.exports={data:json}`
     fs.writeFile('./database/sea_creatures.js', data, woptions, (err)=>{
         if(err){
             console.error(err)
@@ -414,16 +421,6 @@ function hanldeAllSeaCreature(){
         console.log('写入文件成功! sea_creatures')
     })
 
-    // 'Icon Image'
-    // 'Name'
-    // 'Sell'
-    // 'Shadow'
-    // 'Movement Speed'
-    // 'Total Catches to Unlock'//表示需要解锁多少种图鉴才会使这个生物刷新在自己的岛上
-    // 'Surface'
-    // 'Size'
-    // 'NH Jan	NH Feb	NH Mar	NH Apr	NH May	NH Jun	NH Jul	NH Aug	NH Sep	NH Oct	NH Nov	NH Dec'
-    // 'SH Jan	SH Feb	SH Mar	SH Apr	SH May	SH Jun	SH Jul	SH Aug	SH Sep	SH Oct	SH Nov	SH Dec'
 }
 //#endregion
 

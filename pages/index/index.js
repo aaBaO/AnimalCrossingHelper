@@ -30,6 +30,12 @@ Page({
       })
     }
 
+    if(key === 'sea-creature'){
+      wx.navigateTo({
+          url: '../sea-creaturedex/page',
+      })
+    }
+
     if(key === 'turnip_price'){
       wx.navigateTo({
           url: '../turnip-prices/turnip-prices',
