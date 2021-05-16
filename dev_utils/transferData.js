@@ -3,6 +3,8 @@ const XLSX = require('xlsx')
 const workbook = XLSX.readFile('./database/database.xlsx');
 const pinyin = require('pinyin')
 const slug = require('slug')
+const {Source, Color} = require('@nooksbazaar/acdb/all')
+const {Category} = require('@nooksbazaar/acdb/items')
 
 const woptions = {encoding:'utf8', flag:'w'}
 
@@ -12,18 +14,34 @@ const MonthEnum = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
 const Locale = {
     shadow : {"X-Small":"特小", "Small":"小", "Medium":"中等", "Large":"大", "X-Large":"特大"},
     movementSpeed : {"Stationary":"静止的", "Very slow":"非常慢", "Slow":"慢", "Medium":"中等", "Fast":"快", "Very fast":"非常快"},
-    dayTime : {"All day":"全天"}
+    dayTime : {"All day":"全天"},
+    color:{[Color.Aqua]:"水蓝色", [Color.Beige]:"米色", [Color.Black]:"黑色", [Color.Blue]:"蓝色",
+           [Color.Brown]:"棕色", [Color.Colorful]:"彩色", [Color.Gray]:"灰色", [Color.Green]:"绿色",
+           [Color.Orange]:"橙色", [Color.Pink]:"粉色", [Color.Purple]:"紫色", [Color.Red]:"红色", [Color.White]:"白色", [Color.Yellow]:"黄色"}
 }
 
-function getTranslation(categroy, key, locale='CNzh'){
-    var translation = require(`@alexislours/translation-sheet-data/${categroy}.json`)
-    for(const i in translation){
-        var t = translation[i]
-        if(t.id === key){
-            return t.locale[locale]
+//翻译需要查询的文件索引
+const TranslateFileMap = {
+    items:['furniture', 'variants', 'etc', 'marinesuitsvariants', 'swim_suit', 'patterns', 'accessories', 'accessoriesvariants', 
+           'fishmodels', 'bugsmodels', 'furniture'],
+    creatures:['sea'],
+    villagers:['villagers'],
+    source:['specialnpcs']
+}
+
+function getTranslation(category, key, locale = 'CNzh'){
+    if(key == "NA") return key
+    if(key == "NFS") return "非卖品"
+    for(let i in TranslateFileMap[category]){
+        var translation = require(`@alexislours/translation-sheet-data/${TranslateFileMap[category][i]}.json`)
+        for(const i in translation){
+            var t = translation[i]
+            if(t.locale.USen === key){
+                return t.locale[locale]
+            }
         }
     }
-    console.error(`找不到对应的翻译${categroy}, ${key}`)
+    console.error(`找不到对应的翻译${category}, ${key}`)
     return key
 }
 
@@ -136,232 +154,90 @@ function transerReactoins(){
 //#endregion
 
 //#region 家具
-//Housewares,Miscellaneous,Wall-mounted,Fencing,Wallpaper,Floors,Rugs,
-let handled_InternalID_list = []
-function transferFurniture(){
-    handled_InternalID_list = []
-
-    var houseware_list = getJSONObject_FromSheet('Housewares')
-    var miscellaneous_list = getJSONObject_FromSheet('Miscellaneous')
-    var wall_mounted_list = getJSONObject_FromSheet('Wall-mounted')
-    var fencing_list = getJSONObject_FromSheet('Fencing')
-    var wallpaper_list = getJSONObject_FromSheet('Wallpaper')
-    var floors_list = getJSONObject_FromSheet('Floors')
-    var rugs_list = getJSONObject_FromSheet('Rugs')
-
-    let results = []
-
-    for(const i in houseware_list){
-        var item = houseware_list[i]
-        if(handled_InternalID_list.includes(item['Internal ID'])){
-            continue
-        }
-        
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('furniture', item.Name)
-        result['buy'] = item.Buy
-        result['sell'] = item.Sell
-        result['size'] = item.Size
-        result['source'] = item.Source
-        result['interact'] = item.Interact ? '是':'否'
-        var variants = getVariants(houseware_list, item)
-        var variants_list = []
-        for(const v in variants){
-            var variant = variants[v]
-            var vresult = {}
-            vresult['variation'] = variant.Variation 
-            vresult['imgRef'] = variant.Image.substring(7, variant.Image.length-2)
-            vresult['color'] = [getTranslation('color', variant['Color 1']), 
-                getTranslation('color', variant['Color 2'])]
-            variants_list.push(vresult)
-        }
-        result['variants'] = variants_list
-        results.push(result)
-    }
-
-    var data = JSON.stringify(results, null, 2)
-    fs.writeFile('./database/housewares.js', data, woptions, (err)=>{
-        if(err){
-            console.error(err)
-            return
-        }
-
-        console.log('写入文件成功! housewares')
-    })
-
-    results = []
-    for(const i in miscellaneous_list){
-        var item = miscellaneous_list[i]
-        if(handled_InternalID_list.includes(item['Internal ID'])){
-            continue
-        }
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('etc', item.Name)
-        result['buy'] = item.Buy
-        result['sell'] = item.Sell
-        result['size'] = item.Size
-        result['source'] = item.Source
-        result['interact'] = item.Interact ? '是':'否'
-        var variants = getVariants(miscellaneous_list, item)
-        var variants_list = []
-        for(const v in variants){
-            var variant = variants[v]
-            var vresult = {}
-            vresult['variation'] = variant.Variation 
-            vresult['imgRef'] = variant.Image.substring(7, variant.Image.length-2)
-            vresult['color'] = [getTranslation('color', variant['Color 1']), 
-                getTranslation('color', variant['Color 2'])]
-            variants_list.push(vresult)
-        }
-        result['variants'] = variants_list
-        results.push(result)
-    }
-    var data = JSON.stringify(results, null, 2)
-    fs.writeFile('./database/miscellaneous.js', data, woptions, (err)=>{
-        if(err){
-            console.error(err)
-            return
-        }
-
-        console.log('写入文件成功! miscellaneous')
-    })
-
-    results = []
-    for(const i in wall_mounted_list){
-        var item = wall_mounted_list[i]
-        if(handled_InternalID_list.includes(item['Internal ID'])){
-            continue
-        }
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('all', item.Name)
-        result['buy'] = item.Buy
-        result['sell'] = item.Sell
-        result['size'] = item.Size
-        result['source'] = item.Source
-        result['interact'] = item.Interact ? '是':'否'
-        var variants = getVariants(wall_mounted_list, item)
-        var variants_list = []
-        for(const v in variants){
-            var variant = variants[v]
-            var vresult = {}
-            vresult['variation'] = variant.Variation 
-            vresult['imgRef'] = variant.Image.substring(7, variant.Image.length-2)
-            vresult['color'] = [getTranslation('color', variant['Color 1']), 
-                getTranslation('color', variant['Color 2'])]
-            variants_list.push(vresult)
-        }
-        result['variants'] = variants_list
-        results.push(result)
-    }
-    var data = JSON.stringify(results, null, 2)
-    fs.writeFile('./database/wall_mounted.js', data, woptions, (err)=>{
-        if(err){
-            console.error(err)
-            return
-        }
-
-        console.log('写入文件成功! wall_mounted')
-    })
-
-    results = []
-    for(const i in fencing_list){
-        var item = fencing_list[i]
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('fences', item.Name)
-        result['imgRef'] = item.Image.substring(7, item.Image.length-2)
-        result['stackSize'] = item['Stack Size']
-        result['sell'] = item.Sell
-        result['source'] = item.Source
-        results.push(result)
-    }
-    var data = JSON.stringify(results, null, 2)
-    fs.writeFile('./database/fencing.js', data, woptions, (err)=>{
-        if(err){
-            console.error(err)
-            return
-        }
-
-        console.log('写入文件成功! fencing')
-    })
-
-    results = []
-    for(const i in wallpaper_list){
-        var item = wallpaper_list[i]
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('walls', item.Name)
-        result['imgRef'] = item.Image.substring(7, item.Image.length-2)
-        result['VFX'] = item.VFX
-        result['VFXType'] = item['VFX Type']
-        result['buy'] = item.Buy
-        result['sell'] = item.Sell
-        result['source'] = item.Source
-        result['color'] = [getTranslation('color', item['Color 1']), 
-            getTranslation('color', item['Color 2'])]
-        results.push(result)
-    }
-    var data = JSON.stringify(results, null, 2)
-    fs.writeFile('./database/wallpaper.js', data, woptions, (err)=>{
-        if(err){
-            console.error(err)
-            return
-        }
-
-        console.log('写入文件成功! wallpaper')
-    })
-
-    results = []
-    for(const i in floors_list){
-        var item = floors_list[i]
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('floors', item.Name)
-        result['VFX'] = item.VFX
-        result['VFXType'] = item['VFX Type']
-        result['buy'] = item.Buy
-        result['sell'] = item.Sell
-        result['source'] = item.Source
-        results.push(result)
-    }
-    var data = JSON.stringify(results, null, 2)
-    fs.writeFile('./database/floors.js', data, woptions, (err)=>{
-        if(err){
-            console.error(err)
-            return
-        }
-
-        console.log('写入文件成功! floors')
-    })
-
-    results = []
-    for(const i in rugs_list){
-        var item = rugs_list[i]
-        var result = {}
-        result['engName'] = item.Name
-        result['name'] = getTranslation('rugs', item.Name)
-        results.push(result)
-    }
-}
-
-//获得所有变体
-function getVariants(source_list, base_item){
-    try {
-        let variants = []
-        for(const i in source_list){
-            var item = source_list[i]
-            if(item['Internal ID'] === base_item['Internal ID']){
-                variants.push(item)
+function handleItems(){
+    let handled_InternalID_list = []
+    //获得所有变体
+    function getVariants(source_list, base_item){
+        try {
+            let variants = []
+            for(const i in source_list){
+                var item = source_list[i]
+                if(item['Internal ID'] === base_item['Internal ID']){
+                    variants.push(item)
+                }
             }
+            handled_InternalID_list.push(base_item['Internal ID'])
+            return variants
+        } catch (error) {
+            console.log(error) 
+            return 'undifined' 
         }
-        handled_InternalID_list.push(base_item['Internal ID'])
-        return variants
-    } catch (error) {
-        console.log(error) 
-        return 'undifined' 
+    }
+
+    let categoryList = [Category.Housewares, Category.Miscellaneous, Category.ClothingOther]
+
+    for(const index in categoryList){
+        let category = categoryList[index]
+        let data_list = getJSONObject_FromSheet(category)
+        category = category.replace(/\s+/g, '')
+        let results = []
+        
+        for(const i in data_list){
+            var item = data_list[i]
+            if(handled_InternalID_list.includes(item['Internal ID'])){
+                continue
+            }
+            
+            let result = {}
+            result['category'] = category
+            result['enName'] = item["Name"]
+            result['jpName'] = getTranslation('items', item.Name, 'JPja')
+            result['name'] = getTranslation('items', item.Name)
+            result['size'] = item["Size"] 
+            if(item["Buy"] != "NFS"){
+                result['price'] = item["Buy"].toString() 
+            }
+            else{
+                if(item["Exchange Price"] != "NA"){
+                    let ex_currency = getTranslation('source', item["Exchange Currency"]) 
+                    result['price'] = item["Exchange Price"].toString()+ex_currency 
+                }
+            }
+            result['source'] = item["Source"].split(';')
+            for(let i in result['source']){
+                result['source'][i] = result['source'][i].trim()
+            }
+            //source/event
+            if(item["Season/Event"] != "NA"){
+                result['src-evt'] =  item["Season/Event"]
+            }
+            result['interact'] = item["Interact"] == "No" ? '否':'是'
+            let variants = getVariants(data_list, item)
+            let variants_list = []
+            for(const index in variants){
+                let variant = variants[index]
+                let vresult = {}
+                vresult['variation'] = getTranslation('items', variant["Variation"]) 
+                let imgPath = (variant["Image"] || variant["Closet Image"])
+                vresult['imgRef'] = imgPath.substring(7, imgPath.length-2)
+                vresult['color'] = [Locale.color[variant['Color 1']] ?? variant['Color 1'], 
+                    Locale.color[variant['Color 2']] ?? variant['Color 2']]
+                variants_list.push(vresult)
+            }
+            result['variants'] = variants_list
+            results.push(result)
+        }
+
+        const data = `var json=${JSON.stringify(results, null, 0)}
+    module.exports={data:json}`
+        fs.writeFile(`./package_items/database/${category}.js`, data, woptions, (err)=>{
+            if(err){
+                console.error(err)
+                return
+            }
+
+            console.log(`写入文件成功! ${category}`)
+        })
     }
 }
 
@@ -375,8 +251,8 @@ function hanldeAllSeaCreature(){
         const data = list[i]
         let info = {}
         info['enName'] = data['Name']
-        info['jpName'] = getTranslation('sea', `DiveFish_${data['Internal ID'].toString().padStart(5, "0")}`, 'JPja')
-        info['name'] = getTranslation('sea', `DiveFish_${data['Internal ID'].toString().padStart(5, "0")}`)
+        info['jpName'] = getTranslation('creatures', data['Name'], 'JPja')
+        info['name'] = getTranslation('creatures', data['Name'])
         let iconImagePath = data['Icon Image']
         info['imgSource'] = iconImagePath.substring(7, iconImagePath.length-2)
         info['price'] = data['Sell']
@@ -425,6 +301,6 @@ module.exports={data:json}`
 //#endregion
 
 // transVillagers()
-// transferFurniture()
+handleItems()
 // transerReactoins()
-hanldeAllSeaCreature()
+// hanldeAllSeaCreature()

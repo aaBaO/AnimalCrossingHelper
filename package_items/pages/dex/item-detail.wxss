@@ -1,0 +1,104 @@
+view.detail{
+  margin: 2em 1em 2em 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.mgtop-small{
+  margin-top: 0.3em;
+}
+
+view.detail p.name{
+  font-size: 20px;
+  margin: 0 0 1em 0;
+  padding: 0 0.3em;
+}
+
+view p.info{
+  font-size: 14px;
+  padding: 0 0.5em;
+}
+
+.flex-p40{
+  flex: 1 1 40%;
+}
+
+.flex-p80{
+  flex: 1 1 80%;
+}
+
+view.detail .pd-value{
+  padding: 0 1em 0 1em;
+}
+
+.align-items-center{
+  align-items: center;
+}
+
+.align-items-start{
+  align-items: flex-start;
+}
+
+.justify-spc-bt{
+  justify-content: space-between;
+}
+
+.color-lg{
+  color: rgb(161, 161, 161);
+}
+
+.border-btm{
+  border-bottom: 1px solid #eeeeee;
+  padding: 0.6em 0;
+}
+
+.radios{
+  float:left;
+  padding: 0.2em 1em;
+  background: white;
+  font-size: small;
+}
+
+.collect-container{
+  margin: 0.3em 0.2em;
+  height: 1.6rem;
+}
+
+.collect-state-text{
+  box-sizing: border-box;
+  line-height: 1.4rem;
+  padding: 0.1em 0.1em;
+  color: gray;
+}
+.collect-state-text.collected{
+  color: #ffa817;
+}
+.collect-state-text.uncollected{
+  color: gray;
+}
+
+.collect-state-icon{
+  line-height: 1.6rem;
+}
+
+/* variants */
+view#variants-list{
+  margin: 2em 1em 2em 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+view.variant-item{
+  margin: 1em 1em 1em 1em;
+  -webkit-box-shadow: 3px 3px 12px 0px rgba(85,85,85,0.34); 
+  box-shadow: 3px 3px 12px 0px rgba(85,85,85,0.34);
+}
+
+view.variant-item image.thumbnail{
+  padding: 1em;
+}
+
+.adContainer{
+  position: relative;
+  top: 1em;
+}

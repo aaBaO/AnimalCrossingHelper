@@ -65,6 +65,12 @@ Page({
           url: '../guide/guidelist',
       })
     }
+
+    if(key === 'items'){
+      wx.navigateTo({
+          url: '../../package_items/pages/dex/items',
+      })
+    }
   },
 
   onTapEncourageAd:function(e){

@@ -14,6 +14,15 @@
     "pages/guide/guidelist",
     "pages/guide/detail"
   ],
+  "subpackages": [
+    {
+      "root": "package_items",
+      "pages": [
+        "pages/dex/items",
+        "pages/dex/item-detail"
+      ]
+    }
+  ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",

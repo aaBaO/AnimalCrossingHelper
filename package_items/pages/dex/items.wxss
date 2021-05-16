@@ -1,0 +1,29 @@
+/* package-items/pages/dex/furniture.wxss */
+@import "./dex.wxss";
+
+.list{
+  margin-top: 5em; 
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item{
+  margin: 0.5em 0.8em;
+  border: 1px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #dddddd;
+  display: flex;
+  flex: 1 1 30%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info-container{
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item .name{
+  flex: 4em;
+}

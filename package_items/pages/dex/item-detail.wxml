@@ -1,0 +1,59 @@
+<view class="detail">
+    <view class="flex-row">
+        <p class="name flex-p40">{{inspectData.name}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info flex-p40 color-lg">类型</p>
+        <p class="info flex-p80 pd-value">{{inspectData.category}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info flex-p40 color-lg">英文</p>
+        <p class="info flex-p80 pd-value">{{inspectData.enName}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm">
+        <p class="info flex-p40 color-lg">日文</p>
+        <p class="info flex-p80 pd-value">{{inspectData.jpName}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.price}}">
+        <p class="info flex-p40 color-lg">价格</p>
+        <p class="info flex-p80 pd-value">{{inspectData.price}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.interact}}">
+        <p class="info flex-p40 color-lg">是否可以交互</p>
+        <p class="info flex-p80 pd-value">{{inspectData.interact}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.source}}">
+        <p class="info flex-p40 color-lg">来源</p>
+        <view id="item-srouce" class="flex-p80">
+            <block wx:for="{{inspectData.displaySource}}" wx:key="id">
+                <p class="info pd-value">{{item}}</p>
+            </block>
+        </view>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData['src-evt']}}">
+        <p class="info flex-p40 color-lg">季节/事件</p>
+        <p class="info flex-p80 pd-value">{{inspectData['src-evt']}}</p>
+    </view>
+    <view class="flex-row align-items-center border-btm" wx:if="{{inspectData.size}}">
+        <p class="info flex-p40 color-lg">尺寸</p>
+        <p class="info flex-p80 pd-value">{{inspectData.size}}</p>
+    </view>
+</view>
+
+<view id="variants-list">
+    <block wx:for="{{inspectData.variants}}" wx:key="id">
+        <view id="item-{{index}}" class="variant-item">
+            <view class="flex-row align-items-center border-btm">
+                <image class="thumbnail" mode="aspectFit" src="{{item.imgRef}}" lazy-load="{{true}}"></image>
+            </view>
+            <view class="flex-row align-items-center border-btm">
+                <p class="info flex-p40 color-lg">颜色</p>
+                <p class="info flex-p80 pd-value">{{item.color}}</p>
+            </view>
+        </view>
+    </block>
+</view>
+
+<view class="adContainer">
+  <ad unit-id="adunit-d4d8b6881caf61c7" ad-intervals="10"></ad>
+</view>

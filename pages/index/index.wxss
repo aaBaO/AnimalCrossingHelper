@@ -41,8 +41,7 @@
 }
 
 .bd{
-  margin: 5em 8em 1em 8em;
-  padding:0.6em;
+  padding:0.4em;
   background-color: #ffffff;
   font-size: small;
   border: 1px solid gainsboro;
@@ -56,6 +55,6 @@
 
 .adContainer{
   position: fixed;
-  bottom: 2em;
+  bottom: 1em;
   width: 100%;
 }
